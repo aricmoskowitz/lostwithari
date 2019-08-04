@@ -10,13 +10,34 @@ html, body, fieldset, dl, dt, dd {
     padding: 0;
 }
 
+.bottom-right{
+    right: 1px;
+    bottom: 1px;
+    position: absolute;
+}
+
 /*Navbar*/
+.header-logo{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 30%;
+}
+.header-text{
+    left: 7.64%;
+    right: 31.58%;
+    top: 37.68%;
+    bottom: 0%;
+}
+.nav{
+    justify-content: start;
+}
 .navbar-toggler{
     width: 47px;
     height: 61.81px;
     vertical-align: bottom;
     border: none;
-    
 }
 .navbar-toggler .line{
     width: 100%;
@@ -29,17 +50,35 @@ html, body, fieldset, dl, dt, dd {
 .navbar-toggler .bottom-line{
     margin-bottom: 0;
 }
-.header-font {
-    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace; font-size: 25px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 55px; 
-    color: #03256C;
+.navbar{
+    justify-content: left;
 }
-.header-font:hover{
-    color: #03256C;
+.header-font {
+    color: #FFFFFF;
+
+    font-family: 'Alegreya Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 43px;
+}
+.hover-color-color3_color:hover{
+    color: #0B6623;
     text-decoration: none;
 }
 .header-border{
     border-bottom: 2px solid;
 }
+/*Footer*/
+.vertical-center {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    text-align: right;
+  }
+
 
 /*Generic coloring*/
 .bg-primary_color, .hover-bg-primary_color:hover{

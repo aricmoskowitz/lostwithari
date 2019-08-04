@@ -15,11 +15,11 @@ function initialize() {
     tms: true,
   }).addTo(earth);
 
-  var markerHome = WE.marker(homeCoords, 'https://chart.googleapis.com/chart?chst=d_map_xpin_icon&chld=pin_star|home|FFFF42', 22, 36).addTo(earth)
+  var markerHome = WE.marker(homeCoords, 'http://chart.apis.google.com/chart?chst=d_map_spin&chld=0.7|0|FCCA46|13|b|H').addTo(earth)
   markerHome.bindPopup('<b>Home</b>', 100);
 
 
-  var markerCurrent = WE.marker(currentCoords).addTo(earth)
+  var markerCurrent = WE.marker(currentCoords,'http://chart.apis.google.com/chart?chst=d_map_spin&chld=0.7|0|FCCA46|13|b|').addTo(earth)
   markerCurrent.bindPopup('<b>Sydney, AUS</b>', 100);
   markerCurrent.openPopup();
 

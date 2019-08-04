@@ -48,10 +48,13 @@
       height:auto;
     }
   }
-
-#leftContainer{
+  #leftContainer{
     display: flex;
-}
+    border-right: 1px solid;
+
+  }
+
+
 
 
 

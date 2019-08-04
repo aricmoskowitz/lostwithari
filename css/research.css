@@ -4,6 +4,19 @@
     border-left: 0;
     border-right: 0;
 }
+.continent{
+    margin-top: 10px;
+    padding-left: 10px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+
+    font-family: 'Lobster', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    text-align: center;
+  }
 section aside.title-breadcrumb, section h3.grid_item-heading{
     color: #FFFFFF;
 }
@@ -12,6 +25,12 @@ section:hover aside.title-breadcrumb, section:hover h3.grid_item-heading{
 }
 div.landmark_wrap svg{
     stroke: #FFFFFF;
+}
+.land
+{
+    fill: none;
+    stroke-opacity: 1;
+    stroke-width:2.5;
 }
 section:hover div.landmark_wrap svg{
     stroke: #03256C;
@@ -30,11 +49,7 @@ section:hover div.landmark_wrap svg{
 .tile {
     position: relative;
 }
-.bottom-right{
-    right: 10px;
-    bottom: 10px;
-    position: absolute;
-}
+
 .grid-item {
     border-right: 1px solid;
     border-bottom: 1px solid;
@@ -47,3 +62,6 @@ section:hover div.landmark_wrap svg{
 .tile__city__inner-wrap {
     width: 100%;
 }
+
+ .fil0 {fill:#FFFFFF;fill-rule:nonzero}
+ .fil0:hover {fill:#03256C;fill-rule:nonzero}
