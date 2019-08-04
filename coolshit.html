@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">-->
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/main.css">
+    
+    <script src="http://www.webglearth.com/v2/api.js"></script>
+    <script>
+      var earth;
+      function initialize() {
+        earth = new WE.map('earth_div');
+        earth.setView([46.8011, 8.2266], 3);
+        WE.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
+          attribution: '© OpenStreetMap contributors'
+        }).addTo(earth);
+
+        var marker = WE.marker([51.5, -0.09]).addTo(earth);
+        marker.bindPopup("<b>Hello world!</b><br>I am a popup.<br /><span style='font-size:10px;color:#999'>Tip: Another popup is hidden in Cairo..</span>", {maxWidth: 150, closeButton: true}).openPopup();
+
+
+        // Start a simple rotation animation
+        var before = null;
+        requestAnimationFrame(function animate(now) {
+            var c = earth.getPosition();
+            var elapsed = before? now - before: 0;
+            before = now;
+            earth.setCenter([c[0], c[1] + 0.1*(elapsed/30)]);
+            requestAnimationFrame(animate);
+        });
+      }
+    </script>
+    <style>
+      html, body{padding: 0; margin: 0;}
+      #earth_div{ top: 0; right: 0; bottom: 0; left: 0; position: absolute !important;}
+    </style>   
+
+    <title>coolshit</title>
+  </head>
+  <body onload="initialize()" class="vsc-initialized">    
+    <nav class="site-header sticky-top py-1 navbar-expand-sm">
+      <div class="container flex-column flex-md-row justify-content-between d-flex"> <!--justify-content-center? -->
+        <a class="py-2" href="#">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="d-block mx-auto" focusable="false" role="img"><title>Product</title><circle cx="12" cy="12" r="10"></circle><line x1="14.31" y1="8" x2="20.05" y2="17.94"></line><line x1="9.69" y1="8" x2="21.17" y2="8"></line><line x1="7.38" y1="12" x2="13.12" y2="2.06"></line><line x1="9.69" y1="16" x2="3.95" y2="6.06"></line><line x1="14.31" y1="16" x2="2.83" y2="16"></line><line x1="16.62" y1="12" x2="10.88" y2="21.94"></line></svg>
+        </a>
+      </div>
+    </nav>
+
+    <div id="earth_div"></div>
+
+
+    <div id="citiesContainer" class="container-fluid bg-primary_color">
+      <div class="row">
+        <section class="grid-item">
+          <article class="grid_item grid_item--full tile border-secondary_color" data-name="Dublin" data-id="105712" style="visibility: inherit; opacity: 1;">
+            <a class="tile__city__inner-wrap active-wrap no-decor" href="https://lostwithari.com/portland-oregon">
+              <div class="grid_item-heading_wrap">
+                <h3 class="grid_item-heading">Portland</h3>
+                <h4 class="grid_item-subheading"></h4>
+                      <aside class="title-breadcrumb "> Oregon, USA</aside>						
+              </div>
+              <div class="landmark_wrap"><svg height="100" width="100">
+                <circle cx="50" cy="50" r="40" stroke-width="1" fill="none"/>
+                Inline SVG not support in browser.
+              </svg></div>
+            </a>
+          </article>
+        </section>
+        <section class="border-top border-lg-top-0 border-lg-left col-6 col-md-4 col-lg-3 col-xl-2 bg-primary_color color-secondary_color text-center">
+          <article class="grid_item grid_item--full tile border-secondary_color" data-name="Dublin" data-id="105712" style="visibility: inherit; opacity: 1;">
+            <a class="tile__city__inner-wrap active-wrap no-decor" href="https://lostwithari.com/portland-oregon">
+              <div class="grid_item-heading_wrap">
+                <h3 class="grid_item-heading">p2</h3>
+                <h4 class="grid_item-subheading"></h4>
+                      <aside class="title-breadcrumb "> Oregon, USA</aside>						
+              </div>
+              <div class="landmark_wrap"><svg height="100" width="100">
+                <circle cx="50" cy="50" r="40" stroke-width="1" fill="none"/>
+                Inline SVG not support in browser.
+              </svg></div>
+            </a>
+          </article>
+        </section>
+  </div></div>
+
+  <a href="https://www.google.com" target="_blank">Google Homepage</a>
+
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col align-self-start" style="height:500px">
+        One of three columns
+      </div>
+      <div class="col align-self-center">
+        One of three columns
+      </div>
+      <div class="col align-self-end">
+        One of three columns
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row align-items-start">
+      <div class="col">
+        One of three columns
+      </div>
+      <div class="col">
+        One of three columns
+      </div>
+      <div class="col">
+        One of three columns
+      </div>
+    </div>
+    <div class="row align-items-center">
+      <div class="col">
+        One of three columns
+      </div>
+      <div class="col">
+        One of three columns
+      </div>
+      <div class="col">
+        One of three columns
+      </div>
+    </div>
+    <div class="row align-items-end">
+      <div class="col">
+        One of three columns
+      </div>
+      <div class="col">
+        One of three columns
+      </div>
+      <div class="col">
+        One of three columns
+      </div>
+    </div>
+  </div>
+      
+  <!--<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>-->
+
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> -->
+  <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script> -->
+  <!--<script>window.jQuery || document.write('<script src="/docs/4.2/assets/js/vendor/jquery-slim.min.js"><\/script>')</script><script src="/docs/4.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-zDnhMsjVZfS3hiP7oCBRmfjkQC4fzxVxFhBx8Hkz2aZX8gEvA/jsP3eXRCvzTofP" crossorigin="anonymous"></script>-->
+  
+  <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script> -->
+      
+  <script src="./js/jquery.slim.min.js"></script>
+  <script src="./js/popper.min.js"></script>
+  <script src="./js/bootstrap.min.js"></script>
+  
+  </body>
+</html>
