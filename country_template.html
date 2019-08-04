@@ -1,10 +1,11 @@
 <!doctype html>
 <html lang="en">
-
-<head>
+  <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans&display=swap" rel="stylesheet">
 
     <!-- Bootstrap CSS -->
     <!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">-->
@@ -12,108 +13,63 @@
     <link rel="stylesheet" href="./css/main.css">
     <link rel="stylesheet" href="./css/country.css">
 
-
-    <title>LostWithAri</title>
-</head>
-
-<body onload="initMap()" class="vsc-initialized bg-primary_color">
-    <!--Tag Order: container specific Bootstrap p m text font bg-->
-    <!--Header-->
-    <nav class="navbar navbar-expand-lg navbar-light site-header sticky-top py-1 text-center bg-secondary_color color-primary_color">
-        <div class="container d-flex flex-column flex-sm-row justify-content-center">
-            <!--justify-content-center? -->
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header text-center">
-                <a href="https://lostwithari.com/"><img src="images/final-black-nobg.png" style="width: 80px;" alt="lostwithari logo" href="#"></a>
-                <button class="navbar-toggler d-lg-none pb-2" type="button" data-toggle="collapse" data-target="#togglenav" aria-controls="togglenav" aria-expanded="false" aria-label="Toggle Navigation">
-          <span class="line"></span> 
-          <span class="line"></span> 
-          <span class="line bottom-line"></span>
-        </button>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="navbar-collapse collapse justify-content-center" id="togglenav">
-                <ul class="nav navbar-nav text-center">
-                    <li><a class="d-sm-inline-block py-2 px-3 header-font text-center align-middle" href="https://lostwithari.com/">lostwithari.</a></li>
-                    <li><a class="d-sm-inline-block py-2 px-3 header-font" href="https://lostwithari.com/research.html">research.</a></li>
-                    <li><a class="d-sm-inline-block py-2 px-3 header-font" href="https://lostwithari.com/writing.html">writing.</a></li>
-                    <li><a class="d-sm-inline-block py-2 px-3 header-font" href="https://lostwithari.com/sources.html">sources.</a></li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-    </nav>
-    <!--Country Name-->
+    
+  <title>LostWithAri</title>
+  </head>
+  <body onload="initMap()" class="vsc-initialized bg-primary_color">
+  <!--Tag Order: container specific Bootstrap p m text font bg-->
+  <!--Header-->
+  <nav class="navbar navbar-expand-lg navbar-light site-header sticky-top bg-color4_color color-secondary_color py-0" style="height:69px">
+      <a href="https://lostwithari.com/"><img src="images/final-white-nobg.png" style="width: 80px;" alt="lostwithari logo"></a>
+      <ul class="nav">
+          <li><a class="d-sm-inline-block pt-2 px-3 header-font hover-color-color3_color" href="https://lostwithari.com/research.html">research.</a></li>
+          <li><a class="d-sm-inline-block pt-2 px-3 header-font hover-color-color3_color" href="https://lostwithari.com/sources.html">sources.</a></li>
+      </ul>
+  </nav>
+    <!--Country Name--> 
     <div class="border-bottom">
-        <div class="container position-relative overflow-hidden bg-primary_color">
-            <div class="row">
-                <h1 id="place_name" class="col-12 col-sm-9 display-4 font-weight-normal color-secondary_color m-0">Portland.</h1>
-                <aside id="place_breadcrumb" class="col-12 col-sm-3 color-secondary_color vertical-align-bottom">Oregon, USA</aside>
-            </div>
-        </div>
+      <div class="container position-relative overflow-hidden bg-primary_color">
+          <div class="row">
+            <h1 id="place_name" class="col-12 col-sm-9 display-4 font-weight-normal color-secondary_color m-0">Japan.</h1>
+            <aside id="place_breadcrumb" class="col-12 col-sm-3 color-secondary_color vertical-align-bottom">Asia</aside>
+          </div>
+      </div>
     </div>
-    <!-- Grid -->
+    <!-- Grid --> 
     <div class="container-fluid bg-primary_color color-secondary_color">
         <div class="row">
             <div class="col-12 col-sm-6">
                 <div id="leftContainer" class="row">
-                    <div class="col-12 d-sm-block border-bottom p-0">
-                        <!--<img src="https://maps.googleapis.com/maps/api/staticmap?size=400x400&center=40.653279,-73.959816&zoom=11&path=fillcolor:0xAA000033%7Ccolor:0xFFFFFF00%7Cenc:}zswFtikbMjJzZ%7CRdPfZ}DxWvBjWpF~IvJnEvBrMvIvUpGtQpFhOQdKpz@bIx{A%7CPfYlvApz@bl@tcAdTpGpVwQtX}i@%7CGen@lCeAda@bjA%60q@v}@rfAbjA%7CEwBpbAd_@he@hDbu@uIzWcWtZoTdImTdIwu@tDaOXw_@fc@st@~VgQ%7C[uPzNtA%60LlEvHiYyLs^nPhCpG}SzCNwHpz@cEvXg@bWdG%60]lL~MdTmEnCwJ[iJhOae@nCm[%60Aq]qE_pAaNiyBuDurAuB}}Ay%60@%7CEKv_@?%7C[qGji@lAhYyH%60@Xiw@tBerAs@q]jHohAYkSmW?aNoaAbR}LnPqNtMtIbRyRuDef@eT_z@mW_Nm%7CB~j@zC~hAyUyJ_U{Z??cPvg@}s@sHsc@_z@cj@kp@YePoNyYyb@_iAyb@gBw^bOokArcA}GwJuzBre@i\tf@sZnd@oElb@hStW{]vv@??kz@~vAcj@zKa%60Atf@uQj_Aee@pU_UrcA&key=AIzaSyBAolyUdT2CjqEuzUEZImfTAnqmMOabkKM" alt="Japan" width="100%" height="720px"> -->
-                        <div id="map"></div>
-                    </div>
-                    <div id="factsContainer" class="col-12">
-                        So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
-                        <br> So many words, so many words. So many words, so many words. So many words, so many words.
+                    <div class="col-12 d-sm-block border-bottom p-0"><div id="map">This map didn't load</div></div>
+                    <div id="factsContainer" class="col-12 border-secondary_color">
+                             This is a place with facts about Japan. 
+                        <br> Japan has a lot of people.
                     </div>
                 </div>
             </div>
             <div class="col-12 col-sm-6">
                 <div class="row">
                     <div class="col-12 list-group p-0">
-                        <div class="bg-primary_color poi-list-header border-secondary_color">
-                            <h1 class="color-secondary_color">POI.</h1>
-                        </div>
-                        <div id="poiList"></div>
+                          <div class="bg-primary_color poi-list-header border-secondary_color">
+                              <h1 class="color-secondary_color">POI.</h1>
+                          </div>
+                          <div id="poiList"></div>
                     </div>
                     <div id="articleContainer" class="col-12 border-top text-center">
-                        <ul class="articleList p-0">
-                            <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
-                            <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
-                            <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
-                            <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
-                            <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
-                            <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
-                            <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
-                            <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
-                            <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
-                            <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
-                            <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
+                      <ul class="articleList p-0">
+                        <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
+                        <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
+                        <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
+                        <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
+                        <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
+                        <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
+                        <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
+                        <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
+                        <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
+                        <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
+                        <ul class="p-0"><a class="text-secondary_color hover-color-white_color word-wrap" href="#">aaabbbccc</a></ul>
 
-                        </ul>
+                      </ul>
 
                     </div>
                 </div>
@@ -121,62 +77,42 @@
         </div>
     </div>
     <!--Footer-->
-    <div class="border-top bg-primary_color"></div>
-    <footer id="footer" class="container text-center fullwide">
-        <div class="row">
-            <div class="col-6 col-md">
-                <h5><a class="color-secondary_color text-secondary_color hover-color-white_color" href="https://lostwithari.com/research.html">Research</a></h5>
-                <ul class="list-unstyled text-small text-secondary_color">
-                    <li><a class="text-secondary_color hover-color-white_color" href="#">Europe</a></li>
-                    <li><a class="text-secondary_color hover-color-white_color" href="#">Asia</a></li>
-                    <li><a class="text-secondary_color hover-color-white_color" href="#">South America</a></li>
-                    <li><a class="text-secondary_color hover-color-white_color" href="#">Australia</a></li>
-                    <li><a class="text-secondary_color hover-color-white_color" href="#">Africa</a></li>
-                    <li><a class="text-secondary_color hover-color-white_color" href="#">North America</a></li>
-                </ul>
-            </div>
-            <div class="col-6 col-md">
-                <h5><a class="color-secondary_color text-secondary_color hover-color-white_color" href="https://lostwithari.com/writing.html">Writing</a></h5>
-                <ul class="list-unstyled text-small">
-                    <li><a class="text-secondary_color hover-color-white_color" href="#">By Topic</a></li>
-                    <li><a class="text-secondary_color hover-color-white_color" href="#">By Region</a></li>
-                </ul>
-            </div>
-            <div class="col-6 col-md">
-                <h5><a class="no-decor color-secondary_color text-secondary_color" href="https://lostwithari.com/index.html#aboutme">About</a></h5>
-            </div>
-            <div class="col-6 col-md">
-                <h5><a class="color-secondary_color text-secondary_color hover-color-white_color" href="https://lostwithari.com/sources.html">Resources</a></h5>
-            </div>
-            <div class="col-12 col-md">
-                <a class="py-2 p-3" href="#"><img src="images/final-white-nobg.png" style="width: 80px;" alt="lostwithari logo"></a>
-            </div>
-        </div>
-        <!--end row-->
+    <div class="border-top border-secondary_color bg-color3_color"></div>
+    <footer id="footer" class="bg-color3_color" style="height: 56px">
+      <div class="vertical-center">
+      <a href="https://lostwithari.com/">
+        <svg width="35" height="34" viewBox="0 0 35 34" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <rect width="35" height="34" fill="url(#pattern0)"/>
+        <defs>
+        <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+        <use xlink:href="#image0" transform="translate(0 -0.00678733) scale(0.00384615 0.00395928)"/>
+        </pattern>
+        <image id="image0" width="260" height="256" xlink:href="data:image/png;base64,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"/>
+        </defs>
+        </svg> 
+        </a>
+      </div>       
     </footer>
 
+      
+  <!--<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>-->
 
-    <!--<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>-->
-
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> -->
-    <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script> -->
-    <!--<script>window.jQuery || document.write('<script src="/docs/4.2/assets/js/vendor/jquery-slim.min.js"><\/script>')</script><script src="/docs/4.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-zDnhMsjVZfS3hiP7oCBRmfjkQC4fzxVxFhBx8Hkz2aZX8gEvA/jsP3eXRCvzTofP" crossorigin="anonymous"></script>-->
-
-    <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script> -->
-
-    <script src="./data/SavedPlaces.js"></script>
-    <script src="./js/jquery.slim.min.js"></script>
-    <script src="./js/popper.min.js"></script>
-    <script src="./js/bootstrap.min.js"></script>
-    <script src="./js/country.js" country_code_filter_var_01="JP">
-        var map = document.querySelector('#map')
-    </script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=[MyKey]&callback=initMap"></script>
+  <!-- Optional JavaScript -->
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script> -->
+  <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script> -->
+  <!--<script>window.jQuery || document.write('<script src="/docs/4.2/assets/js/vendor/jquery-slim.min.js"><\/script>')</script><script src="/docs/4.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-zDnhMsjVZfS3hiP7oCBRmfjkQC4fzxVxFhBx8Hkz2aZX8gEvA/jsP3eXRCvzTofP" crossorigin="anonymous"></script>-->
+  
+  <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script> -->
+      
+  <script src="./data/SavedPlaces.js"></script>
+  <script src="./js/jquery.slim.min.js"></script>
+  <script src="./js/popper.min.js"></script>
+  <script src="./js/bootstrap.min.js"></script>
+  <script src="./js/country.js" country_code_filter_var_01="JP">var map = document.querySelector('#map');</script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBAolyUdT2CjqEuzUEZImfTAnqmMOabkKM&callback=initMap"></script>
 
 
-
-</body>
-
+  
+  </body>
 </html>
