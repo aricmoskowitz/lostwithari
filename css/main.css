@@ -2,74 +2,94 @@
     border-width: 2px;
     box-sizing: border-box;
 }
+
 body {
     overflow-y: scroll;
 }
-html, body, fieldset, dl, dt, dd {
+
+html,
+body,
+fieldset,
+dl,
+dt,
+dd {
     margin: 0;
     padding: 0;
 }
 
-.bottom-right{
+.bottom-right {
     right: 1px;
     bottom: 1px;
     position: absolute;
 }
 
+
 /*Navbar*/
-.header-logo{
+
+.header-logo {
     position: absolute;
     left: 0%;
     right: 0%;
     top: 0%;
     bottom: 30%;
 }
-.header-text{
+
+.header-text {
     left: 7.64%;
     right: 31.58%;
     top: 37.68%;
     bottom: 0%;
 }
-.nav{
+
+.nav {
     justify-content: start;
 }
-.navbar-toggler{
+
+.navbar-toggler {
     width: 47px;
     height: 61.81px;
     vertical-align: bottom;
     border: none;
 }
-.navbar-toggler .line{
+
+.navbar-toggler .line {
     width: 100%;
     float: left;
     height: 2.5px;
-    background-color: #03256C;
+    background-color: #FFFFFF;
     margin-bottom: 5px;
     border: 1px solid #FFFFFF;
 }
-.navbar-toggler .bottom-line{
+
+.navbar-toggler .bottom-line {
     margin-bottom: 0;
 }
-.navbar{
+
+.navbar {
     justify-content: left;
 }
+
 .header-font {
     color: #FFFFFF;
-
     font-family: 'Alegreya Sans', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 26px;
     line-height: 43px;
 }
-.hover-color-color3_color:hover{
+
+.hover-color-color3_color:hover {
     color: #0B6623;
     text-decoration: none;
 }
-.header-border{
+
+.header-border {
     border-bottom: 2px solid;
 }
+
+
 /*Footer*/
+
 .vertical-center {
     margin: 0;
     position: relative;
@@ -77,84 +97,111 @@ html, body, fieldset, dl, dt, dd {
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     text-align: right;
-  }
+}
 
 
 /*Generic coloring*/
-.bg-primary_color, .hover-bg-primary_color:hover{
+
+.bg-primary_color,
+.hover-bg-primary_color:hover {
     background-color: #03256C;
 }
-.bg-secondary_color, .hover-bg-secondary_color:hover{
+
+.bg-secondary_color,
+.hover-bg-secondary_color:hover {
     background-color: #FFFFFF;
 }
-.hover-color-primary_color:hover{
+
+.hover-color-primary_color:hover {
     color: #03256C;
 }
-.color-secondary_color, .hover-color-secondary_color:hover, .text-secondary_color{
+
+.color-secondary_color,
+.hover-color-secondary_color:hover,
+.text-secondary_color {
     color: #FFFFFF;
 }
-.border-secondary_color, .hover-border-secondary_color:hover {
+
+.border-secondary_color,
+.hover-border-secondary_color:hover {
     border-color: #FFFFFF;
 }
+
 .no-decor:hover {
     text-decoration: none;
 }
-.hover-color-white_color:hover{
+
+.hover-color-white_color:hover {
     color: #FFFFFF;
     text-decoration: underline #FFFFFF;
 }
-.bg-color3_color{
+
+.bg-color3_color {
     background-color: #0B6623
 }
-.color-color3_color{
+
+.color-color3_color {
     color: #0B6623
 }
-.border-color3_color{
+
+.border-color3_color {
     border-color: #0B6623
 }
-.bg-color4_color{
+
+.bg-color4_color {
     background-color: #FCCA46
 }
 
+
 /*Height Adjustments*/
+
 .height-full {
-  height: 85vh;
-}
-.height-large {
-  height: 60vh;
-}
-.height-third {
-  height: 30%;
-}
-.height-thin{
-  height: 15px
+    height: 85vh;
 }
 
-.globe-background{
-    background: url(../images/globe.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+.height-large {
+    height: 60vh;
 }
+
+.height-third {
+    height: 30%;
+}
+
+.height-thin {
+    height: 15px
+}
+
+.globe-background {
+    background: url(../images/globe.jpg) 50% 50% no-repeat;
+    /* 50% 50% centers image in div */
+}
+
 
 /*Outline Buttons*/
-.btn-outline-primary{
-  color: #FFFFFF;
-  border-color: #FFFFFF;
-  text-align: right;
-  border-radius: unset;
+
+.btn-outline-primary {
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    text-align: right;
+    border-radius: unset;
 }
-.btn-outline-primary:hover{
-  color: #03256C;
-  border-color: #03256C;
-  background-color: #FFFFFF;
-  box-shadow: none;
+
+.btn-outline-primary:hover {
+    color: #03256C;
+    border-color: #03256C;
+    background-color: #FFFFFF;
+    box-shadow: none;
 }
+
 
 /*Scroll-up feature*/
 
 .scroll-up {
     overflow: hidden;
     position: relative;
-   }
-   .scroll-up h1 {
+}
+
+.scroll-up h1 {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -162,61 +209,80 @@ html, body, fieldset, dl, dt, dd {
     line-height: 50px;
     text-align: center;
     /* Starting position */
-    -webkit-transform:translateY(100%);	
-    transform:translateY(100%);
-    /* Apply animation to this element */	
+    -webkit-transform: translateY(100%);
+    transform: translateY(100%);
+    /* Apply animation to this element */
     -webkit-animation: scroll-up 20s ease-in 1;
     animation: scroll-up 20s ease-in 1;
-   }
-   /* Move it (define the animation) */
-   @-moz-keyframes scroll-up {
-    0%   { -moz-transform: translateY(100%); }
-    100% { -moz-transform: translateY(-100%); }
-   }
-   @-webkit-keyframes scroll-up {
-    0%   { -webkit-transform: translateY(100%); }
-    100% { -webkit-transform: translateY(-100%); }
-   }
-   @keyframes scroll-up {
-    0%   { 
-    -webkit-transform: translateY(100%); /* Browser bug fix */
-    transform: translateY(100%); 		
-    }
-    100% { 
-    -webkit-transform: translateY(-100%); /* Browser bug fix */
-    transform: translateY(-100%); 
-    }
-   }
-   
-   
+}
 
+
+/* Move it (define the animation) */
+
+@-moz-keyframes scroll-up {
+    0% {
+        -moz-transform: translateY(100%);
+    }
+    100% {
+        -moz-transform: translateY(-100%);
+    }
+}
+
+@-webkit-keyframes scroll-up {
+    0% {
+        -webkit-transform: translateY(100%);
+    }
+    100% {
+        -webkit-transform: translateY(-100%);
+    }
+}
+
+@keyframes scroll-up {
+    0% {
+        -webkit-transform: translateY(100%);
+        /* Browser bug fix */
+        transform: translateY(100%);
+    }
+    100% {
+        -webkit-transform: translateY(-100%);
+        /* Browser bug fix */
+        transform: translateY(-100%);
+    }
+}
 
 
 /*From On the Grid BUT Not Used*/
+
 .grid_container .grid_item {
     border-right-style: solid;
     border-bottom-style: solid;
     overflow: hidden;
 }
+
 .tile__hood {
     transition: background-color .3s;
 }
+
 #cities .grid_container {
     margin-bottom: -2px;
     margin-right: -2px;
 }
+
 .grid_container {
     display: flex;
     flex-wrap: wrap;
     text-align: center;
 }
+
 .grid_container a {
     color: inherit;
     text-decoration: none;
 }
+
 .grid_overview {
     position: relative;
 }
+
 .tile__city {
     width: 100%;
 }
