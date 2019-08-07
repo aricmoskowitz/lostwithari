@@ -21,12 +21,26 @@
 <body onload="initMap()" class="vsc-initialized bg-primary_color">
     <!--Tag Order: container specific Bootstrap p m text font bg-->
     <!--Header-->
-    <nav class="navbar navbar-expand-lg navbar-light site-header sticky-top bg-color4_color color-secondary_color py-0" style="height:69px">
-        <a href="https://lostwithari.com/"><img src="images/final-white-nobg.png" style="width: 80px;" alt="lostwithari logo"></a>
-        <ul class="nav">
-            <li><a class="d-sm-inline-block pt-2 px-3 header-font hover-color-color3_color" href="https://lostwithari.com/research.html">RESEARCH</a></li>
-            <li><a class="d-sm-inline-block pt-2 px-3 header-font hover-color-color3_color" href="https://lostwithari.com/sources.html">SOURCES</a></li>
-        </ul>
+    <nav class="navbar navbar-expand-sm navbar-light site-header sticky-top py-1 bg-color4_color color-primary_color">
+        <div class="m-0 p-0 container d-flex flex-column flex-sm-row">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <a href="https://lostwithari.com/"><img src="images/final-white-nobg.png" style="width: 80px;" alt="lostwithari logo" href="#"></a>
+                <button class="navbar-toggler d-sm-none pb-2" type="button" data-toggle="collapse" data-target="#togglenav" aria-controls="togglenav" aria-expanded="false" aria-label="Toggle Navigation">
+            <span class="line"></span> 
+            <span class="line"></span> 
+            <span class="line bottom-line"></span>
+          </button>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="navbar-collapse collapse" id="togglenav">
+                <ul class="nav">
+                    <li><a class="d-sm-inline-block pt-2 px-3 header-font hover-color-color3_color" href="https://lostwithari.com/research.html">RESEARCH</a></li>
+                    <li><a class="d-sm-inline-block pt-2 px-3 header-font hover-color-color3_color" href="https://lostwithari.com/sources.html">SOURCES</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
     </nav>
     <!--Country Name-->
     <div class="border-bottom">
