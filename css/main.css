@@ -56,9 +56,9 @@ dd {
     width: 100%;
     float: left;
     height: 2.5px;
-    background-color: #FFFFFF;
+    background-color: #0B6623;
     margin-bottom: 5px;
-    border: 1px solid #FFFFFF;
+    border: 1px solid #0B6623;
 }
 
 .navbar-toggler .bottom-line {
@@ -104,27 +104,27 @@ dd {
 
 .bg-primary_color,
 .hover-bg-primary_color:hover {
-    background-color: #03256C;
+    background-color: #D2E3D7;
 }
 
 .bg-secondary_color,
 .hover-bg-secondary_color:hover {
-    background-color: #FFFFFF;
+    background-color: #0B6623;
 }
 
 .hover-color-primary_color:hover {
-    color: #03256C;
+    color: #D2E3D7;
 }
 
 .color-secondary_color,
 .hover-color-secondary_color:hover,
 .text-secondary_color {
-    color: #FFFFFF;
+    color: #0B6623;
 }
 
 .border-secondary_color,
 .hover-border-secondary_color:hover {
-    border-color: #FFFFFF;
+    border-color: #0B6623;
 }
 
 .no-decor:hover {
@@ -132,8 +132,8 @@ dd {
 }
 
 .hover-color-white_color:hover {
-    color: #FFFFFF;
-    text-decoration: underline #FFFFFF;
+    color: #0B6623;
+    text-decoration: underline #0B6623;
 }
 
 .bg-color3_color {
@@ -180,16 +180,16 @@ dd {
 /*Outline Buttons*/
 
 .btn-outline-primary {
-    color: #FFFFFF;
-    border-color: #FFFFFF;
+    color: #0B6623;
+    border-color: #0B6623;
     text-align: right;
     border-radius: unset;
 }
 
 .btn-outline-primary:hover {
-    color: #03256C;
-    border-color: #03256C;
-    background-color: #FFFFFF;
+    color: #D2E3D7;
+    border-color: #D2E3D7;
+    background-color: #0B6623;
     box-shadow: none;
 }
 

@@ -4,48 +4,58 @@
     border-left: 0;
     border-right: 0;
 }
-.continent{
+
+.continent {
     margin-top: 10px;
     padding-left: 10px;
     position: -webkit-sticky;
     position: sticky;
     top: 0px;
-
     font-family: 'Lobster', cursive;
     font-style: normal;
     font-weight: normal;
     font-size: 22px;
     text-align: center;
-  }
-section aside.title-breadcrumb, section h3.grid_item-heading{
-    color: #FFFFFF;
 }
-section:hover aside.title-breadcrumb, section:hover h3.grid_item-heading{
-    color: #03256C;
+
+section aside.title-breadcrumb,
+section h3.grid_item-heading {
+    color: #0B6623;
 }
-div.landmark_wrap svg{
-    stroke: #FFFFFF;
+
+section:hover aside.title-breadcrumb,
+section:hover h3.grid_item-heading {
+    color: #D2E3D7;
 }
-.land
-{
+
+div.landmark_wrap svg {
+    stroke: #0B6623;
+}
+
+.land {
     fill: none;
     stroke-opacity: 1;
-    stroke-width:2.5;
+    stroke-width: 2.5;
 }
-section:hover div.landmark_wrap svg{
-    stroke: #03256C;
+
+section:hover div.landmark_wrap svg {
+    stroke: #D2E3D7;
 }
+
 #cities .grid_item {
     opacity: 0;
 }
+
 .tile__city {
     text-align: center;
     display: flex;
     flex-direction: column;
 }
+
 .tile__city {
     transition: background-color .3s;
 }
+
 .tile {
     position: relative;
 }
@@ -56,12 +66,21 @@ section:hover div.landmark_wrap svg{
     min-height: 30vh;
     text-align: center;
 }
+
 #citiesContainer {
     position: relative;
 }
+
 .tile__city__inner-wrap {
     width: 100%;
 }
 
- .fil0 {fill:#FFFFFF;fill-rule:nonzero}
- .fil0:hover {fill:#03256C;fill-rule:nonzero}
+.fil0 {
+    fill: #0B6623;
+    fill-rule: nonzero
+}
+
+.fil0:hover {
+    fill: #D2E3D7;
+    fill-rule: nonzero
+}
