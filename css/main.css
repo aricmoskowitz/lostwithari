@@ -104,36 +104,31 @@ dd {
 
 .bg-primary_color,
 .hover-bg-primary_color:hover {
-    background-color: #D2E3D7;
+    background-color: #03256C;
 }
 
 .bg-secondary_color,
 .hover-bg-secondary_color:hover {
-    background-color: #0B6623;
+    background-color: #FFFFFF;
 }
 
 .hover-color-primary_color:hover {
-    color: #D2E3D7;
+    color: #03256C;
 }
 
 .color-secondary_color,
 .hover-color-secondary_color:hover,
 .text-secondary_color {
-    color: #0B6623;
+    color: #FFFFFF;
 }
 
 .border-secondary_color,
 .hover-border-secondary_color:hover {
-    border-color: #0B6623;
+    border-color: #FFFFFF;
 }
 
 .no-decor:hover {
     text-decoration: none;
-}
-
-.hover-color-white_color:hover {
-    color: #0B6623;
-    text-decoration: underline #0B6623;
 }
 
 .bg-color3_color {
