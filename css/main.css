@@ -131,6 +131,10 @@ dd {
     text-decoration: none;
 }
 
+.link-hover:hover {
+    text-decoration: underline;
+}
+
 .bg-color3_color {
     background-color: #0B6623
 }
