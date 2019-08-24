@@ -78,11 +78,6 @@ dd {
     line-height: 43px;
 }
 
-.hover-color-color3_color:hover {
-    color: #0B6623;
-    text-decoration: none;
-}
-
 .header-border {
     border-bottom: 2px solid;
 }
@@ -133,6 +128,11 @@ dd {
 
 .link-hover:hover {
     text-decoration: underline;
+}
+
+.hover-color-color3_color:hover {
+    color: #0B6623;
+    text-decoration: none;
 }
 
 .bg-color3_color {

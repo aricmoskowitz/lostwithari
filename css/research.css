@@ -20,16 +20,16 @@
 
 section aside.title-breadcrumb,
 section h3.grid_item-heading {
-    color: #0B6623;
+    color: #FFFFFF;
 }
 
 section:hover aside.title-breadcrumb,
 section:hover h3.grid_item-heading {
-    color: #D2E3D7;
+    color: #03256C;
 }
 
 div.landmark_wrap svg {
-    stroke: #0B6623;
+    stroke: #FFFFFF;
 }
 
 .land {
@@ -39,7 +39,7 @@ div.landmark_wrap svg {
 }
 
 section:hover div.landmark_wrap svg {
-    stroke: #D2E3D7;
+    stroke: #03256C;
 }
 
 #cities .grid_item {
@@ -73,14 +73,4 @@ section:hover div.landmark_wrap svg {
 
 .tile__city__inner-wrap {
     width: 100%;
-}
-
-.fil0 {
-    fill: #0B6623;
-    fill-rule: nonzero
-}
-
-.fil0:hover {
-    fill: #D2E3D7;
-    fill-rule: nonzero
 }
