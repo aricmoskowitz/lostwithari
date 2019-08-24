@@ -1,26 +1,30 @@
 /***********Customize Variables******************/
-var southKorea = { lat: 36.81567, lng: 127.786575 };
-var zoomVar = 7;
-var this_js_script = $('script[src*=southKorea]');
+/*var_country_name*/
+
+var var_country_name = { lat: 38.2048, lng: 138.2529 };
+var zoomVar = 5.5;
+var this_js_script = $('script[src*=var_country_name]');
 /************************************************/
 
 var map;
 var country_code_filter = this_js_script.attr('country_code_filter_var_01');
+
+function initMap() {
+    map = new google.maps.Map(document.getElementById('map'), {
+        zoom: zoomVar,
+        center: var_country_name,
+    });
+
+    addMarkerToMap(filteredArray);
+
+}
 
 var filteredArray = SAVED_PLACES.features.filter(function(feature) {
     return (feature.properties.Location["Country Code"] == country_code_filter);
 });
 
 
-function initMap() {
-    map = new google.maps.Map(document.getElementById('map'), {
-        zoom: zoomVar,
-        center: southKorea,
-    });
 
-    addMarkerToMap(filteredArray);
-
-}
 
 var str = ""
 
