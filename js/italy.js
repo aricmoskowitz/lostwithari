@@ -6,9 +6,10 @@ var this_js_script = $('script[src*=italy]');
 
 var map;
 var country_code_filter = this_js_script.attr('country_code_filter_var_01');
+var country_name = 'Italy';
 
 var filteredArray = SAVED_PLACES.features.filter(function(feature) {
-    return ((feature.properties.Location["Country Code"] == country_code_filter) || (!feature.properties.Location.hasOwnProperty("Country Code") && feature.properties.Title.includes("Italy")));
+    return ((feature.properties.Location["Country Code"] == country_code_filter) || (!feature.properties.Location.hasOwnProperty("Country Code") && feature.properties.Title.includes(country_name)));
 });
 
 

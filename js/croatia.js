@@ -1,21 +1,21 @@
 /***********Customize Variables******************/
-/*var_country_name_lowercase*/
-/*var_country_name_uppercase*/
+/*croatia*/
+/*Croatia*/
 
-var var_country_name_lowercase = { lat: 38.2048, lng: 138.2529 };
-var zoomVar = 5.5;
-var this_js_script = $('script[src*=var_country_name_lowercase]');
+var croatia = { lat: 45.1000, lng: 15.2000 };
+var zoomVar = 6.5;
+var this_js_script = $('script[src*=croatia]');
 /************************************************/
 
 var map;
 var country_code_filter = this_js_script.attr('country_code_filter_var_01');
-var country_name = 'var_country_name_uppercase';
+var country_name = 'Croatia';
 
 
 function initMap() {
     map = new google.maps.Map(document.getElementById('map'), {
         zoom: zoomVar,
-        center: var_country_name_lowercase,
+        center: croatia,
     });
 
     addMarkerToMap(filteredArray);
