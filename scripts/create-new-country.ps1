@@ -1,6 +1,6 @@
-$countryName_lowercase = 'croatia'
-$countryName_uppercase = 'Croatia'
-$googleMaps_country_abbrev = 'HR'
+$countryName_lowercase = 'france'
+$countryName_uppercase = 'France'
+$googleMaps_country_abbrev = 'FR'
 $continent_name = 'Europe'
 
 $htmlDestination = 'C:\Users\aricm\Documents\GitHub\lostwithari\' + $countryName_lowercase + '.html'

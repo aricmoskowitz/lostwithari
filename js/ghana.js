@@ -1,21 +1,21 @@
 /***********Customize Variables******************/
-/*australia*/
-/*Australia*/
+/*ghana*/
+/*Ghana*/
 
-var australia = { lat: 38.2048, lng: 138.2529 };
+var ghana = { lat: 38.2048, lng: 138.2529 };
 var zoomVar = 5.5;
-var this_js_script = $('script[src*=australia]');
+var this_js_script = $('script[src*=ghana]');
 /************************************************/
 
 var map;
 var country_code_filter = this_js_script.attr('country_code_filter_var_01');
-var country_name = 'Australia';
+var country_name = 'Ghana';
 
 
 function initMap() {
     map = new google.maps.Map(document.getElementById('map'), {
         zoom: zoomVar,
-        center: australia,
+        center: ghana,
     });
 
     addMarkerToMap(filteredArray);
