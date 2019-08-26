@@ -32,6 +32,7 @@ filteredArray.forEach(function(feature, i) {
             '<button type="button"' +
             ' class="bg-primary_color color-secondary_color hover-bg-secondary_color hover-color-primary_color' +
             ' poi-list-group-item border-secondary_color"' +
+            /*' ondblclick="window.open(' + feature.properties["Google Maps URL"] + ')"' +*/
             ' onclick="centerMap({lat:' + feature.properties.Location["Geo Coordinates"].Latitude + ',' +
             ' lng:' + feature.properties.Location["Geo Coordinates"].Longitude + '})">' +
             i + ") " + feature.properties.Title + '</button>' + "\n";
@@ -44,6 +45,8 @@ filteredArray.forEach(function(feature, i) {
             ' lng:' + feature.properties.Location.Longitude + '})">' +
             i + ") " + feature.properties.Title + '</button>' + "\n";
     }
+
+
 
 });
 
