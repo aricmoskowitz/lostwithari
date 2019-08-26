@@ -1,7 +1,7 @@
-$countryName_lowercase = 'hungary'
-$countryName_uppercase = 'Hungary'
-$googleMaps_country_abbrev = 'HU'
-$continent_name = 'Europe'
+$countryName_lowercase = 'vietnam'
+$countryName_uppercase = 'Vietnam'
+$googleMaps_country_abbrev = 'VN'
+$continent_name = 'Asia'
 
 $htmlDestination = 'C:\Users\aricm\Documents\GitHub\lostwithari\' + $countryName_lowercase + '.html'
 $jsDestination = 'C:\Users\aricm\Documents\GitHub\lostwithari\js\' + $countryName_lowercase + '.js'
