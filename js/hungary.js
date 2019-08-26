@@ -2,8 +2,8 @@
 /*hungary*/
 /*Hungary*/
 
-var hungary = { lat: 38.2048, lng: 138.2529 };
-var zoomVar = 5.5;
+var hungary = { lat: 47.162494, lng: 19.503304 };
+var zoomVar = 7.25;
 var this_js_script = $('script[src*=hungary]');
 /************************************************/
 
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

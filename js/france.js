@@ -2,7 +2,7 @@
 /*france*/
 /*France*/
 
-var france = { lat: 38.2048, lng: 138.2529 };
+var france = { lat: 46.227638, lng: 2.213749 };
 var zoomVar = 5.5;
 var this_js_script = $('script[src*=france]');
 /************************************************/
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

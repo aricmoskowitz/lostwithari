@@ -2,7 +2,7 @@
 /*newZealand*/
 /*New Zealand*/
 
-var newZealand = { lat: 38.2048, lng: 138.2529 };
+var newZealand = { lat: -40.900557, lng: 174.885971 };
 var zoomVar = 5.5;
 var this_js_script = $('script[src*=newZealand]');
 /************************************************/
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

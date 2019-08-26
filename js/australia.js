@@ -2,8 +2,8 @@
 /*australia*/
 /*Australia*/
 
-var australia = { lat: 38.2048, lng: 138.2529 };
-var zoomVar = 5.5;
+var australia = { lat: -25.915414, lng: 133.226543 };
+var zoomVar = 4.5;
 var this_js_script = $('script[src*=australia]');
 /************************************************/
 
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

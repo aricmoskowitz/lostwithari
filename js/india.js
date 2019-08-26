@@ -2,8 +2,8 @@
 /*india*/
 /*India*/
 
-var india = { lat: 38.2048, lng: 138.2529 };
-var zoomVar = 5.5;
+var india = { lat: 20.593684, lng: 78.96288 };
+var zoomVar = 4.75;
 var this_js_script = $('script[src*=india]');
 /************************************************/
 
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

@@ -2,7 +2,7 @@
 /*turkey*/
 /*Turkey*/
 
-var turkey = { lat: 38.2048, lng: 138.2529 };
+var turkey = { lat: 38.963745, lng: 35.243322 };
 var zoomVar = 5.5;
 var this_js_script = $('script[src*=turkey]');
 /************************************************/
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

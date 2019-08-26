@@ -2,7 +2,7 @@
 /*vietnam*/
 /*Vietnam*/
 
-var vietnam = { lat: 38.2048, lng: 138.2529 };
+var vietnam = { lat: 14.058324, lng: 108.277199 };
 var zoomVar = 5.5;
 var this_js_script = $('script[src*=vietnam]');
 /************************************************/
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

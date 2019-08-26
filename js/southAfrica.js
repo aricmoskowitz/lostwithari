@@ -2,7 +2,7 @@
 /*southAfrica*/
 /*South Africa*/
 
-var southAfrica = { lat: 38.2048, lng: 138.2529 };
+var southAfrica = { lat: -30.559482, lng: 22.937506 };
 var zoomVar = 5.5;
 var this_js_script = $('script[src*=southAfrica]');
 /************************************************/
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

@@ -2,8 +2,8 @@
 /*israel*/
 /*Israel*/
 
-var israel = { lat: 38.2048, lng: 138.2529 };
-var zoomVar = 5.5;
+var israel = { lat: 31.046051, lng: 34.851612 };
+var zoomVar = 7;
 var this_js_script = $('script[src*=israel]');
 /************************************************/
 
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

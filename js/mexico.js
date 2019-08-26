@@ -2,8 +2,8 @@
 /*mexico*/
 /*Mexico*/
 
-var mexico = { lat: 38.2048, lng: 138.2529 };
-var zoomVar = 5.5;
+var mexico = { lat: 23.634501, lng: -102.552784 };
+var zoomVar = 5;
 var this_js_script = $('script[src*=mexico]');
 /************************************************/
 
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

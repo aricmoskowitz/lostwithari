@@ -2,7 +2,7 @@
 /*philippines*/
 /*Philippines*/
 
-var philippines = { lat: 38.2048, lng: 138.2529 };
+var philippines = { lat: 12.879721, lng: 121.774017 };
 var zoomVar = 5.5;
 var this_js_script = $('script[src*=philippines]');
 /************************************************/
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

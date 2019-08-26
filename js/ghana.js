@@ -2,8 +2,8 @@
 /*ghana*/
 /*Ghana*/
 
-var ghana = { lat: 38.2048, lng: 138.2529 };
-var zoomVar = 5.5;
+var ghana = { lat: 7.946527, lng: -1.023194 };
+var zoomVar = 6.5;
 var this_js_script = $('script[src*=ghana]');
 /************************************************/
 
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

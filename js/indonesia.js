@@ -2,8 +2,8 @@
 /*indonesia*/
 /*Indonesia*/
 
-var indonesia = { lat: 38.2048, lng: 138.2529 };
-var zoomVar = 5.5;
+var indonesia = { lat: -0.789275, lng: 113.921327 };
+var zoomVar = 5;
 var this_js_script = $('script[src*=indonesia]');
 /************************************************/
 
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

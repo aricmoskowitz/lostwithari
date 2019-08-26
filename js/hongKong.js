@@ -2,8 +2,8 @@
 /*hongKong*/
 /*Hong Kong*/
 
-var hongKong = { lat: 38.2048, lng: 138.2529 };
-var zoomVar = 5.5;
+var hongKong = { lat: 22.396428, lng: 114.109497 };
+var zoomVar = 10.5;
 var this_js_script = $('script[src*=hongKong]');
 /************************************************/
 
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

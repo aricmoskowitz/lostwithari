@@ -2,8 +2,8 @@
 /*norway*/
 /*Norway*/
 
-var norway = { lat: 38.2048, lng: 138.2529 };
-var zoomVar = 5.5;
+var norway = { lat: 60.472024, lng: 8.468946 };
+var zoomVar = 4.25;
 var this_js_script = $('script[src*=norway]');
 /************************************************/
 
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

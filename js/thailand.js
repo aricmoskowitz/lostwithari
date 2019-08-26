@@ -2,8 +2,8 @@
 /*thailand*/
 /*Thailand*/
 
-var thailand = { lat: 38.2048, lng: 138.2529 };
-var zoomVar = 5.5;
+var thailand = { lat: 15.870032, lng: 100.992541 };
+var zoomVar = 5;
 var this_js_script = $('script[src*=thailand]');
 /************************************************/
 
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

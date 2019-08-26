@@ -2,7 +2,7 @@
 /*morocco*/
 /*Morocco*/
 
-var morocco = { lat: 38.2048, lng: 138.2529 };
+var morocco = { lat: 31.791702, lng: -7.09262 };
 var zoomVar = 5.5;
 var this_js_script = $('script[src*=morocco]');
 /************************************************/
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

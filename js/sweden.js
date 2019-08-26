@@ -2,8 +2,8 @@
 /*sweden*/
 /*Sweden*/
 
-var sweden = { lat: 38.2048, lng: 138.2529 };
-var zoomVar = 5.5;
+var sweden = { lat: 60.128161, lng: 18.643501 };
+var zoomVar = 4.5;
 var this_js_script = $('script[src*=sweden]');
 /************************************************/
 
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

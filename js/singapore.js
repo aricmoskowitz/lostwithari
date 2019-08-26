@@ -2,8 +2,8 @@
 /*singapore*/
 /*Singapore*/
 
-var singapore = { lat: 38.2048, lng: 138.2529 };
-var zoomVar = 5.5;
+var singapore = { lat: 1.352083, lng: 103.819836 };
+var zoomVar = 11;
 var this_js_script = $('script[src*=singapore]');
 /************************************************/
 
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

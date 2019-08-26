@@ -2,8 +2,8 @@
 /*taiwan*/
 /*Taiwan*/
 
-var taiwan = { lat: 38.2048, lng: 138.2529 };
-var zoomVar = 5.5;
+var taiwan = { lat: 23.69781, lng: 120.960515 };
+var zoomVar = 7.5;
 var this_js_script = $('script[src*=taiwan]');
 /************************************************/
 
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-

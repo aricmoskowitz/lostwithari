@@ -2,7 +2,7 @@
 /*malaysia*/
 /*Malaysia*/
 
-var malaysia = { lat: 38.2048, lng: 138.2529 };
+var malaysia = { lat: 4.210484, lng: 101.975766 };
 var zoomVar = 5.5;
 var this_js_script = $('script[src*=malaysia]');
 /************************************************/
@@ -54,4 +54,3 @@ filteredArray.forEach(function(feature, i) {
 });
 
 document.getElementById("poiList").innerHTML = str;
-
