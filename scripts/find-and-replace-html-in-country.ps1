@@ -1,5 +1,6 @@
-$countryName_lowercase = 'albania'
-$countryName_uppercase = 'Albania'
+$countryName_lowercase = 'southKorea'
+$countryName_uppercase = 'South Korea'
+#$countryName_uppercase = (Get-Culture).TextInfo.ToTitleCase($countryName_lowercase)
 
 $htmlDestination = 'C:\Users\aricm\Documents\GitHub\lostwithari\' + $countryName_lowercase + '.html'
 
