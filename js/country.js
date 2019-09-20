@@ -4,7 +4,7 @@ function createMarker(url, pos, t, inc) {
         map: map, // google.maps.Map 
         title: t,
         //icon: 'http://chart.apis.google.com/chart?chst=d_map_pin_letter&chld='+inc+'|FE6256|000000'
-        icon: 'http://chart.apis.google.com/chart?chst=d_map_spin&chld=0.7|0|FCCA46|13|b|' + inc
+        icon: 'https://chart.apis.google.com/chart?chst=d_map_spin&chld=0.7|0|FCCA46|13|b|' + inc
 
     });
 
