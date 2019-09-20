@@ -1,6 +1,5 @@
 var GOOGLE_MAP_KEY = "AIzaSyB4xoP9KTp9zDZKGjT_DOMQ7HoJ1jZn1gU";
 
-
 function loadScript() {
     var script = document.createElement('script');
     script.type = 'text/javascript';
