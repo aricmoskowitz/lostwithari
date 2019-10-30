@@ -1,7 +1,7 @@
 var earth;
 var homeCoords = [40.888193, -73.436393];
-var currentCoords = [-33.8696, 151.20695];
-var currentLocation = 'Sydney, AUS';
+var currentCoords = [33.5633, 130.7116];
+var currentLocation = 'Kama, Japan';
 var markerColor = 'FCCA46';
 
 
