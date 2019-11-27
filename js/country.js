@@ -11,10 +11,6 @@ function createMarker(url, pos, t, inc) {
     var zoom = map.getZoom();
 
     google.maps.event.addListener(marker, 'click', function() {
-        map.setZoom(zoom + 2);
-        map.setCenter(marker.getPosition());
-    });
-    google.maps.event.addListener(marker, 'dblclick', function() {
         window.open(url);
     });
     return marker;
