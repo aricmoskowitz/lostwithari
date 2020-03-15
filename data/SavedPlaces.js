@@ -2,6 +2,8324 @@ var SAVED_PLACES = {
     "type": "FeatureCollection",
     "features": [{
         "geometry": {
+            "coordinates": [124.8334146, 1.4615297],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8682921589212921980",
+            "Location": {
+                "Address": "Jalan Santo Joseph No.15, Ranotana, Kecamatan Sario, Sulawesi Utara, Indonesia",
+                "Business Name": "PIGNIK.",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "1.4615297",
+                    "Longitude": "124.8334146"
+                }
+            },
+            "Published": "2020-03-13T14:24:14Z",
+            "Title": "PIGNIK.",
+            "Updated": "2020-03-13T14:24:14Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [124.8336285, 1.4614208],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9177719623955404702",
+            "Location": {
+                "Address": "Jalan Santo Joseph No.12A, Ranotana, Kecamatan Sario, Kota Manado, Sulawesi Utara, Indonesia",
+                "Business Name": "Kafein Manado",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "1.4614208",
+                    "Longitude": "124.8336285"
+                }
+            },
+            "Published": "2020-03-13T14:23:41Z",
+            "Title": "Kafein Manado",
+            "Updated": "2020-03-13T14:23:41Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [124.8372820, 1.4847445],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14549032885035806440",
+            "Location": {
+                "Address": "North Wenang, Wenang, Manado City, North Sulawesi, Indonesia",
+                "Business Name": "Nomad Coffee Shop",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "1.4847445",
+                    "Longitude": "124.8372820"
+                }
+            },
+            "Published": "2020-03-13T14:23:15Z",
+            "Title": "Nomad Coffee Shop",
+            "Updated": "2020-03-13T14:23:15Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [124.8373438, 1.4732570],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14467871714515358956",
+            "Location": {
+                "Address": "Jalan Sam Ratulangi No.229, Sulawesi Utara 95111, Indonesia",
+                "Business Name": "Revolver coffee",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "1.4732570",
+                    "Longitude": "124.8373438"
+                }
+            },
+            "Published": "2020-03-13T14:22:59Z",
+            "Title": "Revolver coffee",
+            "Updated": "2020-03-13T14:22:59Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [2.3792241, 48.8629024],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3758362339273420858",
+            "Location": {
+                "Address": "67 Rue Saint-Maur, 75011 Paris, France",
+                "Business Name": "La Buvette",
+                "Country Code": "FR",
+                "Geo Coordinates": {
+                    "Latitude": "48.8629024",
+                    "Longitude": "2.3792241"
+                }
+            },
+            "Published": "2020-03-13T06:57:07Z",
+            "Title": "La Buvette",
+            "Updated": "2020-03-13T06:57:07Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [124.8326603, 1.4636661],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8404238618567383913",
+            "Location": {
+                "Address": "Jalan Bethesda, Sario, Kecamatan Sario, Kota Manado, Sulawesi Utara, Indonesia",
+                "Business Name": "Verel Bakery & Coffee",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "1.4636661",
+                    "Longitude": "124.8326603"
+                }
+            },
+            "Published": "2020-03-13T04:17:43Z",
+            "Title": "Verel Bakery & Coffee",
+            "Updated": "2020-03-13T04:17:43Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [106.8358090, -6.1897110],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15488116440102176093",
+            "Location": {
+                "Address": "Jalan RP. Soeroso No.22, Daerah Khusus Ibukota Jakarta 10330, Indonesia",
+                "Business Name": "ABCD School of Coffee",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "-6.1897110",
+                    "Longitude": "106.8358090"
+                }
+            },
+            "Published": "2020-03-11T16:10:25Z",
+            "Title": "ABCD School of Coffee",
+            "Updated": "2020-03-11T16:10:25Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [106.7950290, -6.2503460],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3169667019963745836",
+            "Location": {
+                "Address": "212, Jalan Pela Raya No.RT.11, RT.11, Pulo, Kecamatan Kebayoran Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12140, Indonesia",
+                "Business Name": "Javanegra Gourmet Atelier",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "-6.2503460",
+                    "Longitude": "106.7950290"
+                }
+            },
+            "Published": "2020-03-11T16:03:51Z",
+            "Title": "Javanegra Gourmet Atelier",
+            "Updated": "2020-03-11T16:03:51Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [106.8100640, -6.2308188],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3895972566999347156",
+            "Location": {
+                "Address": "3, Jalan Tulodong Bawah No.D1, RW.1, Senayan, Kecamatan Kebayoran Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190, Indonesia",
+                "Business Name": "D.Classic",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "-6.2308188",
+                    "Longitude": "106.8100640"
+                }
+            },
+            "Published": "2020-03-11T16:02:33Z",
+            "Title": "D.Classic",
+            "Updated": "2020-03-11T16:02:33Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [80.946166, 26.846694],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=Lucknow,+Uttar+Pradesh,+India&ftid=0x399bfd991f32b16b:0x93ccba8909978be7",
+            "Location": {
+                "Latitude": "26.846694",
+                "Longitude": "80.946166"
+            },
+            "Published": "2020-03-11T15:17:39Z",
+            "Title": "Lucknow, Uttar Pradesh, India",
+            "Updated": "2020-03-11T15:17:39Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [72.8351011, 18.9312478],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7076724784452343845",
+            "Location": {
+                "Address": "7,8 & 9, Botawala Building, Horniman Circle, Kala Ghoda, Mumbai, Maharashtra 400001, India",
+                "Business Name": "Bademiya Kebab Restaurant",
+                "Country Code": "IN",
+                "Geo Coordinates": {
+                    "Latitude": "18.9312478",
+                    "Longitude": "72.8351011"
+                }
+            },
+            "Published": "2020-03-11T15:17:11Z",
+            "Title": "Bademiya Kebab Restaurant",
+            "Updated": "2020-03-11T15:17:11Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [72.8282873, 18.9511400],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2308829190510285947",
+            "Location": {
+                "Address": "Building No, 31, Dadiseth Agiyari Lane, Kalbadevi, Mumbai, Maharashtra 400002, India",
+                "Business Name": "Shree Thaker Bhojanalay (Since 1945 )",
+                "Country Code": "IN",
+                "Geo Coordinates": {
+                    "Latitude": "18.9511400",
+                    "Longitude": "72.8282873"
+                }
+            },
+            "Published": "2020-03-11T15:16:50Z",
+            "Title": "Shree Thaker Bhojanalay (Since 1945 )",
+            "Updated": "2020-03-11T15:16:50Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [72.8275760, 19.0032450],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7371392037146984617",
+            "Location": {
+                "Address": "Unit-1, Process House, S.B. Road, Kamala Mills, Near Radio Mirchi Office Lower, Parel, Mumbai, Maharashtra 400013, India",
+                "Business Name": "The Bombay Canteen",
+                "Country Code": "IN",
+                "Geo Coordinates": {
+                    "Latitude": "19.0032450",
+                    "Longitude": "72.8275760"
+                }
+            },
+            "Published": "2020-03-11T15:16:36Z",
+            "Title": "The Bombay Canteen",
+            "Updated": "2020-03-11T15:16:36Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [124.8406120, 1.4564476],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15036146742954685736",
+            "Location": {
+                "Address": "North Karombasan, Wanea, Manado City, North Sulawesi, Indonesia",
+                "Business Name": "Karombasan Traditional Market",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "1.4564476",
+                    "Longitude": "124.8406120"
+                }
+            },
+            "Published": "2020-03-11T14:22:14Z",
+            "Title": "Karombasan Traditional Market",
+            "Updated": "2020-03-11T14:22:14Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [124.8342710, 1.4859770],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5100602429596005850",
+            "Location": {
+                "Address": "Jl. K.H Abdurahman Wahid, Foodcity No.14 Kawasan Megamas, Kota Manado, Sulawesi Utara 95111, Indonesia",
+                "Business Name": "Cabal Dining Manado",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "1.4859770",
+                    "Longitude": "124.8342710"
+                }
+            },
+            "Published": "2020-03-11T14:21:03Z",
+            "Title": "Cabal Dining Manado",
+            "Updated": "2020-03-11T14:21:03Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [124.8333000, 1.4753939],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=10398141335802958963",
+            "Location": {
+                "Address": "Jalan Laksda John Lie, Titiwungen Selatan, Kota Manado, Sulawesi Utara, Indonesia",
+                "Business Name": "D'club Resto and Bar",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "1.4753939",
+                    "Longitude": "124.8333000"
+                }
+            },
+            "Published": "2020-03-11T14:20:52Z",
+            "Title": "D'club Resto and Bar",
+            "Updated": "2020-03-11T14:20:52Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [124.8370408, 1.4868810],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8720439507302909680",
+            "Location": {
+                "Address": "Jalan Piere Tendean, Wenang Selatan, Kecamatan Wenang, Kota Manado, Sulawesi Utara 95111, Indonesia",
+                "Business Name": "IT Center - Manado",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "1.4868810",
+                    "Longitude": "124.8370408"
+                }
+            },
+            "Published": "2020-03-11T14:20:32Z",
+            "Title": "IT Center - Manado",
+            "Updated": "2020-03-11T14:20:32Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [124.8309420, 1.4712284],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16862359320440141922",
+            "Location": {
+                "Address": "Jalan Piere Tendean, Sulawesi Utara 95114, Indonesia",
+                "Business Name": "Manado Town Square",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "1.4712284",
+                    "Longitude": "124.8309420"
+                }
+            },
+            "Published": "2020-03-11T14:20:17Z",
+            "Title": "Manado Town Square",
+            "Updated": "2020-03-11T14:20:17Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [124.8427138, 1.5046378],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14676527278182304008",
+            "Location": {
+                "Address": "Jalan Boulevard II, Sindulang Dua, Kecamatan Tuminting, Kota Manado, Sulawesi Utara 95000, Indonesia",
+                "Business Name": "WARKOP KEMANG MANADO",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "1.5046378",
+                    "Longitude": "124.8427138"
+                }
+            },
+            "Published": "2020-03-11T14:19:08Z",
+            "Title": "WARKOP KEMANG MANADO",
+            "Updated": "2020-03-11T14:19:08Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [-75.178333, 6.223611],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=El+Pe%C3%B1%C3%B3n+de+Guatap%C3%A9,+Guatap%C3%A9,+Antioquia,+Colombia&ftid=0x8e441d16240c903f:0x8d73bc39b5e6201b",
+            "Location": {
+                "Latitude": "6.223611",
+                "Longitude": "-75.178333"
+            },
+            "Published": "2019-03-19T23:47:13Z",
+            "Title": "El Peñón de Guatapé, Guatapé, Antioquia, Colombia",
+            "Updated": "2020-03-11T06:31:43Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [-87.647955, 41.884173],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=41.884173,-87.647955",
+            "Location": {
+                "Latitude": "41.884173",
+                "Longitude": "-87.647955"
+            },
+            "Published": "2016-05-06T22:35:30Z",
+            "Title": "41.884173,-87.647955",
+            "Updated": "2020-03-11T00:06:59Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [124.8407967, 1.4439072],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13249103411884926065",
+            "Location": {
+                "Address": "Jalan Harapan, Winangun Satu, Kecamatan Malalayang, Kota Manado, Sulawesi Utara, Indonesia",
+                "Business Name": "Hope Cafe Winangun",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "1.4439072",
+                    "Longitude": "124.8407967"
+                }
+            },
+            "Published": "2020-03-10T15:17:35Z",
+            "Title": "Hope Cafe Winangun",
+            "Updated": "2020-03-10T15:17:35Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [124.8399540, 1.4438120],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14006586867604256982",
+            "Location": {
+                "Address": "Jalan Harapan No.8, Winangun Satu, Kecamatan Malalayang, Kota Manado, Sulawesi Utara, Indonesia",
+                "Business Name": "King Laundry Premium",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "1.4438120",
+                    "Longitude": "124.8399540"
+                }
+            },
+            "Published": "2020-03-10T15:17:10Z",
+            "Title": "King Laundry Premium",
+            "Updated": "2020-03-10T15:17:10Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [110.4914674, -7.7520206],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1866636746462419501",
+            "Location": {
+                "Address": "Jalan Raya Solo - Yogyakarta No.16, Kecamatan Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55571, Indonesia",
+                "Business Name": "Prambanan Temple",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "-7.7520206",
+                    "Longitude": "110.4914674"
+                }
+            },
+            "Published": "2020-03-10T10:35:34Z",
+            "Title": "Prambanan Temple",
+            "Updated": "2020-03-10T10:35:34Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [124.8327289, 1.4815255],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15179239101211835969",
+            "Location": {
+                "Address": "Kawasan Mega Mas, Jalan Laksda John Lie, Sulawesi Utara, Indonesia",
+                "Business Name": "Tuna House Mega Mas",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "1.4815255",
+                    "Longitude": "124.8327289"
+                }
+            },
+            "Published": "2020-03-10T07:32:21Z",
+            "Title": "Tuna House Mega Mas",
+            "Updated": "2020-03-10T07:32:21Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [120.3902918, 17.5727560],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13562543607872022708",
+            "Location": {
+                "Address": "Grandpa's Inn, 1 Bonifacio, Vigan City, Lalawigan ng Ilocos Sur, Philippines",
+                "Business Name": "Cafe Uno",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "17.5727560",
+                    "Longitude": "120.3902918"
+                }
+            },
+            "Published": "2020-03-08T07:53:55Z",
+            "Title": "Cafe Uno",
+            "Updated": "2020-03-08T07:53:55Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [120.3886989, 17.5710271],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17835026202224663384",
+            "Location": {
+                "Address": "corner, Crisologo, Vigan City, Ilocos Sur, Philippines",
+                "Business Name": "BarTech",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "17.5710271",
+                    "Longitude": "120.3886989"
+                }
+            },
+            "Published": "2020-03-07T17:00:31Z",
+            "Title": "BarTech",
+            "Updated": "2020-03-07T17:00:31Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [120.3848104, 17.5726498],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3767295807695507455",
+            "Location": {
+                "Address": "Salcedo Street, Barangay 3, Vigan City, 2700 Ilocos Sur, Philippines",
+                "Business Name": "Kuboville",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "17.5726498",
+                    "Longitude": "120.3848104"
+                }
+            },
+            "Published": "2020-03-07T13:54:10Z",
+            "Title": "Kuboville",
+            "Updated": "2020-03-07T13:54:10Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [120.5991930, 16.4203533],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1698010176540781730",
+            "Location": {
+                "Address": "Rimando Road, Brgy.Trancoville, Baguio, 2600 Benguet, Philippines",
+                "Business Name": "Il-lengan Cafe",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "16.4203533",
+                    "Longitude": "120.5991930"
+                }
+            },
+            "Published": "2020-03-07T05:11:20Z",
+            "Title": "Il-lengan Cafe",
+            "Updated": "2020-03-07T05:11:20Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [127.361353, 0.795800],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=Ternate,+Ternate+City,+North+Maluku,+Indonesia&ftid=0x329cb3aacf502ab7:0xbbfce0fd52d156f9",
+            "Location": {
+                "Latitude": "0.795800",
+                "Longitude": "127.361353"
+            },
+            "Published": "2020-03-06T17:29:05Z",
+            "Title": "Ternate, Ternate City, North Maluku, Indonesia",
+            "Updated": "2020-03-06T17:29:05Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [119.4041991, -5.1520628],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=90432131015290769",
+            "Location": {
+                "Address": "Jalan Metro Tanjung Bunga No. 2 (Mall Phinisi Point) Ground Floor Lobby, Tokyo 10, Panambungan, Mariso, Panambungan, Kecamatan Mariso, Kota Makassar, Sulawesi Selatan 90112, Indonesia",
+                "Business Name": "Tanamera Coffee - Makassar",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "-5.1520628",
+                    "Longitude": "119.4041991"
+                }
+            },
+            "Published": "2020-03-06T17:01:53Z",
+            "Title": "Tanamera Coffee - Makassar",
+            "Updated": "2020-03-06T17:01:53Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [119.4242065, -5.1499155],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13930806709392539416",
+            "Location": {
+                "Address": "Jln.veteran selatan lr2, Depan pasar, Maricaya, Kecamatan Makassar, Kota Makassar, Sulawesi Selatan 90142, Indonesia",
+                "Business Name": "Traditional Market Maricaya Makassar",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "-5.1499155",
+                    "Longitude": "119.4242065"
+                }
+            },
+            "Published": "2020-03-06T17:01:24Z",
+            "Title": "Traditional Market Maricaya Makassar",
+            "Updated": "2020-03-06T17:01:24Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [119.4417298, -5.1368958],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17804946805918000761",
+            "Location": {
+                "Address": "Jl. Urip Sumohardjo No. 20 Gedung Graha Pena 5th floor, Makassar City, South Sulawesi 90234, Indonesia",
+                "Business Name": "Regus - Makassar, Graha Pena",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "-5.1368958",
+                    "Longitude": "119.4417298"
+                }
+            },
+            "Published": "2020-03-06T17:00:57Z",
+            "Title": "Regus - Makassar, Graha Pena",
+            "Updated": "2020-03-06T17:00:57Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [119.4341171, -5.1520085],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=560004950160695292",
+            "Location": {
+                "Address": "Jalan Pelita Raya No.2, Balla Parang, Kecamatan Rappocini, Kota Makassar, Sulawesi Selatan 90231, Indonesia",
+                "Business Name": "Urbanistbox (Ubox)",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "-5.1520085",
+                    "Longitude": "119.4341171"
+                }
+            },
+            "Published": "2020-03-06T17:00:16Z",
+            "Title": "Urbanistbox (Ubox)",
+            "Updated": "2020-03-06T17:00:16Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [120.5503570, 16.4106777],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15508068517173027273",
+            "Location": {
+                "Address": "Km. 6 Asin Road, Tuba, 2600 Benguet, Philippines",
+                "Business Name": "BenCab Museum",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "16.4106777",
+                    "Longitude": "120.5503570"
+                }
+            },
+            "Published": "2020-03-06T07:07:04Z",
+            "Title": "BenCab Museum",
+            "Updated": "2020-03-06T07:07:04Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [124.8380280, 1.4719810],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11942869927507933423",
+            "Location": {
+                "Address": "Jalan Sam Ratulangi, Tanjung Batu, Kecamatan Wanea, Kota Manado, Sulawesi Utara 95117, Indonesia",
+                "Business Name": "Esspecto Coffee Manado",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "1.4719810",
+                    "Longitude": "124.8380280"
+                }
+            },
+            "Published": "2020-03-06T05:53:11Z",
+            "Title": "Esspecto Coffee Manado",
+            "Updated": "2020-03-06T05:53:11Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [124.8300236, 1.4645636],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=10054295796678191368",
+            "Location": {
+                "Address": "Jalan Achmad Yani 20 No.40, Sario, Kecamatan Sario, Kota Manado, Sulawesi Utara, Indonesia",
+                "Business Name": "Black Cup Coffee & Roastery",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "1.4645636",
+                    "Longitude": "124.8300236"
+                }
+            },
+            "Published": "2020-03-06T05:51:33Z",
+            "Title": "Black Cup Coffee & Roastery",
+            "Updated": "2020-03-06T05:51:33Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [119.4118201, -5.1299723],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5630387835510927989",
+            "Location": {
+                "Address": "Jalan Bali No.6, Pattunuang, Kecamatan Wajo, Kota Makassar, Sulawesi Selatan 90171, Indonesia",
+                "Business Name": "Double Shot Cafe",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "-5.1299723",
+                    "Longitude": "119.4118201"
+                }
+            },
+            "Published": "2020-03-06T05:45:32Z",
+            "Title": "Double Shot Cafe",
+            "Updated": "2020-03-06T05:45:32Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [119.4053920, -5.1378796],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17329007550913710662",
+            "Location": {
+                "Address": "Jalan Pasar Ikan No.46, Bulo Gading, Kecamatan Ujung Pandang, Kota Makassar, Sulawesi Selatan 90174, Indonesia",
+                "Business Name": "MyCoffee",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "-5.1378796",
+                    "Longitude": "119.4053920"
+                }
+            },
+            "Published": "2020-03-06T05:45:15Z",
+            "Title": "MyCoffee",
+            "Updated": "2020-03-06T05:45:15Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [119.4098486, -5.1477835],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7360263294357574141",
+            "Location": {
+                "Address": "Jalan Durian No.33, Losari, Kecamatan Ujung Pandang, Kota Makassar, Sulawesi Selatan 90113, Indonesia",
+                "Business Name": "Sudut Senja",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "-5.1477835",
+                    "Longitude": "119.4098486"
+                }
+            },
+            "Published": "2020-03-06T05:44:38Z",
+            "Title": "Sudut Senja",
+            "Updated": "2020-03-06T05:44:38Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [119.4164025, -5.1581398],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5065924847286452057",
+            "Location": {
+                "Address": "Jalan Doktor Ratulangi No.102, Mario, Kecamatan Mariso, Kota Makassar, Sulawesi Selatan 90114, Indonesia",
+                "Business Name": "Anomali Coffee Makassar",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "-5.1581398",
+                    "Longitude": "119.4164025"
+                }
+            },
+            "Published": "2020-03-06T05:43:31Z",
+            "Title": "Anomali Coffee Makassar",
+            "Updated": "2020-03-06T05:43:31Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [123.7736212, 9.5486544],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11382365831137425038",
+            "Location": {
+                "Address": "Alona Beach, Alona Beach Road, Panglao, 6340 Bohol, Philippines",
+                "Business Name": "The Buzzz Cafe",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "9.5486544",
+                    "Longitude": "123.7736212"
+                }
+            },
+            "Published": "2020-03-05T09:18:02Z",
+            "Title": "The Buzzz Cafe",
+            "Updated": "2020-03-05T09:18:02Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [114.6528135, -8.1406654],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9867826776171311412",
+            "Location": {
+                "Address": "Singaraja, Pemuteran, Gerokgak, Bali 81155, Indonesia",
+                "Business Name": "Puri Ganesha Homes by the Beach",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "-8.1406654",
+                    "Longitude": "114.6528135"
+                }
+            },
+            "Published": "2020-03-04T09:44:09Z",
+            "Title": "Puri Ganesha Homes by the Beach",
+            "Updated": "2020-03-04T09:44:09Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [115.2617404, -8.5060505],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15314501514952137598",
+            "Location": {
+                "Address": "Jalan Kajeng No.1, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia",
+                "Business Name": "Bumbu Bali Cooking Class",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "-8.5060505",
+                    "Longitude": "115.2617404"
+                }
+            },
+            "Published": "2020-03-04T09:39:46Z",
+            "Title": "Bumbu Bali Cooking Class",
+            "Updated": "2020-03-04T09:39:46Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [123.7735823, 9.5525740],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7230847196220426998",
+            "Location": {
+                "Address": "Tawala, Bohol, Philippines",
+                "Business Name": "Mr. Phúc's",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "9.5525740",
+                    "Longitude": "123.7735823"
+                }
+            },
+            "Published": "2020-03-03T10:25:13Z",
+            "Title": "Mr. Phúc's",
+            "Updated": "2020-03-03T10:25:13Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [123.7717420, 9.5505360],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1227688990118093538",
+            "Location": {
+                "Address": "Panglao Island Circumferential Rd, Tawala, Panglao, Bohol, Philippines",
+                "Business Name": "Bamboo Place",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "9.5505360",
+                    "Longitude": "123.7717420"
+                }
+            },
+            "Published": "2020-03-03T10:24:24Z",
+            "Title": "Bamboo Place",
+            "Updated": "2020-03-03T10:24:24Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [123.9098361, 10.3281056],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8106960649276929902",
+            "Location": {
+                "Address": "Crossroads, Banilad Road, Cebu City, 6000 Cebu, Philippines",
+                "Business Name": "Abaca Baking Company",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "10.3281056",
+                    "Longitude": "123.9098361"
+                }
+            },
+            "Published": "2020-03-02T06:38:13Z",
+            "Title": "Abaca Baking Company",
+            "Updated": "2020-03-02T06:38:13Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [115.2629596, -8.5165405],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15639819176808441988",
+            "Location": {
+                "Address": "Gang Anila No.24, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia",
+                "Business Name": "Arya Guest House",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "-8.5165405",
+                    "Longitude": "115.2629596"
+                }
+            },
+            "Published": "2020-03-01T14:24:23Z",
+            "Title": "Arya Guest House",
+            "Updated": "2020-03-01T14:24:23Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [123.3989999, 9.8698824],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13031536815949914827",
+            "Location": {
+                "Address": "Santander - Barili - Toledo Road, Poblacion, Badian, Cebu, Philippines",
+                "Business Name": "CIIIBV (CEBU) CANYONEERING ADVENTURE",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "9.8698824",
+                    "Longitude": "123.3989999"
+                }
+            },
+            "Published": "2020-03-01T08:53:37Z",
+            "Title": "CIIIBV (CEBU) CANYONEERING ADVENTURE",
+            "Updated": "2020-03-01T08:53:37Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [123.9007550, 10.3102100],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7883998956382937591",
+            "Location": {
+                "Address": "9 East Benedicto Street, Cebu City, 6000 Cebu, Philippines",
+                "Business Name": "No 9 Restaurant",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "10.3102100",
+                    "Longitude": "123.9007550"
+                }
+            },
+            "Published": "2020-02-29T21:59:47Z",
+            "Title": "No 9 Restaurant",
+            "Updated": "2020-02-29T21:59:47Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [124.139676, 9.829708],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=Chocolate+Hills,+Bohol&ftid=0x33aa3da1a65d72f7:0xd89c856a3307dd67",
+            "Location": {
+                "Latitude": "9.829708",
+                "Longitude": "124.139676"
+            },
+            "Published": "2020-02-28T12:53:01Z",
+            "Title": "Chocolate Hills, Bohol",
+            "Updated": "2020-02-28T12:53:01Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [119.4372080, 11.2564990],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7218399924714070309",
+            "Location": {
+                "Address": "El Nido, Palawan, Philippines",
+                "Business Name": "Nagkalit-kalit Waterfalls",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "11.2564990",
+                    "Longitude": "119.4372080"
+                }
+            },
+            "Published": "2020-02-27T14:20:46Z",
+            "Title": "Nagkalit-kalit Waterfalls",
+            "Updated": "2020-02-27T14:20:46Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [-118.2403333, 34.0352442],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4810257355192563767",
+            "Location": {
+                "Address": "767 South Alameda Street Suite 122, Los Angeles, CA 90021, United States",
+                "Business Name": "Pikunico",
+                "Country Code": "US",
+                "Geo Coordinates": {
+                    "Latitude": "34.0352442",
+                    "Longitude": "-118.2403333"
+                }
+            },
+            "Published": "2020-02-27T00:42:14Z",
+            "Title": "Pikunico",
+            "Updated": "2020-02-27T00:42:14Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [115.2651804, -8.5068079],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8044070692477180642",
+            "Location": {
+                "Address": "Jalan Sri Wedari No.5, Banjar Taman Kelod, Kecamatan Ubud, Kabupaten Gianyar, Bali 80561, Indonesia",
+                "Business Name": "Seniman Coffee Studio",
+                "Country Code": "ID",
+                "Geo Coordinates": {
+                    "Latitude": "-8.5068079",
+                    "Longitude": "115.2651804"
+                }
+            },
+            "Published": "2020-02-26T14:47:20Z",
+            "Title": "Seniman Coffee Studio",
+            "Updated": "2020-02-26T14:47:20Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [119.4235818, 11.1994635],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5332017733017758056",
+            "Location": {
+                "Address": "Taytay-El Nido National Highway, Brgy Villa Libertad, El Nido, 5313 Palawan, Philippines",
+                "Business Name": "Tambok's El Nido",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "11.1994635",
+                    "Longitude": "119.4235818"
+                }
+            },
+            "Published": "2020-02-25T00:44:00Z",
+            "Title": "Tambok's El Nido",
+            "Updated": "2020-02-25T00:44:00Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.0300319, 14.5626949],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4118963079141920016",
+            "Location": {
+                "Address": "36 Polaris, Makati, Metro Manila, Philippines",
+                "Business Name": "Commune",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "14.5626949",
+                    "Longitude": "121.0300319"
+                }
+            },
+            "Published": "2020-02-24T09:18:07Z",
+            "Title": "Commune",
+            "Updated": "2020-02-24T09:18:07Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [-0.1387167, 51.5127000],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=10818355934690101148",
+            "Location": {
+                "Address": "Kingly Court, Carnaby Street, London W1B 5PW, United Kingdom",
+                "Business Name": "Darjeeling Express",
+                "Country Code": "GB",
+                "Geo Coordinates": {
+                    "Latitude": "51.5127000",
+                    "Longitude": "-0.1387167"
+                }
+            },
+            "Published": "2020-02-24T05:49:41Z",
+            "Title": "Darjeeling Express",
+            "Updated": "2020-02-24T05:49:41Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.0490503, 14.5515830],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2039182696690774082",
+            "Location": {
+                "Address": "30th St Corner 7th Ave Bonifacio High Street Central Taguig 867, 0000 Metro Manila, Philippines",
+                "Business Name": "The Wholesome Table BGC",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "14.5515830",
+                    "Longitude": "121.0490503"
+                }
+            },
+            "Published": "2020-02-23T11:43:38Z",
+            "Title": "The Wholesome Table BGC",
+            "Updated": "2020-02-23T11:43:38Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.0440161, 14.5517102],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4199101508272080084",
+            "Location": {
+                "Address": "Forbes Town Center, Burgos Circle, Fort Bonifacio Global City, Taguig, 1634 Metro Manila, Philippines",
+                "Business Name": "Susi",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "14.5517102",
+                    "Longitude": "121.0440161"
+                }
+            },
+            "Published": "2020-02-23T11:43:04Z",
+            "Title": "Susi",
+            "Updated": "2020-02-23T11:43:04Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.0597601, 14.5300352],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6206263118265832890",
+            "Location": {
+                "Address": "Taguig, 1630 Metro Manila, Philippines",
+                "Business Name": "Coffee Project Vista Place",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "14.5300352",
+                    "Longitude": "121.0597601"
+                }
+            },
+            "Published": "2020-02-23T11:36:49Z",
+            "Title": "Coffee Project Vista Place",
+            "Updated": "2020-02-23T11:36:49Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5343787, 25.0494592],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4563784974148996265",
+            "Location": {
+                "Address": "No. 13, Lane 69, Songjiang Road, Zhongshan District, Taipei City, Taiwan 10491",
+                "Business Name": "Joseph Bistro 想想廚房",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0494592",
+                    "Longitude": "121.5343787"
+                }
+            },
+            "Published": "2020-02-22T17:07:10Z",
+            "Title": "Joseph Bistro 想想廚房",
+            "Updated": "2020-02-22T17:07:10Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5442502, 25.0316856],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11496339131572430475",
+            "Location": {
+                "Address": "No. 3號, Alley 50, Lane 30, Section 4, Xinyi Road, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "become",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0316856",
+                    "Longitude": "121.5442502"
+                }
+            },
+            "Published": "2020-02-22T15:58:48Z",
+            "Title": "become",
+            "Updated": "2020-02-22T15:58:48Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5279494, 25.0523303],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15755661653598162102",
+            "Location": {
+                "Address": "104, Taiwan, Taipei City, Zhongshan District, Section 2, Nanjing East Road, 1號2樓",
+                "Business Name": "Kavalan Whisky Bar",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0523303",
+                    "Longitude": "121.5279494"
+                }
+            },
+            "Published": "2020-02-22T08:25:14Z",
+            "Title": "Kavalan Whisky Bar",
+            "Updated": "2020-02-22T08:25:14Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [120.3027660, 22.6628031],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6593809921236507491",
+            "Location": {
+                "Address": "No. 337號, Bo'ai 2nd Road, Gushan District, Kaohsiung City, Taiwan 80467",
+                "Business Name": "輕井澤博愛店",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "22.6628031",
+                    "Longitude": "120.3027660"
+                }
+            },
+            "Published": "2020-02-20T09:42:12Z",
+            "Title": "輕井澤博愛店",
+            "Updated": "2020-02-20T09:42:12Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [120.2816037, 22.6200054],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16633712883896045042",
+            "Location": {
+                "Address": "No. 1號, Dayong Road, Yancheng District, Kaohsiung City, Taiwan 803",
+                "Business Name": "Pier2 Art Center",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "22.6200054",
+                    "Longitude": "120.2816037"
+                }
+            },
+            "Published": "2020-02-20T06:37:22Z",
+            "Title": "Pier2 Art Center",
+            "Updated": "2020-02-20T06:37:22Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [120.6523670, 22.7071590],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9932654147665816897",
+            "Location": {
+                "Address": "903, Taiwan, Pingtung County, Majia Township, 風景 104",
+                "Business Name": "Taiwan Indigenous Culture Park",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "22.7071590",
+                    "Longitude": "120.6523670"
+                }
+            },
+            "Published": "2020-02-19T07:28:14Z",
+            "Title": "Taiwan Indigenous Culture Park",
+            "Updated": "2020-02-19T07:28:14Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5107183, 25.1373401],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2465829962954234928",
+            "Location": {
+                "Address": "No. 30號之10, Zhongshan Road, Beitou District, Taipei City, Taiwan 112",
+                "Business Name": "Thermal Valley",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.1373401",
+                    "Longitude": "121.5107183"
+                }
+            },
+            "Published": "2020-02-15T14:02:16Z",
+            "Title": "Thermal Valley",
+            "Updated": "2020-02-15T14:02:16Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5137490, 25.1385730],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=18157604345540604406",
+            "Location": {
+                "Address": "No. 34號, Youya Road, Beitou District, Taipei City, Taiwan 112",
+                "Business Name": "少帥禪園-台北北投張學良幽禁舊居",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.1385730",
+                    "Longitude": "121.5137490"
+                }
+            },
+            "Published": "2020-02-15T13:59:32Z",
+            "Title": "少帥禪園-台北北投張學良幽禁舊居",
+            "Updated": "2020-02-15T13:59:32Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5112564, 25.1359289],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=10965734939234050703",
+            "Location": {
+                "Address": "No. 112, Wenquan Road, Beitou District, Taipei City, Taiwan 112",
+                "Business Name": "Puji Temple",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.1359289",
+                    "Longitude": "121.5112564"
+                }
+            },
+            "Published": "2020-02-15T13:55:01Z",
+            "Title": "Puji Temple",
+            "Updated": "2020-02-15T13:55:01Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.6601415, 24.9911493],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12708288847265735963",
+            "Location": {
+                "Address": "No. 28號, Shiding East Street, Shiding District, New Taipei City, Taiwan 223",
+                "Business Name": "逢春茶莊",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "24.9911493",
+                    "Longitude": "121.6601415"
+                }
+            },
+            "Published": "2020-02-15T08:41:21Z",
+            "Title": "逢春茶莊",
+            "Updated": "2020-02-15T08:41:21Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5108550, 25.0474380],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8950955166258477024",
+            "Location": {
+                "Address": "No. 126號, Section 1, Zhongxiao West Road, Zhongzheng District, Taipei City, Taiwan 100",
+                "Business Name": "MKCR / Mountain Kids Coffee Roaster 山小孩咖啡",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0474380",
+                    "Longitude": "121.5108550"
+                }
+            },
+            "Published": "2020-02-11T12:44:06Z",
+            "Title": "MKCR / Mountain Kids Coffee Roaster 山小孩咖啡",
+            "Updated": "2020-02-11T12:44:06Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5450930, 25.0441190],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9494591260153674556",
+            "Location": {
+                "Address": "No. 16號, Alley 5, Lane 107, Section 1, Fuxing South Road, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "Double Check",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0441190",
+                    "Longitude": "121.5450930"
+                }
+            },
+            "Published": "2020-02-11T12:37:05Z",
+            "Title": "Double Check",
+            "Updated": "2020-02-11T12:37:05Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5076131, 25.0563948],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13521751508709828200",
+            "Location": {
+                "Address": "Taiwan",
+                "Business Name": "Dadaocheng Dock",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0563948",
+                    "Longitude": "121.5076131"
+                }
+            },
+            "Published": "2020-02-11T12:13:50Z",
+            "Title": "Dadaocheng Dock",
+            "Updated": "2020-02-11T12:13:50Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5086550, 25.0310042],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=617244547849775137",
+            "Location": {
+                "Address": "No. 53號, Nanhai Road, Zhongzheng District, Taipei City, Taiwan 10066",
+                "Business Name": "Taipei Botanical Garden",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0310042",
+                    "Longitude": "121.5086550"
+                }
+            },
+            "Published": "2020-02-11T04:54:03Z",
+            "Title": "Taipei Botanical Garden",
+            "Updated": "2020-02-11T04:54:03Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5179273, 25.0315419],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3942940026258925201",
+            "Location": {
+                "Address": "No. 10號, Lane 59, Section 1, Nanchang Road, Zhongzheng District, Taipei City, Taiwan 100",
+                "Business Name": "柒號咖啡 No7. Coffee",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0315419",
+                    "Longitude": "121.5179273"
+                }
+            },
+            "Published": "2020-02-11T04:31:04Z",
+            "Title": "柒號咖啡 No7. Coffee",
+            "Updated": "2020-02-11T04:31:04Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5554057, 25.0369059],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11866310900204308909",
+            "Location": {
+                "Address": "No. 228, Yanji Street, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "Rapha Taipei",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0369059",
+                    "Longitude": "121.5554057"
+                }
+            },
+            "Published": "2020-02-10T09:44:29Z",
+            "Title": "Rapha Taipei",
+            "Updated": "2020-02-10T09:44:29Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5287563, 25.0318034],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2728376676394671434",
+            "Location": {
+                "Address": "No. 1號, Lane 16, Lishui Street, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "大自在空間(台北麗水店)-東方美人茶批發零售伴手禮盒宅配",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0318034",
+                    "Longitude": "121.5287563"
+                }
+            },
+            "Published": "2020-02-09T13:12:26Z",
+            "Title": "大自在空間(台北麗水店)-東方美人茶批發零售伴手禮盒宅配",
+            "Updated": "2020-02-09T13:12:26Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5307324, 25.0385437],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16892039657529766090",
+            "Location": {
+                "Address": "No. 69號, Section 2, Ren'ai Road, Zhongzheng District, Taipei City, Taiwan 100",
+                "Business Name": "EP-Books",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0385437",
+                    "Longitude": "121.5307324"
+                }
+            },
+            "Published": "2020-02-09T11:32:00Z",
+            "Title": "EP-Books",
+            "Updated": "2020-02-09T11:32:00Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5289766, 25.0328384],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5187447540982325399",
+            "Location": {
+                "Address": "No. 8號, Lishui Street, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "二吉軒豆漿 Soypresso",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0328384",
+                    "Longitude": "121.5289766"
+                }
+            },
+            "Published": "2020-02-09T11:16:05Z",
+            "Title": "二吉軒豆漿 Soypresso",
+            "Updated": "2020-02-09T11:16:05Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5499020, 25.0898891],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6685890836615507382",
+            "Location": {
+                "Address": "No. 181號, Ziqiang Tunnel, Zhongshan District, Taipei City, Taiwan 10491",
+                "Business Name": "劍南山夜景",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0898891",
+                    "Longitude": "121.5499020"
+                }
+            },
+            "Published": "2020-02-09T11:12:53Z",
+            "Title": "劍南山夜景",
+            "Updated": "2020-02-09T11:12:53Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5336690, 25.0205340],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2715661686928389863",
+            "Location": {
+                "Address": "No. 7號, Lane 56, Section 3, Xinsheng South Road, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "Witch House",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0205340",
+                    "Longitude": "121.5336690"
+                }
+            },
+            "Published": "2020-02-08T16:37:17Z",
+            "Title": "Witch House",
+            "Updated": "2020-02-08T16:37:17Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5248102, 25.0724118],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8809255860221223281",
+            "Location": {
+                "Address": "No. 181號, Section 3, Zhongshan North Road, Zhongshan District, Taipei City, Taiwan 10461",
+                "Business Name": "Taipei Fine Arts Museum",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0724118",
+                    "Longitude": "121.5248102"
+                }
+            },
+            "Published": "2020-02-08T16:26:22Z",
+            "Title": "Taipei Fine Arts Museum",
+            "Updated": "2020-02-08T16:26:22Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5457129, 25.0525554],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2066606258818707359",
+            "Location": {
+                "Address": "No. 6-1號, Lane 269, Section 3, Nanjing East Road, Songshan District, Taipei City, Taiwan 105",
+                "Business Name": "Milk Bar by BKA",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0525554",
+                    "Longitude": "121.5457129"
+                }
+            },
+            "Published": "2020-02-08T09:32:00Z",
+            "Title": "Milk Bar by BKA",
+            "Updated": "2020-02-08T09:32:00Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.6030320, 25.2500270],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=18297551614765133260",
+            "Location": {
+                "Address": "208, Taiwan, New Taipei City, Jinshan District, 西勢湖18號",
+                "Business Name": "Chin Pao San Cemetery",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.2500270",
+                    "Longitude": "121.6030320"
+                }
+            },
+            "Published": "2020-02-07T09:02:56Z",
+            "Title": "Chin Pao San Cemetery",
+            "Updated": "2020-02-07T09:02:56Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.984033, 18.778718],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=18.778717,98.984033",
+            "Location": {
+                "Latitude": "18.778718",
+                "Longitude": "98.984033"
+            },
+            "Published": "2020-01-04T13:15:26Z",
+            "Title": "18.778717,98.984033",
+            "Updated": "2020-02-06T12:02:56Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9236080, 37.5606350],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17357146277113445224",
+            "Location": {
+                "Address": "373-13 Yeonnam-dong, Mapo-gu, Seoul, South Korea",
+                "Business Name": "From Theo Coffee",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5606350",
+                    "Longitude": "126.9236080"
+                }
+            },
+            "Published": "2020-02-06T08:59:54Z",
+            "Title": "From Theo Coffee",
+            "Updated": "2020-02-06T08:59:54Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5278219, 25.0218659],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6095315794931760107",
+            "Location": {
+                "Address": "No. 10號, Lane 126, Shida Road, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "Manta Coffee",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0218659",
+                    "Longitude": "121.5278219"
+                }
+            },
+            "Published": "2020-02-06T07:12:53Z",
+            "Title": "Manta Coffee",
+            "Updated": "2020-02-06T07:12:53Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5302270, 25.0436010],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17446614201977206740",
+            "Location": {
+                "Address": "No. 28, Section 1, Bade Road, Zhongzheng District, Taipei City, Taiwan 10058",
+                "Business Name": "Paper St. Coffee Company",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0436010",
+                    "Longitude": "121.5302270"
+                }
+            },
+            "Published": "2020-02-06T05:20:12Z",
+            "Title": "Paper St. Coffee Company",
+            "Updated": "2020-02-06T05:20:12Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5221988, 25.0483789],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1087739832194634165",
+            "Location": {
+                "Address": "No. 3, Alley 20, Lane 33, Section 1, Zhongshan North Road, Zhongshan District, Taipei City, Taiwan 10491",
+                "Business Name": "Coffee Sweet 自家烘焙咖啡館",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0483789",
+                    "Longitude": "121.5221988"
+                }
+            },
+            "Published": "2020-02-06T05:19:24Z",
+            "Title": "Coffee Sweet 自家烘焙咖啡館",
+            "Updated": "2020-02-06T05:19:24Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5523737, 25.0532432],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=10967890712238162146",
+            "Location": {
+                "Address": "No. 11-1號, Jiankang Road, Songshan District, Taipei City, Taiwan 10581",
+                "Business Name": "光景 Scene Homeware",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0532432",
+                    "Longitude": "121.5523737"
+                }
+            },
+            "Published": "2020-02-06T03:12:21Z",
+            "Title": "光景 Scene Homeware",
+            "Updated": "2020-02-06T03:12:21Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5463826, 25.0312062],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6530615750707542466",
+            "Location": {
+                "Address": "No. 4號, Lane 53, Section 2, Da'an Road, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "Can Nature 肯自然葡萄酒",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0312062",
+                    "Longitude": "121.5463826"
+                }
+            },
+            "Published": "2020-02-05T10:38:06Z",
+            "Title": "Can Nature 肯自然葡萄酒",
+            "Updated": "2020-02-05T10:38:06Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5579374, 25.0268324],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4695800227769580958",
+            "Location": {
+                "Address": "No. 56號, Xin'an Street, Xinyi District, Taipei City, Taiwan 110",
+                "Business Name": "生活域所 | A Living Labb",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0268324",
+                    "Longitude": "121.5579374"
+                }
+            },
+            "Published": "2020-02-05T09:40:42Z",
+            "Title": "生活域所 | A Living Labb",
+            "Updated": "2020-02-05T09:40:42Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5703680, 25.0273080],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4991727481133219302",
+            "Location": {
+                "Address": "No. 55號, Alley 22, Lane 150, Section 5, Xinyi Road, Xinyi District, Taipei City, Taiwan 110",
+                "Business Name": "象山日光珈琲 Sunshine Cafe",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0273080",
+                    "Longitude": "121.5703680"
+                }
+            },
+            "Published": "2020-02-05T09:05:21Z",
+            "Title": "象山日光珈琲 Sunshine Cafe",
+            "Updated": "2020-02-05T09:05:21Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5740113, 25.0269931],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4068603574806405848",
+            "Location": {
+                "Address": "110, Taiwan, Taipei City, Xinyi District, 信義路五段150巷401弄31號",
+                "Business Name": "Xiangshan (Elephant Mountain)",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0269931",
+                    "Longitude": "121.5740113"
+                }
+            },
+            "Published": "2020-02-05T06:11:06Z",
+            "Title": "Xiangshan (Elephant Mountain)",
+            "Updated": "2020-02-05T06:11:06Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.4982050, 25.1305230],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8767150330342024528",
+            "Location": {
+                "Address": "No. 21, Lane 23, Daxing Street, Beitou District, Taipei City, Taiwan 112",
+                "Business Name": "上清料理",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.1305230",
+                    "Longitude": "121.4982050"
+                }
+            },
+            "Published": "2020-02-04T07:25:21Z",
+            "Title": "上清料理",
+            "Updated": "2020-02-04T07:25:21Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5025398, 25.1327785],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15739726956243463007",
+            "Location": {
+                "Address": "No. 30號, Xinshi Street, Beitou District, Taipei City, Taiwan 112",
+                "Business Name": "Beitou Market",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.1327785",
+                    "Longitude": "121.5025398"
+                }
+            },
+            "Published": "2020-02-04T03:25:59Z",
+            "Title": "Beitou Market",
+            "Updated": "2020-02-04T03:25:59Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5030193, 25.1331356],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=333269266604655402",
+            "Location": {
+                "Address": "No. 27, Gongguan Road, Beitou District, Taipei City, Taiwan 112",
+                "Business Name": "北投 - 興福記永和豆漿大王",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.1331356",
+                    "Longitude": "121.5030193"
+                }
+            },
+            "Published": "2020-02-03T12:15:15Z",
+            "Title": "北投 - 興福記永和豆漿大王",
+            "Updated": "2020-02-03T12:15:15Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5406383, 25.0557825],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16488160845999463837",
+            "Location": {
+                "Address": "No. 1 Lane 187 Longjiang Rd 台湾, 中山區台北市 Taiwan 10491",
+                "Business Name": "旺旺水果",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0557825",
+                    "Longitude": "121.5406383"
+                }
+            },
+            "Published": "2020-02-03T03:38:18Z",
+            "Title": "旺旺水果",
+            "Updated": "2020-02-03T03:38:18Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5644692, 25.1668246],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4382031602847075605",
+            "Location": {
+                "Address": "111, Taiwan, Taipei City, Shilin District, 中正路252號",
+                "Business Name": "Milk Lake",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.1668246",
+                    "Longitude": "121.5644692"
+                }
+            },
+            "Published": "2020-02-02T07:30:19Z",
+            "Title": "Milk Lake",
+            "Updated": "2020-02-02T07:30:19Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5396959, 25.0527616],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2970315104182996855",
+            "Location": {
+                "Address": "No. 16號, Lane 109, Section 3, Nanjing East Road, Zhongshan District, Taipei City, Taiwan 104",
+                "Business Name": "豆御 Soymilk",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0527616",
+                    "Longitude": "121.5396959"
+                }
+            },
+            "Published": "2020-02-01T07:26:57Z",
+            "Title": "豆御 Soymilk",
+            "Updated": "2020-02-01T07:26:57Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5419593, 25.0535127],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8697916988025010376",
+            "Location": {
+                "Address": "No. 134號, Liaoning Street, Zhongshan District, Taipei City, Taiwan 10491",
+                "Business Name": "Library134",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0535127",
+                    "Longitude": "121.5419593"
+                }
+            },
+            "Published": "2020-02-01T07:19:30Z",
+            "Title": "Library134",
+            "Updated": "2020-02-01T07:19:30Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [120.656705, 15.059394],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=San+Fernando,+Pampanga,+Philippines&ftid=0x3396f79f47a8aadb:0x2c4be1dddb81922a",
+            "Location": {
+                "Latitude": "15.059394",
+                "Longitude": "120.656705"
+            },
+            "Published": "2020-01-31T16:26:21Z",
+            "Title": "San Fernando, Pampanga, Philippines",
+            "Updated": "2020-01-31T16:26:21Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5631169, 25.0576388],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2021923207829831439",
+            "Location": {
+                "Address": "No. 8-3號, Lane 101, Sanmin Road, Songshan District, Taipei City, Taiwan 105",
+                "Business Name": "喫茶店 · 香",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0576388",
+                    "Longitude": "121.5631169"
+                }
+            },
+            "Published": "2020-01-31T09:23:07Z",
+            "Title": "喫茶店 · 香",
+            "Updated": "2020-01-31T09:23:07Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5517744, 25.0340477],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6247785930706390628",
+            "Location": {
+                "Address": "No. 7-3號, Lane 199, Section 4, Xinyi Road, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "Oasis Coffee Roasters",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0340477",
+                    "Longitude": "121.5517744"
+                }
+            },
+            "Published": "2020-01-31T09:15:15Z",
+            "Title": "Oasis Coffee Roasters",
+            "Updated": "2020-01-31T09:15:15Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5236280, 25.0881570],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15305798490094905443",
+            "Location": {
+                "Address": "Taiwan",
+                "Business Name": "Shilin Market (Ming Chuan Hostel)",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0881570",
+                    "Longitude": "121.5236280"
+                }
+            },
+            "Published": "2020-01-31T09:10:41Z",
+            "Title": "Shilin Market (Ming Chuan Hostel)",
+            "Updated": "2020-01-31T09:10:41Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5432764, 25.0289319],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8245316913754684069",
+            "Location": {
+                "Address": "No. 138, Section 2, Fuxing South Road, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "AHA Saloon",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0289319",
+                    "Longitude": "121.5432764"
+                }
+            },
+            "Published": "2020-01-31T09:01:14Z",
+            "Title": "AHA Saloon",
+            "Updated": "2020-01-31T09:01:14Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5475990, 25.0266077],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=558397645909204223",
+            "Location": {
+                "Address": "No. 3-1, Lane 208, Siwei Road, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "The FOLKS",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0266077",
+                    "Longitude": "121.5475990"
+                }
+            },
+            "Published": "2020-01-31T08:58:04Z",
+            "Title": "The FOLKS",
+            "Updated": "2020-01-31T08:58:04Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [120.2702274, 22.6200113],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15275962223347345917",
+            "Location": {
+                "Address": "No. 5, Binhai 2nd Road, Gushan District, Kaohsiung City, Taiwan 804",
+                "Business Name": "Oh Cafe!",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "22.6200113",
+                    "Longitude": "120.2702274"
+                }
+            },
+            "Published": "2020-01-31T08:56:02Z",
+            "Title": "Oh Cafe!",
+            "Updated": "2020-01-31T08:56:02Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [120.2825890, 22.6412547],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1144290967305966785",
+            "Location": {
+                "Address": "No. 219, Hexi 1st Road, Gushan District, Kaohsiung City, Taiwan 804",
+                "Business Name": "咖啡彈藥庫",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "22.6412547",
+                    "Longitude": "120.2825890"
+                }
+            },
+            "Published": "2020-01-31T08:55:37Z",
+            "Title": "咖啡彈藥庫",
+            "Updated": "2020-01-31T08:55:37Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5436450, 25.0459230],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1890294622770023312",
+            "Location": {
+                "Address": "No. 36-8號, Section 1, Fuxing South Road, Zhongshan District, Taipei City, Taiwan 10492",
+                "Business Name": "VWI BY CHADWANG",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0459230",
+                    "Longitude": "121.5436450"
+                }
+            },
+            "Published": "2020-01-31T08:49:48Z",
+            "Title": "VWI BY CHADWANG",
+            "Updated": "2020-01-31T08:49:48Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5293995, 25.0441303],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17422499956913495153",
+            "Location": {
+                "Address": "No. 1, Section 1, Bade Road, Zhongzheng District, Taipei City, Taiwan 100",
+                "Business Name": "Huashan 1914 Creative Park",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0441303",
+                    "Longitude": "121.5293995"
+                }
+            },
+            "Published": "2020-01-31T08:46:13Z",
+            "Title": "Huashan 1914 Creative Park",
+            "Updated": "2020-01-31T08:46:13Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5373147, 25.0442952],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=18017384917841690961",
+            "Location": {
+                "Address": "No. 178號, Section 3, Civic Boulevard, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "Jut Art Museum",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0442952",
+                    "Longitude": "121.5373147"
+                }
+            },
+            "Published": "2020-01-31T07:56:50Z",
+            "Title": "Jut Art Museum",
+            "Updated": "2020-01-31T07:56:50Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5344160, 25.0241060],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3285039683205653943",
+            "Location": {
+                "Address": "No. 20之3號, Section 3, Xinsheng South Road, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "翠園越南餐廳",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0241060",
+                    "Longitude": "121.5344160"
+                }
+            },
+            "Published": "2020-01-30T12:41:36Z",
+            "Title": "翠園越南餐廳",
+            "Updated": "2020-01-30T12:41:36Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5343080, 25.0246130],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5277021442699824452",
+            "Location": {
+                "Address": "No. 1號, Lane 16, Section 3, Xinsheng South Road, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "Wistaria Tea House",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0246130",
+                    "Longitude": "121.5343080"
+                }
+            },
+            "Published": "2020-01-30T12:41:27Z",
+            "Title": "Wistaria Tea House",
+            "Updated": "2020-01-30T12:41:27Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5465340, 25.0790444],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1367122015638883948",
+            "Location": {
+                "Address": "No. 52號, Alley 41, Lane 458, Beian Road, Zhongshan District, Taipei City, Taiwan 104",
+                "Business Name": "Cuckoo's Nest",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0790444",
+                    "Longitude": "121.5465340"
+                }
+            },
+            "Published": "2020-01-30T10:15:29Z",
+            "Title": "Cuckoo's Nest",
+            "Updated": "2020-01-30T10:15:56Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5432290, 25.0472551],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13617612223666283386",
+            "Location": {
+                "Address": "3樓, No. 330號, Section 2, Bade Road, Zhongshan District, Taipei City, Taiwan 10491",
+                "Business Name": "THIRD FLOOR COFFEE 在三樓 (入口在墾趣門市內)",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0472551",
+                    "Longitude": "121.5432290"
+                }
+            },
+            "Published": "2020-01-30T08:29:10Z",
+            "Title": "THIRD FLOOR COFFEE 在三樓 (入口在墾趣門市內)",
+            "Updated": "2020-01-30T08:29:10Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5700930, 25.0425900],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3350534740178745713",
+            "Location": {
+                "Address": "11065, Taiwan, Taipei City, Xinyi District, Lane 120, Yongji Road, 82號1F",
+                "Business Name": "蔬漫小姐Miss Shu maan. House",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0425900",
+                    "Longitude": "121.5700930"
+                }
+            },
+            "Published": "2020-01-30T08:28:42Z",
+            "Title": "蔬漫小姐Miss Shu maan. House",
+            "Updated": "2020-01-30T08:28:42Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5429870, 25.0310180],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7855979841049791330",
+            "Location": {
+                "Address": "號地下, 2 Lane 78, Section 2, Fuxing South Road, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "Instil Coffee Dimension",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0310180",
+                    "Longitude": "121.5429870"
+                }
+            },
+            "Published": "2020-01-30T05:05:14Z",
+            "Title": "Instil Coffee Dimension",
+            "Updated": "2020-01-30T05:09:19Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5537217, 25.0206173],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1999231182742499529",
+            "Location": {
+                "Address": "No. 12, Lane 46, Anju Street, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "Chabad of Taiwan",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0206173",
+                    "Longitude": "121.5537217"
+                }
+            },
+            "Published": "2020-01-29T14:21:09Z",
+            "Title": "Chabad of Taiwan",
+            "Updated": "2020-01-29T14:21:09Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5518938, 25.0264109],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14471408443773046800",
+            "Location": {
+                "Address": "No. 59號, Leli Road, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "MANIA 躁鎮",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0264109",
+                    "Longitude": "121.5518938"
+                }
+            },
+            "Published": "2020-01-29T11:29:20Z",
+            "Title": "MANIA 躁鎮",
+            "Updated": "2020-01-29T11:29:20Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5313485, 25.0171513],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6071919448752534138",
+            "Location": {
+                "Address": "10090, Taiwan, Taipei City, Zhongzheng District, Lane 244, Section 3, Roosevelt Road, 2號2樓",
+                "Business Name": "Kafka by the Sea",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0171513",
+                    "Longitude": "121.5313485"
+                }
+            },
+            "Published": "2020-01-29T09:45:39Z",
+            "Title": "Kafka by the Sea",
+            "Updated": "2020-01-29T09:47:00Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5289978, 25.0059973],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3791303466282984071",
+            "Location": {
+                "Address": "Fuhe Bridge, Yonghe District, New Taipei City, Taiwan 234",
+                "Business Name": "Fuhe Flea Market",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0059973",
+                    "Longitude": "121.5289978"
+                }
+            },
+            "Published": "2020-01-29T09:44:17Z",
+            "Title": "Fuhe Flea Market",
+            "Updated": "2020-01-29T09:44:17Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5617918, 25.0312905],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13038065818977748762",
+            "Location": {
+                "Address": "No. 54號, Songqin Street, Xinyi District, Taipei City, Taiwan 110",
+                "Business Name": "Good Cho's",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0312905",
+                    "Longitude": "121.5617918"
+                }
+            },
+            "Published": "2020-01-29T09:42:56Z",
+            "Title": "Good Cho's",
+            "Updated": "2020-01-29T09:43:43Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5561194, 25.0379529],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8522714017986624367",
+            "Location": {
+                "Address": "106, Taiwan, Taipei City, Da’an District, Section 4, Ren'ai Road, 413號1樓",
+                "Business Name": "THE NORMAL 仁愛店",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0379529",
+                    "Longitude": "121.5561194"
+                }
+            },
+            "Published": "2020-01-29T06:37:37Z",
+            "Title": "The Normal",
+            "Updated": "2020-01-29T06:37:37Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5436444, 25.0234917],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7348317278512777104",
+            "Location": {
+                "Address": "No. 339號, Section 2, Fuxing South Road, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "RUFOUS COFFEE",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0234917",
+                    "Longitude": "121.5436444"
+                }
+            },
+            "Published": "2020-01-29T06:36:38Z",
+            "Title": "RUFOUS COFFEE",
+            "Updated": "2020-01-29T06:36:38Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5278089, 25.0439160],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4151553565195229306",
+            "Location": {
+                "Address": "No. 27號, Section 2, Zhongxiao East Road, Zhongzheng District, Taipei City, Taiwan 100",
+                "Business Name": "Simple Kaffa Flagship 興波咖啡",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0439160",
+                    "Longitude": "121.5278089"
+                }
+            },
+            "Published": "2020-01-29T06:35:45Z",
+            "Title": "Simple Kaffa Flagship 興波咖啡",
+            "Updated": "2020-01-29T06:35:45Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5073464, 25.0341949],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12421015658906405756",
+            "Location": {
+                "Address": "No. 224號, Yanping South Road, Zhongzheng District, Taipei City, Taiwan 100",
+                "Business Name": "源士林粥品（和平店）",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0341949",
+                    "Longitude": "121.5073464"
+                }
+            },
+            "Published": "2020-01-29T02:56:39Z",
+            "Title": "源士林粥品（和平店）",
+            "Updated": "2020-01-29T02:56:39Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5152683, 25.0555350],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11738230280794280116",
+            "Location": {
+                "Address": "Ningxia Road, Datong District, Taipei City, Taiwan 103",
+                "Business Name": "Ningxia Night Market",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0555350",
+                    "Longitude": "121.5152683"
+                }
+            },
+            "Published": "2020-01-27T13:12:48Z",
+            "Title": "Ningxia Night Market",
+            "Updated": "2020-01-27T13:12:48Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5304490, 25.0506100],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2909521482257962438",
+            "Location": {
+                "Address": "No. 19, Lane 90, Songjiang Road, Zhongshan District, Taipei City, Taiwan 10491",
+                "Business Name": "梁記雞肉飯",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0506100",
+                    "Longitude": "121.5304490"
+                }
+            },
+            "Published": "2020-01-27T13:10:37Z",
+            "Title": "梁記雞肉飯",
+            "Updated": "2020-01-27T13:10:37Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5304472, 25.0638501],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14638423464814434651",
+            "Location": {
+                "Address": "No. 327號, Jilin Road, Zhongshan District, Taipei City, Taiwan 104",
+                "Business Name": "Lin vegetable lamb furnace",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0638501",
+                    "Longitude": "121.5304472"
+                }
+            },
+            "Published": "2020-01-27T13:05:49Z",
+            "Title": "Lin vegetable lamb furnace",
+            "Updated": "2020-01-27T13:05:49Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5360575, 25.1182600],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5360931727351163222",
+            "Location": {
+                "Address": "No. 97號, Tianmu East Road, Shilin District, Taipei City, Taiwan 111",
+                "Business Name": "女娘的店",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.1182600",
+                    "Longitude": "121.5360575"
+                }
+            },
+            "Published": "2020-01-27T13:05:20Z",
+            "Title": "女娘的店",
+            "Updated": "2020-01-27T13:05:20Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5778070, 25.0826640],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15684896392582729989",
+            "Location": {
+                "Address": "港墘路26巷4號, 內湖區台北市 Taiwan 114",
+                "Business Name": "The Antipodean Specialty Coffee",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0826640",
+                    "Longitude": "121.5778070"
+                }
+            },
+            "Published": "2020-01-27T12:50:39Z",
+            "Title": "The Antipodean Specialty Coffee",
+            "Updated": "2020-01-27T12:50:39Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5510684, 25.0402676],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6609927071312465907",
+            "Location": {
+                "Address": "10690, Taiwan, Taipei City, Da’an District, Lane 233, Section 1, Dunhua South Road, 32號1樓",
+                "Business Name": "元禾食堂 Flourish",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0402676",
+                    "Longitude": "121.5510684"
+                }
+            },
+            "Published": "2020-01-27T12:50:25Z",
+            "Title": "元禾食堂 Flourish",
+            "Updated": "2020-01-27T12:50:25Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5248488, 25.0441914],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11496230489420672286",
+            "Location": {
+                "Address": "100, Taiwan, Taipei City, Zhongzheng District, Section 1, Zhongxiao East Road, 108號2樓",
+                "Business Name": "Fuhang Soy Milk",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0441914",
+                    "Longitude": "121.5248488"
+                }
+            },
+            "Published": "2020-01-27T12:22:17Z",
+            "Title": "Fuhang Soy Milk",
+            "Updated": "2020-01-27T12:22:17Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5609363, 25.1942462],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6632645166790586489",
+            "Location": {
+                "Address": "Taiwan",
+                "Business Name": "Yangmingshan National Park",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.1942462",
+                    "Longitude": "121.5609363"
+                }
+            },
+            "Published": "2020-01-27T12:16:48Z",
+            "Title": "Yangmingshan National Park",
+            "Updated": "2020-01-27T12:16:48Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5217810, 25.0346119],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4893446054581594546",
+            "Location": {
+                "Address": "No. 21號, Zhongshan South Road, Zhongzheng District, Taipei City, Taiwan 100",
+                "Business Name": "National Chiang Kai-shek Memorial Hall",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0346119",
+                    "Longitude": "121.5217810"
+                }
+            },
+            "Published": "2020-01-27T12:16:37Z",
+            "Title": "National Chiang Kai-shek Memorial Hall",
+            "Updated": "2020-01-27T12:16:37Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [120.2924432, 22.6804756],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5939462940770730183",
+            "Location": {
+                "Address": "No. 9號, Liantan Road, Zuoying District, Kaohsiung City, Taiwan 813",
+                "Business Name": "Dragon and Tiger Pagodas",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "22.6804756",
+                    "Longitude": "120.2924432"
+                }
+            },
+            "Published": "2020-01-27T12:15:51Z",
+            "Title": "Dragon and Tiger Pagodas",
+            "Updated": "2020-01-27T12:15:51Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [120.4452492, 22.7556200],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12037088239667337532",
+            "Location": {
+                "Address": "No. 1號, Tongling Road, Dashu District, Kaohsiung City, Taiwan 84049",
+                "Business Name": "佛光山佛陀紀念館 Fo Guang Shan Buddha Museum",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "22.7556200",
+                    "Longitude": "120.4452492"
+                }
+            },
+            "Published": "2020-01-27T12:15:38Z",
+            "Title": "佛光山佛陀紀念館 Fo Guang Shan Buddha Museum",
+            "Updated": "2020-01-27T12:15:38Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.8620051, 25.1095149],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15248817487158769024",
+            "Location": {
+                "Address": "Ruifang District, New Taipei City, Taiwan 224",
+                "Business Name": "Teapot Mountain Trail",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.1095149",
+                    "Longitude": "121.8620051"
+                }
+            },
+            "Published": "2020-01-27T08:50:09Z",
+            "Title": "Teapot Mountain Trail",
+            "Updated": "2020-01-27T08:50:09Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5263715, 25.0952724],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7485003131267239889",
+            "Location": {
+                "Address": "No. 219號, Zhongzheng Road, Shilin District, Taipei City, Taiwan 111",
+                "Business Name": "鍋鍋有意思Magic pot創意火鍋",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0952724",
+                    "Longitude": "121.5263715"
+                }
+            },
+            "Published": "2020-01-27T06:09:32Z",
+            "Title": "鍋鍋有意思Magic pot創意火鍋",
+            "Updated": "2020-01-27T06:09:32Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.4121084, 25.1830092],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3621446796206948512",
+            "Location": {
+                "Address": "Guanhai Road, Tamsui District, New Taipei City, Taiwan 251",
+                "Business Name": "Tamsui Fisherman's Wharf",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.1830092",
+                    "Longitude": "121.4121084"
+                }
+            },
+            "Published": "2020-01-25T11:49:22Z",
+            "Title": "Tamsui Fisherman's Wharf",
+            "Updated": "2020-01-25T11:49:22Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5542413, 25.0301955],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13429027959952006446",
+            "Location": {
+                "Address": "Alley 1, Lane 40, Linjiang Street, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "Linjiang Street Night Market",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0301955",
+                    "Longitude": "121.5542413"
+                }
+            },
+            "Published": "2020-01-24T16:46:29Z",
+            "Title": "Linjiang Street Night Market",
+            "Updated": "2020-01-24T16:46:29Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5427963, 25.0237379],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11348718724797115277",
+            "Location": {
+                "Address": "No. 4-1, 和平東路二段118巷大安區台北市 Taiwan 106",
+                "Business Name": "Ooh Cha Cha 自然食科技大樓",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0237379",
+                    "Longitude": "121.5427963"
+                }
+            },
+            "Published": "2020-01-24T16:18:40Z",
+            "Title": "Ooh Cha Cha 自然食科技大樓",
+            "Updated": "2020-01-24T16:18:40Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5234270, 25.0250760],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15229533169789022252",
+            "Location": {
+                "Address": "No. 207號, Section 2, Nanchang Road, Zhongzheng District, Taipei City, Taiwan 100",
+                "Business Name": "Ooh Cha Cha 自然食古亭",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0250760",
+                    "Longitude": "121.5234270"
+                }
+            },
+            "Published": "2020-01-24T16:18:16Z",
+            "Title": "Ooh Cha Cha 自然食古亭",
+            "Updated": "2020-01-24T16:18:16Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [100.5494503, 13.7400495],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12867020175501357865",
+            "Location": {
+                "Address": "15/1 Soi Ruam Ruedi, Lumphini, Pathum Wan District, Bangkok 10330, Thailand",
+                "Business Name": "Pizza Massilia",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "13.7400495",
+                    "Longitude": "100.5494503"
+                }
+            },
+            "Published": "2020-01-24T15:55:27Z",
+            "Title": "Pizza Massilia",
+            "Updated": "2020-01-24T15:55:27Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [-96.770783, 32.808653],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=32.808653,-96.770783",
+            "Location": {
+                "Latitude": "32.808653",
+                "Longitude": "-96.770783"
+            },
+            "Published": "2017-07-23T15:20:19Z",
+            "Title": "32.808653,-96.770783",
+            "Updated": "2020-01-24T15:54:16Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5438175, 25.0536919],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13397511399737907274",
+            "Location": {
+                "Address": "No. 166號, Fuxing North Road, Zhongshan District, Taipei City, Taiwan 10491",
+                "Business Name": "The Brass Monkey",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0536919",
+                    "Longitude": "121.5438175"
+                }
+            },
+            "Published": "2020-01-24T15:51:11Z",
+            "Title": "The Brass Monkey",
+            "Updated": "2020-01-24T15:51:11Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5442543, 25.0367206],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11930964044193082739",
+            "Location": {
+                "Address": "No. 10號, Lane 253, Section 1, Fuxing South Road, Da’an District, Taipei City, Taiwan 106",
+                "Business Name": "Plants",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0367206",
+                    "Longitude": "121.5442543"
+                }
+            },
+            "Published": "2020-01-24T15:44:47Z",
+            "Title": "Plants",
+            "Updated": "2020-01-24T15:44:47Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [100.4971183, 13.7599468],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=928252618074189132",
+            "Location": {
+                "Address": "84 Rambutri st, แขวง ตลาดยอด เขตพระนคร กรุงเทพมหานคร 10200, Thailand",
+                "Business Name": "Khaosan Green House Hotel",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "13.7599468",
+                    "Longitude": "100.4971183"
+                }
+            },
+            "Published": "2020-01-23T23:55:38Z",
+            "Title": "Khaosan Green House Hotel",
+            "Updated": "2020-01-23T23:55:38Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [100.4154929, 13.7615033],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7619938761941556913",
+            "Location": {
+                "Address": "30/1 หมู่ที่ 15 Bang Ramat Road, Bang Ramat, Taling Chan, Bangkok 10170, Thailand",
+                "Business Name": "Khlong Lat Mayom Floating Market",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "13.7615033",
+                    "Longitude": "100.4154929"
+                }
+            },
+            "Published": "2020-01-23T07:29:15Z",
+            "Title": "Khlong Lat Mayom Floating Market",
+            "Updated": "2020-01-23T07:29:15Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [100.4565979, 13.7762674],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11991442533601248354",
+            "Location": {
+                "Address": "Thailand, Bangkok, Chim phli Road, 76",
+                "Business Name": "Taling Chan Floating Market",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "13.7762674",
+                    "Longitude": "100.4565979"
+                }
+            },
+            "Published": "2020-01-23T07:29:04Z",
+            "Title": "Taling Chan Floating Market",
+            "Updated": "2020-01-23T07:29:04Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [100.5685637, 13.7667568],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3184249495330552093",
+            "Location": {
+                "Address": "Ratchadaphisek Road, Din Daeng, Bangkok 10400, Thailand",
+                "Business Name": "Talad Rot Fai Train Night Market Ratchada",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "13.7667568",
+                    "Longitude": "100.5685637"
+                }
+            },
+            "Published": "2018-10-21T18:15:49Z",
+            "Title": "Talad Rot Fai Train Night Market Ratchada",
+            "Updated": "2020-01-23T07:22:17Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [100.4864535, 13.7558471],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2408234431196544489",
+            "Location": {
+                "Address": "Wanglang Road, Siri Rat, Bangkok Noi, Bangkok 10700, Thailand",
+                "Business Name": "Wang Lang Market ตลาดวังหลัง",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "13.7558471",
+                    "Longitude": "100.4864535"
+                }
+            },
+            "Published": "2020-01-23T07:14:11Z",
+            "Title": "Wang Lang Market",
+            "Updated": "2020-01-23T07:14:11Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [100.5487751, 13.7993870],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=10516346959717498187",
+            "Location": {
+                "Address": "สวนจตุจักร Kamphaeng Phet 2 Road, Chatuchak, Bangkok 10900, Thailand",
+                "Business Name": "Chatuchak Weekend Market",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "13.7993870",
+                    "Longitude": "100.5487751"
+                }
+            },
+            "Published": "2018-03-31T19:14:39Z",
+            "Title": "Chatuchak Weekend Market",
+            "Updated": "2020-01-23T07:01:02Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9550396, 18.7927624],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3256345129552460882",
+            "Location": {
+                "Address": "Suthep, Mueang Chiang Mai District, Chiang Mai, Thailand",
+                "Business Name": "LABOR - ลาบบ๋อ เชียงใหม่",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7927624",
+                    "Longitude": "98.9550396"
+                }
+            },
+            "Published": "2020-01-22T08:19:20Z",
+            "Title": "LABOR - ลาบบ๋อ เชียงใหม่",
+            "Updated": "2020-01-22T08:19:20Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [140.7068609, 42.8568220],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16377950180690252866",
+            "Location": {
+                "Address": "167-21 Yamada, Kutchan, Abuta District, Hokkaido 044-0081, Japan",
+                "Business Name": "Bar Gyu+",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "42.8568220",
+                    "Longitude": "140.7068609"
+                }
+            },
+            "Published": "2020-01-21T15:09:26Z",
+            "Title": "Bar Gyu+",
+            "Updated": "2020-01-21T15:09:26Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9901199, 18.7957799],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3131622485677253484",
+            "Location": {
+                "Address": "Si Phum Sub-district, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+                "Business Name": "HUG Bed and Breakfast",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7957799",
+                    "Longitude": "98.9901199"
+                }
+            },
+            "Published": "2020-01-21T12:26:36Z",
+            "Title": "HUG Bed and Breakfast",
+            "Updated": "2020-01-21T12:26:36Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.4397816, 19.3641205],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12388231428981616686",
+            "Location": {
+                "Address": "125 1095, Wiang Tai, Pai District, Mae Hong Son 58130, Thailand",
+                "Business Name": "Khrua Issan BBQ restaurant",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "19.3641205",
+                    "Longitude": "98.4397816"
+                }
+            },
+            "Published": "2020-01-20T09:19:12Z",
+            "Title": "Khrua Issan BBQ restaurant",
+            "Updated": "2020-01-20T09:19:12Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [2.355562, 48.869546],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=48.869546,2.355562",
+            "Location": {
+                "Latitude": "48.869546",
+                "Longitude": "2.355562"
+            },
+            "Published": "2019-08-28T01:45:41Z",
+            "Title": "48.869546,2.355562",
+            "Updated": "2020-01-16T07:59:45Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.4491120, 19.3514243],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4836978514752594427",
+            "Location": {
+                "Address": "291 Moo1,, T.Mae Hee, อำเภอปาย แม่ฮ่องสอน 58130, Thailand",
+                "Business Name": "Spicypai Backpackers",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "19.3514243",
+                    "Longitude": "98.4491120"
+                }
+            },
+            "Published": "2020-01-14T08:37:47Z",
+            "Title": "Spicypai Backpackers",
+            "Updated": "2020-01-14T08:37:47Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.4446652, 19.3578828],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=10855236496175434685",
+            "Location": {
+                "Address": "63/2, หมู่ 3, เวียงใต้, อำเภอปาย แม่ฮ่องสอน 58130, Thailand",
+                "Business Name": "Lemon Thyme Cafe",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "19.3578828",
+                    "Longitude": "98.4446652"
+                }
+            },
+            "Published": "2020-01-14T08:36:38Z",
+            "Title": "Lemon Thyme Cafe",
+            "Updated": "2020-01-14T08:36:38Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.4493748, 19.3616397],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=513599139152148906",
+            "Location": {
+                "Address": "183 Moo 1 Wiang Nuea, Pai District, Mae Hong Son 58130, Thailand",
+                "Business Name": "Two Sisters Restaurant",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "19.3616397",
+                    "Longitude": "98.4493748"
+                }
+            },
+            "Published": "2020-01-14T08:21:10Z",
+            "Title": "Two Sisters Restaurant",
+            "Updated": "2020-01-14T08:21:10Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [77.188715, 32.239632],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=Manali,+Himachal+Pradesh,+India&ftid=0x39048708163fd03f:0x8129a80ebe5076cd",
+            "Location": {
+                "Latitude": "32.239632",
+                "Longitude": "77.188715"
+            },
+            "Published": "2020-01-14T06:31:55Z",
+            "Title": "Manali, Himachal Pradesh, India",
+            "Updated": "2020-01-14T06:31:55Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [6.9957972, 43.6011079],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8122966070060933399",
+            "Location": {
+                "Address": "32 Rue du Commandeur, 06250 Mougins, France",
+                "Business Name": "Museum of Classical Art in Mougins",
+                "Country Code": "FR",
+                "Geo Coordinates": {
+                    "Latitude": "43.6011079",
+                    "Longitude": "6.9957972"
+                }
+            },
+            "Published": "2020-01-14T03:18:00Z",
+            "Title": "Museum of Classical Art in Mougins",
+            "Updated": "2020-01-14T03:18:00Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [7.0709718, 46.0944857],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11487248673851884169",
+            "Location": {
+                "Address": "Rue du Forum 59, 1920 Martigny, Switzerland",
+                "Business Name": "Fondation Pierre Gianadda",
+                "Country Code": "CH",
+                "Geo Coordinates": {
+                    "Latitude": "46.0944857",
+                    "Longitude": "7.0709718"
+                }
+            },
+            "Published": "2020-01-14T03:17:15Z",
+            "Title": "Fondation Pierre Gianadda",
+            "Updated": "2020-01-14T03:17:15Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9820406, 18.7931833],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12417040108065692179",
+            "Location": {
+                "Address": "52/3 Singharat Road, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+                "Business Name": "Goodsouls Kitchen",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7931833",
+                    "Longitude": "98.9820406"
+                }
+            },
+            "Published": "2020-01-13T02:20:53Z",
+            "Title": "Goodsouls Kitchen",
+            "Updated": "2020-01-13T02:20:53Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9874198, 18.7940945],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6777272003159547528",
+            "Location": {
+                "Address": "252/13-14 Prapokklao Rd ถนน ศรีภูมิ Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+                "Business Name": "BAAN Landai Fine Thai Cuisine",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7940945",
+                    "Longitude": "98.9874198"
+                }
+            },
+            "Published": "2020-01-12T10:41:48Z",
+            "Title": "BAAN Landai Fine Thai Cuisine",
+            "Updated": "2020-01-12T10:41:48Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9418415, 18.7477274],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5438583535462596353",
+            "Location": {
+                "Address": "32 หมู่ที่ 2 ถนน เลียบคลองชลประทาน ตำบน Mae Hia, Mueang Chiang Mai District, Chiang Mai 50100, Thailand",
+                "Business Name": "Mae Hia Fresh Market",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7477274",
+                    "Longitude": "98.9418415"
+                }
+            },
+            "Published": "2020-01-12T02:24:29Z",
+            "Title": "Mae Hia Fresh Market",
+            "Updated": "2020-01-12T02:24:29Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9842685, 18.8006117],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9709571498243473284",
+            "Location": {
+                "Address": "Si Phum Sub-district, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+                "Business Name": "Baan Landai",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.8006117",
+                    "Longitude": "98.9842685"
+                }
+            },
+            "Published": "2020-01-11T13:42:16Z",
+            "Title": "Baan Landai",
+            "Updated": "2020-01-11T13:42:16Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [-87.673571, 42.057165],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=42.057165,-87.673571",
+            "Location": {
+                "Latitude": "42.057165",
+                "Longitude": "-87.673571"
+            },
+            "Published": "2012-02-12T00:28:46Z",
+            "Title": "42.057165,-87.673571",
+            "Updated": "2020-01-10T09:30:07Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.4561919, 19.3500969],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15835358535241205118",
+            "Location": {
+                "Address": "Mae Hi, Pai District, Mae Hong Son 58130, Thailand",
+                "Business Name": "Big Buddha Pai Meditation by Mongkhol",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "19.3500969",
+                    "Longitude": "98.4561919"
+                }
+            },
+            "Published": "2020-01-10T03:15:22Z",
+            "Title": "Big Buddha Pai Meditation by Mongkhol",
+            "Updated": "2020-01-10T03:15:22Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.4731700, 19.3080849],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13664173342214801191",
+            "Location": {
+                "Address": "Unnamed Rd, ตำบล แม่ฮี้ อำเภอปาย แม่ฮ่องสอน 58130, Thailand",
+                "Business Name": "Tha Pai Hot Spring",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "19.3080849",
+                    "Longitude": "98.4731700"
+                }
+            },
+            "Published": "2020-01-10T03:14:08Z",
+            "Title": "Tha Pai Hot Spring",
+            "Updated": "2020-01-10T03:14:08Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.4525058, 19.3061309],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9501435386582642370",
+            "Location": {
+                "Address": "ตำบลแม่ฮี้ อำเภอปาย แม่ฮ่องสอน 58130, Thailand",
+                "Business Name": "Pai Canyon",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "19.3061309",
+                    "Longitude": "98.4525058"
+                }
+            },
+            "Published": "2020-01-10T03:13:45Z",
+            "Title": "Pai Canyon",
+            "Updated": "2020-01-10T03:13:45Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.4419003, 19.3520705],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15884977722317784698",
+            "Location": {
+                "Address": "414 หมู่ 8, ตำบลเวียงใต้ อำเภอปาย จังหวัดแม่ฮ่องสอน, 58130 Thailand",
+                "Business Name": "Khaotha Café",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "19.3520705",
+                    "Longitude": "98.4419003"
+                }
+            },
+            "Published": "2020-01-09T09:00:22Z",
+            "Title": "Khaotha Café",
+            "Updated": "2020-01-09T09:00:22Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [21.436804, 42.000127],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=42.000127,21.436804",
+            "Location": {
+                "Latitude": "42.000127",
+                "Longitude": "21.436804"
+            },
+            "Published": "2019-08-29T14:11:28Z",
+            "Title": "42.000127,21.436804",
+            "Updated": "2020-01-07T08:51:00Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9493253, 18.7937822],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5924700518883211495",
+            "Location": {
+                "Address": "200/5 ถนน สุเทพ เมือง Chiang Mai 50200, Thailand",
+                "Business Name": "All Ma Friends",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7937822",
+                    "Longitude": "98.9493253"
+                }
+            },
+            "Published": "2020-01-06T03:38:37Z",
+            "Title": "All Ma Friends",
+            "Updated": "2020-01-06T03:38:37Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [99.8551206, 19.9175519],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3743836874265882379",
+            "Location": {
+                "Address": "ตําบล, หมู่ที่ 22 151/3 Naarsanarmkeera Road, อําเภ Mueang Chiang Rai District, Chiang Rai 57000, Thailand",
+                "Business Name": "Lab sanam keela",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "19.9175519",
+                    "Longitude": "99.8551206"
+                }
+            },
+            "Published": "2020-01-05T13:37:31Z",
+            "Title": "Lab sanam keela",
+            "Updated": "2020-01-05T13:37:31Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9834640, 18.7797110],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13855510520570582650",
+            "Location": {
+                "Address": "19 Wua Lai Soi 2,Amphoe Mueang Chiang Mai, Chang Wat Chiang Mai 50100, HAIYA, MUANG, เชียงใหม่ 50100, Thailand",
+                "Business Name": "Pink House Garden - CakeAway Gluten-Free Bakery",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7797110",
+                    "Longitude": "98.9834640"
+                }
+            },
+            "Published": "2020-01-04T14:02:22Z",
+            "Title": "Pink House Garden - CakeAway Gluten-Free Bakery",
+            "Updated": "2020-01-04T14:02:22Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9811110, 18.7839980],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14563858109298336985",
+            "Location": {
+                "Address": "1 1 ซอย 6 Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+                "Business Name": "ร้านนางสาวปนัญม์พร ตันตราพล",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7839980",
+                    "Longitude": "98.9811110"
+                }
+            },
+            "Published": "2020-01-04T08:29:52Z",
+            "Title": "ร้านนางสาวปนัญม์พร ตันตราพล",
+            "Updated": "2020-01-04T08:29:52Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9800868, 18.8031817],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4800936117945047878",
+            "Location": {
+                "Address": "Hussadhisawee Soi 3, Mueang Chiang Mai District, Chiang Mai 50300, Thailand",
+                "Business Name": "Akha Ama Coffee",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.8031817",
+                    "Longitude": "98.9800868"
+                }
+            },
+            "Published": "2020-01-04T08:20:48Z",
+            "Title": "Akha Ama Coffee",
+            "Updated": "2020-01-04T08:20:48Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9759960, 18.7653270],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9570318438583555388",
+            "Location": {
+                "Address": "97/3 1 4 Soi 4 (Khai Muk) off Hang Dong Road, ตำบลป่าแดด Muang, 50000, Thailand",
+                "Business Name": "Documentary Arts Asia",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7653270",
+                    "Longitude": "98.9759960"
+                }
+            },
+            "Published": "2020-01-04T05:30:48Z",
+            "Title": "Documentary Arts Asia",
+            "Updated": "2020-01-04T05:30:48Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [99.8444697, 19.8690044],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14877672156464163114",
+            "Location": {
+                "Address": "ทางหลวงชนบท ชร.5023 Tha Sai, Mueang Chiang Rai District, Chiang Rai 57000, Thailand",
+                "Business Name": "Okra Cafe",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "19.8690044",
+                    "Longitude": "99.8444697"
+                }
+            },
+            "Published": "2020-01-04T05:30:24Z",
+            "Title": "Okra Cafe",
+            "Updated": "2020-01-04T05:30:24Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [99.7828742, 19.9084691],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14477262663595188368",
+            "Location": {
+                "Address": "266 Moo 1 Rob Viang, อำเภอเมืองเชียงราย เชียงราย 57000, Thailand",
+                "Business Name": "Polar Boulangerie and Patisserie",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "19.9084691",
+                    "Longitude": "99.7828742"
+                }
+            },
+            "Published": "2020-01-04T05:30:01Z",
+            "Title": "Polar Boulangerie and Patisserie",
+            "Updated": "2020-01-04T05:30:01Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [99.8339743, 19.9043322],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15617783402185196734",
+            "Location": {
+                "Address": "170 171 Prasopsook Road, Mueang Chiang Rai District, Chiang Rai 57000, Thailand",
+                "Business Name": "Connect Cafe คอนเนคท์ คาเฟ่",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "19.9043322",
+                    "Longitude": "99.8339743"
+                }
+            },
+            "Published": "2020-01-04T05:29:50Z",
+            "Title": "Connect Cafe คอนเนคท์ คาเฟ่",
+            "Updated": "2020-01-04T05:29:50Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [99.0794909, 19.0691986],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5480320487083308147",
+            "Location": {
+                "Address": "หมู่ที่ 8 ตำบล แม่หอพระ อำเภอแม่แตง เชียงใหม่ 50150, Thailand",
+                "Business Name": "Bua Tong Waterfalls (Sticky Waterfalls)",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "19.0691986",
+                    "Longitude": "99.0794909"
+                }
+            },
+            "Published": "2020-01-04T05:26:07Z",
+            "Title": "Bua Tong Waterfalls (Sticky Waterfalls)",
+            "Updated": "2020-01-04T05:26:07Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9864420, 18.7973060],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12867886055202716464",
+            "Location": {
+                "Address": "51, 1-2 Changhuak Road, Mueang Chiang Mai District, Chiang Mai 50209, Thailand",
+                "Business Name": "Hug Hostel Rooftop Chiang Mai Thailand",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7973060",
+                    "Longitude": "98.9864420"
+                }
+            },
+            "Published": "2020-01-04T05:25:59Z",
+            "Title": "Hug Hostel Rooftop Chiang Mai Thailand",
+            "Updated": "2020-01-04T05:25:59Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9421813, 18.7976637],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=700633229910552216",
+            "Location": {
+                "Address": "Unnamed Rd Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+                "Business Name": "Wat Pha Lat Hike (Monk's trail)",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7976637",
+                    "Longitude": "98.9421813"
+                }
+            },
+            "Published": "2020-01-04T05:23:08Z",
+            "Title": "Wat Pha Lat Hike (Monk's trail)",
+            "Updated": "2020-01-04T05:23:08Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [99.0043500, 18.7995500],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4128395291360611797",
+            "Location": {
+                "Address": "330/2 ถนน เจริญราษฎร์ ตำบลวัดเกตุ Mueang Chiang Mai District, Chiang Mai 50000, Thailand",
+                "Business Name": "Natwat HomeCafe",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7995500",
+                    "Longitude": "99.0043500"
+                }
+            },
+            "Published": "2020-01-04T05:23:01Z",
+            "Title": "Natwat HomeCafe",
+            "Updated": "2020-01-04T05:23:01Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9906243, 18.7910401],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11161602342104605418",
+            "Location": {
+                "Address": "196/5/1 Ratchapakhinai Road, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+                "Business Name": "Havana Bar Chiang mai Thailand",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7910401",
+                    "Longitude": "98.9906243"
+                }
+            },
+            "Published": "2020-01-04T05:22:46Z",
+            "Title": "Havana Bar Chiang mai Thailand",
+            "Updated": "2020-01-04T05:22:46Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9694616, 18.7981040],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14134857941159723653",
+            "Location": {
+                "Address": "Nimmana Haeminda Road Lane 7, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+                "Business Name": "Living machine",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7981040",
+                    "Longitude": "98.9694616"
+                }
+            },
+            "Published": "2020-01-04T05:22:32Z",
+            "Title": "Living machine",
+            "Updated": "2020-01-04T05:22:32Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5227080, 25.0504640],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16739902624107393441",
+            "Location": {
+                "Address": "No. 5-1號, Lane 83, Section 1, Zhongshan North Road, Zhongshan District, Taipei City, Taiwan 10491",
+                "Business Name": "BAR小谷",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0504640",
+                    "Longitude": "121.5227080"
+                }
+            },
+            "Published": "2020-01-04T04:59:06Z",
+            "Title": "BAR小谷",
+            "Updated": "2020-01-04T04:59:06Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5221609, 25.0532790],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13622928900070036371",
+            "Location": {
+                "Address": "No. 18號, Section 2, Zhongshan North Road, Zhongshan District, Taipei City, Taiwan 104",
+                "Business Name": "SPOT - Taipei Film House",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0532790",
+                    "Longitude": "121.5221609"
+                }
+            },
+            "Published": "2020-01-04T04:57:55Z",
+            "Title": "SPOT - Taipei Film House",
+            "Updated": "2020-01-04T04:57:55Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9624509, 18.7879901],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1357507369265098848",
+            "Location": {
+                "Address": "54/2, Sanam Bin Kao Road, Tambon Su Thep, Amphoe Mueang Chiang Mai, Chiang Mai, 50200 ‎, Thailand",
+                "Business Name": "Na Coffee",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7879901",
+                    "Longitude": "98.9624509"
+                }
+            },
+            "Published": "2020-01-04T02:36:51Z",
+            "Title": "Na Coffee",
+            "Updated": "2020-01-04T02:36:51Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9538467, 18.7838006],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11168672475728801283",
+            "Location": {
+                "Address": "Suthep, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+                "Business Name": "Corner Coff",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7838006",
+                    "Longitude": "98.9538467"
+                }
+            },
+            "Published": "2020-01-04T02:34:51Z",
+            "Title": "Corner Coff",
+            "Updated": "2020-01-04T02:34:51Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9506388, 18.7871211],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15914942810607091300",
+            "Location": {
+                "Address": "ซอย 9 บ้านใหม่หลังมอ Mueang Chiang Mai District, 50200, Thailand",
+                "Business Name": "The Teak Coffee",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7871211",
+                    "Longitude": "98.9506388"
+                }
+            },
+            "Published": "2020-01-04T02:34:02Z",
+            "Title": "The Teak Coffee",
+            "Updated": "2020-01-04T02:34:02Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9876660, 18.7952770],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1594002648108605009",
+            "Location": {
+                "Address": "87 Sri Poom Road, Mueang Chiang Mai District, 50200, Thailand",
+                "Business Name": "Cool Breakfast & French Crepes",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7952770",
+                    "Longitude": "98.9876660"
+                }
+            },
+            "Published": "2020-01-04T02:33:12Z",
+            "Title": "Cool Breakfast & French Crepes",
+            "Updated": "2020-01-04T02:33:12Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9802339, 18.7887594],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3449044296657798852",
+            "Location": {
+                "Address": "เมือง, 109 Intha Warorot Road อำเภอเมืองเชียงใหม่ เชียงใหม่ 50200, Thailand",
+                "Business Name": "กาแฟทอฝัน ( Thor-Phan Coffee Roaster )",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7887594",
+                    "Longitude": "98.9802339"
+                }
+            },
+            "Published": "2020-01-04T02:32:08Z",
+            "Title": "กาแฟทอฝัน ( Thor-Phan Coffee Roaster )",
+            "Updated": "2020-01-04T02:32:08Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [99.8323359, 19.9061086],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8660782819506984727",
+            "Location": {
+                "Address": "869 53-54 Thai Viwat Alley, อำเภอเมือง Chiang Rai 57000, Thailand",
+                "Business Name": "BED&BIKE POSHTEL",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "19.9061086",
+                    "Longitude": "99.8323359"
+                }
+            },
+            "Published": "2020-01-03T14:55:31Z",
+            "Title": "BED&BIKE POSHTEL",
+            "Updated": "2020-01-03T14:55:31Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.7737387, 7.7406996],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16386449969726784882",
+            "Location": {
+                "Address": "Ao Nang, Mueang Krabi District, Krabi 81000, Thailand",
+                "Business Name": "Banana bar",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "7.7406996",
+                    "Longitude": "98.7737387"
+                }
+            },
+            "Published": "2020-01-03T03:44:10Z",
+            "Title": "Banana bar",
+            "Updated": "2020-01-03T03:44:10Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9674757, 18.7981617],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9384174923371034510",
+            "Location": {
+                "Address": "Nimmana Haeminda Road Lane 7, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+                "Business Name": "Rustic and Blue",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7981617",
+                    "Longitude": "98.9674757"
+                }
+            },
+            "Published": "2020-01-03T02:29:55Z",
+            "Title": "Rustic and Blue The Farm Shop",
+            "Updated": "2020-01-03T02:29:55Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9832530, 18.7880630],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17053217404613206668",
+            "Location": {
+                "Address": "175, 12 Rachadamnoen Road, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+                "Business Name": "My Secret Cafe In Town",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7880630",
+                    "Longitude": "98.9832530"
+                }
+            },
+            "Published": "2020-01-01T17:39:01Z",
+            "Title": "My Secret Cafe In Town",
+            "Updated": "2020-01-01T17:39:01Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [99.0029232, 18.7839386],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11537015192293536935",
+            "Location": {
+                "Address": "68/3 Charoen Prathet Road, Mueang Chiang Mai District, Chiang Mai 50100, Thailand",
+                "Business Name": "CUBE - Night Bazar",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7839386",
+                    "Longitude": "99.0029232"
+                }
+            },
+            "Published": "2020-01-01T17:24:27Z",
+            "Title": "CUBE - Night Bazar",
+            "Updated": "2020-01-01T17:24:27Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9511902, 18.7833134],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17145092333932990553",
+            "Location": {
+                "Address": "135 หมู่ที่ 10 Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+                "Business Name": "Wat Umong Suan Phutthatham",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7833134",
+                    "Longitude": "98.9511902"
+                }
+            },
+            "Published": "2020-01-01T17:21:33Z",
+            "Title": "Wat Umong Suan Phutthatham",
+            "Updated": "2020-01-01T17:21:33Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9612955, 18.8061426],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3901704628191287027",
+            "Location": {
+                "Address": "15/5 หมู่ 1 ซอย สุดใจ ถนน คลองชลประทาน Mueang Chiang Mai District, Chiang Mai 50300, Thailand",
+                "Business Name": "Food 4 Thought",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.8061426",
+                    "Longitude": "98.9612955"
+                }
+            },
+            "Published": "2020-01-01T02:58:35Z",
+            "Title": "Food 4 Thought",
+            "Updated": "2020-01-01T02:58:35Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9683933, 18.7948109],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12453045813049534088",
+            "Location": {
+                "Address": "Suthep, Mueang Chiang Mai District, Chiang Mai, Thailand",
+                "Business Name": "SS1254372 Cafe",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7948109",
+                    "Longitude": "98.9683933"
+                }
+            },
+            "Published": "2020-01-01T02:58:19Z",
+            "Title": "SS1254372 Cafe",
+            "Updated": "2020-01-01T02:58:19Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9721726, 18.7941265],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15255638799051525595",
+            "Location": {
+                "Address": "14 ถนนศิริมังมังคลาจารย์ Mueang Chiang Mai District, 50200, Thailand",
+                "Business Name": "Free Bird Cafe",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7941265",
+                    "Longitude": "98.9721726"
+                }
+            },
+            "Published": "2020-01-01T02:58:15Z",
+            "Title": "Free Bird Cafe",
+            "Updated": "2020-01-01T02:58:15Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9952841, 18.8047144],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14452351833289150576",
+            "Location": {
+                "Address": "38 Atsadathon Road, Mueang Chiang Mai District, Chiang Mai 50300, Thailand",
+                "Business Name": "Hualamphong Chiangmai",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.8047144",
+                    "Longitude": "98.9952841"
+                }
+            },
+            "Published": "2019-12-31T15:57:14Z",
+            "Title": "Hualamphong Chiangmai",
+            "Updated": "2019-12-31T15:57:30Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [99.0027770, 18.8096490],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3371435834172472028",
+            "Location": {
+                "Address": "Wang Sing Kam Road, Mueang Chiang Mai District, Chiang Mai 50300, Thailand",
+                "Business Name": "รียูเนียน #ถ้าคุณเหงาเราคือเพื่อน",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.8096490",
+                    "Longitude": "99.0027770"
+                }
+            },
+            "Published": "2019-12-31T13:53:40Z",
+            "Title": "รียูเนียน #ถ้าคุณเหงาเราคือเพื่อน",
+            "Updated": "2019-12-31T13:53:40Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9914724, 18.7832743],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4148541367313503630",
+            "Location": {
+                "Address": "83/2 Moon Muang Road Lane 1, ตำบล พระสิงห์ Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+                "Business Name": "Dash",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7832743",
+                    "Longitude": "98.9914724"
+                }
+            },
+            "Published": "2019-12-31T09:19:06Z",
+            "Title": "Dash",
+            "Updated": "2019-12-31T09:19:06Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9933390, 18.7927730],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9900522049030851356",
+            "Location": {
+                "Address": "199 Mun Mueang Road, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+                "Business Name": "THE HOUSE by Ginger",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7927730",
+                    "Longitude": "98.9933390"
+                }
+            },
+            "Published": "2019-12-31T09:17:07Z",
+            "Title": "THE HOUSE by Ginger",
+            "Updated": "2019-12-31T09:17:07Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [108.3430750, 15.9032860],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2668586652450875615",
+            "Location": {
+                "Address": "Hai Ba Trung St., Tra Que Vegetable Village, Cam Ha, Hoi An, Quảng Nam, Vietnam",
+                "Business Name": "Tra Que Riverside Homestay",
+                "Country Code": "VN",
+                "Geo Coordinates": {
+                    "Latitude": "15.9032860",
+                    "Longitude": "108.3430750"
+                }
+            },
+            "Published": "2019-12-30T12:01:39Z",
+            "Title": "Tra Que Riverside Homestay",
+            "Updated": "2019-12-30T12:01:39Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9914033, 18.7939269],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4137474996387246023",
+            "Location": {
+                "Address": "35/1 Moon Muang Road Soi 9, ตำบล ศรีภูมิ Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+                "Business Name": "Blue Diamond",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7939269",
+                    "Longitude": "98.9914033"
+                }
+            },
+            "Published": "2019-12-30T10:20:37Z",
+            "Title": "Blue Diamond",
+            "Updated": "2019-12-30T10:20:37Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [102.1399620, 19.8947000],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12681033483863179707",
+            "Location": {
+                "Address": "Laos",
+                "Business Name": "Khinthong Lao Silk",
+                "Country Code": "LA",
+                "Geo Coordinates": {
+                    "Latitude": "19.8947000",
+                    "Longitude": "102.1399620"
+                }
+            },
+            "Published": "2019-12-29T08:31:39Z",
+            "Title": "Khinthong Lao Silk",
+            "Updated": "2019-12-29T08:31:39Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [102.1429848, 19.8963733],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13692525859672995081",
+            "Location": {
+                "Address": "Luang Prabang, Laos",
+                "Business Name": "Wat Sibounheuang",
+                "Country Code": "LA",
+                "Geo Coordinates": {
+                    "Latitude": "19.8963733",
+                    "Longitude": "102.1429848"
+                }
+            },
+            "Published": "2019-12-29T06:40:55Z",
+            "Title": "Wat Sibounheuang",
+            "Updated": "2019-12-29T06:40:55Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [102.1431057, 19.8975239],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2042441416932050179",
+            "Location": {
+                "Address": "Khem Khong, Luang Prabang, Laos",
+                "Business Name": "Wat Xiengthong",
+                "Country Code": "LA",
+                "Geo Coordinates": {
+                    "Latitude": "19.8975239",
+                    "Longitude": "102.1431057"
+                }
+            },
+            "Published": "2019-12-29T06:40:26Z",
+            "Title": "Wat Xiengthong",
+            "Updated": "2019-12-29T06:40:26Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [99.0040042, 18.7818227],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7691469032126661793",
+            "Location": {
+                "Address": "123, Anantara, 1 ถนน เจริญประเทศ อำเภอเมืองเชียงใหม่ 50100, Thailand",
+                "Business Name": "The Service 1921 Restaurant & Bar",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7818227",
+                    "Longitude": "99.0040042"
+                }
+            },
+            "Published": "2019-12-25T16:00:14Z",
+            "Title": "The Service 1921 Restaurant & Bar",
+            "Updated": "2019-12-25T16:00:14Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [102.1382980, 19.8951081],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16128632968903050121",
+            "Location": {
+                "Address": "Luang Prabang, Laos",
+                "Business Name": "Saffron Coffee's Espresso, Brew Bar, & Roastery",
+                "Country Code": "LA",
+                "Geo Coordinates": {
+                    "Latitude": "19.8951081",
+                    "Longitude": "102.1382980"
+                }
+            },
+            "Published": "2019-12-25T14:34:44Z",
+            "Title": "Saffron Coffee's Espresso, Brew Bar, & Roastery",
+            "Updated": "2019-12-25T14:34:44Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [102.6058386, 17.9693475],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9952653663254275477",
+            "Location": {
+                "Address": "Rue Phai Nam, Vientiane, Laos",
+                "Business Name": "Ban Anou Night Market",
+                "Country Code": "LA",
+                "Geo Coordinates": {
+                    "Latitude": "17.9693475",
+                    "Longitude": "102.6058386"
+                }
+            },
+            "Published": "2019-12-24T13:49:51Z",
+            "Title": "Ban Anou Night Market",
+            "Updated": "2019-12-24T13:49:51Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [102.6162529, 17.9644864],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12155639811656065478",
+            "Location": {
+                "Address": "ຖະໜົນ ຄູວຽງ ບ້ານ ໜອງຈັນ ເມືອງສີສັດຕະນາກ ນະຄອນຫຼວງວຽງຈັນ, Laos",
+                "Business Name": "Khua Din Market",
+                "Country Code": "LA",
+                "Geo Coordinates": {
+                    "Latitude": "17.9644864",
+                    "Longitude": "102.6162529"
+                }
+            },
+            "Published": "2019-12-24T10:52:54Z",
+            "Title": "Khua Din Market",
+            "Updated": "2019-12-24T10:52:54Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [102.6056990, 17.9670220],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6555381161259673301",
+            "Location": {
+                "Address": "140/01, Unit 15, Rue Hengboun, Baan Anou, ວຽງຈັນ, Laos",
+                "Business Name": "Lao Kitchen",
+                "Country Code": "LA",
+                "Geo Coordinates": {
+                    "Latitude": "17.9670220",
+                    "Longitude": "102.6056990"
+                }
+            },
+            "Published": "2019-12-24T07:01:26Z",
+            "Title": "Lao Kitchen",
+            "Updated": "2019-12-24T07:01:26Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [102.6074335, 17.9645151],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4360561161550391815",
+            "Location": {
+                "Address": "Rue Setthathilath, Vientiane, Laos",
+                "Business Name": "Khop chai deu restaurant",
+                "Country Code": "LA",
+                "Geo Coordinates": {
+                    "Latitude": "17.9645151",
+                    "Longitude": "102.6074335"
+                }
+            },
+            "Published": "2019-12-24T06:55:43Z",
+            "Title": "Khop chai deu restaurant",
+            "Updated": "2019-12-24T06:55:43Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [102.5954667, 17.9661229],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11906021940310346868",
+            "Location": {
+                "Address": "09/093, Fa Ngum Road, Baan Seetarn Neua, Sikhottabong District, Vientiane, Laos",
+                "Business Name": "The Spirit House, Vientiane",
+                "Country Code": "LA",
+                "Geo Coordinates": {
+                    "Latitude": "17.9661229",
+                    "Longitude": "102.5954667"
+                }
+            },
+            "Published": "2019-12-24T06:50:25Z",
+            "Title": "The Spirit House, Vientiane",
+            "Updated": "2019-12-24T06:50:25Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [102.6178367, 17.9572105],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4408533919939561871",
+            "Location": {
+                "Address": "Rue Samsenthai, Vientiane, Laos",
+                "Business Name": "Simeuang Mini-Mart and Bakery",
+                "Country Code": "LA",
+                "Geo Coordinates": {
+                    "Latitude": "17.9572105",
+                    "Longitude": "102.6178367"
+                }
+            },
+            "Published": "2019-12-24T03:15:29Z",
+            "Title": "Simeuang Mini-Mart and Bakery",
+            "Updated": "2019-12-24T03:15:29Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [-73.999699, 40.742784],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=40.742784,-73.999699",
+            "Location": {
+                "Latitude": "40.742784",
+                "Longitude": "-73.999699"
+            },
+            "Published": "2016-09-10T23:39:31Z",
+            "Title": "40.742784,-73.999699",
+            "Updated": "2019-12-23T08:41:02Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.6598237, 37.4166141],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=713570952514196150",
+            "Location": {
+                "Address": "806-12 Dongchun-dong, Yeonsu-gu, Incheon, South Korea",
+                "Business Name": "Hyeungryunsa Temple",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.4166141",
+                    "Longitude": "126.6598237"
+                }
+            },
+            "Published": "2019-12-23T01:25:11Z",
+            "Title": "Hyeungryunsa Temple",
+            "Updated": "2019-12-23T01:25:11Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.6385178, 37.4007368],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=10692370251123697430",
+            "Location": {
+                "Address": "Songdo-dong, Yeonsu-gu, Incheon, South Korea",
+                "Business Name": "메리고라운드스테이크키친",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.4007368",
+                    "Longitude": "126.6385178"
+                }
+            },
+            "Published": "2019-12-23T01:13:48Z",
+            "Title": "메리고라운드스테이크키친",
+            "Updated": "2019-12-23T01:13:48Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.6511040, 37.3945010],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17932707887258216500",
+            "Location": {
+                "Address": "South Korea, Incheon, Yeonsu-gu, 3-6 아크리아1 107-1",
+                "Business Name": "mamre(마므레)",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.3945010",
+                    "Longitude": "126.6511040"
+                }
+            },
+            "Published": "2019-12-22T12:41:21Z",
+            "Title": "mamre(마므레)",
+            "Updated": "2019-12-22T12:41:21Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.6447920, 37.3930120],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15802368045995436888",
+            "Location": {
+                "Address": "Songdodong 22-22, Prugio Worldmark 802 2nd floor #201, 연수구 인천광역시 South Korea",
+                "Business Name": "Songdo City Bar & Restaurant",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.3930120",
+                    "Longitude": "126.6447920"
+                }
+            },
+            "Published": "2019-12-22T12:41:00Z",
+            "Title": "Songdo City Bar & Restaurant",
+            "Updated": "2019-12-22T12:41:00Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.6542628, 37.4196092],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2471194700769610565",
+            "Location": {
+                "Address": "138 Cheongnyang-ro, Yeonsu-gu, Incheon, South Korea",
+                "Business Name": "인천상륙작전기념관",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.4196092",
+                    "Longitude": "126.6542628"
+                }
+            },
+            "Published": "2019-12-22T12:20:26Z",
+            "Title": "인천상륙작전기념관",
+            "Updated": "2019-12-22T12:20:26Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.6393275, 37.3910581],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14583712429893594641",
+            "Location": {
+                "Address": "200 Technopark-ro, Yeonsu-gu, Incheon, South Korea",
+                "Business Name": "Hollys Coffee",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.3910581",
+                    "Longitude": "126.6393275"
+                }
+            },
+            "Published": "2019-12-22T12:20:20Z",
+            "Title": "Hollys Coffee",
+            "Updated": "2019-12-22T12:20:20Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9914821, 37.5632474],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3489448822273281552",
+            "Location": {
+                "Address": "30 Mareunnae-ro 2-gil, Cho-dong, Jung-gu, Seoul, South Korea",
+                "Business Name": "Ludens",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5632474",
+                    "Longitude": "126.9914821"
+                }
+            },
+            "Published": "2019-12-21T06:23:28Z",
+            "Title": "Ludens",
+            "Updated": "2019-12-21T06:23:28Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9686096, 37.5577046],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16747180578445577551",
+            "Location": {
+                "Address": "49 Jungnim-ro, Jungnim-dong, Jung-gu, Seoul, South Korea",
+                "Business Name": "Siloam Bulgama Sauna Spa",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5577046",
+                    "Longitude": "126.9686096"
+                }
+            },
+            "Published": "2019-12-21T00:30:23Z",
+            "Title": "Siloam Bulgama Sauna Spa",
+            "Updated": "2019-12-21T00:30:23Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [127.0008549, 37.5367741],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5560221223180895526",
+            "Location": {
+                "Address": "248 Itaewon-ro, Yongsan-gu, Seoul, South Korea",
+                "Business Name": "VINYL & PLASTIC By Hyundai Card",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5367741",
+                    "Longitude": "127.0008549"
+                }
+            },
+            "Published": "2019-12-19T09:34:57Z",
+            "Title": "VINYL & PLASTIC By Hyundai Card",
+            "Updated": "2019-12-19T09:34:57Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [127.0001267, 37.5360633],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12789200842664264230",
+            "Location": {
+                "Address": "Hannam-dong, Yongsan-gu, Seoul, South Korea",
+                "Business Name": "Post Poetics",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5360633",
+                    "Longitude": "127.0001267"
+                }
+            },
+            "Published": "2019-12-19T07:13:45Z",
+            "Title": "Post Poetics",
+            "Updated": "2019-12-19T07:13:50Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9899639, 37.5657656],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6406599800587799302",
+            "Location": {
+                "Address": "52 Supyo-ro, Jung-gu, Seoul, South Korea",
+                "Business Name": "원조영락골뱅이",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5657656",
+                    "Longitude": "126.9899639"
+                }
+            },
+            "Published": "2019-12-17T05:48:03Z",
+            "Title": "원조영락골뱅이",
+            "Updated": "2019-12-17T05:48:03Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9999460, 37.5373106],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1392747034437306990",
+            "Location": {
+                "Address": "26-4 Itaewon-ro 55ga-gil, Yongsan-gu, Seoul, South Korea",
+                "Business Name": "Root Everyday",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5373106",
+                    "Longitude": "126.9999460"
+                }
+            },
+            "Published": "2019-12-16T10:19:06Z",
+            "Title": "Root Everyday",
+            "Updated": "2019-12-16T10:21:13Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9998930, 37.5374652],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13933007310443292048",
+            "Location": {
+                "Address": "26-8 Itaewon-ro 55ga-gil, Yongsan-gu, Seoul, South Korea",
+                "Business Name": "Itaewon Uyukmien",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5374652",
+                    "Longitude": "126.9998930"
+                }
+            },
+            "Published": "2019-12-16T10:16:51Z",
+            "Title": "Itaewon Uyukmien",
+            "Updated": "2019-12-16T10:16:51Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.5370059, 25.0667079],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7364862798033183003",
+            "Location": {
+                "Address": "No. 18號, Alley 2, Lane 410, Minzu East Road, Zhongshan District, Taipei City, Taiwan 10491",
+                "Business Name": "Addiction Aquatic Development",
+                "Country Code": "TW",
+                "Geo Coordinates": {
+                    "Latitude": "25.0667079",
+                    "Longitude": "121.5370059"
+                }
+            },
+            "Published": "2019-12-15T12:47:26Z",
+            "Title": "Addiction Aquatic Development",
+            "Updated": "2019-12-15T12:47:26Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9913198, 37.5632389],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17529224350853166988",
+            "Location": {
+                "Address": "46 Toegye-ro 27-gil, Chungmuro 3(sam)-ga, Jung-gu, Seoul, South Korea",
+                "Business Name": "사랑방칼국수",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5632389",
+                    "Longitude": "126.9913198"
+                }
+            },
+            "Published": "2019-12-15T04:33:06Z",
+            "Title": "사랑방칼국수",
+            "Updated": "2019-12-15T04:33:06Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [-122.2782074, 47.5517094],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1789095677862073746",
+            "Location": {
+                "Address": "5607 Rainier Avenue South, Seattle, WA 98118, United States",
+                "Business Name": "Archipelago",
+                "Country Code": "US",
+                "Geo Coordinates": {
+                    "Latitude": "47.5517094",
+                    "Longitude": "-122.2782074"
+                }
+            },
+            "Published": "2019-12-14T15:25:35Z",
+            "Title": "Archipelago",
+            "Updated": "2019-12-14T15:25:35Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [127.0243482, 37.5204964],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17610082894024827519",
+            "Location": {
+                "Address": "46 Nonhyeon-ro 153-gil, Sinsa-dong, Gangnam-gu, Seoul, South Korea",
+                "Business Name": "Lay Bricks Coffee Roasters",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5204964",
+                    "Longitude": "127.0243482"
+                }
+            },
+            "Published": "2019-12-14T09:27:35Z",
+            "Title": "Lay Bricks Coffee Roasters",
+            "Updated": "2019-12-14T09:27:35Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9683950, 37.5287860],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16043638775754054901",
+            "Location": {
+                "Address": "100 Hangang-daero, Yongsan-gu, Seoul, South Korea",
+                "Business Name": "Amorepacific Museum of Art",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5287860",
+                    "Longitude": "126.9683950"
+                }
+            },
+            "Published": "2019-12-13T12:20:05Z",
+            "Title": "Amorepacific Museum of Art",
+            "Updated": "2019-12-13T12:20:05Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.959667, 37.517763],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=Seoul,+Ichon+1(il)-dong,+%EB%85%B8%EB%93%A4%EC%84%AC&ftid=0x357ca1fb54dc2079:0xd15faf568cc799b6",
+            "Location": {
+                "Latitude": "37.517763",
+                "Longitude": "126.959667"
+            },
+            "Published": "2019-12-13T12:18:12Z",
+            "Title": "노들섬 Seoul, Ichon 1(il)-dong",
+            "Updated": "2019-12-13T12:18:12Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9946133, 37.5351109],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13780587578763576612",
+            "Location": {
+                "Address": "743-29 Hannam-dong, Yongsan-gu, Seoul, South Korea",
+                "Business Name": "All That Jazz Bar",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5351109",
+                    "Longitude": "126.9946133"
+                }
+            },
+            "Published": "2019-12-13T11:53:31Z",
+            "Title": "All That Jazz Bar",
+            "Updated": "2019-12-13T11:53:31Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9266626, 37.5562621],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2304013855197967227",
+            "Location": {
+                "Address": "66 Wausan-ro 29-gil, Seogyo-dong, Mapo-gu, Seoul, South Korea",
+                "Business Name": "Goinmool",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5562621",
+                    "Longitude": "126.9266626"
+                }
+            },
+            "Published": "2019-12-13T10:10:12Z",
+            "Title": "Goinmool",
+            "Updated": "2019-12-13T10:10:12Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.266275, -33.913462],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=-33.913462,151.266275",
+            "Location": {
+                "Latitude": "-33.913462",
+                "Longitude": "151.266275"
+            },
+            "Published": "2019-09-26T05:17:36Z",
+            "Title": "-33.913462,151.266275",
+            "Updated": "2019-12-12T09:55:59Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [127.0385400, 37.5797300],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12337373499240131389",
+            "Location": {
+                "Address": "37°34'47.0\"N 127°02'18., 7 용두동 동대문구 서울특별시 South Korea",
+                "Business Name": "Gyeongdong Market",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5797300",
+                    "Longitude": "127.0385400"
+                }
+            },
+            "Published": "2019-12-12T02:47:29Z",
+            "Title": "Gyeongdong Market",
+            "Updated": "2019-12-12T02:47:29Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9802664, 37.5803080],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12067089167301918848",
+            "Location": {
+                "Address": "50 Samcheong-ro, Sogyeok-dong, Jongno-gu, Seoul, South Korea",
+                "Business Name": "학고재갤러리",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5803080",
+                    "Longitude": "126.9802664"
+                }
+            },
+            "Published": "2019-12-12T02:46:56Z",
+            "Title": "학고재갤러리",
+            "Updated": "2019-12-12T02:46:56Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9771397, 37.5366059],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16255340004596389792",
+            "Location": {
+                "Address": "29 Itaewon-ro, Yongsan-gu, Seoul, South Korea",
+                "Business Name": "War Memorial of Korea",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5366059",
+                    "Longitude": "126.9771397"
+                }
+            },
+            "Published": "2019-12-12T02:41:31Z",
+            "Title": "War Memorial of Korea",
+            "Updated": "2019-12-12T02:41:31Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9882266, 37.5511694],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6699200636580889253",
+            "Location": {
+                "Address": "105 Namsangongwon-gil, Yongsan-gu, Seoul, South Korea",
+                "Business Name": "N Seoul Tower",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5511694",
+                    "Longitude": "126.9882266"
+                }
+            },
+            "Published": "2019-12-12T02:40:19Z",
+            "Title": "N Seoul Tower",
+            "Updated": "2019-12-12T02:40:19Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.8854550, 37.5674467],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=281459231161410622",
+            "Location": {
+                "Address": "487-48 Sangam-dong, Mapo-gu, Seoul, South Korea",
+                "Business Name": "Haneul Park",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5674467",
+                    "Longitude": "126.8854550"
+                }
+            },
+            "Published": "2019-12-12T02:30:50Z",
+            "Title": "Haneul Park",
+            "Updated": "2019-12-12T02:30:50Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9890628, 37.5392190],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7618482261976856745",
+            "Location": {
+                "Address": "Hoenamu-ro 21-gil, Itaewon-dong, Yongsan-gu, Seoul, South Korea",
+                "Business Name": "Boogie Woogie",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5392190",
+                    "Longitude": "126.9890628"
+                }
+            },
+            "Published": "2019-12-11T14:35:39Z",
+            "Title": "Boogie Woogie",
+            "Updated": "2019-12-11T14:35:39Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9202157, 37.5531362],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16000907856502886883",
+            "Location": {
+                "Address": "South Korea, KR 서울특별시 마포구 서교동 370-5 2F",
+                "Business Name": "Cream(Lp bar)",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5531362",
+                    "Longitude": "126.9202157"
+                }
+            },
+            "Published": "2019-12-11T14:35:12Z",
+            "Title": "Cream (Lp Bar)",
+            "Updated": "2019-12-11T14:35:12Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9159515, 37.5488262],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14077810635598252195",
+            "Location": {
+                "Address": "32 Yanghwa-ro 6-gil, Hapjeong-dong, Mapo-gu, Seoul, South Korea",
+                "Business Name": "Macaroni Funky Club",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5488262",
+                    "Longitude": "126.9159515"
+                }
+            },
+            "Published": "2019-12-11T14:34:20Z",
+            "Title": "Macaroni Funky Club",
+            "Updated": "2019-12-11T14:34:20Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9918661, 37.5419165],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13235684099356445665",
+            "Location": {
+                "Address": "260-54 Itaewon-dong, Yongsan-gu, Seoul, South Korea",
+                "Business Name": "Jangkkoma",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5419165",
+                    "Longitude": "126.9918661"
+                }
+            },
+            "Published": "2019-01-18T00:09:29Z",
+            "Title": "Jangkkoma",
+            "Updated": "2019-12-10T08:07:52Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9798740, 37.5764690],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12745681247331321562",
+            "Location": {
+                "Address": "6 Samcheong-ro, Sagan-dong, Jongno-gu, Seoul, South Korea",
+                "Business Name": "서울셀렉션",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5764690",
+                    "Longitude": "126.9798740"
+                }
+            },
+            "Published": "2019-12-10T06:41:22Z",
+            "Title": "서울셀렉션",
+            "Updated": "2019-12-10T06:52:14Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9824527, 37.5801071],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8351323481895821855",
+            "Location": {
+                "Address": "8-11 Bukchon-ro 5ga-gil, Hwa-dong, Jongno-gu, Seoul, South Korea",
+                "Business Name": "Coffee Mill",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5801071",
+                    "Longitude": "126.9824527"
+                }
+            },
+            "Published": "2019-12-10T04:51:24Z",
+            "Title": "Coffee Mill",
+            "Updated": "2019-12-10T04:51:24Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9803691, 37.5794091],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2331777267528058902",
+            "Location": {
+                "Address": "30 Samcheong-ro, Jongno-gu, Seoul, South Korea",
+                "Business Name": "National Museum of Modern and Contemporary Art - Seoul",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5794091",
+                    "Longitude": "126.9803691"
+                }
+            },
+            "Published": "2019-12-10T01:47:15Z",
+            "Title": "National Museum of Modern and Contemporary Art - Seoul",
+            "Updated": "2019-12-10T01:47:15Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9836531, 37.5824075],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14824929312700491162",
+            "Location": {
+                "Address": "South Korea, Seoul, Jongno-gu, 계동길 37",
+                "Business Name": "Bukchon Hanok Village",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5824075",
+                    "Longitude": "126.9836531"
+                }
+            },
+            "Published": "2019-12-10T01:47:05Z",
+            "Title": "Bukchon Hanok Village",
+            "Updated": "2019-12-10T01:47:05Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [127.0253811, 37.5481880],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11374499478444249167",
+            "Location": {
+                "Address": "210-2 Geumhodong 3(sam)-ga, Seongdong-gu, Seoul, South Korea",
+                "Business Name": "WE, THE COFFEE",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5481880",
+                    "Longitude": "127.0253811"
+                }
+            },
+            "Published": "2019-12-09T13:42:24Z",
+            "Title": "WE, THE COFFEE",
+            "Updated": "2019-12-09T13:42:24Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9810220, 37.5664434],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5599515082016764598",
+            "Location": {
+                "Address": "29 Eulji-ro, Jung-gu, Seoul, South Korea",
+                "Business Name": "ARC.N.BOOK",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5664434",
+                    "Longitude": "126.9810220"
+                }
+            },
+            "Published": "2019-12-09T13:23:37Z",
+            "Title": "ARC.N.BOOK",
+            "Updated": "2019-12-09T13:23:37Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [127.0354875, 37.5516732],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=10198248978578649423",
+            "Location": {
+                "Address": "228-20 Eungbong-dong, Seongdong-gu, Seoul, South Korea",
+                "Business Name": "블랙빈스",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5516732",
+                    "Longitude": "127.0354875"
+                }
+            },
+            "Published": "2019-12-09T06:53:45Z",
+            "Title": "블랙빈스",
+            "Updated": "2019-12-09T06:53:45Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9929868, 37.5650458],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5224993889401381705",
+            "Location": {
+                "Address": "3 Chungmu-ro 4-gil, Jung-gu, Seoul, South Korea",
+                "Business Name": "평균율",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5650458",
+                    "Longitude": "126.9929868"
+                }
+            },
+            "Published": "2019-12-08T10:58:04Z",
+            "Title": "평균율",
+            "Updated": "2019-12-08T10:58:04Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9902110, 37.5652861],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3413660833234273437",
+            "Location": {
+                "Address": "South Korea, Seoul, Jung-gu, Supyo-ro, 42-9 2 층",
+                "Business Name": "Sipbooneui Il",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5652861",
+                    "Longitude": "126.9902110"
+                }
+            },
+            "Published": "2019-12-08T10:57:28Z",
+            "Title": "Sipbooneui Il",
+            "Updated": "2019-12-08T10:57:28Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9369444, 37.5533333],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13669312120995683144",
+            "Location": {
+                "Address": "18 Baekbeom-ro, Mapo-gu, Seoul, South Korea",
+                "Business Name": "Palsaik Samgyeopsal",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5533333",
+                    "Longitude": "126.9369444"
+                }
+            },
+            "Published": "2019-12-08T09:13:39Z",
+            "Title": "Palsaik Samgyeopsal",
+            "Updated": "2019-12-08T09:13:39Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [102.1416758, 19.8946570],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=10500470371097742325",
+            "Location": {
+                "Address": "Kingkitsarath Road, Luang Prabang, Laos",
+                "Business Name": "Tamarind",
+                "Country Code": "LA",
+                "Geo Coordinates": {
+                    "Latitude": "19.8946570",
+                    "Longitude": "102.1416758"
+                }
+            },
+            "Published": "2019-12-08T06:02:10Z",
+            "Title": "Tamarind",
+            "Updated": "2019-12-08T06:02:10Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9997109, 37.5374546],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16947584549477609066",
+            "Location": {
+                "Address": "26-5 Itaewon-ro 55ga-gil, Yongsan-gu, Seoul, South Korea",
+                "Business Name": "Parc Seoul",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5374546",
+                    "Longitude": "126.9997109"
+                }
+            },
+            "Published": "2019-12-06T13:01:31Z",
+            "Title": "Parc Seoul",
+            "Updated": "2019-12-06T13:01:31Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [127.0347186, 37.5020145],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2954651043773798610",
+            "Location": {
+                "Address": "15 Nonhyeon-ro 95-gil, Gangnam-gu, Seoul, South Korea",
+                "Business Name": "Yang GOOD",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5020145",
+                    "Longitude": "127.0347186"
+                }
+            },
+            "Published": "2019-12-06T13:00:27Z",
+            "Title": "Yang GOOD",
+            "Updated": "2019-12-06T13:00:27Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9850710, 37.5747059],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6510991286910801699",
+            "Location": {
+                "Address": "16 Insadong 12-gil, Jongno-gu, Seoul, South Korea",
+                "Business Name": "853",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5747059",
+                    "Longitude": "126.9850710"
+                }
+            },
+            "Published": "2019-12-06T12:59:26Z",
+            "Title": "853",
+            "Updated": "2019-12-06T12:59:26Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9974182, 37.5343777],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=18251529344055218167",
+            "Location": {
+                "Address": "736-49 Hannam-dong, Yongsan-gu, Seoul, South Korea",
+                "Business Name": "Sunny Bread",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5343777",
+                    "Longitude": "126.9974182"
+                }
+            },
+            "Published": "2019-12-06T12:56:58Z",
+            "Title": "Sunny Bread",
+            "Updated": "2019-12-06T12:56:58Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [127.0211356, 37.5204349],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16408954060174632482",
+            "Location": {
+                "Address": "32 Gangnam-daero 162-gil, Sinsa-dong, Gangnam-gu, Seoul, South Korea",
+                "Business Name": "The Nilk Factory",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5204349",
+                    "Longitude": "127.0211356"
+                }
+            },
+            "Published": "2019-12-06T12:56:18Z",
+            "Title": "The Nilk Factory",
+            "Updated": "2019-12-06T12:56:18Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [126.9942290, 37.5330759],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13250703489899381877",
+            "Location": {
+                "Address": "2 floor, 117 Bogwang-ro, Yongsan-gu, Seoul, South Korea",
+                "Business Name": "Plant Cafe Seoul",
+                "Country Code": "KR",
+                "Geo Coordinates": {
+                    "Latitude": "37.5330759",
+                    "Longitude": "126.9942290"
+                }
+            },
+            "Published": "2019-12-06T11:03:07Z",
+            "Title": "Plant",
+            "Updated": "2019-12-06T11:03:26Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.7965970, 35.7164490],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=10736103478098435023",
+            "Location": {
+                "Address": "3 Chome-5-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+                "Business Name": "otaco",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.7164490",
+                    "Longitude": "139.7965970"
+                }
+            },
+            "Published": "2019-12-04T02:34:36Z",
+            "Title": "otaco",
+            "Updated": "2019-12-04T02:34:36Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [102.5974100, 17.9655373],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17761704718966013409",
+            "Location": {
+                "Address": "Vientiane, Laos",
+                "Business Name": "Laodi Bar Mekong",
+                "Country Code": "LA",
+                "Geo Coordinates": {
+                    "Latitude": "17.9655373",
+                    "Longitude": "102.5974100"
+                }
+            },
+            "Published": "2019-12-03T08:16:23Z",
+            "Title": "Laodi Bar Mekong",
+            "Updated": "2019-12-03T08:16:23Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.7280734, 35.6262779],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8504733524975367776",
+            "Location": {
+                "Address": "3 Chome-17-21 Higashigotanda, Shinagawa City, Tokyo 141-0022, Japan",
+                "Business Name": "BOND",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.6262779",
+                    "Longitude": "139.7280734"
+                }
+            },
+            "Published": "2019-11-29T03:12:03Z",
+            "Title": "BOND",
+            "Updated": "2019-11-29T03:12:03Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.7426820, 35.6193880],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6040900566109624104",
+            "Location": {
+                "Address": "2 Chome-3-7 Kitashinagawa, Shinagawa City, Tokyo 140-0001, Japan",
+                "Business Name": "KAIDO books&coffee",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.6193880",
+                    "Longitude": "139.7426820"
+                }
+            },
+            "Published": "2019-11-28T03:46:16Z",
+            "Title": "KAIDO books&coffee",
+            "Updated": "2019-11-28T03:46:16Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.7403400, 35.6218194],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17175604624103091270",
+            "Location": {
+                "Address": "1 Chome-22-16 Kitashinagawa, Shinagawa City, Tokyo 140-0001, Japan",
+                "Business Name": "とりいち 北品川店",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.6218194",
+                    "Longitude": "139.7403400"
+                }
+            },
+            "Published": "2019-11-28T03:36:44Z",
+            "Title": "とりいち 北品川店",
+            "Updated": "2019-11-28T03:36:44Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.7942917, 35.7133783],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14574972666135450069",
+            "Location": {
+                "Address": "2 Chome-3-19 Asakusa, 台東区 Taito City, Tokyo 111-0032, Japan",
+                "Business Name": "Hoppy Street",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.7133783",
+                    "Longitude": "139.7942917"
+                }
+            },
+            "Published": "2019-11-27T06:33:18Z",
+            "Title": "Hoppy Street",
+            "Updated": "2019-11-27T06:33:18Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.6972899, 35.6899698],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14366338488429668667",
+            "Location": {
+                "Address": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 1 Chome−12, 河西ビル1F",
+                "Business Name": "Uogashi Nihon-Ichi (Standing Sushi Bar)",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.6899698",
+                    "Longitude": "139.6972899"
+                }
+            },
+            "Published": "2019-11-27T06:01:05Z",
+            "Title": "Uogashi Nihon-Ichi (Standing Sushi Bar)",
+            "Updated": "2019-11-27T06:01:05Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.7607826, 35.6730458],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=93520424632918682",
+            "Location": {
+                "Address": "2 Chome-1-10 Yūrakuchō, Chiyoda City, Tokyo 100-0006, Japan",
+                "Business Name": "Yakitori Ton Ton",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.6730458",
+                    "Longitude": "139.7607826"
+                }
+            },
+            "Published": "2019-11-27T06:00:51Z",
+            "Title": "Yakitori Ton Ton",
+            "Updated": "2019-11-27T06:00:51Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.7959432, 35.7096723],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17502740708146103690",
+            "Location": {
+                "Address": "2 Chome-11-9 Kaminarimon, Taito City, Tokyo 111-0034, Japan",
+                "Business Name": "Namiki Yabusoba",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.7096723",
+                    "Longitude": "139.7959432"
+                }
+            },
+            "Published": "2019-11-27T05:43:57Z",
+            "Title": "Namiki Yabusoba",
+            "Updated": "2019-11-27T05:43:57Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.7954035, 35.7177602],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5620565089380940932",
+            "Location": {
+                "Address": "3 Chome-36-4 Asakusa, Taito City, Tokyo 111-0032, Japan",
+                "Business Name": "Buddha Break",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.7177602",
+                    "Longitude": "139.7954035"
+                }
+            },
+            "Published": "2019-11-27T05:35:40Z",
+            "Title": "Buddha Break",
+            "Updated": "2019-11-27T05:35:40Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.7186030, 35.6147720],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5491713260116512792",
+            "Location": {
+                "Address": "2 Chome-1-6 Togoshi, Shinagawa City, Tokyo 142-0041, Japan",
+                "Business Name": "Togoshi Ginza Onsen",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.6147720",
+                    "Longitude": "139.7186030"
+                }
+            },
+            "Published": "2019-11-27T03:58:43Z",
+            "Title": "Togoshi Ginza Onsen",
+            "Updated": "2019-11-27T03:58:43Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.7360360, 35.6209230],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16507659746009481814",
+            "Location": {
+                "Address": "4 Chome-7-25 Kitashinagawa, Shinagawa City, Tokyo 140-0001, Japan",
+                "Business Name": "Hara Museum",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.6209230",
+                    "Longitude": "139.7360360"
+                }
+            },
+            "Published": "2019-11-27T03:51:06Z",
+            "Title": "Hara Museum",
+            "Updated": "2019-11-27T03:51:06Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.7431456, 35.0181002],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2738576795097650126",
+            "Location": {
+                "Address": "491 Nakatsukasacho, Kamigyo Ward, Kyoto, 602-8158, Japan",
+                "Business Name": "Newdelhi Indian restaurant“ インド料理 ニューデリー”",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.0181002",
+                    "Longitude": "135.7431456"
+                }
+            },
+            "Published": "2019-11-26T05:05:56Z",
+            "Title": "Newdelhi Indian restaurant",
+            "Updated": "2019-11-26T05:05:56Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.7850463, 34.9948561],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7111013964196361402",
+            "Location": {
+                "Address": "294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862, Japan",
+                "Business Name": "Kiyomizu-dera",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.9948561",
+                    "Longitude": "135.7850463"
+                }
+            },
+            "Published": "2019-11-25T22:49:59Z",
+            "Title": "Kiyomizu-dera",
+            "Updated": "2019-11-25T22:49:59Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [98.9915090, 18.7905980],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11215263146311857483",
+            "Location": {
+                "Address": "24 1 Ratvithi Road, Mueang Chiang Mai District, Chiang Mai 50200, Thailand",
+                "Business Name": "UN Irish Pub & Restaurant",
+                "Country Code": "TH",
+                "Geo Coordinates": {
+                    "Latitude": "18.7905980",
+                    "Longitude": "98.9915090"
+                }
+            },
+            "Published": "2019-11-25T01:31:05Z",
+            "Title": "UN Irish Pub & Restaurant",
+            "Updated": "2019-11-25T01:31:05Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.4979706, 34.6762282],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7280300759603731432",
+            "Location": {
+                "Address": "4 Chome-13-15 Minamisenba, Chuo Ward, Osaka, 542-0081, Japan",
+                "Business Name": "タソガレコーヒースタンド",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.6762282",
+                    "Longitude": "135.4979706"
+                }
+            },
+            "Published": "2019-11-24T04:39:08Z",
+            "Title": "タソガレコーヒースタンド",
+            "Updated": "2019-11-24T04:39:08Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.8258910, 34.6838442],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=10025132877912364206",
+            "Location": {
+                "Address": "38-7 Takamacho, Nara, 630-8241, Japan",
+                "Business Name": "Flamingo",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.6838442",
+                    "Longitude": "135.8258910"
+                }
+            },
+            "Published": "2019-11-22T05:54:48Z",
+            "Title": "Flamingo",
+            "Updated": "2019-11-22T05:54:48Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.8368442, 34.6872186],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16706000640423279531",
+            "Location": {
+                "Address": "47-3 Suimoncho, Nara, 630-8208, Japan",
+                "Business Name": "Orange cafe Suimon",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.6872186",
+                    "Longitude": "135.8368442"
+                }
+            },
+            "Published": "2019-11-22T04:03:52Z",
+            "Title": "Orange cafe",
+            "Updated": "2019-11-22T04:03:52Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.4980520, 34.6740630],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16291659530834990214",
+            "Location": {
+                "Address": "Japan, 〒542-0086 Osaka, Chuo Ward, Nishishinsaibashi, 1 Chome−1−１０−２８ 心斎橋Mビル 1F",
+                "Business Name": "LiLo Coffee Roasters",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.6740630",
+                    "Longitude": "135.4980520"
+                }
+            },
+            "Published": "2019-11-21T03:09:02Z",
+            "Title": "LiLo Coffee Roasters",
+            "Updated": "2019-11-21T03:09:02Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.7686347, 34.9950316],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15443887270213463048",
+            "Location": {
+                "Address": "Japan, 〒605-0903 Kyoto, Higashiyama Ward, 問屋町通五条下ル上人町433",
+                "Business Name": "半兵衛麩 本店",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.9950316",
+                    "Longitude": "135.7686347"
+                }
+            },
+            "Published": "2019-11-20T14:24:42Z",
+            "Title": "Hanbeifu",
+            "Updated": "2019-11-20T14:24:42Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.7649016, 35.0050080],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13159134450370243740",
+            "Location": {
+                "Address": "609番地 Nishidaimonjicho, Nakagyo Ward, Kyoto, 604-8054, Japan",
+                "Business Name": "Nishiki Market",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.0050080",
+                    "Longitude": "135.7649016"
+                }
+            },
+            "Published": "2019-11-20T14:22:09Z",
+            "Title": "Nishiki Market",
+            "Updated": "2019-11-20T14:22:09Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.5069848, 34.6646018],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12402117845945925953",
+            "Location": {
+                "Address": "2 Chome-4-1 Nipponbashi, Chuo Ward, Osaka, 542-0073, Japan",
+                "Business Name": "Kuromon Market",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.6646018",
+                    "Longitude": "135.5069848"
+                }
+            },
+            "Published": "2019-11-20T14:19:10Z",
+            "Title": "Kuromon Market",
+            "Updated": "2019-11-20T14:19:10Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.7677911, 35.0086771],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11802736481951620982",
+            "Location": {
+                "Address": "14-1 Ishibashicho, Nakagyo Ward, Kyoto, 604-8036, Japan",
+                "Business Name": "Breizh Café Crêperie Kyoto",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.0086771",
+                    "Longitude": "135.7677911"
+                }
+            },
+            "Published": "2019-11-20T12:53:46Z",
+            "Title": "Breizh Café Crêperie Kyoto",
+            "Updated": "2019-11-20T12:53:46Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.4947939, 34.6364062],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17746706845319861529",
+            "Location": {
+                "Address": "1 Chome-3-10 Kishinosato, Nishinari Ward, Osaka, 557-0041, Japan",
+                "Business Name": "お好み焼き彩り",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.6364062",
+                    "Longitude": "135.4947939"
+                }
+            },
+            "Published": "2019-11-19T09:35:49Z",
+            "Title": "お好み焼き彩り",
+            "Updated": "2019-11-19T09:35:49Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.494115, 34.689863],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1482337661434851932",
+            "Location": {
+                "Latitude": "34.689863",
+                "Longitude": "135.494115"
+            },
+            "Published": "2019-11-19T03:46:19Z",
+            "Title": "Osaka Edobori blue-Line",
+            "Updated": "2019-11-19T03:46:19Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [80.5471471, 7.1614249],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11782520744534945526",
+            "Location": {
+                "Address": "Ambuluwaawa ICC Road, Sri Lanka",
+                "Business Name": "Ambuluwawa Biodiversity Complex",
+                "Country Code": "LK",
+                "Geo Coordinates": {
+                    "Latitude": "7.1614249",
+                    "Longitude": "80.5471471"
+                }
+            },
+            "Published": "2019-11-19T02:50:19Z",
+            "Title": "Ambuluwawa Biodiversity Complex",
+            "Updated": "2019-11-19T02:50:19Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.4995770, 34.6791110],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3408803809410764452",
+            "Location": {
+                "Address": "4 Chome-3-9 Minamikyuhojimachi, Chuo Ward, Osaka, 541-0058, Japan",
+                "Business Name": "colombo cornershop (コロンボ コーナーショップ)",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.6791110",
+                    "Longitude": "135.4995770"
+                }
+            },
+            "Published": "2019-11-18T13:29:40Z",
+            "Title": "colombo cornershop (コロンボ コーナーショップ)",
+            "Updated": "2019-11-18T13:29:40Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.5024912, 34.6686205],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1891117855389477842",
+            "Location": {
+                "Address": "Japan, 〒542-0071 Osaka, Chuo Ward, Dotonbori, 1 Chome−7−２１ 中座くいだおれビル 1F",
+                "Business Name": "Sushizanmai Dotombori",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.6686205",
+                    "Longitude": "135.5024912"
+                }
+            },
+            "Published": "2019-11-18T10:07:30Z",
+            "Title": "Sushizanmai Dotombori",
+            "Updated": "2019-11-18T10:07:30Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.5027064, 34.6858360],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14920412277277426652",
+            "Location": {
+                "Address": "3 Chome-2-3 Kawaramachi, Chuo Ward, Osaka, 541-0048, Japan",
+                "Business Name": "Healthy & Natural 自然館",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.6858360",
+                    "Longitude": "135.5027064"
+                }
+            },
+            "Published": "2019-11-18T07:21:43Z",
+            "Title": "Healthy & Natural 自然館",
+            "Updated": "2019-11-18T07:21:43Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.4819748, 34.6614838],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11967479038942613164",
+            "Location": {
+                "Address": "Osaka, 542-0085, Japan",
+                "Business Name": "Organic & Vegetarian Cafe Atl",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.6614838",
+                    "Longitude": "135.4819748"
+                }
+            },
+            "Published": "2019-11-18T05:00:39Z",
+            "Title": "Organic & Vegetarian Cafe Atl",
+            "Updated": "2019-11-18T05:00:39Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [130.8804950, 33.8836120],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13101286215678770469",
+            "Location": {
+                "Address": "2 Chome-3-7 Uomachi, Kokurakita Ward, Kitakyushu, Fukuoka 802-0006, Japan",
+                "Business Name": "ポタサンズ・フライデー｜小倉",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "33.8836120",
+                    "Longitude": "130.8804950"
+                }
+            },
+            "Published": "2019-11-17T08:49:48Z",
+            "Title": "ポタサンズ・フライデー｜小倉",
+            "Updated": "2019-11-17T08:49:48Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [105.8521694, 21.0319917],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6370511525648623661",
+            "Location": {
+                "Address": "13 Đinh Tiên Hoàng, Hàng Trống, Hoàn Kiếm, Hà Nội, Vietnam",
+                "Business Name": "Cafe Đinh",
+                "Country Code": "VN",
+                "Geo Coordinates": {
+                    "Latitude": "21.0319917",
+                    "Longitude": "105.8521694"
+                }
+            },
+            "Published": "2019-11-16T12:02:34Z",
+            "Title": "Cafe Đinh",
+            "Updated": "2019-11-16T12:02:34Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.7292431, 35.0393700],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1073025677330113631",
+            "Location": {
+                "Address": "1 Kinkakujicho, Kita Ward, Kyoto, 603-8361, Japan",
+                "Business Name": "Kinkaku-ji",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.0393700",
+                    "Longitude": "135.7292431"
+                }
+            },
+            "Published": "2019-11-16T07:45:18Z",
+            "Title": "Kinkaku-ji",
+            "Updated": "2019-11-16T07:45:18Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.4991974, 34.6716585],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1660060634436633911",
+            "Location": {
+                "Address": "Japan, 〒542-0086 Osaka, Chuo Ward, Nishishinsaibashi, 2 Chome−10−２ CriceNikko西心斎橋1階",
+                "Business Name": "Eggs 'n Things 心斎橋店",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.6716585",
+                    "Longitude": "135.4991974"
+                }
+            },
+            "Published": "2019-11-16T03:59:49Z",
+            "Title": "Eggs 'n Things 心斎橋店",
+            "Updated": "2019-11-16T03:59:49Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.496858, 34.668789],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2316991126906660033",
+            "Location": {
+                "Latitude": "34.668789",
+                "Longitude": "135.496858"
+            },
+            "Published": "2019-11-16T03:48:02Z",
+            "Title": "Komenowa (gluten-free donuts)",
+            "Updated": "2019-11-16T03:48:02Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [129.8786543, 32.7418227],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6814487606473884380",
+            "Location": {
+                "Address": "Japan, 〒850-0904 Nagasaki, Funadaikumachi, 2−１７ サン・船大工ビル2f",
+                "Business Name": "スナックぴえろ",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "32.7418227",
+                    "Longitude": "129.8786543"
+                }
+            },
+            "Published": "2019-11-09T19:10:41Z",
+            "Title": "スナックぴえろ",
+            "Updated": "2019-11-09T19:10:41Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [129.8801300, 32.7438019],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8130021097520510102",
+            "Location": {
+                "Address": "11-6 Hamamachi, Nagasaki, 850-0853, Japan",
+                "Business Name": "鮨 そ乃だ",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "32.7438019",
+                    "Longitude": "129.8801300"
+                }
+            },
+            "Published": "2019-11-09T12:27:05Z",
+            "Title": "鮨 そ乃だ",
+            "Updated": "2019-11-09T12:27:05Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [129.8638176, 32.7747718],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11910825271366685362",
+            "Location": {
+                "Address": "2-1 Heiwamachi, Nagasaki, 852-8116, Japan",
+                "Business Name": "ピースタウンカフェ",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "32.7747718",
+                    "Longitude": "129.8638176"
+                }
+            },
+            "Published": "2019-11-09T06:34:15Z",
+            "Title": "ピースタウンカフェ",
+            "Updated": "2019-11-09T06:34:15Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [72.8279089, 18.9287612],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9389833274683336979",
+            "Location": {
+                "Address": "146, Rd Number 3, Opp Oval Maidan, Churchgate, Mumbai, Maharashtra 400020, India",
+                "Business Name": "Shiv Shanti Bhuvan",
+                "Country Code": "IN",
+                "Geo Coordinates": {
+                    "Latitude": "18.9287612",
+                    "Longitude": "72.8279089"
+                }
+            },
+            "Published": "2019-11-06T06:09:34Z",
+            "Title": "Shiv Shanti Bhuvan",
+            "Updated": "2019-11-06T06:09:34Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.5001719, 34.6573279],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3238581695210289037",
+            "Location": {
+                "Address": "2 Chome-2-番８号 Shikitsuhigashi, Naniwa Ward, Osaka, 556-0012, Japan",
+                "Business Name": "Osaka Kizu Market",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.6573279",
+                    "Longitude": "135.5001719"
+                }
+            },
+            "Published": "2019-11-05T09:15:36Z",
+            "Title": "Osaka Kizu Market",
+            "Updated": "2019-11-05T09:15:36Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.5056280, 34.7009860],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9658067229647584989",
+            "Location": {
+                "Address": "Japan, 〒530-0056 Osaka, 大阪市北区Kita Ward, Toganocho, 3−２０ 雁木ビル1F",
+                "Business Name": "Natural kitchen Medaka No. 2",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.7009860",
+                    "Longitude": "135.5056280"
+                }
+            },
+            "Published": "2019-11-05T07:59:32Z",
+            "Title": "Natural kitchen Medaka No. 2",
+            "Updated": "2019-11-05T07:59:32Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [135.4948793, 34.7278752],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15441031171890329248",
+            "Location": {
+                "Address": "6 Chome-8-8 Nishinakajima, Yodogawa Ward, Osaka, 532-0011, Japan",
+                "Business Name": "Merry momo /メリーモモ",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.7278752",
+                    "Longitude": "135.4948793"
+                }
+            },
+            "Published": "2019-11-05T07:57:13Z",
+            "Title": "Merry momo /メリーモモ",
+            "Updated": "2019-11-05T07:57:13Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [130.3878256, 33.5849405],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16887642924563569671",
+            "Location": {
+                "Address": "2 Chome-3-28 Akasaka, Chuo Ward, Fukuoka, 810-0042, Japan",
+                "Business Name": "bear bear（ベアー ベアー）",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "33.5849405",
+                    "Longitude": "130.3878256"
+                }
+            },
+            "Published": "2019-11-05T07:55:02Z",
+            "Title": "bear bear（ベアー ベアー）",
+            "Updated": "2019-11-05T07:55:02Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [130.4225010, 33.5641850],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16918262778737905623",
+            "Location": {
+                "Address": "1 Chome-3-9 Mukaino, Minami Ward, Fukuoka, 815-0035, Japan",
+                "Business Name": "ケンジーズドーナツ・ファクトリー",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "33.5641850",
+                    "Longitude": "130.4225010"
+                }
+            },
+            "Published": "2019-11-05T07:54:11Z",
+            "Title": "ケンジーズドーナツ・ファクトリー",
+            "Updated": "2019-11-05T07:54:11Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [23.7315222, 37.9752809],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12287526354356683992",
+            "Location": {
+                "Address": "23, Mitropoleos Street, Athina 105 57, Greece",
+                "Business Name": "ERGON House Athens",
+                "Country Code": "GR",
+                "Geo Coordinates": {
+                    "Latitude": "37.9752809",
+                    "Longitude": "23.7315222"
+                }
+            },
+            "Published": "2019-11-05T03:53:46Z",
+            "Title": "ERGON House Athens",
+            "Updated": "2019-11-05T03:53:46Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.7048117, 35.6591548],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16023435113002289680",
+            "Location": {
+                "Address": "Japan, 〒150-0002 Tokyo, Shibuya City, Shibuya, 2 Chome−17−３ 渋谷アイビスビル B2F",
+                "Business Name": "Nanzuka",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.6591548",
+                    "Longitude": "139.7048117"
+                }
+            },
+            "Published": "2019-11-04T10:11:13Z",
+            "Title": "Nanzuka",
+            "Updated": "2019-11-04T10:11:13Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [129.8701372, 32.7341535],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17721698979482307878",
+            "Location": {
+                "Address": "5-3 Minamiyamatemachi, Nagasaki, 850-0931, Japan",
+                "Business Name": "Ōura Church",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "32.7341535",
+                    "Longitude": "129.8701372"
+                }
+            },
+            "Published": "2019-11-03T22:45:16Z",
+            "Title": "Ōura Church",
+            "Updated": "2019-11-03T22:45:16Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [129.8729523, 32.7435032],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16905418462686280885",
+            "Location": {
+                "Address": "6-1 Dejimamachi, Nagasaki, 850-0862, Japan",
+                "Business Name": "Dejima",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "32.7435032",
+                    "Longitude": "129.8729523"
+                }
+            },
+            "Published": "2018-07-13T03:32:56Z",
+            "Title": "Dejima",
+            "Updated": "2019-11-03T22:42:55Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [129.8645521, 32.7725222],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13870028880406963701",
+            "Location": {
+                "Address": "7-8 Hiranomachi, Nagasaki, 852-8117, Japan",
+                "Business Name": "Nagasaki Atomic Bomb Museum",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "32.7725222",
+                    "Longitude": "129.8645521"
+                }
+            },
+            "Published": "2019-11-03T22:42:41Z",
+            "Title": "Nagasaki Atomic Bomb Museum",
+            "Updated": "2019-11-03T22:42:41Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.7030240, 35.6887160],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16281750637523959297",
+            "Location": {
+                "Address": "Japan, 〒160-0022 Tokyo, Shinjuku City, Shinjuku, 4 Chome−2−２３ 新四ｃｕｒｕｍｕビル 2F",
+                "Business Name": "Caffice",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.6887160",
+                    "Longitude": "139.7030240"
+                }
+            },
+            "Published": "2019-11-03T01:38:38Z",
+            "Title": "Caffice",
+            "Updated": "2019-11-03T01:38:38Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.7108896, 35.6683714],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5064916712424889855",
+            "Location": {
+                "Address": "4 Chome-15-3 Jingumae, Shibuya City, Tokyo 150-0001, Japan",
+                "Business Name": "KOFFEE MAMEYA",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.6683714",
+                    "Longitude": "139.7108896"
+                }
+            },
+            "Published": "2019-11-03T01:34:10Z",
+            "Title": "KOFFEE MAMEYA",
+            "Updated": "2019-11-03T01:34:10Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.7027408, 35.6605020],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11116051877154353055",
+            "Location": {
+                "Address": "Unnamed Road 1 Chome-15, １５ 渋谷 渋谷区 東京都 150-0002, Japan",
+                "Business Name": "Satei Hato coffee",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.6605020",
+                    "Longitude": "139.7027408"
+                }
+            },
+            "Published": "2019-11-03T01:33:57Z",
+            "Title": "Satei Hato coffee",
+            "Updated": "2019-11-03T01:33:57Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.7638930, 35.6727850],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7672052621710130498",
+            "Location": {
+                "Address": "Japan, 〒104-0061 Tokyo, Chuo City, Ginza, 4 Chome−2−１５ 塚本素山ビルディング B1F",
+                "Business Name": "Birdland",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.6727850",
+                    "Longitude": "139.7638930"
+                }
+            },
+            "Published": "2019-11-03T01:33:43Z",
+            "Title": "Birdland",
+            "Updated": "2019-11-03T01:33:43Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [129.8395477, 32.8328802],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17862348403112520495",
+            "Location": {
+                "Address": "297-3 Sasokogo, Togitsu, Nishisonogi District, Nagasaki 851-2106, Japan",
+                "Business Name": "KARIOMONS COFFEE ROASTER",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "32.8328802",
+                    "Longitude": "129.8395477"
+                }
+            },
+            "Published": "2019-11-03T00:55:10Z",
+            "Title": "KARIOMONS COFFEE ROASTER",
+            "Updated": "2019-11-03T00:55:10Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [130.4086796, 33.5918995],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3681302803435969620",
+            "Location": {
+                "Address": "2 Chome-6-2 Nakasu, Hakata Ward, Fukuoka, 810-0801, Japan",
+                "Business Name": "中洲炭火焼鳥 山森",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "33.5918995",
+                    "Longitude": "130.4086796"
+                }
+            },
+            "Published": "2019-11-02T12:34:34Z",
+            "Title": "中洲炭火焼鳥 山森",
+            "Updated": "2019-11-02T12:34:34Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [130.3949940, 33.5933820],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13520828927447214167",
+            "Location": {
+                "Address": "Japan, 〒810-0001 Fukuoka, Chuo Ward, Tenjin, 3−７−１３ 第13ラインビル 5F",
+                "Business Name": "CLUB Cat's",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "33.5933820",
+                    "Longitude": "130.3949940"
+                }
+            },
+            "Published": "2019-11-02T11:41:51Z",
+            "Title": "CLUB Cat's",
+            "Updated": "2019-11-02T11:41:51Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [130.4089357, 33.5858018],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16375009517690990276",
+            "Location": {
+                "Address": "2 Chome-1-16 Haruyoshi, Chuo Ward, Fukuoka, 810-0003, Japan",
+                "Business Name": "Telas&mico",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "33.5858018",
+                    "Longitude": "130.4089357"
+                }
+            },
+            "Published": "2019-10-31T23:08:49Z",
+            "Title": "Telas&mico",
+            "Updated": "2019-10-31T23:08:49Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [4.2303519, 51.9491656],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14963668250722035211",
+            "Location": {
+                "Address": "Transportweg 67, 2676 LM Maasdijk, Netherlands",
+                "Business Name": "Single Estate Coffee Roasters",
+                "Country Code": "NL",
+                "Geo Coordinates": {
+                    "Latitude": "51.9491656",
+                    "Longitude": "4.2303519"
+                }
+            },
+            "Published": "2019-10-30T03:33:27Z",
+            "Title": "Single Estate Coffee Roasters",
+            "Updated": "2019-10-30T03:33:27Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [130.4077014, 33.5937900],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15859471733000968523",
+            "Location": {
+                "Address": "10-256 Kamikawabatamachi, Hakata Ward, Fukuoka, 812-0026, Japan",
+                "Business Name": "Kawabata Zenzai Square",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "33.5937900",
+                    "Longitude": "130.4077014"
+                }
+            },
+            "Published": "2019-10-29T11:40:18Z",
+            "Title": "Kawabata Zenzai Square",
+            "Updated": "2019-10-29T11:40:18Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [132.4531578, 34.3915027],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17379504698839695744",
+            "Location": {
+                "Address": "1-2 Nakajimacho, Naka Ward, Hiroshima, 730-0811, Japan",
+                "Business Name": "Hiroshima Peace Memorial Museum",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "34.3915027",
+                    "Longitude": "132.4531578"
+                }
+            },
+            "Published": "2019-10-28T22:45:39Z",
+            "Title": "Hiroshima Peace Memorial Museum",
+            "Updated": "2019-10-28T22:45:39Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [130.783275, 33.550329],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=723+Kamiyamada,+Kama,+Fukuoka+821-0012,+Japan&ftid=0x35417cba56bb270d:0xd09be27534f61f6d",
+            "Location": {
+                "Latitude": "33.550329",
+                "Longitude": "130.783275"
+            },
+            "Published": "2019-10-27T05:18:37Z",
+            "Title": "723 Kamiyamada, Kama, Fukuoka 821-0012, Japan",
+            "Updated": "2019-10-27T05:18:37Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [130.4114158, 33.5912415],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1796937983859642102",
+            "Location": {
+                "Address": "Japan, 〒812-0038 Fukuoka, Hakata Ward, Gionmachi, 8−１３ 第一プリンスビル 1F",
+                "Business Name": "HafH Fukuoka THE LIFE",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "33.5912415",
+                    "Longitude": "130.4114158"
+                }
+            },
+            "Published": "2019-10-20T13:28:56Z",
+            "Title": "ザ・ライフ ホステル & バーラウンジ キャナルシティ周辺のホテル 【博多区 宿泊】",
+            "Updated": "2019-10-20T13:28:56Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.5438988, 35.7058833],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9386768205709079593",
+            "Location": {
+                "Address": "2 Chome-3-18 Sakai, Musashino, Tokyo 180-0022, Japan",
+                "Business Name": "Komehiro",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.7058833",
+                    "Longitude": "139.5438988"
+                }
+            },
+            "Published": "2019-10-20T09:33:51Z",
+            "Title": "Komehiro",
+            "Updated": "2019-10-20T09:33:51Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.7296399, 35.6650365],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=854998152274697037",
+            "Location": {
+                "Address": "Japan, 〒106-0032 Tokyo, Minato City, 8, 7-8-5-2F,Roppongi,Minato-ku",
+                "Business Name": "Gluten Free T’s Kitchen",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.6650365",
+                    "Longitude": "139.7296399"
+                }
+            },
+            "Published": "2019-10-20T05:47:12Z",
+            "Title": "Gluten Free T’s Kitchen",
+            "Updated": "2019-10-20T05:47:12Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.6967470, 35.6578663],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1008397036493190817",
+            "Location": {
+                "Address": "2 Chome-10-１０番３号 Dogenzaka, Shibuya City, Tokyo 150-0043, Japan",
+                "Business Name": "Gluten Free & Vegan Ramen Shop Sinbusakiya",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.6578663",
+                    "Longitude": "139.6967470"
+                }
+            },
+            "Published": "2019-10-20T05:33:51Z",
+            "Title": "Gluten Free Ramen Shop Sinbusakiya",
+            "Updated": "2019-10-20T05:33:51Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [139.6678590, 35.6608790],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6437876174024178301",
+            "Location": {
+                "Address": "Japan, 〒155-0031 Tokyo, Setagaya City, Kitazawa, 2 Chome−12−１０ サウスサイドⅡ-2B",
+                "Business Name": "tagcafe",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "35.6608790",
+                    "Longitude": "139.6678590"
+                }
+            },
+            "Published": "2019-10-20T03:33:06Z",
+            "Title": "tagcafe",
+            "Updated": "2019-10-20T03:33:06Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [34.751219, 30.828397],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=30.828397,34.751219",
+            "Location": {
+                "Latitude": "30.828397",
+                "Longitude": "34.751219"
+            },
+            "Published": "2017-06-27T16:04:53Z",
+            "Title": "30.828397,34.751219",
+            "Updated": "2019-10-17T07:43:29Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [73.3669330, 4.5205090],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=18050799962500746549",
+            "Location": {
+                "Address": "Reethi Rah, North Malé Atoll, Malé 08440, Maldives",
+                "Business Name": "One&Only Reethi Rah",
+                "Country Code": "MV",
+                "Geo Coordinates": {
+                    "Latitude": "4.5205090",
+                    "Longitude": "73.3669330"
+                }
+            },
+            "Published": "2019-10-10T11:04:42Z",
+            "Title": "One&Only Reethi Rah",
+            "Updated": "2019-10-10T11:04:42Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [-48.518723, -27.598639],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=Florian%C3%B3polis,+State+of+Santa+Catarina,+Brazil&ftid=0x9527394eb2c632d7:0x81bc550b6a04c746",
+            "Location": {
+                "Latitude": "-27.598639",
+                "Longitude": "-48.518723"
+            },
+            "Published": "2019-10-10T07:44:29Z",
+            "Title": "Florianópolis, State of Santa Catarina, Brazil",
+            "Updated": "2019-10-10T07:44:29Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2138922, -33.8866095],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9122208172006675071",
+            "Location": {
+                "Address": "4/490 Crown Street, Surry Hills NSW 2010, Australia",
+                "Business Name": "Maloneys Grocer",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8866095",
+                    "Longitude": "151.2138922"
+                }
+            },
+            "Published": "2019-10-06T07:58:51Z",
+            "Title": "Maloneys Grocer",
+            "Updated": "2019-10-06T07:58:52Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2594565, -33.9077705],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12348490121804720977",
+            "Location": {
+                "Address": "24 Arden Street, Waverley NSW 2024, Australia",
+                "Business Name": "Wholegreen Bakery",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.9077705",
+                    "Longitude": "151.2594565"
+                }
+            },
+            "Published": "2019-10-06T02:24:01Z",
+            "Title": "Wholegreen Bakery",
+            "Updated": "2019-10-06T02:24:01Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [130.3705106, 32.7843228],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13693670387441604974",
+            "Location": {
+                "Address": "2 Chome Shinmachi, Shimabara, Nagasaki 855-0803, Japan",
+                "Business Name": "Shimeiso Spring Water Garden",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "32.7843228",
+                    "Longitude": "130.3705106"
+                }
+            },
+            "Published": "2019-10-05T07:05:16Z",
+            "Title": "Shimeiso Spring Water Garden",
+            "Updated": "2019-10-05T07:05:16Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [129.9697195, 33.4440800],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=5857744707653976433",
+            "Location": {
+                "Address": "3 Chome-6-29 Choda, Karatsu, Saga 847-0821, Japan",
+                "Business Name": "Nakazato Taroemon Kiln",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "33.4440800",
+                    "Longitude": "129.9697195"
+                }
+            },
+            "Published": "2019-10-05T07:03:43Z",
+            "Title": "Nakazato Taroemon Kiln",
+            "Updated": "2019-10-05T07:03:43Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [130.4046167, 33.5857611],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1102355278634140880",
+            "Location": {
+                "Address": "3 Chome-8-3 Watanabedori, Chuo Ward, Fukuoka, 810-0004, Japan",
+                "Business Name": "Stereo Coffee",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "33.5857611",
+                    "Longitude": "130.4046167"
+                }
+            },
+            "Published": "2019-10-05T07:02:10Z",
+            "Title": "STEREO COFFEE",
+            "Updated": "2019-10-05T07:02:10Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2512650, -33.9097880],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17101930950870116326",
+            "Location": {
+                "Address": "149 Clovelly Road, Randwick NSW 2031, Australia",
+                "Business Name": "A Man and his Monkey Cafe",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.9097880",
+                    "Longitude": "151.2512650"
+                }
+            },
+            "Published": "2019-10-05T03:30:00Z",
+            "Title": "A Man and his Monkey Cafe",
+            "Updated": "2019-10-05T03:30:00Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [-51.7365077, 64.1744933],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12517174623462819875",
+            "Location": {
+                "Address": "Nuuk, Greenland",
+                "Business Name": "Restaurant Charoen Porn",
+                "Country Code": "GL",
+                "Geo Coordinates": {
+                    "Latitude": "64.1744933",
+                    "Longitude": "-51.7365077"
+                }
+            },
+            "Published": "2019-10-04T10:21:39Z",
+            "Title": "Restaurant Charoen Porn",
+            "Updated": "2019-10-04T10:21:39Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [-46.0374616, 60.7176500],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1851685403873808953",
+            "Location": {
+                "Address": "Torvet B-163, Julianehåb 3920, Greenland",
+                "Business Name": "Inbox Café - A Little Thai Corner",
+                "Country Code": "GL",
+                "Geo Coordinates": {
+                    "Latitude": "60.7176500",
+                    "Longitude": "-46.0374616"
+                }
+            },
+            "Published": "2019-10-04T10:18:59Z",
+            "Title": "Inbox Café - A Little Thai Corner",
+            "Updated": "2019-10-04T10:18:59Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2148920, -33.8786340],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11206648283781239596",
+            "Location": {
+                "Address": "70 Oxford Street, Darlinghurst NSW 2010, Australia",
+                "Business Name": "Throwback Darlinghurst",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8786340",
+                    "Longitude": "151.2148920"
+                }
+            },
+            "Published": "2019-10-03T09:27:02Z",
+            "Title": "Throwback Darlinghurst",
+            "Updated": "2019-10-03T09:27:02Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [15.9732883, 45.8153634],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9188080257185501197",
+            "Location": {
+                "Address": "Ćirilometodska ulica 3, 10000, Zagreb, Croatia",
+                "Business Name": "Croatian Museum of Naïve Art",
+                "Country Code": "HR",
+                "Geo Coordinates": {
+                    "Latitude": "45.8153634",
+                    "Longitude": "15.9732883"
+                }
+            },
+            "Published": "2019-10-03T01:13:55Z",
+            "Title": "Croatian Museum of Naïve Art",
+            "Updated": "2019-10-03T01:13:55Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [150.3289509, -33.7158590],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15811626276026864138",
+            "Location": {
+                "Address": "231 Leura Mall, Leura NSW 2780, Australia",
+                "Business Name": "Bloome Park",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.7158590",
+                    "Longitude": "150.3289509"
+                }
+            },
+            "Published": "2019-10-02T03:59:06Z",
+            "Title": "Bloome Park",
+            "Updated": "2019-10-02T03:59:06Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2012060, -33.8572080],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=18412603711207748663",
+            "Location": {
+                "Address": "Hickson Road, Barangaroo NSW 2000, Australia",
+                "Business Name": "Barangaroo Reserve",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8572080",
+                    "Longitude": "151.2012060"
+                }
+            },
+            "Published": "2019-10-01T01:51:53Z",
+            "Title": "Barangaroo Reserve",
+            "Updated": "2019-10-01T01:51:53Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2664795, -33.8507156],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1903149609430026782",
+            "Location": {
+                "Address": "Vaucluse NSW 2025, Australia",
+                "Business Name": "Shark Beach",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8507156",
+                    "Longitude": "151.2664795"
+                }
+            },
+            "Published": "2019-09-30T07:24:12Z",
+            "Title": "Shark Beach",
+            "Updated": "2019-09-30T07:24:12Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2471081, -33.8898884],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7807583704543321066",
+            "Location": {
+                "Address": "222 Edgecliff Road, Woollahra NSW 2025, Australia",
+                "Business Name": "The Vernon Coffee",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8898884",
+                    "Longitude": "151.2471081"
+                }
+            },
+            "Published": "2019-09-29T22:42:48Z",
+            "Title": "The Vernon Coffee",
+            "Updated": "2019-09-29T22:42:48Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2282075, -33.8853546],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17006446878750986210",
+            "Location": {
+                "Address": "292 Oxford Street, Paddington NSW 2021, Australia",
+                "Business Name": "Vinnies Paddington",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8853546",
+                    "Longitude": "151.2282075"
+                }
+            },
+            "Published": "2019-09-29T11:37:41Z",
+            "Title": "Vinnies",
+            "Updated": "2019-09-29T11:37:41Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.1997514, -33.8875579],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13848297000790576321",
+            "Location": {
+                "Address": "15 Meagher Street, Chippendale NSW 2008, Australia",
+                "Business Name": "Pisco Sour Cafe",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8875579",
+                    "Longitude": "151.1997514"
+                }
+            },
+            "Published": "2019-09-29T01:30:14Z",
+            "Title": "Pisco Sour Cafe",
+            "Updated": "2019-09-29T01:30:14Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.1922901, -33.8840537],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1279757322385549444",
+            "Location": {
+                "Address": "16 Glebe Point Road, Glebe NSW 2037, Australia",
+                "Business Name": "Clipper Cafe",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8840537",
+                    "Longitude": "151.1922901"
+                }
+            },
+            "Published": "2019-09-29T01:30:03Z",
+            "Title": "Clipper Cafe",
+            "Updated": "2019-09-29T01:30:03Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2200900, -33.8689150],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=604703913847799006",
+            "Location": {
+                "Address": "1/6 Cowper Wharf Roadway, Woolloomooloo NSW 2011, Australia",
+                "Business Name": "Aki's Indian Restaurant",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8689150",
+                    "Longitude": "151.2200900"
+                }
+            },
+            "Published": "2019-09-27T22:24:10Z",
+            "Title": "Aki's Indian Restaurant",
+            "Updated": "2019-09-27T22:24:10Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.1796619, -33.8967592],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=2621752176844544660",
+            "Location": {
+                "Address": "294 King Street, Newtown NSW 2042, Australia",
+                "Business Name": "Thai Pothong Restaurant",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8967592",
+                    "Longitude": "151.1796619"
+                }
+            },
+            "Published": "2019-09-27T22:23:39Z",
+            "Title": "Thai Pothong Restaurant",
+            "Updated": "2019-09-27T22:23:39Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2441022, -33.8313940],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3158026257093821372",
+            "Location": {
+                "Address": "118 Prince Albert Street, Mosman NSW 2088, Australia",
+                "Business Name": "Bloom at Mosman",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8313940",
+                    "Longitude": "151.2441022"
+                }
+            },
+            "Published": "2019-09-27T22:23:08Z",
+            "Title": "Bloom at Mosman",
+            "Updated": "2019-09-27T22:23:08Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [138.4523232, 36.9206775],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=10630638174978903482",
+            "Location": {
+                "Address": "7653 Toyosato, Nozawaonsen, Shimotakai District, Nagano 389-2502, Japan",
+                "Business Name": "Nozawa Onsen Snow Resort",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "36.9206775",
+                    "Longitude": "138.4523232"
+                }
+            },
+            "Published": "2019-09-27T01:59:14Z",
+            "Title": "Nozawa Onsen Snow Resort",
+            "Updated": "2019-09-27T01:59:14Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.1919461, -33.8933386],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17597827889732177684",
+            "Location": {
+                "Address": "245 Wilson Street, Eveleigh NSW 2015, Australia",
+                "Business Name": "Carriageworks Farmers Market",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8933386",
+                    "Longitude": "151.1919461"
+                }
+            },
+            "Published": "2019-09-26T22:38:13Z",
+            "Title": "Carriageworks Farmers Market",
+            "Updated": "2019-09-26T22:38:13Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.1927314, -33.8729566],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13916973741484413364",
+            "Location": {
+                "Address": "Corner Pyrmont Bridge Rd &, Bank Street, Pyrmont NSW 2009, Australia",
+                "Business Name": "Sydney Fish Market",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8729566",
+                    "Longitude": "151.1927314"
+                }
+            },
+            "Published": "2019-09-26T21:02:17Z",
+            "Title": "Sydney Fish Market",
+            "Updated": "2019-09-26T21:02:17Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [117.361648, 39.343357],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=Tianjin,+China&ftid=0x35edfc621e2c0e87:0x847194b730884031",
+            "Location": {
+                "Latitude": "39.343357",
+                "Longitude": "117.361648"
+            },
+            "Published": "2019-09-26T12:07:01Z",
+            "Title": "Tianjin, China",
+            "Updated": "2019-09-26T12:07:01Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [100.267638, 25.606486],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=Dali,+Yunnan,+China&ftid=0x3727b8a355da57b7:0xdc4ea8f6c9d7b856",
+            "Location": {
+                "Latitude": "25.606486",
+                "Longitude": "100.267638"
+            },
+            "Published": "2019-09-26T12:06:24Z",
+            "Title": "Dali, Yunnan, China",
+            "Updated": "2019-09-26T12:06:24Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.0300201, -33.8100170],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6937869218589100526",
+            "Location": {
+                "Address": "215-221 Victoria Road, Rydalmere NSW 2116, Australia",
+                "Business Name": "Imperial Gluten Free Bakery",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8100170",
+                    "Longitude": "151.0300201"
+                }
+            },
+            "Published": "2019-09-26T09:22:56Z",
+            "Title": "Imperial Gluten Free Bakery",
+            "Updated": "2019-09-26T09:22:56Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2081496, -33.8764102],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7197904193292043948",
+            "Location": {
+                "Address": "Shop 2/338 Pitt Street, Sydney NSW 2000, Australia",
+                "Business Name": "Macchiato Wood Fire Pizza & Coffee Roastery",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8764102",
+                    "Longitude": "151.2081496"
+                }
+            },
+            "Published": "2019-09-26T00:27:28Z",
+            "Title": "Macchiato Wood Fire Pizza & Coffee Roastery",
+            "Updated": "2019-09-26T00:27:28Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2002712, -33.8865381],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11066077223904360416",
+            "Location": {
+                "Address": "30 Balfour Street, Chippendale NSW 2008, Australia",
+                "Business Name": "White Rabbit Gallery",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8865381",
+                    "Longitude": "151.2002712"
+                }
+            },
+            "Published": "2019-09-25T13:20:24Z",
+            "Title": "White Rabbit Gallery",
+            "Updated": "2019-09-25T13:20:24Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.287649, -33.793150],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=Manly+Beach,+New+South+Wales,+Australia&ftid=0x6b12ab09219bcc2b:0xa97f26bebad87850",
+            "Location": {
+                "Latitude": "-33.793150",
+                "Longitude": "151.287649"
+            },
+            "Published": "2019-09-25T13:14:46Z",
+            "Title": "Manly Beach, New South Wales, Australia",
+            "Updated": "2019-09-25T13:14:46Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2072988, -33.8753151],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=10788644500354737226",
+            "Location": {
+                "Address": "9 Wilmot Street, Sydney NSW 2000, Australia",
+                "Business Name": "Seoul Project",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8753151",
+                    "Longitude": "151.2072988"
+                }
+            },
+            "Published": "2019-09-25T11:55:08Z",
+            "Title": "Seoul Project",
+            "Updated": "2019-09-25T11:55:08Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [153.271998, -28.397979],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=Mount+Warning,+NSW+2484,+Australia&ftid=0x6b90ebc7206c78b5:0x5669e4dc1c1f8a34",
+            "Location": {
+                "Latitude": "-28.397979",
+                "Longitude": "153.271998"
+            },
+            "Published": "2019-09-22T19:59:25Z",
+            "Title": "Mount Warning, NSW 2484, Australia",
+            "Updated": "2019-09-22T19:59:25Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [138.5087179, 36.6406003],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=501743573085937116",
+            "Location": {
+                "Address": "Japan, 〒377-1528 Gunma, Agatsuma District, Tsumagoi, Hoshimata, 万座温泉２４０１",
+                "Business Name": "Manza Onsen Nisshin Kan",
+                "Country Code": "JP",
+                "Geo Coordinates": {
+                    "Latitude": "36.6406003",
+                    "Longitude": "138.5087179"
+                }
+            },
+            "Published": "2019-09-21T17:06:10Z",
+            "Title": "Manza Onsen Nisshin Kan",
+            "Updated": "2019-09-21T17:06:10Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2060962, -33.8747224],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14111460930202210052",
+            "Location": {
+                "Address": "488 Kent Street, Sydney NSW 2000, Australia",
+                "Business Name": "Assembly Bar & Restaurant",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8747224",
+                    "Longitude": "151.2060962"
+                }
+            },
+            "Published": "2019-09-21T03:53:37Z",
+            "Title": "Assembly Bar & Restaurant",
+            "Updated": "2019-09-21T03:53:37Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2029945, -33.8796954],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=12560715789077372453",
+            "Location": {
+                "Address": "Level 3 Market City, 9-13 Hay Street, Haymarket NSW 2000, Australia",
+                "Business Name": "KOGI Korean BBQ",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8796954",
+                    "Longitude": "151.2029945"
+                }
+            },
+            "Published": "2019-09-21T03:53:11Z",
+            "Title": "KOGI Korean BBQ",
+            "Updated": "2019-09-21T03:53:11Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2007784, -33.8873778],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15761096762221709638",
+            "Location": {
+                "Address": "16/12 Chippen Street, Chippendale NSW 2008, Australia",
+                "Business Name": "LP's Quality Meats",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8873778",
+                    "Longitude": "151.2007784"
+                }
+            },
+            "Published": "2019-09-19T20:24:12Z",
+            "Title": "LP's Quality Meats",
+            "Updated": "2019-09-19T20:24:12Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.1803354, -33.8960743],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=18073945733430167983",
+            "Location": {
+                "Address": "265 King Street, Newtown NSW 2042, Australia",
+                "Business Name": "Better Read Than Dead",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8960743",
+                    "Longitude": "151.1803354"
+                }
+            },
+            "Published": "2019-09-19T15:58:30Z",
+            "Title": "Better Read Than Dead",
+            "Updated": "2019-09-19T15:58:30Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [151.2209812, -33.8831036],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7401278876484460004",
+            "Location": {
+                "Address": "78 Oxford Street, Paddington NSW 2021, Australia",
+                "Business Name": "Ampersand Cafe & Bookstore",
+                "Country Code": "AU",
+                "Geo Coordinates": {
+                    "Latitude": "-33.8831036",
+                    "Longitude": "151.2209812"
+                }
+            },
+            "Published": "2019-09-19T15:58:02Z",
+            "Title": "Ampersand Cafe & Bookstore",
+            "Updated": "2019-09-19T15:58:02Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [108.3261040, 15.8771182],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16392080912091643132",
+            "Location": {
+                "Address": "Nguyễn Thị Minh Khai, Phường Minh An, Hội An, Quảng Nam 564010, Vietnam",
+                "Business Name": "Japanese Covered Bridge",
+                "Country Code": "VN",
+                "Geo Coordinates": {
+                    "Latitude": "15.8771182",
+                    "Longitude": "108.3261040"
+                }
+            },
+            "Published": "2019-09-19T03:24:50Z",
+            "Title": "Japanese Covered Bridge",
+            "Updated": "2019-09-19T03:24:50Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [108.3305658, 15.8775027],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16947089859659436939",
+            "Location": {
+                "Address": "46 Trần Phú, Cẩm Châu, Hội An, Quảng Nam, Vietnam",
+                "Business Name": "Assembly Hall Of Fujian Chinese",
+                "Country Code": "VN",
+                "Geo Coordinates": {
+                    "Latitude": "15.8775027",
+                    "Longitude": "108.3305658"
+                }
+            },
+            "Published": "2019-09-19T03:24:41Z",
+            "Title": "Assembly Hall Of Fujian Chinese",
+            "Updated": "2019-09-19T03:24:41Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [108.3276938, 15.8816903],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14210886513971055408",
+            "Location": {
+                "Address": "Số 7 Thái Phiên, P, Hội An, Quảng Nam, Vietnam",
+                "Business Name": "Greek souvlaki",
+                "Country Code": "VN",
+                "Geo Coordinates": {
+                    "Latitude": "15.8816903",
+                    "Longitude": "108.3276938"
+                }
+            },
+            "Published": "2019-09-19T03:24:11Z",
+            "Title": "Greek souvlaki",
+            "Updated": "2019-09-19T03:24:11Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [108.3303317, 15.8877246],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7858181548317675087",
+            "Location": {
+                "Address": "02 Mạc Đĩnh Chi, Cẩm Sơn, Hội An, Quảng Nam 560000, Vietnam",
+                "Business Name": "Rosie's cafe",
+                "Country Code": "VN",
+                "Geo Coordinates": {
+                    "Latitude": "15.8877246",
+                    "Longitude": "108.3303317"
+                }
+            },
+            "Published": "2019-09-19T03:24:02Z",
+            "Title": "Rosie's cafe",
+            "Updated": "2019-09-19T03:24:02Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [108.3517710, 15.8873890],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=17281603464281540798",
+            "Location": {
+                "Address": "290 Cửa Đại, Cẩm Sơn, Hội An, Quảng Nam 560000, Vietnam",
+                "Business Name": "Hoshigami Sushi Japanese Restaurant Hoi An",
+                "Country Code": "VN",
+                "Geo Coordinates": {
+                    "Latitude": "15.8873890",
+                    "Longitude": "108.3517710"
+                }
+            },
+            "Published": "2019-09-19T03:23:55Z",
+            "Title": "Hoshigami Sushi Japanese Restaurant Hoi An",
+            "Updated": "2019-09-19T03:23:55Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [105.8451385, 21.0259495],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=11446267250648315776",
+            "Location": {
+                "Address": "46 Thợ Nhuộm, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội, Vietnam",
+                "Business Name": "Namaste Ha Noi",
+                "Country Code": "VN",
+                "Geo Coordinates": {
+                    "Latitude": "21.0259495",
+                    "Longitude": "105.8451385"
+                }
+            },
+            "Published": "2019-09-19T03:23:47Z",
+            "Title": "Namaste Ha Noi",
+            "Updated": "2019-09-19T03:23:47Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [106.6929963, 10.7704669],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=6379247629406648823",
+            "Location": {
+                "Address": "7, 12 Nguyễn Trãi, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh 700000, Vietnam",
+                "Business Name": "Himalaya Phoenix Hostel",
+                "Country Code": "VN",
+                "Geo Coordinates": {
+                    "Latitude": "10.7704669",
+                    "Longitude": "106.6929963"
+                }
+            },
+            "Published": "2019-09-19T03:21:47Z",
+            "Title": "Himalaya Phoenix Hostel",
+            "Updated": "2019-09-19T03:21:47Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [108.4497492, 11.9503167],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9864825140709499617",
+            "Location": {
+                "Address": "Bà Huyện Thanh Quan, Phường 8, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Business Name": "DALAT FLOWER PARK",
+                "Country Code": "VN",
+                "Geo Coordinates": {
+                    "Latitude": "11.9503167",
+                    "Longitude": "108.4497492"
+                }
+            },
+            "Published": "2019-09-19T03:20:59Z",
+            "Title": "Dalat Flower Garden",
+            "Updated": "2019-09-19T03:20:59Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [108.4275417, 11.9401599],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=1214482567354197702",
+            "Location": {
+                "Address": "F18 Đường Mạc Đĩnh Chi, Phường 5, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Business Name": "Dalat Friendly Fun Hostel",
+                "Country Code": "VN",
+                "Geo Coordinates": {
+                    "Latitude": "11.9401599",
+                    "Longitude": "108.4275417"
+                }
+            },
+            "Published": "2019-09-19T03:20:40Z",
+            "Title": "Dalat Friendly Fun Hostel",
+            "Updated": "2019-09-19T03:20:40Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [108.3476534, 15.8817901],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=16897991830728533300",
+            "Location": {
+                "Address": "12 Đường Trần Quốc Toản, Cẩm Châu, Hội An, Quảng Nam 560000, Vietnam",
+                "Business Name": "Lazy Bear Hostel Hoi An",
+                "Country Code": "VN",
+                "Geo Coordinates": {
+                    "Latitude": "15.8817901",
+                    "Longitude": "108.3476534"
+                }
+            },
+            "Published": "2019-09-19T03:18:45Z",
+            "Title": "Lazy Bear Hostel",
+            "Updated": "2019-09-19T03:18:45Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [105.8439018, 21.0294478],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=8021145137416194332",
+            "Location": {
+                "Address": "5A Tống Duy Tân, Hàng Bông, Hoàn Kiếm, Hà Nội, Vietnam",
+                "Business Name": "Tomodachi House",
+                "Country Code": "VN",
+                "Geo Coordinates": {
+                    "Latitude": "21.0294478",
+                    "Longitude": "105.8439018"
+                }
+            },
+            "Published": "2019-09-19T03:15:19Z",
+            "Title": "Tomodachi House",
+            "Updated": "2019-09-19T03:15:19Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [103.8429617, 22.3320300],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=14418280377933467206",
+            "Location": {
+                "Address": "42 Ngõ Cầu Mây, TT. Sa Pa, Sa Pa, Lào Cai 333320, Vietnam",
+                "Business Name": "Little View Homestay",
+                "Country Code": "VN",
+                "Geo Coordinates": {
+                    "Latitude": "22.3320300",
+                    "Longitude": "103.8429617"
+                }
+            },
+            "Published": "2019-09-19T03:15:08Z",
+            "Title": "Little View Homestay Sapa",
+            "Updated": "2019-09-19T03:15:08Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [103.843785, 22.336361],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=tt.+Sa+Pa,+Sa+Pa,+Lao+Cai,+Vietnam&ftid=0x36cd416833ee9ad5:0xe1f42da2bbc76727",
+            "Location": {
+                "Latitude": "22.336361",
+                "Longitude": "103.843785"
+            },
+            "Published": "2018-08-25T14:44:33Z",
+            "Title": "Sa Pa, Lao Cai, Vietnam",
+            "Updated": "2019-09-19T03:12:38Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [10.7531155, 59.9170294],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15785186086147849409",
+            "Location": {
+                "Address": "Torggata 30, 0183 Oslo, Norway",
+                "Business Name": "Taco República",
+                "Country Code": "NO",
+                "Geo Coordinates": {
+                    "Latitude": "59.9170294",
+                    "Longitude": "10.7531155"
+                }
+            },
+            "Published": "2019-09-16T05:31:26Z",
+            "Title": "Taco República",
+            "Updated": "2019-09-16T05:31:26Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [10.7581910, 59.9075576],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=3396566054048758466",
+            "Location": {
+                "Address": "Dronning Eufemias gate 23, 0194 Oslo, Norway",
+                "Business Name": "Maaemo",
+                "Country Code": "NO",
+                "Geo Coordinates": {
+                    "Latitude": "59.9075576",
+                    "Longitude": "10.7581910"
+                }
+            },
+            "Published": "2019-09-16T05:31:22Z",
+            "Title": "Maaemo",
+            "Updated": "2019-09-16T05:31:22Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [10.7506229, 59.9163672],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=13577259000137814646",
+            "Location": {
+                "Address": "Mariboes gate 7B, 0183 Oslo, Norway",
+                "Business Name": "Arakataka",
+                "Country Code": "NO",
+                "Geo Coordinates": {
+                    "Latitude": "59.9163672",
+                    "Longitude": "10.7506229"
+                }
+            },
+            "Published": "2019-09-16T05:30:31Z",
+            "Title": "Arakataka",
+            "Updated": "2019-09-16T05:30:31Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [121.0343945, 14.5651882],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=639591559425116366",
+            "Location": {
+                "Address": "6060 R Palma, Makati, 1210 Metro Manila, Philippines",
+                "Business Name": "Rural Kitchen of Liliw Laguna",
+                "Country Code": "PH",
+                "Geo Coordinates": {
+                    "Latitude": "14.5651882",
+                    "Longitude": "121.0343945"
+                }
+            },
+            "Published": "2019-09-16T05:29:31Z",
+            "Title": "Rural Kitchen of Liliw Laguna",
+            "Updated": "2019-09-16T05:29:31Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [78.4661712, 17.3313295],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=15265989709778649134",
+            "Location": {
+                "Address": "Engine Bowli, Fatima Nagar, Falaknuma, Hyderabad, Telangana 500053, India",
+                "Business Name": "Taj Falaknuma Palace",
+                "Country Code": "IN",
+                "Geo Coordinates": {
+                    "Latitude": "17.3313295",
+                    "Longitude": "78.4661712"
+                }
+            },
+            "Published": "2019-09-15T23:37:22Z",
+            "Title": "Taj Falaknuma Palace",
+            "Updated": "2019-09-15T23:37:22Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [72.827682, 18.916517],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=Nariman+House,+Azad+Nagar,+Colaba,+Mumbai,+Maharashtra+400005&ftid=0x3be7d19581c55c61:0xb725fa89405eb0f5",
+            "Location": {
+                "Latitude": "18.916517",
+                "Longitude": "72.827682"
+            },
+            "Published": "2019-09-15T23:37:06Z",
+            "Title": "Nariman House, Azad Nagar, Colaba, Mumbai, Maharashtra 400005",
+            "Updated": "2019-09-15T23:37:06Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [75.8513454, 26.9854865],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=7071178524615540267",
+            "Location": {
+                "Address": "Amer, Jaipur, Rajasthan 302001, India",
+                "Business Name": "Amber Palace",
+                "Country Code": "IN",
+                "Geo Coordinates": {
+                    "Latitude": "26.9854865",
+                    "Longitude": "75.8513454"
+                }
+            },
+            "Published": "2019-09-15T23:36:53Z",
+            "Title": "Amber Palace",
+            "Updated": "2019-09-15T23:36:53Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [74.5488297, 26.4873591],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=9594450859554473744",
+            "Location": {
+                "Address": "Brahma Temple Road, Ganahera, Pushkar, Rajasthan 305022, India",
+                "Business Name": "Brahmaji Temple",
+                "Country Code": "IN",
+                "Geo Coordinates": {
+                    "Latitude": "26.4873591",
+                    "Longitude": "74.5488297"
+                }
+            },
+            "Published": "2019-09-15T23:36:15Z",
+            "Title": "Brahmaji Temple | Brahma Temple Pushkar",
+            "Updated": "2019-09-15T23:36:15Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [75.787271, 26.912434],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=Jaipur,+Rajasthan,+India&ftid=0x396c4adf4c57e281:0xce1c63a0cf22e09",
+            "Location": {
+                "Latitude": "26.912434",
+                "Longitude": "75.787271"
+            },
+            "Published": "2019-09-15T23:34:01Z",
+            "Title": "Jaipur, Rajasthan, India",
+            "Updated": "2019-09-15T23:34:01Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [77.2410203, 28.6561592],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?cid=4908416671633375995",
+            "Location": {
+                "Address": "Netaji Subhash Marg, Chandni Chowk, New Delhi, Delhi 110006, India",
+                "Business Name": "Red Fort",
+                "Country Code": "IN",
+                "Geo Coordinates": {
+                    "Latitude": "28.6561592",
+                    "Longitude": "77.2410203"
+                }
+            },
+            "Published": "2019-09-15T23:33:48Z",
+            "Title": "Red Fort",
+            "Updated": "2019-09-15T23:33:48Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [77.205305, 28.615762],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=North+Block,+Central+Secretariat,+New+Delhi,+Delhi,+India&ftid=0x390ce2ae054a6607:0x50682dea04f4b76c",
+            "Location": {
+                "Latitude": "28.615762",
+                "Longitude": "77.205305"
+            },
+            "Published": "2019-09-15T23:33:20Z",
+            "Title": "North Block, Central Secretariat, New Delhi, Delhi, India",
+            "Updated": "2019-09-15T23:33:20Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
+            "coordinates": [104.938885, 22.766206],
+            "type": "Point"
+        },
+        "properties": {
+            "Google Maps URL": "http://maps.google.com/?q=Ha+Giang,+Vietnam&ftid=0x36cc79caead371b1:0x834878b09acb80a8",
+            "Location": {
+                "Latitude": "22.766206",
+                "Longitude": "104.938885"
+            },
+            "Published": "2019-09-15T23:06:04Z",
+            "Title": "Ha Giang, Vietnam",
+            "Updated": "2019-09-15T23:06:04Z"
+        },
+        "type": "Feature"
+    }, {
+        "geometry": {
             "coordinates": [110.2037513, -7.6078738],
             "type": "Point"
         },
@@ -29,8 +8347,8 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=7994889183172499023",
             "Location": {
-                "Address": "No:, Şarkiye, Arif Bey Sokak No:171, 26030 Odunpazarı/Eskişehir, Turkey",
-                "Business Name": "Odunpazari Modern Art Museum",
+                "Address": "Şarkiye, Atatürk Bulvarı No: 37, 26020 Odunpazarı/Eskişehir, Turkey",
+                "Business Name": "Odunpazarı Modern Müze (OMM)",
                 "Country Code": "TR",
                 "Geo Coordinates": {
                     "Latitude": "39.7648235",
@@ -65,18 +8383,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-75.5729886, 6.2130962],
+            "coordinates": [-75.5729691, 6.2130702],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=8359316800731615097",
             "Location": {
                 "Address": "Carrera 43e #11 - 40, Medellín, Antioquia, Colombia",
-                "Business Name": "Los Patios Hostel Boutique",
+                "Business Name": "Los Patios Hostel Boutique - The Best Hostel Medellin",
                 "Country Code": "CO",
                 "Geo Coordinates": {
-                    "Latitude": "6.2130962",
-                    "Longitude": "-75.5729886"
+                    "Latitude": "6.2130702",
+                    "Longitude": "-75.5729691"
                 }
             },
             "Published": "2019-09-13T17:20:01Z",
@@ -86,18 +8404,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-75.5874430, 6.2498080],
+            "coordinates": [-75.5874092, 6.2498060],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=17044107599668378706",
             "Location": {
-                "Address": "Calle 44A ##68A-76, Medellín, Antioquia, Colombia",
+                "Address": "Calle 44A ###68A-76, Medellín, Antioquia, Colombia",
                 "Business Name": "The Wandering Paisa",
                 "Country Code": "CO",
                 "Geo Coordinates": {
-                    "Latitude": "6.2498080",
-                    "Longitude": "-75.5874430"
+                    "Latitude": "6.2498060",
+                    "Longitude": "-75.5874092"
                 }
             },
             "Published": "2019-09-13T17:18:57Z",
@@ -128,7 +8446,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-75.5660472, 6.2065391],
+            "coordinates": [-75.5661287, 6.2068240],
             "type": "Point"
         },
         "properties": {
@@ -138,8 +8456,8 @@ var SAVED_PLACES = {
                 "Business Name": "Casa Kiwi Hostel",
                 "Country Code": "CO",
                 "Geo Coordinates": {
-                    "Latitude": "6.2065391",
-                    "Longitude": "-75.5660472"
+                    "Latitude": "6.2068240",
+                    "Longitude": "-75.5661287"
                 }
             },
             "Published": "2019-09-13T17:18:10Z",
@@ -275,7 +8593,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [13.3173817, 38.1652291],
+            "coordinates": [13.3177987, 38.1653946],
             "type": "Point"
         },
         "properties": {
@@ -285,8 +8603,8 @@ var SAVED_PLACES = {
                 "Business Name": "Sanlorenzo Mercato",
                 "Country Code": "IT",
                 "Geo Coordinates": {
-                    "Latitude": "38.1652291",
-                    "Longitude": "13.3173817"
+                    "Latitude": "38.1653946",
+                    "Longitude": "13.3177987"
                 }
             },
             "Published": "2019-09-12T19:38:38Z",
@@ -317,7 +8635,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [13.3344890, 38.1606834],
+            "coordinates": [13.3345083, 38.1606750],
             "type": "Point"
         },
         "properties": {
@@ -327,8 +8645,8 @@ var SAVED_PLACES = {
                 "Business Name": "Teatro della Verdura",
                 "Country Code": "IT",
                 "Geo Coordinates": {
-                    "Latitude": "38.1606834",
-                    "Longitude": "13.3344890"
+                    "Latitude": "38.1606750",
+                    "Longitude": "13.3345083"
                 }
             },
             "Published": "2019-09-12T19:37:34Z",
@@ -507,7 +8825,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=17876837415373422100",
             "Location": {
-                "Address": "Japan, 〒501-3722 Gifu, Mino, 常盤町2300番地",
+                "Address": "2300 Tokiwacho, Mino, Gifu 501-3722, Japan",
                 "Business Name": "HAPPA STAND",
                 "Country Code": "JP",
                 "Geo Coordinates": {
@@ -669,7 +8987,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [139.6471439, 35.6476986],
+            "coordinates": [139.6471476, 35.6477062],
             "type": "Point"
         },
         "properties": {
@@ -679,8 +8997,8 @@ var SAVED_PLACES = {
                 "Business Name": "Gōtokuji Temple",
                 "Country Code": "JP",
                 "Geo Coordinates": {
-                    "Latitude": "35.6476986",
-                    "Longitude": "139.6471439"
+                    "Latitude": "35.6477062",
+                    "Longitude": "139.6471476"
                 }
             },
             "Published": "2019-09-06T22:08:24Z",
@@ -690,7 +9008,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [139.7061080, 35.6691520],
+            "coordinates": [139.7061157, 35.6691399],
             "type": "Point"
         },
         "properties": {
@@ -700,8 +9018,8 @@ var SAVED_PLACES = {
                 "Business Name": "Kawaii Monster Cafe",
                 "Country Code": "JP",
                 "Geo Coordinates": {
-                    "Latitude": "35.6691520",
-                    "Longitude": "139.7061080"
+                    "Latitude": "35.6691399",
+                    "Longitude": "139.7061157"
                 }
             },
             "Published": "2019-09-06T22:08:00Z",
@@ -711,28 +9029,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [139.7052541, 35.6710456],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=9407391638159456666",
-            "Location": {
-                "Address": "Japan, 〒150-0001 Tokyo, Shibuya City, Jingumae, 1 Chome−9−３１ 榎原ビル",
-                "Business Name": "Xing Fu Tang 幸福堂",
-                "Country Code": "JP",
-                "Geo Coordinates": {
-                    "Latitude": "35.6710456",
-                    "Longitude": "139.7052541"
-                }
-            },
-            "Published": "2019-09-06T22:06:55Z",
-            "Title": "Xing Fu Tang 幸福堂",
-            "Updated": "2019-09-06T22:06:55Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
-            "coordinates": [139.7031348, 35.6715517],
+            "coordinates": [139.7041715, 35.6713582],
             "type": "Point"
         },
         "properties": {
@@ -742,8 +9039,8 @@ var SAVED_PLACES = {
                 "Business Name": "Takeshita Street",
                 "Country Code": "JP",
                 "Geo Coordinates": {
-                    "Latitude": "35.6715517",
-                    "Longitude": "139.7031348"
+                    "Latitude": "35.6713582",
+                    "Longitude": "139.7041715"
                 }
             },
             "Published": "2019-09-06T22:06:36Z",
@@ -837,18 +9134,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [139.7005149, 35.6602348],
+            "coordinates": [139.7005026, 35.6602148],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=12227803871553836551",
             "Location": {
-                "Address": "Japan, 〒150-0042 Tokyo, Shibuya City, Udagawacho, 21−１ A館8階レストラン街ダイニング プラザ",
-                "Business Name": "Sushi Katsu Midori",
+                "Address": "Japan, 〒150-0042 Tokyo, Shibuya City, Udagawacho, 21−１ A 館8階 レストラン街ダイニング プラザ",
+                "Business Name": "Katsumidori Seibu Shibuya",
                 "Country Code": "JP",
                 "Geo Coordinates": {
-                    "Latitude": "35.6602348",
-                    "Longitude": "139.7005149"
+                    "Latitude": "35.6602148",
+                    "Longitude": "139.7005026"
                 }
             },
             "Published": "2019-09-06T21:57:04Z",
@@ -916,18 +9213,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [121.5643071, 25.0333348],
+            "coordinates": [121.5643845, 25.0333329],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=5895780768888079129",
             "Location": {
-                "Address": "110, Taiwan, Taipei City, Xinyi District, City Hall Road, 45號台北101購物中心B1",
-                "Business Name": "Din Tai Fung Chinese Taipei 101 Restaurant",
+                "Address": "110, Taiwan, Taipei City, Xinyi District, Shifu Rd45號B1, No",
+                "Business Name": "Din Tai Fung 101",
                 "Country Code": "TW",
                 "Geo Coordinates": {
-                    "Latitude": "25.0333348",
-                    "Longitude": "121.5643071"
+                    "Latitude": "25.0333329",
+                    "Longitude": "121.5643845"
                 }
             },
             "Published": "2019-09-06T21:51:10Z",
@@ -937,7 +9234,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [114.1554690, 22.2806530],
+            "coordinates": [114.1553749, 22.2807051],
             "type": "Point"
         },
         "properties": {
@@ -947,8 +9244,8 @@ var SAVED_PLACES = {
                 "Business Name": "Employees Only Hong Kong",
                 "Country Code": "HK",
                 "Geo Coordinates": {
-                    "Latitude": "22.2806530",
-                    "Longitude": "114.1554690"
+                    "Latitude": "22.2807051",
+                    "Longitude": "114.1553749"
                 }
             },
             "Published": "2019-09-06T21:45:26Z",
@@ -1123,7 +9420,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=1313955705638594756",
             "Location": {
-                "Address": "99 Furong West Road, Yanta, Xi'an, Shaanxi, China, 710061",
+                "Address": "99 Furong West Road, Yanta District, Xi'an, Shaanxi, China, 710061",
                 "Business Name": "Tang Paradise",
                 "Country Code": "CN",
                 "Geo Coordinates": {
@@ -1138,34 +9435,13 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [126.9776692, 37.5591786],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=14787317685547704417",
-            "Location": {
-                "Address": "21 Namdaemunsijang 4-gil, Jung-gu, Seoul, South Korea",
-                "Business Name": "Namdaemun Market",
-                "Country Code": "KR",
-                "Geo Coordinates": {
-                    "Latitude": "37.5591786",
-                    "Longitude": "126.9776692"
-                }
-            },
-            "Published": "2019-09-06T21:24:39Z",
-            "Title": "Namdaemun Market",
-            "Updated": "2019-09-06T21:24:39Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
             "coordinates": [126.9849234, 37.5743092],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=1728594593650106493",
             "Location": {
-                "Address": "South Korea, Seoul 종로구 Insadonggil",
+                "Address": "Insa-dong, Jongno-gu, Seoul, South Korea",
                 "Business Name": "Insadong Ssamziegil",
                 "Country Code": "KR",
                 "Geo Coordinates": {
@@ -1180,18 +9456,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [129.1000856, 35.1359862],
+            "coordinates": [129.1000991, 35.1360856],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=15083677586180798191",
             "Location": {
-                "Address": "South Korea, Busan, Nam-gu, Daeyeon 3(sam)-dong, -dong",
+                "Address": "10 Yongso-ro 14beon-gil, Nam-gu, Busan, South Korea",
                 "Business Name": "RACOONAMATATA Play With Raccoon",
                 "Country Code": "KR",
                 "Geo Coordinates": {
-                    "Latitude": "35.1359862",
-                    "Longitude": "129.1000856"
+                    "Latitude": "35.1360856",
+                    "Longitude": "129.1000991"
                 }
             },
             "Published": "2019-09-06T21:20:45Z",
@@ -1306,22 +9582,6 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [126.992102, 37.540046],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?q=Itaewon-dong,+Yongsan-gu,+Seoul,+South+Korea&ftid=0x357ca24c0510be8f:0x1ad07db728bb9103",
-            "Location": {
-                "Latitude": "37.540046",
-                "Longitude": "126.992102"
-            },
-            "Published": "2019-09-06T20:57:47Z",
-            "Title": "Itaewon-dong, Yongsan-gu, Seoul, South Korea",
-            "Updated": "2019-09-06T20:57:47Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
             "coordinates": [126.9770410, 37.5796170],
             "type": "Point"
         },
@@ -1359,34 +9619,13 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [121.5426201, 25.0350393],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=5444705238002925557",
-            "Location": {
-                "Address": "No. 14號, Alley 15, Lane 147, Section 3, Xinyi Road, Da’an District, Taipei City, Taiwan 106",
-                "Business Name": "G.Space",
-                "Country Code": "TW",
-                "Geo Coordinates": {
-                    "Latitude": "25.0350393",
-                    "Longitude": "121.5426201"
-                }
-            },
-            "Published": "2019-09-05T13:21:01Z",
-            "Title": "G.Space",
-            "Updated": "2019-09-05T13:21:01Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
             "coordinates": [-73.9862154, 40.7350907],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=8073593275770445328",
             "Location": {
-                "Address": "180 Third Avenue, New York, NY 10003, United States",
+                "Address": "180 3rd Avenue, New York, NY 10003, United States",
                 "Business Name": "Westside Market",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -1428,7 +9667,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=12959110642028765162",
             "Location": {
-                "Address": "Nongriat, Tyrna, Cherrapunjee, Meghalaya 793111, India",
+                "Address": "Nongriat, Tyrna, Cherrapunji‎, Meghalaya 793111, India",
                 "Business Name": "Double Decker Living Root Bridge",
                 "Country Code": "IN",
                 "Geo Coordinates": {
@@ -1485,18 +9724,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [102.2234155, 2.2352451],
+            "coordinates": [102.2234110, 2.2352510],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=4707358067842304700",
             "Location": {
-                "Address": "27, Jalan Taman Asean, Taman Asean, 75250, Melaka, Malaysia",
+                "Address": "27, Jalan Taman Asean, Taman Asean, 75250 Melaka, Malaysia",
                 "Business Name": "The Huskitory",
                 "Country Code": "MY",
                 "Geo Coordinates": {
-                    "Latitude": "2.2352451",
-                    "Longitude": "102.2234155"
+                    "Latitude": "2.2352510",
+                    "Longitude": "102.2234110"
                 }
             },
             "Published": "2019-09-01T01:31:57Z",
@@ -1506,19 +9745,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-99.1231584, 19.4265759],
+            "coordinates": [-99.123333, 19.426667],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=10392726803997129365",
             "Location": {
-                "Address": "Rosario 156, Merced Balbuena, 15100 Ciudad de México, CDMX, Mexico",
-                "Business Name": "La Merced Market",
-                "Country Code": "MX",
-                "Geo Coordinates": {
-                    "Latitude": "19.4265759",
-                    "Longitude": "-99.1231584"
-                }
+                "Latitude": "19.426667",
+                "Longitude": "-99.123333"
             },
             "Published": "2019-09-01T01:30:07Z",
             "Title": "La Merced Market",
@@ -1527,7 +9761,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [11.3448228, 44.4934334],
+            "coordinates": [11.3448654, 44.4933386],
             "type": "Point"
         },
         "properties": {
@@ -1537,8 +9771,8 @@ var SAVED_PLACES = {
                 "Business Name": "Mercato di Mezzo",
                 "Country Code": "IT",
                 "Geo Coordinates": {
-                    "Latitude": "44.4934334",
-                    "Longitude": "11.3448228"
+                    "Latitude": "44.4933386",
+                    "Longitude": "11.3448654"
                 }
             },
             "Published": "2019-09-01T01:29:05Z",
@@ -1592,7 +9826,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=12255026315140002412",
             "Location": {
                 "Address": "Boulevard Richard-Lenoir, 75011 Paris, France",
-                "Business Name": "Marche Bastille",
+                "Business Name": "Bastille Market",
                 "Country Code": "FR",
                 "Geo Coordinates": {
                     "Latitude": "48.8566973",
@@ -1676,7 +9910,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=17893903565087137374",
             "Location": {
                 "Address": "Müze caddesi , Açık Hava Müzesi Otoparkı üzeri, 50180 Göreme Belediyesi/Nevşehir Merkez/Nevşehir, Turkey",
-                "Business Name": "Asmalı Cafe Restaurant",
+                "Business Name": "Asmalı",
                 "Country Code": "TR",
                 "Geo Coordinates": {
                     "Latitude": "38.6408013",
@@ -1711,7 +9945,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [55.2263504, 25.1428881],
+            "coordinates": [55.2261111, 25.1416667],
             "type": "Point"
         },
         "properties": {
@@ -1721,8 +9955,8 @@ var SAVED_PLACES = {
                 "Business Name": "Alserkal Avenue",
                 "Country Code": "AE",
                 "Geo Coordinates": {
-                    "Latitude": "25.1428881",
-                    "Longitude": "55.2263504"
+                    "Latitude": "25.1416667",
+                    "Longitude": "55.2261111"
                 }
             },
             "Published": "2019-08-31T19:30:18Z",
@@ -1738,8 +9972,8 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=11333216458311892584",
             "Location": {
-                "Address": "China, Gansu, Tianshui, Qinzhou, 316国道",
-                "Business Name": "Gansu Tianshui Bingling Temple",
+                "Address": "China, Gansu, Tianshui, Qinzhou District, 316国道",
+                "Business Name": "Bingling Temple",
                 "Country Code": "CN",
                 "Geo Coordinates": {
                     "Latitude": "34.5393730",
@@ -1837,7 +10071,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [44.5150673, 40.1858221],
+            "coordinates": [44.5150806, 40.1858583],
             "type": "Point"
         },
         "properties": {
@@ -1847,8 +10081,8 @@ var SAVED_PLACES = {
                 "Business Name": "Armenian Opera Theatre",
                 "Country Code": "AM",
                 "Geo Coordinates": {
-                    "Latitude": "40.1858221",
-                    "Longitude": "44.5150673"
+                    "Latitude": "40.1858583",
+                    "Longitude": "44.5150806"
                 }
             },
             "Published": "2019-08-31T02:49:12Z",
@@ -2027,27 +10261,6 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [121.5244037, 25.0886283],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=4085151630643116818",
-            "Location": {
-                "Address": "No. 101號, Jihe Road, Shilin District, Taipei City, Taiwan 111",
-                "Business Name": "Shilin Night Market",
-                "Country Code": "TW",
-                "Geo Coordinates": {
-                    "Latitude": "25.0886283",
-                    "Longitude": "121.5244037"
-                }
-            },
-            "Published": "2019-08-30T15:14:38Z",
-            "Title": "Shilin Night Market",
-            "Updated": "2019-08-30T15:14:38Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
             "coordinates": [140.2202548, 35.9826885],
             "type": "Point"
         },
@@ -2148,7 +10361,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [20.7888271, 41.1110790],
+            "coordinates": [20.7887537, 41.1110806],
             "type": "Point"
         },
         "properties": {
@@ -2158,34 +10371,13 @@ var SAVED_PLACES = {
                 "Business Name": "St. John the Theologian",
                 "Country Code": "MK",
                 "Geo Coordinates": {
-                    "Latitude": "41.1110790",
-                    "Longitude": "20.7888271"
+                    "Latitude": "41.1110806",
+                    "Longitude": "20.7887537"
                 }
             },
             "Published": "2019-08-29T14:12:35Z",
             "Title": "St. John the Theologian",
             "Updated": "2019-08-29T14:12:35Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
-            "coordinates": [21.4368045, 42.0001268],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=18120657119521443114",
-            "Location": {
-                "Address": "Salih Asim, Skopie 1000, North Macedonia",
-                "Business Name": "Kapan An",
-                "Country Code": "MK",
-                "Geo Coordinates": {
-                    "Latitude": "42.0001268",
-                    "Longitude": "21.4368045"
-                }
-            },
-            "Published": "2019-08-29T14:11:28Z",
-            "Title": "Kapan An",
-            "Updated": "2019-08-29T14:11:28Z"
         },
         "type": "Feature"
     }, {
@@ -2239,7 +10431,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=8019705628332780792",
             "Location": {
                 "Address": "10 Rue de Bruxelles, 75009 Paris, France",
-                "Business Name": "Maison Souquet",
+                "Business Name": "Maison Souquet. Bar",
                 "Country Code": "FR",
                 "Geo Coordinates": {
                     "Latitude": "48.8836600",
@@ -2253,34 +10445,13 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [2.3554489, 48.8695666],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=2737567075132177898",
-            "Location": {
-                "Address": "7 Rue du Faubourg Saint-Martin, 75010 Paris, France",
-                "Business Name": "Baranaan - Cocktail Bar & Restaurant",
-                "Country Code": "FR",
-                "Geo Coordinates": {
-                    "Latitude": "48.8695666",
-                    "Longitude": "2.3554489"
-                }
-            },
-            "Published": "2019-08-28T01:45:41Z",
-            "Title": "Baranaan - Cocktail Bar & Restaurant",
-            "Updated": "2019-08-28T01:45:41Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
             "coordinates": [-99.1414870, 19.4269631],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=6349872709453516893",
             "Location": {
-                "Address": "José María Izazaga 8, Centro, 06000 Ciudad de México, CDMX, Mexico",
+                "Address": "José María Izazaga 8, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",
                 "Business Name": "Selina Mexico City Downtown",
                 "Country Code": "MX",
                 "Geo Coordinates": {
@@ -2337,18 +10508,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-74.0005713, 40.7296665],
+            "coordinates": [-74.0006250, 40.7296889],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=5171944737705201929",
             "Location": {
-                "Address": "114 Macdougal Street, New York, NY 10012, United States",
+                "Address": "114 MacDougal Street, New York, NY 10012, United States",
                 "Business Name": "Saigon Shack",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7296665",
-                    "Longitude": "-74.0005713"
+                    "Latitude": "40.7296889",
+                    "Longitude": "-74.0006250"
                 }
             },
             "Published": "2019-08-27T03:14:45Z",
@@ -2358,7 +10529,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9566937, 40.6749300],
+            "coordinates": [-73.9566008, 40.6749211],
             "type": "Point"
         },
         "properties": {
@@ -2368,8 +10539,8 @@ var SAVED_PLACES = {
                 "Business Name": "Mayfield",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.6749300",
-                    "Longitude": "-73.9566937"
+                    "Latitude": "40.6749211",
+                    "Longitude": "-73.9566008"
                 }
             },
             "Published": "2019-08-27T03:05:24Z",
@@ -2422,7 +10593,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=11508811340878222581",
             "Location": {
-                "Address": "62 Changyang Road, Hongkou, Shanghai, China",
+                "Address": "62 Changyang Road, Hongkou District, Shanghai, China",
                 "Business Name": "Shanghai Jewish Refugees Museum",
                 "Country Code": "CN",
                 "Geo Coordinates": {
@@ -2458,18 +10629,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [34.8611121, 38.6599298],
+            "coordinates": [34.8633084, 38.6531191],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=9134636926767495067",
             "Location": {
-                "Address": "Ürgüp/Göreme/Nevşehir, Turkey",
-                "Business Name": "Göreme Tarihi Milli Parkı",
+                "Address": "Yukarı Kızılçukur Vadisi, 50500 Ürgüp/Nevşehir, Turkey",
+                "Business Name": "Goreme National Park",
                 "Country Code": "TR",
                 "Geo Coordinates": {
-                    "Latitude": "38.6599298",
-                    "Longitude": "34.8611121"
+                    "Latitude": "38.6531191",
+                    "Longitude": "34.8633084"
                 }
             },
             "Published": "2019-08-22T16:37:16Z",
@@ -2502,7 +10673,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=17399132534812343529",
             "Location": {
                 "Address": "Rua Formosa, 4000-214 Porto, Portugal",
-                "Business Name": "Mercado do Bolhão",
+                "Business Name": "Bolhão Market",
                 "Country Code": "PT",
                 "Geo Coordinates": {
                     "Latitude": "41.1487167",
@@ -2516,7 +10687,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [37.6497831, 55.7500355],
+            "coordinates": [37.6497891, 55.7500325],
             "type": "Point"
         },
         "properties": {
@@ -2526,8 +10697,8 @@ var SAVED_PLACES = {
                 "Business Name": "Gary Tatintsian Gallery",
                 "Country Code": "RU",
                 "Geo Coordinates": {
-                    "Latitude": "55.7500355",
-                    "Longitude": "37.6497831"
+                    "Latitude": "55.7500325",
+                    "Longitude": "37.6497891"
                 }
             },
             "Published": "2019-08-21T15:09:19Z",
@@ -2674,7 +10845,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [106.6978181, 10.7695875],
+            "coordinates": [106.6978152, 10.7695919],
             "type": "Point"
         },
         "properties": {
@@ -2684,8 +10855,8 @@ var SAVED_PLACES = {
                 "Business Name": "Maison Marou Saigon",
                 "Country Code": "VN",
                 "Geo Coordinates": {
-                    "Latitude": "10.7695875",
-                    "Longitude": "106.6978181"
+                    "Latitude": "10.7695919",
+                    "Longitude": "106.6978152"
                 }
             },
             "Published": "2019-08-11T18:21:03Z",
@@ -2695,7 +10866,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.7191144, 48.7355062],
+            "coordinates": [-122.7191083, 48.7354889],
             "type": "Point"
         },
         "properties": {
@@ -2705,8 +10876,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Willows Inn",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "48.7355062",
-                    "Longitude": "-122.7191144"
+                    "Latitude": "48.7354889",
+                    "Longitude": "-122.7191083"
                 }
             },
             "Published": "2019-08-11T00:32:41Z",
@@ -2758,7 +10929,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.7067506, 41.9278192],
+            "coordinates": [-87.7067530, 41.9277860],
             "type": "Point"
         },
         "properties": {
@@ -2768,8 +10939,8 @@ var SAVED_PLACES = {
                 "Business Name": "Mezcaleria Las Flores",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9278192",
-                    "Longitude": "-87.7067506"
+                    "Latitude": "41.9277860",
+                    "Longitude": "-87.7067530"
                 }
             },
             "Published": "2017-02-03T22:39:19Z",
@@ -2922,7 +11093,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=10048916544946875015",
             "Location": {
-                "Address": "2 West Chang'an Avenue, Xicheng, Beijing, China, 100031",
+                "Address": "2 West Chang'an Avenue, Xicheng District, Beijing, China, 100031",
                 "Business Name": "National Centre for the Performing Arts",
                 "Country Code": "CN",
                 "Geo Coordinates": {
@@ -2937,28 +11108,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [102.5862842, 17.9711860],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=4394083254841407030",
-            "Location": {
-                "Address": "40 Dongnasok Road, Ban Nakham, Sikhottabong District, Laos, ວຽງຈັນ, Laos",
-                "Business Name": "S Park Design Hotel",
-                "Country Code": "LA",
-                "Geo Coordinates": {
-                    "Latitude": "17.9711860",
-                    "Longitude": "102.5862842"
-                }
-            },
-            "Published": "2019-07-29T21:14:40Z",
-            "Title": "S Park Design Hotel",
-            "Updated": "2019-07-29T21:14:40Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
-            "coordinates": [102.6056164, 17.9662617],
+            "coordinates": [102.6056163, 17.9662616],
             "type": "Point"
         },
         "properties": {
@@ -2968,34 +11118,13 @@ var SAVED_PLACES = {
                 "Business Name": "Lao Poet Hotel",
                 "Country Code": "LA",
                 "Geo Coordinates": {
-                    "Latitude": "17.9662617",
-                    "Longitude": "102.6056164"
+                    "Latitude": "17.9662616",
+                    "Longitude": "102.6056163"
                 }
             },
             "Published": "2019-07-29T21:14:23Z",
             "Title": "Lao Poet Hotel",
             "Updated": "2019-07-29T21:14:23Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
-            "coordinates": [102.6001760, 17.9688900],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=10599402652980386203",
-            "Location": {
-                "Address": "Sihome road 61 Vientiane, 01000, Laos",
-                "Business Name": "PDR - Pizza da Roby",
-                "Country Code": "LA",
-                "Geo Coordinates": {
-                    "Latitude": "17.9688900",
-                    "Longitude": "102.6001760"
-                }
-            },
-            "Published": "2019-07-29T21:14:05Z",
-            "Title": "PDR - Pizza da Roby",
-            "Updated": "2019-07-29T21:14:05Z"
         },
         "type": "Feature"
     }, {
@@ -3042,7 +11171,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [102.6170790, 17.9580464],
+            "coordinates": [102.6170807, 17.9580637],
             "type": "Point"
         },
         "properties": {
@@ -3052,34 +11181,13 @@ var SAVED_PLACES = {
                 "Business Name": "Wat Si Muang",
                 "Country Code": "LA",
                 "Geo Coordinates": {
-                    "Latitude": "17.9580464",
-                    "Longitude": "102.6170790"
+                    "Latitude": "17.9580637",
+                    "Longitude": "102.6170807"
                 }
             },
             "Published": "2019-07-29T21:13:08Z",
             "Title": "Wat Si Muang",
             "Updated": "2019-07-29T21:13:08Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
-            "coordinates": [102.6114149, 17.9631306],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=10442658132255478045",
-            "Location": {
-                "Address": "Avenue Lane Xang, Vientiane, Laos",
-                "Business Name": "Sisaket Temple",
-                "Country Code": "LA",
-                "Geo Coordinates": {
-                    "Latitude": "17.9631306",
-                    "Longitude": "102.6114149"
-                }
-            },
-            "Published": "2019-07-29T21:12:39Z",
-            "Title": "Sisaket Temple",
-            "Updated": "2019-07-29T21:12:39Z"
         },
         "type": "Feature"
     }, {
@@ -3168,7 +11276,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-79.9262140, 40.4611810],
+            "coordinates": [-79.9263447, 40.4613152],
             "type": "Point"
         },
         "properties": {
@@ -3178,8 +11286,8 @@ var SAVED_PLACES = {
                 "Business Name": "Whitfield",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.4611810",
-                    "Longitude": "-79.9262140"
+                    "Latitude": "40.4613152",
+                    "Longitude": "-79.9263447"
                 }
             },
             "Published": "2019-07-28T02:51:37Z",
@@ -3231,18 +11339,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [3.7286472, 51.0558310],
+            "coordinates": [3.7285150, 51.0558330],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=15358945121972648172",
             "Location": {
                 "Address": "Vlasmarkt 9, 9000 Gent, Belgium",
-                "Business Name": "Muziekcentrum Kinky Star VZW",
+                "Business Name": "Jeugd- en muziekcentrum Kinky Star VZW",
                 "Country Code": "BE",
                 "Geo Coordinates": {
-                    "Latitude": "51.0558310",
-                    "Longitude": "3.7286472"
+                    "Latitude": "51.0558330",
+                    "Longitude": "3.7285150"
                 }
             },
             "Published": "2019-07-23T13:51:12Z",
@@ -3326,18 +11434,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-71.5348255, -16.4027790],
+            "coordinates": [-71.5347222, -16.4027778],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=3704656833577579013",
             "Location": {
-                "Address": "Calle San Camilo, Arequipa, Peru",
+                "Address": "Calle San Camilo, Arequipa 04001, Peru",
                 "Business Name": "Mercado San Camilo",
                 "Country Code": "PE",
                 "Geo Coordinates": {
-                    "Latitude": "-16.4027790",
-                    "Longitude": "-71.5348255"
+                    "Latitude": "-16.4027778",
+                    "Longitude": "-71.5347222"
                 }
             },
             "Published": "2019-07-22T21:48:24Z",
@@ -3353,7 +11461,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=15278734442095577893",
             "Location": {
-                "Address": "Via Paolo Carcano, 10-12, 22021 Bellagio CO, Italy",
+                "Address": "Via Paolo Carcano, 10/12, 22021 Bellagio CO, Italy",
                 "Business Name": "Hotel & Restaurant Silvio",
                 "Country Code": "IT",
                 "Geo Coordinates": {
@@ -3368,7 +11476,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3467420, 47.7753651],
+            "coordinates": [-122.3466667, 47.7752778],
             "type": "Point"
         },
         "properties": {
@@ -3378,8 +11486,8 @@ var SAVED_PLACES = {
                 "Business Name": "Sanmaru Grill",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.7753651",
-                    "Longitude": "-122.3467420"
+                    "Latitude": "47.7752778",
+                    "Longitude": "-122.3466667"
                 }
             },
             "Published": "2019-07-21T23:29:20Z",
@@ -3389,18 +11497,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [106.7916429, -6.1189339],
+            "coordinates": [106.7914358, -6.1190358],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=5280848114346741069",
             "Location": {
-                "Address": "Jalan Pluit Putra No.18, RT.6/RW.6, Pluit, Kecamatan Penjaringan, Kota Jakarta Utara, Daerah Khusus Ibukota Jakarta 14450, Indonesia",
+                "Address": "Jalan Pluit Putra No.18, Pluit, Kecamatan Penjaringan, Daerah Khusus Ibukota Jakarta 14450, Indonesia",
                 "Business Name": "BOJA EATERY",
                 "Country Code": "ID",
                 "Geo Coordinates": {
-                    "Latitude": "-6.1189339",
-                    "Longitude": "106.7916429"
+                    "Latitude": "-6.1190358",
+                    "Longitude": "106.7914358"
                 }
             },
             "Published": "2019-07-18T19:26:39Z",
@@ -3463,19 +11571,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3300040, 47.6011550],
+            "coordinates": [-122.330004, 47.601155],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=11337629085515712759",
             "Location": {
-                "Address": "114 3rd Avenue South, Seattle, WA 98104, United States",
-                "Business Name": "Center on Contemporary Art (CoCA) Gallery",
-                "Country Code": "US",
-                "Geo Coordinates": {
-                    "Latitude": "47.6011550",
-                    "Longitude": "-122.3300040"
-                }
+                "Latitude": "47.601155",
+                "Longitude": "-122.330004"
             },
             "Published": "2019-07-12T23:59:00Z",
             "Title": "Center on Contemporary Art (CoCA) Gallery",
@@ -3653,7 +11756,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9597017, 40.7331931],
+            "coordinates": [-73.9596202, 40.7331806],
             "type": "Point"
         },
         "properties": {
@@ -3663,8 +11766,8 @@ var SAVED_PLACES = {
                 "Business Name": "Achilles Heel",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7331931",
-                    "Longitude": "-73.9597017"
+                    "Latitude": "40.7331806",
+                    "Longitude": "-73.9596202"
                 }
             },
             "Published": "2019-06-26T21:27:52Z",
@@ -3674,7 +11777,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9278282, 40.7048591],
+            "coordinates": [-73.9279056, 40.7049167],
             "type": "Point"
         },
         "properties": {
@@ -3684,8 +11787,8 @@ var SAVED_PLACES = {
                 "Business Name": "Bunna Cafe",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7048591",
-                    "Longitude": "-73.9278282"
+                    "Latitude": "40.7049167",
+                    "Longitude": "-73.9279056"
                 }
             },
             "Published": "2019-06-26T21:27:40Z",
@@ -3716,7 +11819,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9555547, 40.7123677],
+            "coordinates": [-73.9555523, 40.7124520],
             "type": "Point"
         },
         "properties": {
@@ -3726,8 +11829,8 @@ var SAVED_PLACES = {
                 "Business Name": "Gertie",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7123677",
-                    "Longitude": "-73.9555547"
+                    "Latitude": "40.7124520",
+                    "Longitude": "-73.9555523"
                 }
             },
             "Published": "2019-06-26T21:26:52Z",
@@ -3737,7 +11840,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9961255, 40.6779530],
+            "coordinates": [-73.9960619, 40.6778956],
             "type": "Point"
         },
         "properties": {
@@ -3747,8 +11850,8 @@ var SAVED_PLACES = {
                 "Business Name": "Ugly Baby",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.6779530",
-                    "Longitude": "-73.9961255"
+                    "Latitude": "40.6778956",
+                    "Longitude": "-73.9960619"
                 }
             },
             "Published": "2019-06-26T21:26:20Z",
@@ -3758,18 +11861,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-74.0006182, 40.7535639],
+            "coordinates": [-74.0003285, 40.7537618],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=577352024042120110",
             "Location": {
-                "Address": "20 Hudson Yards, #501, New York, NY 10001, United States",
-                "Business Name": "Kāwi",
+                "Address": "20 Hudson Yards, New York, NY 10001, United States",
+                "Business Name": "Momofuku Kāwi",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7535639",
-                    "Longitude": "-74.0006182"
+                    "Latitude": "40.7537618",
+                    "Longitude": "-74.0003285"
                 }
             },
             "Published": "2019-06-26T21:26:09Z",
@@ -3800,18 +11903,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9808128, 40.7557955],
+            "coordinates": [-73.9809188, 40.7558250],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=8789456298092955045",
             "Location": {
-                "Address": "24 West 45th Street, New York, NY 10036, United States",
+                "Address": "37 West 43rd Street, New York, NY 10036, United States",
                 "Business Name": "西安名吃 Xi'an Famous Foods",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7557955",
-                    "Longitude": "-73.9808128"
+                    "Latitude": "40.7558250",
+                    "Longitude": "-73.9809188"
                 }
             },
             "Published": "2019-06-26T21:25:23Z",
@@ -3921,7 +12024,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6881636, 41.9304682],
+            "coordinates": [-87.6881584, 41.9304471],
             "type": "Point"
         },
         "properties": {
@@ -3931,8 +12034,8 @@ var SAVED_PLACES = {
                 "Business Name": "Owen & Engine",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9304682",
-                    "Longitude": "-87.6881636"
+                    "Latitude": "41.9304471",
+                    "Longitude": "-87.6881584"
                 }
             },
             "Published": "2019-06-26T02:59:46Z",
@@ -4001,8 +12104,8 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=9603203568504181909",
             "Location": {
-                "Address": "1 Minzhu Road, Gucheng, Lijiang, Yunnan, China",
-                "Business Name": "黑龙潭",
+                "Address": "1 Minzhu Road, Gucheng District, Lijiang, Yunnan, China",
+                "Business Name": "丽江黑龙潭",
                 "Country Code": "CN",
                 "Geo Coordinates": {
                     "Latitude": "26.8833740",
@@ -4037,7 +12140,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3442198, 47.6540752],
+            "coordinates": [-122.3442050, 47.6540769],
             "type": "Point"
         },
         "properties": {
@@ -4047,8 +12150,8 @@ var SAVED_PLACES = {
                 "Business Name": "kamonegi",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6540752",
-                    "Longitude": "-122.3442198"
+                    "Latitude": "47.6540769",
+                    "Longitude": "-122.3442050"
                 }
             },
             "Published": "2019-06-18T01:21:35Z",
@@ -4058,7 +12161,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3619915, 47.6564621],
+            "coordinates": [-122.3619921, 47.6564626],
             "type": "Point"
         },
         "properties": {
@@ -4068,8 +12171,8 @@ var SAVED_PLACES = {
                 "Business Name": "Tarsan i Jane",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6564621",
-                    "Longitude": "-122.3619915"
+                    "Latitude": "47.6564626",
+                    "Longitude": "-122.3619921"
                 }
             },
             "Published": "2019-06-18T01:21:19Z",
@@ -4079,7 +12182,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3872449, 47.6757739],
+            "coordinates": [-122.3872825, 47.6754597],
             "type": "Point"
         },
         "properties": {
@@ -4089,8 +12192,8 @@ var SAVED_PLACES = {
                 "Business Name": "addo:incubator",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6757739",
-                    "Longitude": "-122.3872449"
+                    "Latitude": "47.6754597",
+                    "Longitude": "-122.3872825"
                 }
             },
             "Published": "2019-06-18T01:20:38Z",
@@ -4121,7 +12224,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3355485, 47.6100158],
+            "coordinates": [-122.3355665, 47.6099935],
             "type": "Point"
         },
         "properties": {
@@ -4131,8 +12234,8 @@ var SAVED_PLACES = {
                 "Business Name": "Frolik Kitchen+Cocktails",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6100158",
-                    "Longitude": "-122.3355485"
+                    "Latitude": "47.6099935",
+                    "Longitude": "-122.3355665"
                 }
             },
             "Published": "2019-06-12T05:00:11Z",
@@ -4142,7 +12245,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3399606, 47.6109641],
+            "coordinates": [-122.3401153, 47.6109494],
             "type": "Point"
         },
         "properties": {
@@ -4152,8 +12255,8 @@ var SAVED_PLACES = {
                 "Business Name": "Fog Room",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6109641",
-                    "Longitude": "-122.3399606"
+                    "Latitude": "47.6109494",
+                    "Longitude": "-122.3401153"
                 }
             },
             "Published": "2019-06-12T04:59:55Z",
@@ -4184,18 +12287,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [151.2155912, -33.8781578],
+            "coordinates": [151.2157198, -33.8781981],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=17073068142631911401",
             "Location": {
                 "Address": "238 Crown Street, Darlinghurst NSW 2010, Australia",
-                "Business Name": "Chaco Bar",
+                "Business Name": "Chaco Ramen",
                 "Country Code": "AU",
                 "Geo Coordinates": {
-                    "Latitude": "-33.8781578",
-                    "Longitude": "151.2155912"
+                    "Latitude": "-33.8781981",
+                    "Longitude": "151.2157198"
                 }
             },
             "Published": "2019-06-11T20:47:06Z",
@@ -4300,7 +12403,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.6828520, 48.2619050],
+            "coordinates": [-122.6828880, 48.2619039],
             "type": "Point"
         },
         "properties": {
@@ -4310,8 +12413,8 @@ var SAVED_PLACES = {
                 "Business Name": "Blue Fox Drive-In Theatre",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "48.2619050",
-                    "Longitude": "-122.6828520"
+                    "Latitude": "48.2619039",
+                    "Longitude": "-122.6828880"
                 }
             },
             "Published": "2019-06-04T12:38:25Z",
@@ -4342,7 +12445,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.5909691, 45.4677918],
+            "coordinates": [-73.5908738, 45.4678281],
             "type": "Point"
         },
         "properties": {
@@ -4352,8 +12455,8 @@ var SAVED_PLACES = {
                 "Business Name": "Terrasse St-Ambroise",
                 "Country Code": "CA",
                 "Geo Coordinates": {
-                    "Latitude": "45.4677918",
-                    "Longitude": "-73.5909691"
+                    "Latitude": "45.4678281",
+                    "Longitude": "-73.5908738"
                 }
             },
             "Published": "2019-06-01T21:41:42Z",
@@ -4405,18 +12508,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3438490, 47.6131710],
+            "coordinates": [-122.3438491, 47.6131713],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=2056467377582706568",
             "Location": {
-                "Address": "2126 2nd Avenue A, Seattle, WA 98121, United States",
+                "Address": "2126 2nd Avenue Suite A, Seattle, WA 98121, United States",
                 "Business Name": "Jupiter Bar",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6131710",
-                    "Longitude": "-122.3438490"
+                    "Latitude": "47.6131713",
+                    "Longitude": "-122.3438491"
                 }
             },
             "Published": "2019-05-30T22:33:14Z",
@@ -4453,7 +12556,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=6218336160740287398",
             "Location": {
-                "Address": "2354 South Elmhurst Road, Mount Prospect, IL 60056, United States",
+                "Address": "2354 Elmhurst Road, Mount Prospect, IL 60056, United States",
                 "Business Name": "Balkan Taste",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -4484,7 +12587,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3873588, 47.6685124],
+            "coordinates": [-122.3873675, 47.6685471],
             "type": "Point"
         },
         "properties": {
@@ -4494,8 +12597,8 @@ var SAVED_PLACES = {
                 "Business Name": "Ocho",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6685124",
-                    "Longitude": "-122.3873588"
+                    "Latitude": "47.6685471",
+                    "Longitude": "-122.3873675"
                 }
             },
             "Published": "2019-05-17T03:12:33Z",
@@ -4505,7 +12608,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3550295, 47.6922709],
+            "coordinates": [-122.3550185, 47.6922780],
             "type": "Point"
         },
         "properties": {
@@ -4515,8 +12618,8 @@ var SAVED_PLACES = {
                 "Business Name": "North Star Diner & Shanghai Room",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6922709",
-                    "Longitude": "-122.3550295"
+                    "Latitude": "47.6922780",
+                    "Longitude": "-122.3550185"
                 }
             },
             "Published": "2019-05-17T03:12:16Z",
@@ -4526,7 +12629,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3275997, 47.6143863],
+            "coordinates": [-122.3275910, 47.6143850],
             "type": "Point"
         },
         "properties": {
@@ -4536,8 +12639,8 @@ var SAVED_PLACES = {
                 "Business Name": "Mamnoon",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6143863",
-                    "Longitude": "-122.3275997"
+                    "Latitude": "47.6143850",
+                    "Longitude": "-122.3275910"
                 }
             },
             "Published": "2019-05-17T03:11:41Z",
@@ -4547,7 +12650,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [7.7488332, 48.5773307],
+            "coordinates": [7.7490353, 48.5772650],
             "type": "Point"
         },
         "properties": {
@@ -4557,8 +12660,8 @@ var SAVED_PLACES = {
                 "Business Name": "Hôpital Civil",
                 "Country Code": "FR",
                 "Geo Coordinates": {
-                    "Latitude": "48.5773307",
-                    "Longitude": "7.7488332"
+                    "Latitude": "48.5772650",
+                    "Longitude": "7.7490353"
                 }
             },
             "Published": "2019-05-15T20:07:33Z",
@@ -4647,7 +12750,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3206273, 47.6237849],
+            "coordinates": [-122.3206193, 47.6237833],
             "type": "Point"
         },
         "properties": {
@@ -4657,8 +12760,8 @@ var SAVED_PLACES = {
                 "Business Name": "Espresso Vivace",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6237849",
-                    "Longitude": "-122.3206273"
+                    "Latitude": "47.6237833",
+                    "Longitude": "-122.3206193"
                 }
             },
             "Published": "2019-05-09T05:08:46Z",
@@ -4689,18 +12792,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3823675, 47.6684562],
+            "coordinates": [-122.3823111, 47.6685222],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=13155204530121107633",
             "Location": {
                 "Address": "2001 Northwest Market Street, Seattle, WA 98107, United States",
-                "Business Name": "Bauhaus Ballard",
+                "Business Name": "Bauhaus Strong Coffee, Ballard",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6684562",
-                    "Longitude": "-122.3823675"
+                    "Latitude": "47.6685222",
+                    "Longitude": "-122.3823111"
                 }
             },
             "Published": "2019-05-09T05:06:57Z",
@@ -4710,7 +12813,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3550125, 47.6148130],
+            "coordinates": [-122.3550203, 47.6148108],
             "type": "Point"
         },
         "properties": {
@@ -4720,8 +12823,8 @@ var SAVED_PLACES = {
                 "Business Name": "Uptown Espresso",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6148130",
-                    "Longitude": "-122.3550125"
+                    "Latitude": "47.6148108",
+                    "Longitude": "-122.3550203"
                 }
             },
             "Published": "2019-05-09T05:06:08Z",
@@ -4916,18 +13019,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [135.5351031, 34.6972047],
+            "coordinates": [135.5351173, 34.6972030],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=11050747874980278285",
             "Location": {
                 "Address": "3 Chome-2-26 Higashinodamachi, Miyakojima Ward, Osaka, 534-0024, Japan",
-                "Business Name": "居酒屋とよ Izakaya Toyo",
+                "Business Name": "Izakaya Toyo",
                 "Country Code": "JP",
                 "Geo Coordinates": {
-                    "Latitude": "34.6972047",
-                    "Longitude": "135.5351031"
+                    "Latitude": "34.6972030",
+                    "Longitude": "135.5351173"
                 }
             },
             "Published": "2019-05-01T00:06:10Z",
@@ -4937,7 +13040,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-5.9285241, 54.5928179],
+            "coordinates": [-5.9285481, 54.5928403],
             "type": "Point"
         },
         "properties": {
@@ -4947,8 +13050,8 @@ var SAVED_PLACES = {
                 "Business Name": "Limelight",
                 "Country Code": "GB",
                 "Geo Coordinates": {
-                    "Latitude": "54.5928179",
-                    "Longitude": "-5.9285241"
+                    "Latitude": "54.5928403",
+                    "Longitude": "-5.9285481"
                 }
             },
             "Published": "2019-04-23T13:22:58Z",
@@ -5021,7 +13124,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [18.7703086, 42.4218753],
+            "coordinates": [18.7702259, 42.4218627],
             "type": "Point"
         },
         "properties": {
@@ -5031,8 +13134,8 @@ var SAVED_PLACES = {
                 "Business Name": "BBQ Tanjga",
                 "Country Code": "ME",
                 "Geo Coordinates": {
-                    "Latitude": "42.4218753",
-                    "Longitude": "18.7703086"
+                    "Latitude": "42.4218627",
+                    "Longitude": "18.7702259"
                 }
             },
             "Published": "2019-04-22T09:50:47Z",
@@ -5091,7 +13194,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=374948888331831108",
             "Location": {
                 "Address": "Montenegro",
-                "Business Name": "藍洞",
+                "Business Name": "Blue Cave",
                 "Country Code": "ME",
                 "Geo Coordinates": {
                     "Latitude": "42.3740712",
@@ -5147,7 +13250,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3418950, 47.6061650],
+            "coordinates": [-122.3418041, 47.6060763],
             "type": "Point"
         },
         "properties": {
@@ -5157,8 +13260,8 @@ var SAVED_PLACES = {
                 "Business Name": "Wings Over Washington",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6061650",
-                    "Longitude": "-122.3418950"
+                    "Latitude": "47.6060763",
+                    "Longitude": "-122.3418041"
                 }
             },
             "Published": "2019-04-21T20:18:35Z",
@@ -5189,7 +13292,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3709042, 47.6615043],
+            "coordinates": [-122.3709269, 47.6616125],
             "type": "Point"
         },
         "properties": {
@@ -5199,8 +13302,8 @@ var SAVED_PLACES = {
                 "Business Name": "Burke-Gilman Start/End",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6615043",
-                    "Longitude": "-122.3709042"
+                    "Latitude": "47.6616125",
+                    "Longitude": "-122.3709269"
                 }
             },
             "Published": "2019-04-18T02:34:56Z",
@@ -5210,7 +13313,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [22.9390497, 40.6349209],
+            "coordinates": [22.9391917, 40.6350250],
             "type": "Point"
         },
         "properties": {
@@ -5220,8 +13323,8 @@ var SAVED_PLACES = {
                 "Business Name": "COLORS Urban Hotel",
                 "Country Code": "GR",
                 "Geo Coordinates": {
-                    "Latitude": "40.6349209",
-                    "Longitude": "22.9390497"
+                    "Latitude": "40.6350250",
+                    "Longitude": "22.9391917"
                 }
             },
             "Published": "2019-04-15T18:26:47Z",
@@ -5331,7 +13434,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6696718, 41.8575446],
+            "coordinates": [-87.6696819, 41.8575813],
             "type": "Point"
         },
         "properties": {
@@ -5341,8 +13444,8 @@ var SAVED_PLACES = {
                 "Business Name": "Carnitas Uruapan Restaurant",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8575446",
-                    "Longitude": "-87.6696718"
+                    "Latitude": "41.8575813",
+                    "Longitude": "-87.6696819"
                 }
             },
             "Published": "2017-04-13T20:24:50Z",
@@ -5394,7 +13497,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3063299, 47.6759851],
+            "coordinates": [-122.3063759, 47.6759921],
             "type": "Point"
         },
         "properties": {
@@ -5404,8 +13507,8 @@ var SAVED_PLACES = {
                 "Business Name": "Third Place Books Ravenna",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6759851",
-                    "Longitude": "-122.3063299"
+                    "Latitude": "47.6759921",
+                    "Longitude": "-122.3063759"
                 }
             },
             "Published": "2019-03-27T05:47:32Z",
@@ -5415,7 +13518,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3196183, 47.6146593],
+            "coordinates": [-122.3196310, 47.6146790],
             "type": "Point"
         },
         "properties": {
@@ -5425,8 +13528,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Elliott Bay Book Company",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6146593",
-                    "Longitude": "-122.3196183"
+                    "Latitude": "47.6146790",
+                    "Longitude": "-122.3196310"
                 }
             },
             "Published": "2019-03-27T05:46:31Z",
@@ -5436,7 +13539,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-97.7529009, 30.2718488],
+            "coordinates": [-97.7532913, 30.2717259],
             "type": "Point"
         },
         "properties": {
@@ -5446,8 +13549,8 @@ var SAVED_PLACES = {
                 "Business Name": "BookPeople",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "30.2718488",
-                    "Longitude": "-97.7529009"
+                    "Latitude": "30.2717259",
+                    "Longitude": "-97.7532913"
                 }
             },
             "Published": "2019-03-27T05:45:29Z",
@@ -5478,7 +13581,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9964850, 40.7245690],
+            "coordinates": [-73.9965755, 40.7246035],
             "type": "Point"
         },
         "properties": {
@@ -5488,8 +13591,8 @@ var SAVED_PLACES = {
                 "Business Name": "Housing Works Bookstore Cafe & Bar",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7245690",
-                    "Longitude": "-73.9964850"
+                    "Latitude": "40.7246035",
+                    "Longitude": "-73.9965755"
                 }
             },
             "Published": "2019-03-27T05:42:37Z",
@@ -5520,7 +13623,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-90.2611270, 38.6483598],
+            "coordinates": [-90.2611593, 38.6483453],
             "type": "Point"
         },
         "properties": {
@@ -5530,8 +13633,8 @@ var SAVED_PLACES = {
                 "Business Name": "Left Bank Books",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "38.6483598",
-                    "Longitude": "-90.2611270"
+                    "Latitude": "38.6483453",
+                    "Longitude": "-90.2611593"
                 }
             },
             "Published": "2019-03-27T05:41:24Z",
@@ -5541,18 +13644,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-90.0641789, 29.9580241],
+            "coordinates": [-90.0641562, 29.9580349],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=5508091970458926597",
             "Location": {
-                "Address": "624 Pirate Alley, New Orleans, LA 70116, United States",
+                "Address": "624 Pirate's Alley, New Orleans, LA 70116, United States",
                 "Business Name": "Faulkner House Books",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "29.9580241",
-                    "Longitude": "-90.0641789"
+                    "Latitude": "29.9580349",
+                    "Longitude": "-90.0641562"
                 }
             },
             "Published": "2019-03-27T05:40:38Z",
@@ -5673,34 +13776,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-75.178333, 6.223611],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?q=El+Pe%C3%B1%C3%B3n+de+Guatap%C3%A9,+Guatap%C3%A9,+Antioquia,+Colombia&ftid=0x8e441d16240c903f:0x8d73bc39b5e6201b",
-            "Location": {
-                "Latitude": "6.223611",
-                "Longitude": "-75.178333"
-            },
-            "Published": "2019-03-19T23:47:13Z",
-            "Title": "El Peñón de Guatapé, Guatapé, Antioquia, Colombia",
-            "Updated": "2019-03-19T23:47:13Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
-            "coordinates": [20.0190918, 39.7438015],
+            "coordinates": [20.0198857, 39.7461773],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=5445269485590657089",
             "Location": {
-                "Address": "SH81, Butrint, Butrint, Albania",
+                "Address": "SH81, Butrint, Albania",
                 "Business Name": "Butrint National Park",
                 "Country Code": "AL",
                 "Geo Coordinates": {
-                    "Latitude": "39.7438015",
-                    "Longitude": "20.0190918"
+                    "Latitude": "39.7461773",
+                    "Longitude": "20.0198857"
                 }
             },
             "Published": "2019-03-19T21:15:07Z",
@@ -5779,7 +13866,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=7629198523356152566",
             "Location": {
-                "Address": "954 Third Avenue, New York, NY 10022, United States",
+                "Address": "954 3rd Avenue, New York, NY 10022, United States",
                 "Business Name": "Areppas",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -5816,7 +13903,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=12564192430711959397",
             "Location": {
-                "Address": "6029, 19529 Vashon Highway Southwest, Vashon, WA 98070, United States",
+                "Address": "19529 Vashon Highway Southwest #6029, Vashon, WA 98070, United States",
                 "Business Name": "Vashon Island Coffee Roasterie",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -5852,7 +13939,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.8322020, 42.0088510],
+            "coordinates": [-87.8322124, 42.0088739],
             "type": "Point"
         },
         "properties": {
@@ -5862,8 +13949,8 @@ var SAVED_PLACES = {
                 "Business Name": "Shakou Park Ridge",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "42.0088510",
-                    "Longitude": "-87.8322020"
+                    "Latitude": "42.0088739",
+                    "Longitude": "-87.8322124"
                 }
             },
             "Published": "2019-03-09T16:22:25Z",
@@ -5894,18 +13981,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.9410528, 42.0277743],
+            "coordinates": [-87.9409561, 42.0277862],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=8247932474433400488",
             "Location": {
-                "Address": "1900 South Elmhurst Road, Mount Prospect, IL 60056, United States",
+                "Address": "1900 Elmhurst Road, Mount Prospect, IL 60056, United States",
                 "Business Name": "Avanti Cafe",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "42.0277743",
-                    "Longitude": "-87.9410528"
+                    "Latitude": "42.0277862",
+                    "Longitude": "-87.9409561"
                 }
             },
             "Published": "2019-03-07T20:38:37Z",
@@ -5915,7 +14002,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6523376, 41.8845402],
+            "coordinates": [-87.6522667, 41.8846056],
             "type": "Point"
         },
         "properties": {
@@ -5925,8 +14012,8 @@ var SAVED_PLACES = {
                 "Business Name": "Princi",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8845402",
-                    "Longitude": "-87.6523376"
+                    "Latitude": "41.8846056",
+                    "Longitude": "-87.6522667"
                 }
             },
             "Published": "2019-03-07T20:37:39Z",
@@ -5978,18 +14065,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [77.2425127, 12.9578516],
+            "coordinates": [77.2425003, 12.9578905],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=15796017450140436622",
             "Location": {
-                "Address": "Brahmin Street, Tirumali, Magadi, Karnataka 562120, India",
+                "Address": "Brahmin Street, Tirumale, Magadi, Karnataka 562120, India",
                 "Business Name": "Sri Ranganatha Swamy Temple",
                 "Country Code": "IN",
                 "Geo Coordinates": {
-                    "Latitude": "12.9578516",
-                    "Longitude": "77.2425127"
+                    "Latitude": "12.9578905",
+                    "Longitude": "77.2425003"
                 }
             },
             "Published": "2019-03-05T03:16:54Z",
@@ -5999,19 +14086,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [100.2156497, 13.7351923],
+            "coordinates": [100.215606, 13.735313],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=3325722696888031355",
             "Location": {
-                "Address": "Thailand, ตำบล คลองใหม่ อำเภอสามพราน นครปฐม Thailand",
-                "Business Name": "Wat Sampran Dragon Temple",
-                "Country Code": "TH",
-                "Geo Coordinates": {
-                    "Latitude": "13.7351923",
-                    "Longitude": "100.2156497"
-                }
+                "Latitude": "13.735313",
+                "Longitude": "100.215606"
             },
             "Published": "2019-03-05T03:14:37Z",
             "Title": "Wat Sampran Dragon Temple",
@@ -6131,7 +14213,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=8977086968117430376",
             "Location": {
-                "Address": "Hamburgo 126, Juárez, 06600 Ciudad de México, CDMX, Mexico",
+                "Address": "Hamburgo 126, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
                 "Business Name": "Cafetería El Péndulo Zona Rosa",
                 "Country Code": "MX",
                 "Geo Coordinates": {
@@ -6215,7 +14297,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=3963584043760863134",
             "Location": {
-                "Address": "Nomikos Street, Oía 847 02, Greece",
+                "Address": "Nomikos Street, Οία 847 02, Greece",
                 "Business Name": "Atlantis Books E.E.",
                 "Country Code": "GR",
                 "Geo Coordinates": {
@@ -6273,7 +14355,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=9411263872727205577",
             "Location": {
-                "Address": "1424 11th Avenue Ste E, Seattle, WA 98122, United States",
+                "Address": "1424 11th Avenue ste e, Seattle, WA 98122, United States",
                 "Business Name": "By Tae",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -6357,7 +14439,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=8329945382884735173",
             "Location": {
-                "Address": "2505 2nd Avenue Suite 102, Seattle, WA 98121, United States",
+                "Address": "2505 2nd Avenue #102, Seattle, WA 98121, United States",
                 "Business Name": "Navy Strength",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -6372,7 +14454,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3485510, 47.6155090],
+            "coordinates": [-122.3487528, 47.6154972],
             "type": "Point"
         },
         "properties": {
@@ -6382,8 +14464,8 @@ var SAVED_PLACES = {
                 "Business Name": "No Anchor",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6155090",
-                    "Longitude": "-122.3485510"
+                    "Latitude": "47.6154972",
+                    "Longitude": "-122.3487528"
                 }
             },
             "Published": "2019-03-03T20:31:20Z",
@@ -6435,7 +14517,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-88.0597574, 42.0883029],
+            "coordinates": [-88.0597080, 42.0883450],
             "type": "Point"
         },
         "properties": {
@@ -6445,8 +14527,8 @@ var SAVED_PLACES = {
                 "Business Name": "Sushi Ai",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "42.0883029",
-                    "Longitude": "-88.0597574"
+                    "Latitude": "42.0883450",
+                    "Longitude": "-88.0597080"
                 }
             },
             "Published": "2019-02-20T01:11:28Z",
@@ -6493,7 +14575,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3805226, 47.6649471],
+            "coordinates": [-122.3805333, 47.6649444],
             "type": "Point"
         },
         "properties": {
@@ -6503,8 +14585,8 @@ var SAVED_PLACES = {
                 "Business Name": "Mox Boarding House",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6649471",
-                    "Longitude": "-122.3805226"
+                    "Latitude": "47.6649444",
+                    "Longitude": "-122.3805333"
                 }
             },
             "Published": "2019-02-14T18:38:50Z",
@@ -6641,7 +14723,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [10.1852440, 44.8113301],
+            "coordinates": [10.1852384, 44.8114517],
             "type": "Point"
         },
         "properties": {
@@ -6651,8 +14733,8 @@ var SAVED_PLACES = {
                 "Business Name": "Casearia Corradi (S.N.C.)",
                 "Country Code": "IT",
                 "Geo Coordinates": {
-                    "Latitude": "44.8113301",
-                    "Longitude": "10.1852440"
+                    "Latitude": "44.8114517",
+                    "Longitude": "10.1852384"
                 }
             },
             "Published": "2019-02-07T06:06:20Z",
@@ -6694,7 +14776,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9916129, 40.7336366],
+            "coordinates": [-73.9916539, 40.7336156],
             "type": "Point"
         },
         "properties": {
@@ -6704,8 +14786,8 @@ var SAVED_PLACES = {
                 "Business Name": "Shuko",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7336366",
-                    "Longitude": "-73.9916129"
+                    "Latitude": "40.7336156",
+                    "Longitude": "-73.9916539"
                 }
             },
             "Published": "2019-02-07T05:25:50Z",
@@ -6763,7 +14845,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=17315221182392289669",
             "Location": {
-                "Address": "Japan, 〒761-3110 香川県香川郡直島町琴弾地",
+                "Address": "Japan, 〒761-3110 Kagawa, Kagawa District, Naoshima, 琴弾地",
                 "Business Name": "Benesse House",
                 "Country Code": "JP",
                 "Geo Coordinates": {
@@ -6778,18 +14860,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [133.9846910, 34.4483096],
+            "coordinates": [133.9859463, 34.4500171],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=4369426658944645129",
             "Location": {
-                "Address": "3449―1, Naoshima, Kagawa District, Kagawa 761-3110, Japan",
-                "Business Name": "Chichu Art Museum",
+                "Address": "3449-1, Naoshima, Kagawa District, Kagawa 761-3110, Japan",
+                "Business Name": "Chichu Art Museum〔Online Reservation required〕",
                 "Country Code": "JP",
                 "Geo Coordinates": {
-                    "Latitude": "34.4483096",
-                    "Longitude": "133.9846910"
+                    "Latitude": "34.4500171",
+                    "Longitude": "133.9859463"
                 }
             },
             "Published": "2019-02-06T05:14:19Z",
@@ -6826,7 +14908,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=7895306567988485148",
             "Location": {
-                "Address": "Carretera Internacional CH 203, Panguipulli, Región de los Ríos, Chile",
+                "Address": "Carretera Internacional CH 203, Panguipulli, Los Ríos, Chile",
                 "Business Name": "Nothofagus Hotel, Reserva Biológica Huilo Huilo",
                 "Country Code": "CL",
                 "Geo Coordinates": {
@@ -6862,7 +14944,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-68.8598505, -32.8914576],
+            "coordinates": [-68.8600970, -32.8914460],
             "type": "Point"
         },
         "properties": {
@@ -6872,34 +14954,13 @@ var SAVED_PLACES = {
                 "Business Name": "Sofía Restaurante",
                 "Country Code": "AR",
                 "Geo Coordinates": {
-                    "Latitude": "-32.8914576",
-                    "Longitude": "-68.8598505"
+                    "Latitude": "-32.8914460",
+                    "Longitude": "-68.8600970"
                 }
             },
             "Published": "2019-02-06T02:48:54Z",
             "Title": "Sofía Restaurante",
             "Updated": "2019-02-06T02:48:54Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
-            "coordinates": [139.7028432, 35.6943187],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=11835848172612023192",
-            "Location": {
-                "Address": "Japan, 〒160-0021 Tokyo, Shinjuku City, Kabukicho, 1 Chome−7−７ 新宿ロボットビル B2F",
-                "Business Name": "Robot Restaurant",
-                "Country Code": "JP",
-                "Geo Coordinates": {
-                    "Latitude": "35.6943187",
-                    "Longitude": "139.7028432"
-                }
-            },
-            "Published": "2019-02-06T02:40:07Z",
-            "Title": "Robot Restaurant",
-            "Updated": "2019-02-06T02:40:07Z"
         },
         "type": "Feature"
     }, {
@@ -6962,7 +15023,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3695212, 47.5169803],
+            "coordinates": [-122.3695833, 47.5169222],
             "type": "Point"
         },
         "properties": {
@@ -6972,8 +15033,8 @@ var SAVED_PLACES = {
                 "Business Name": "Roxbury Lanes",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.5169803",
-                    "Longitude": "-122.3695212"
+                    "Latitude": "47.5169222",
+                    "Longitude": "-122.3695833"
                 }
             },
             "Published": "2019-01-30T17:38:54Z",
@@ -7067,7 +15128,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6490222, 41.9286950],
+            "coordinates": [-87.6490441, 41.9287006],
             "type": "Point"
         },
         "properties": {
@@ -7077,8 +15138,8 @@ var SAVED_PLACES = {
                 "Business Name": "Kingston Mines",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9286950",
-                    "Longitude": "-87.6490222"
+                    "Latitude": "41.9287006",
+                    "Longitude": "-87.6490441"
                 }
             },
             "Published": "2016-11-10T03:42:52Z",
@@ -7109,18 +15170,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.6363237, 45.5195257],
+            "coordinates": [-122.6363800, 45.5195210],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=17730195473418359559",
             "Location": {
                 "Address": "2845 Southeast Stark Street, Portland, OR 97214, United States",
-                "Business Name": "The Goodfoot Pub & Lounge",
+                "Business Name": "The Goodfoot | Music, DJs, Art, and Food since 2001",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "45.5195257",
-                    "Longitude": "-122.6363237"
+                    "Latitude": "45.5195210",
+                    "Longitude": "-122.6363800"
                 }
             },
             "Published": "2019-01-20T03:18:51Z",
@@ -7130,7 +15191,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.6635439, 45.5199379],
+            "coordinates": [-122.6635570, 45.5199520],
             "type": "Point"
         },
         "properties": {
@@ -7140,8 +15201,8 @@ var SAVED_PLACES = {
                 "Business Name": "Produce Row Cafe",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "45.5199379",
-                    "Longitude": "-122.6635439"
+                    "Latitude": "45.5199520",
+                    "Longitude": "-122.6635570"
                 }
             },
             "Published": "2019-01-20T02:27:08Z",
@@ -7167,7 +15228,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3347292, 47.5871207],
+            "coordinates": [-122.3347081, 47.5871138],
             "type": "Point"
         },
         "properties": {
@@ -7177,8 +15238,8 @@ var SAVED_PLACES = {
                 "Business Name": "Filson",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.5871207",
-                    "Longitude": "-122.3347292"
+                    "Latitude": "47.5871138",
+                    "Longitude": "-122.3347081"
                 }
             },
             "Published": "2019-01-19T23:35:22Z",
@@ -7230,7 +15291,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.6371426, 45.5224431],
+            "coordinates": [-122.6371222, 45.5224576],
             "type": "Point"
         },
         "properties": {
@@ -7240,8 +15301,8 @@ var SAVED_PLACES = {
                 "Business Name": "Cheese & Crack Snack Shop",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "45.5224431",
-                    "Longitude": "-122.6371426"
+                    "Latitude": "45.5224576",
+                    "Longitude": "-122.6371222"
                 }
             },
             "Published": "2019-01-19T23:04:13Z",
@@ -7251,7 +15312,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.6754275, 45.5482352],
+            "coordinates": [-122.6753429, 45.5481905],
             "type": "Point"
         },
         "properties": {
@@ -7261,8 +15322,8 @@ var SAVED_PLACES = {
                 "Business Name": "¿Por Qué No?",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "45.5482352",
-                    "Longitude": "-122.6754275"
+                    "Latitude": "45.5481905",
+                    "Longitude": "-122.6753429"
                 }
             },
             "Published": "2019-01-19T23:03:51Z",
@@ -7314,7 +15375,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.6881328, 45.5263232],
+            "coordinates": [-122.6881629, 45.5263036],
             "type": "Point"
         },
         "properties": {
@@ -7324,8 +15385,8 @@ var SAVED_PLACES = {
                 "Business Name": "McMenamins Mission Theater",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "45.5263232",
-                    "Longitude": "-122.6881328"
+                    "Latitude": "45.5263036",
+                    "Longitude": "-122.6881629"
                 }
             },
             "Published": "2019-01-18T22:16:37Z",
@@ -7356,7 +15417,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.6321513, 45.5045786],
+            "coordinates": [-122.6321557, 45.5045666],
             "type": "Point"
         },
         "properties": {
@@ -7366,8 +15427,8 @@ var SAVED_PLACES = {
                 "Business Name": "Pok Pok",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "45.5045786",
-                    "Longitude": "-122.6321513"
+                    "Latitude": "45.5045666",
+                    "Longitude": "-122.6321557"
                 }
             },
             "Published": "2019-01-18T20:52:49Z",
@@ -7398,18 +15459,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.6731474, 45.5226316],
+            "coordinates": [-122.6730272, 45.5227080],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=2701360882226818933",
             "Location": {
                 "Address": "22 Southwest 3rd Avenue, Portland, OR 97204, United States",
-                "Business Name": "Voodoo Doughnut",
+                "Business Name": "Voodoo Doughnut - Old Town",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "45.5226316",
-                    "Longitude": "-122.6731474"
+                    "Latitude": "45.5227080",
+                    "Longitude": "-122.6730272"
                 }
             },
             "Published": "2019-01-18T20:11:06Z",
@@ -7419,7 +15480,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.6834774, 45.5213406],
+            "coordinates": [-122.6834624, 45.5213387],
             "type": "Point"
         },
         "properties": {
@@ -7429,8 +15490,8 @@ var SAVED_PLACES = {
                 "Business Name": "Tasty n Alder",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "45.5213406",
-                    "Longitude": "-122.6834774"
+                    "Latitude": "45.5213387",
+                    "Longitude": "-122.6834624"
                 }
             },
             "Published": "2019-01-18T20:10:28Z",
@@ -7440,7 +15501,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [12.3793048, 51.3374995],
+            "coordinates": [12.3790301, 51.3371845],
             "type": "Point"
         },
         "properties": {
@@ -7450,34 +15511,13 @@ var SAVED_PLACES = {
                 "Business Name": "Moritzbastei",
                 "Country Code": "DE",
                 "Geo Coordinates": {
-                    "Latitude": "51.3374995",
-                    "Longitude": "12.3793048"
+                    "Latitude": "51.3371845",
+                    "Longitude": "12.3790301"
                 }
             },
             "Published": "2019-01-18T00:11:51Z",
             "Title": "Moritzbastei",
             "Updated": "2019-01-18T00:11:51Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
-            "coordinates": [126.9918661, 37.5419165],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=13235684099356445665",
-            "Location": {
-                "Address": "260-54 Itaewon-dong, Yongsan-gu, Seoul, South Korea",
-                "Business Name": "Jangkkoma",
-                "Country Code": "KR",
-                "Geo Coordinates": {
-                    "Latitude": "37.5419165",
-                    "Longitude": "126.9918661"
-                }
-            },
-            "Published": "2019-01-18T00:09:29Z",
-            "Title": "Jangkkoma",
-            "Updated": "2019-01-18T00:09:29Z"
         },
         "type": "Feature"
     }, {
@@ -7582,7 +15622,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [139.7831051, 35.6263868],
+            "coordinates": [139.7831200, 35.6264125],
             "type": "Point"
         },
         "properties": {
@@ -7592,8 +15632,8 @@ var SAVED_PLACES = {
                 "Business Name": "teamLab Borderless",
                 "Country Code": "JP",
                 "Geo Coordinates": {
-                    "Latitude": "35.6263868",
-                    "Longitude": "139.7831051"
+                    "Latitude": "35.6264125",
+                    "Longitude": "139.7831200"
                 }
             },
             "Published": "2019-01-17T16:11:26Z",
@@ -7666,7 +15706,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [1.5061552, 48.4420197],
+            "coordinates": [1.5061402, 48.4418874],
             "type": "Point"
         },
         "properties": {
@@ -7676,8 +15716,8 @@ var SAVED_PLACES = {
                 "Business Name": "Maison Picassiette",
                 "Country Code": "FR",
                 "Geo Coordinates": {
-                    "Latitude": "48.4420197",
-                    "Longitude": "1.5061552"
+                    "Latitude": "48.4418874",
+                    "Longitude": "1.5061402"
                 }
             },
             "Published": "2019-01-16T01:04:08Z",
@@ -7708,7 +15748,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [5.0285021, 45.2562730],
+            "coordinates": [5.0285330, 45.2563095],
             "type": "Point"
         },
         "properties": {
@@ -7718,8 +15758,8 @@ var SAVED_PLACES = {
                 "Business Name": "Palais Idéal du Facteur Cheval",
                 "Country Code": "FR",
                 "Geo Coordinates": {
-                    "Latitude": "45.2562730",
-                    "Longitude": "5.0285021"
+                    "Latitude": "45.2563095",
+                    "Longitude": "5.0285330"
                 }
             },
             "Published": "2019-01-16T01:03:01Z",
@@ -7850,7 +15890,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9915864, 40.7540803],
+            "coordinates": [-73.9916533, 40.7540428],
             "type": "Point"
         },
         "properties": {
@@ -7860,8 +15900,8 @@ var SAVED_PLACES = {
                 "Business Name": "El Sabroso",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7540803",
-                    "Longitude": "-73.9915864"
+                    "Latitude": "40.7540428",
+                    "Longitude": "-73.9916533"
                 }
             },
             "Published": "2019-01-15T01:20:44Z",
@@ -7871,7 +15911,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9891633, 40.7200208],
+            "coordinates": [-73.9891648, 40.7200222],
             "type": "Point"
         },
         "properties": {
@@ -7881,8 +15921,8 @@ var SAVED_PLACES = {
                 "Business Name": "Wildair",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7200208",
-                    "Longitude": "-73.9891633"
+                    "Latitude": "40.7200222",
+                    "Longitude": "-73.9891648"
                 }
             },
             "Published": "2019-01-14T17:21:49Z",
@@ -7892,7 +15932,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-93.1247140, 44.9285624],
+            "coordinates": [-93.1246314, 44.9285914],
             "type": "Point"
         },
         "properties": {
@@ -7902,8 +15942,8 @@ var SAVED_PLACES = {
                 "Business Name": "Keg and Case Market",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "44.9285624",
-                    "Longitude": "-93.1247140"
+                    "Latitude": "44.9285914",
+                    "Longitude": "-93.1246314"
                 }
             },
             "Published": "2019-01-13T23:18:33Z",
@@ -7934,18 +15974,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3415228, 47.6097733],
+            "coordinates": [-122.3412815, 47.6098148],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=17153935726785512238",
             "Location": {
-                "Address": "86 Pine Street #1, Seattle, WA 98101, United States",
+                "Address": "86 Pine Street Suite #1, Seattle, WA 98101, United States",
                 "Business Name": "Sushi Kashiba",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6097733",
-                    "Longitude": "-122.3415228"
+                    "Latitude": "47.6098148",
+                    "Longitude": "-122.3412815"
                 }
             },
             "Published": "2016-12-30T02:26:20Z",
@@ -7955,7 +15995,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3212685, 47.6248131],
+            "coordinates": [-122.3212611, 47.6248111],
             "type": "Point"
         },
         "properties": {
@@ -7965,8 +16005,8 @@ var SAVED_PLACES = {
                 "Business Name": "Altura",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6248131",
-                    "Longitude": "-122.3212685"
+                    "Latitude": "47.6248111",
+                    "Longitude": "-122.3212611"
                 }
             },
             "Published": "2019-01-12T20:33:11Z",
@@ -8045,18 +16085,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [15.5550945, 38.1921773],
+            "coordinates": [15.5551317, 38.1921400],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=4674228669715401920",
             "Location": {
                 "Address": "Piazza Duomo, 29, 98122 Messina ME, Italy",
-                "Business Name": "Duomo di Messina",
+                "Business Name": "Cathedral of Saint Mary of the Assumption",
                 "Country Code": "IT",
                 "Geo Coordinates": {
-                    "Latitude": "38.1921773",
-                    "Longitude": "15.5550945"
+                    "Latitude": "38.1921400",
+                    "Longitude": "15.5551317"
                 }
             },
             "Published": "2019-01-09T13:01:13Z",
@@ -8145,7 +16185,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.2596645, 47.4416998],
+            "coordinates": [-122.2596639, 47.4417007],
             "type": "Point"
         },
         "properties": {
@@ -8155,8 +16195,8 @@ var SAVED_PLACES = {
                 "Business Name": "Mizuki Buffet",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.4416998",
-                    "Longitude": "-122.2596645"
+                    "Latitude": "47.4417007",
+                    "Longitude": "-122.2596639"
                 }
             },
             "Published": "2019-01-07T01:01:49Z",
@@ -8172,7 +16212,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=17747995036593542687",
             "Location": {
-                "Address": "Japan, 〒381-0401 長野県下高井郡山ノ内町大字平穏６８４５",
+                "Address": "6845 Hirao, Yamanochi, Shimotakai District, Nagano 381-0401, Japan",
                 "Business Name": "Jigokudani Monkey Park",
                 "Country Code": "JP",
                 "Geo Coordinates": {
@@ -8203,7 +16243,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.2326978, 34.0414253],
+            "coordinates": [-118.2329272, 34.0414865],
             "type": "Point"
         },
         "properties": {
@@ -8213,8 +16253,8 @@ var SAVED_PLACES = {
                 "Business Name": "Bavel",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0414253",
-                    "Longitude": "-118.2326978"
+                    "Latitude": "34.0414865",
+                    "Longitude": "-118.2329272"
                 }
             },
             "Published": "2019-01-03T22:01:32Z",
@@ -8245,7 +16285,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3791340, 47.6504770],
+            "coordinates": [-127.2696389, 45.5980213],
             "type": "Point"
         },
         "properties": {
@@ -8255,8 +16295,8 @@ var SAVED_PLACES = {
                 "Business Name": "Kuma Coffee",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6504770",
-                    "Longitude": "-122.3791340"
+                    "Latitude": "45.5980213",
+                    "Longitude": "-127.2696389"
                 }
             },
             "Published": "2019-01-01T23:21:45Z",
@@ -8308,7 +16348,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3242576, 47.6193048],
+            "coordinates": [-122.3242278, 47.6193194],
             "type": "Point"
         },
         "properties": {
@@ -8318,8 +16358,8 @@ var SAVED_PLACES = {
                 "Business Name": "Captain Blacks",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6193048",
-                    "Longitude": "-122.3242576"
+                    "Latitude": "47.6193194",
+                    "Longitude": "-122.3242278"
                 }
             },
             "Published": "2018-12-31T02:13:02Z",
@@ -8371,7 +16411,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3252287, 47.6154499],
+            "coordinates": [-122.3251669, 47.6153930],
             "type": "Point"
         },
         "properties": {
@@ -8381,8 +16421,8 @@ var SAVED_PLACES = {
                 "Business Name": "Tamari Bar",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6154499",
-                    "Longitude": "-122.3252287"
+                    "Latitude": "47.6153930",
+                    "Longitude": "-122.3251669"
                 }
             },
             "Published": "2018-12-31T01:21:49Z",
@@ -8455,7 +16495,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3260804, 47.5982273],
+            "coordinates": [-122.3262127, 47.5982125],
             "type": "Point"
         },
         "properties": {
@@ -8465,8 +16505,8 @@ var SAVED_PLACES = {
                 "Business Name": "Fort St. George",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.5982273",
-                    "Longitude": "-122.3260804"
+                    "Latitude": "47.5982125",
+                    "Longitude": "-122.3262127"
                 }
             },
             "Published": "2018-12-30T21:37:27Z",
@@ -8518,7 +16558,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3407030, 47.6093159],
+            "coordinates": [-122.3407592, 47.6093636],
             "type": "Point"
         },
         "properties": {
@@ -8528,8 +16568,8 @@ var SAVED_PLACES = {
                 "Business Name": "Miss Cafe",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6093159",
-                    "Longitude": "-122.3407030"
+                    "Latitude": "47.6093636",
+                    "Longitude": "-122.3407592"
                 }
             },
             "Published": "2018-12-30T21:11:33Z",
@@ -8613,7 +16653,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-124.6321203, 47.9060276],
+            "coordinates": [-124.6320250, 47.9060000],
             "type": "Point"
         },
         "properties": {
@@ -8623,8 +16663,8 @@ var SAVED_PLACES = {
                 "Business Name": "Quileute Oceanside Resort",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.9060276",
-                    "Longitude": "-124.6321203"
+                    "Latitude": "47.9060000",
+                    "Longitude": "-124.6320250"
                 }
             },
             "Published": "2018-12-28T17:35:11Z",
@@ -8655,7 +16695,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9915160, 40.7521690],
+            "coordinates": [-73.9915250, 40.7521333],
             "type": "Point"
         },
         "properties": {
@@ -8665,8 +16705,8 @@ var SAVED_PLACES = {
                 "Business Name": "Madman Espresso",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7521690",
-                    "Longitude": "-73.9915160"
+                    "Latitude": "40.7521333",
+                    "Longitude": "-73.9915250"
                 }
             },
             "Published": "2018-12-22T18:20:08Z",
@@ -8676,7 +16716,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9863645, 40.7502565],
+            "coordinates": [-73.9862594, 40.7502517],
             "type": "Point"
         },
         "properties": {
@@ -8686,8 +16726,8 @@ var SAVED_PLACES = {
                 "Business Name": "Cho Dang Gol",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7502565",
-                    "Longitude": "-73.9863645"
+                    "Latitude": "40.7502517",
+                    "Longitude": "-73.9862594"
                 }
             },
             "Published": "2018-12-22T18:17:41Z",
@@ -8797,19 +16837,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [12.1267784, 45.9383471],
+            "coordinates": [12.126322, 45.938096],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=11504793000817552942",
             "Location": {
-                "Address": "Via San Martino, 81-83, 31050 Premaor TV, Italy",
-                "Business Name": "Gregoletto Luigi - azienda agricola",
-                "Country Code": "IT",
-                "Geo Coordinates": {
-                    "Latitude": "45.9383471",
-                    "Longitude": "12.1267784"
-                }
+                "Latitude": "45.938096",
+                "Longitude": "12.126322"
             },
             "Published": "2018-12-20T23:16:53Z",
             "Title": "Gregoletto Luigi - azienda agricola",
@@ -8914,7 +16949,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=17874815114731073297",
             "Location": {
-                "Address": "99 Third Avenue, New York, NY 10003, United States",
+                "Address": "99 3rd Avenue, New York, NY 10003, United States",
                 "Business Name": "Thaimee Table",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -8966,7 +17001,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-84.2208535, 33.9305564],
+            "coordinates": [-84.2208333, 33.9305556],
             "type": "Point"
         },
         "properties": {
@@ -8976,8 +17011,8 @@ var SAVED_PLACES = {
                 "Business Name": "Los Portales Mexican Grill",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "33.9305564",
-                    "Longitude": "-84.2208535"
+                    "Latitude": "33.9305556",
+                    "Longitude": "-84.2208333"
                 }
             },
             "Published": "2018-12-20T02:26:37Z",
@@ -8987,18 +17022,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-84.2768163, 33.9013686],
+            "coordinates": [-84.2767611, 33.9013556],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=15550763380769654587",
             "Location": {
                 "Address": "5458 Buford Highway Northeast, Atlanta, GA 30340, United States",
-                "Business Name": "Han IL Kwan",
+                "Business Name": "Hanil Kwan Authentic Korean BBQ",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "33.9013686",
-                    "Longitude": "-84.2768163"
+                    "Latitude": "33.9013556",
+                    "Longitude": "-84.2767611"
                 }
             },
             "Published": "2018-12-19T03:01:37Z",
@@ -9029,7 +17064,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-84.4120970, 33.7843988],
+            "coordinates": [-84.4120574, 33.7843752],
             "type": "Point"
         },
         "properties": {
@@ -9039,8 +17074,8 @@ var SAVED_PLACES = {
                 "Business Name": "West Egg Cafe",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "33.7843988",
-                    "Longitude": "-84.4120970"
+                    "Latitude": "33.7843752",
+                    "Longitude": "-84.4120574"
                 }
             },
             "Published": "2018-12-18T06:17:33Z",
@@ -9099,7 +17134,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=29511226987438725",
             "Location": {
                 "Address": "262 Bogukmun-ro, Seongbuk-gu, Seoul, South Korea",
-                "Business Name": "Bukhansan National Park",
+                "Business Name": "북한산국립공원",
                 "Country Code": "KR",
                 "Geo Coordinates": {
                     "Latitude": "37.6197679",
@@ -9218,7 +17253,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3962075, 47.6675635],
+            "coordinates": [-122.3971838, 47.6655043],
             "type": "Point"
         },
         "properties": {
@@ -9228,8 +17263,8 @@ var SAVED_PLACES = {
                 "Business Name": "Ballard (Hiram M. Chittenden) Locks",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6675635",
-                    "Longitude": "-122.3962075"
+                    "Latitude": "47.6655043",
+                    "Longitude": "-122.3971838"
                 }
             },
             "Published": "2018-12-03T06:23:28Z",
@@ -9239,14 +17274,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.664466, 45.518494],
+            "coordinates": [-122.663930, 45.518395],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=14133764659520645866",
             "Location": {
-                "Latitude": "45.518494",
-                "Longitude": "-122.664466"
+                "Latitude": "45.518395",
+                "Longitude": "-122.663930"
             },
             "Published": "2018-12-03T06:22:03Z",
             "Title": "Steven Smith Tea",
@@ -9297,7 +17332,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.6757441, 45.5529562],
+            "coordinates": [-122.6757388, 45.5529500],
             "type": "Point"
         },
         "properties": {
@@ -9307,8 +17342,8 @@ var SAVED_PLACES = {
                 "Business Name": "Interurban",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "45.5529562",
-                    "Longitude": "-122.6757441"
+                    "Latitude": "45.5529500",
+                    "Longitude": "-122.6757388"
                 }
             },
             "Published": "2018-12-03T06:20:00Z",
@@ -9318,7 +17353,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.6345892, 45.5623990],
+            "coordinates": [-122.6346460, 45.5623980],
             "type": "Point"
         },
         "properties": {
@@ -9328,8 +17363,8 @@ var SAVED_PLACES = {
                 "Business Name": "Expatriate",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "45.5623990",
-                    "Longitude": "-122.6345892"
+                    "Latitude": "45.5623980",
+                    "Longitude": "-122.6346460"
                 }
             },
             "Published": "2018-12-03T06:19:39Z",
@@ -9355,7 +17390,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.6816428, 45.5233397],
+            "coordinates": [-122.6812478, 45.5230928],
             "type": "Point"
         },
         "properties": {
@@ -9365,8 +17400,8 @@ var SAVED_PLACES = {
                 "Business Name": "Powell's City of Books",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "45.5233397",
-                    "Longitude": "-122.6816428"
+                    "Latitude": "45.5230928",
+                    "Longitude": "-122.6812478"
                 }
             },
             "Published": "2018-12-03T05:56:19Z",
@@ -9434,7 +17469,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3129012, 47.6226899],
+            "coordinates": [-122.3128810, 47.6226895],
             "type": "Point"
         },
         "properties": {
@@ -9444,8 +17479,8 @@ var SAVED_PLACES = {
                 "Business Name": "Ada's Technical Books and Cafe",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6226899",
-                    "Longitude": "-122.3129012"
+                    "Latitude": "47.6226895",
+                    "Longitude": "-122.3128810"
                 }
             },
             "Published": "2018-11-30T22:23:43Z",
@@ -9476,7 +17511,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9866071, 40.7227374],
+            "coordinates": [-73.9867099, 40.7226468],
             "type": "Point"
         },
         "properties": {
@@ -9486,8 +17521,8 @@ var SAVED_PLACES = {
                 "Business Name": "Punjabi Deli",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7227374",
-                    "Longitude": "-73.9866071"
+                    "Latitude": "40.7226468",
+                    "Longitude": "-73.9867099"
                 }
             },
             "Published": "2018-11-28T17:46:35Z",
@@ -9597,22 +17632,6 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [124.218078, 9.889040],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?q=Bohol,+Philippines&ftid=0x33aa17e83ff72151:0x5fdf0e71ee013509",
-            "Location": {
-                "Latitude": "9.889040",
-                "Longitude": "124.218078"
-            },
-            "Published": "2018-11-21T22:55:27Z",
-            "Title": "Bohol, Philippines",
-            "Updated": "2018-11-21T22:55:27Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
             "coordinates": [105.8014058, 10.0375635],
             "type": "Point"
         },
@@ -9620,7 +17639,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=3833642946835935287",
             "Location": {
                 "Address": "Cồn Ấu, Cái Răng, Cần Thơ, Vietnam",
-                "Business Name": "Azerai Resort Can Tho",
+                "Business Name": "Azerai Can Tho",
                 "Country Code": "VN",
                 "Geo Coordinates": {
                     "Latitude": "10.0375635",
@@ -9640,7 +17659,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=14933264560586058204",
             "Location": {
-                "Address": "6 Đường Khu Hoà Bình, Phường 1, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Address": "6, Đường Khu Hoà Bình, Phường 1, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
                 "Business Name": "Tung Cafe",
                 "Country Code": "VN",
                 "Geo Coordinates": {
@@ -9655,7 +17674,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [108.4537107, 11.9377726],
+            "coordinates": [108.4537506, 11.9377565],
             "type": "Point"
         },
         "properties": {
@@ -9665,8 +17684,8 @@ var SAVED_PLACES = {
                 "Business Name": "Quán Ăn Diệu Thông",
                 "Country Code": "VN",
                 "Geo Coordinates": {
-                    "Latitude": "11.9377726",
-                    "Longitude": "108.4537107"
+                    "Latitude": "11.9377565",
+                    "Longitude": "108.4537506"
                 }
             },
             "Published": "2018-11-21T22:45:58Z",
@@ -9718,18 +17737,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [103.9649606, 10.1933584],
+            "coordinates": [103.9599591, 10.2103754],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=13290526321596662770",
             "Location": {
-                "Address": "Đường Trần Hưng Đạo Street Beach, 095000, Vietnam",
+                "Address": "Đường Trần Hưng Đạo, Street, Beach, tỉnh Kiên Giang 095000, Vietnam",
                 "Business Name": "La Veranda Resort Phu Quoc - MGallery",
                 "Country Code": "VN",
                 "Geo Coordinates": {
-                    "Latitude": "10.1933584",
-                    "Longitude": "103.9649606"
+                    "Latitude": "10.2103754",
+                    "Longitude": "103.9599591"
                 }
             },
             "Published": "2018-11-21T22:35:39Z",
@@ -9797,18 +17816,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3134299, 47.6600195],
+            "coordinates": [-122.3133334, 47.6600000],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=7835627481613465703",
             "Location": {
-                "Address": "4305 University Way, Seattle, WA 98105, United States",
+                "Address": "4305 The Ave, Seattle, WA 98105, United States",
                 "Business Name": "Nasai Teriyaki 3",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6600195",
-                    "Longitude": "-122.3134299"
+                    "Latitude": "47.6600000",
+                    "Longitude": "-122.3133334"
                 }
             },
             "Published": "2018-11-20T07:25:09Z",
@@ -10077,7 +18096,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-77.5860859, 0.8054725],
+            "coordinates": [-77.5858428, 0.8055643],
             "type": "Point"
         },
         "properties": {
@@ -10087,8 +18106,8 @@ var SAVED_PLACES = {
                 "Business Name": "Santuario «Virgen de Las Lajas»",
                 "Country Code": "CO",
                 "Geo Coordinates": {
-                    "Latitude": "0.8054725",
-                    "Longitude": "-77.5860859"
+                    "Latitude": "0.8055643",
+                    "Longitude": "-77.5858428"
                 }
             },
             "Published": "2018-11-12T01:27:46Z",
@@ -10104,7 +18123,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=13607780498751410564",
             "Location": {
-                "Address": "Japan, 〒600-8004 Kyoto, Shimogyo Ward, Naramonocho, ３６５番 キリハタビル 2Ｆ",
+                "Address": "Japan, 〒600-8004 Kyoto, Shimogyo Ward, Naramonocho, ３６５ 番 キリハタビル 2Ｆ",
                 "Business Name": "Kyotoukiyoe Museum",
                 "Country Code": "JP",
                 "Geo Coordinates": {
@@ -10172,19 +18191,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [13.6455041, 47.5555779],
+            "coordinates": [13.643608, 47.561314],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=18106969529456313373",
             "Location": {
-                "Address": "Salzbergstraße 21, 4830 Hallstatt, Austria",
-                "Business Name": "Skywalk Hallstatt",
-                "Country Code": "AT",
-                "Geo Coordinates": {
-                    "Latitude": "47.5555779",
-                    "Longitude": "13.6455041"
-                }
+                "Latitude": "47.561314",
+                "Longitude": "13.643608"
             },
             "Published": "2018-11-09T18:21:27Z",
             "Title": "Skywalk Hallstatt",
@@ -10277,7 +18291,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [115.2687707, -8.4487490],
+            "coordinates": [115.2681675, -8.4482904],
             "type": "Point"
         },
         "properties": {
@@ -10287,8 +18301,8 @@ var SAVED_PLACES = {
                 "Business Name": "Capella Ubud, Bali",
                 "Country Code": "ID",
                 "Geo Coordinates": {
-                    "Latitude": "-8.4487490",
-                    "Longitude": "115.2687707"
+                    "Latitude": "-8.4482904",
+                    "Longitude": "115.2681675"
                 }
             },
             "Published": "2018-11-09T18:19:27Z",
@@ -10298,7 +18312,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [130.9846104, -25.2457362],
+            "coordinates": [131.0083531, -25.2500625],
             "type": "Point"
         },
         "properties": {
@@ -10308,8 +18322,8 @@ var SAVED_PLACES = {
                 "Business Name": "Longitude 131",
                 "Country Code": "AU",
                 "Geo Coordinates": {
-                    "Latitude": "-25.2457362",
-                    "Longitude": "130.9846104"
+                    "Latitude": "-25.2500625",
+                    "Longitude": "131.0083531"
                 }
             },
             "Published": "2018-11-09T18:19:07Z",
@@ -10319,7 +18333,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3337645, 47.5992864],
+            "coordinates": [-122.3337643, 47.5992996],
             "type": "Point"
         },
         "properties": {
@@ -10329,8 +18343,8 @@ var SAVED_PLACES = {
                 "Business Name": "Ebbets Field Flannels",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.5992864",
-                    "Longitude": "-122.3337645"
+                    "Latitude": "47.5992996",
+                    "Longitude": "-122.3337643"
                 }
             },
             "Published": "2018-11-08T18:21:10Z",
@@ -10361,7 +18375,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-117.2164992, 32.8035115],
+            "coordinates": [-117.2165000, 32.8035140],
             "type": "Point"
         },
         "properties": {
@@ -10371,8 +18385,8 @@ var SAVED_PLACES = {
                 "Business Name": "Sushi Ota",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.8035115",
-                    "Longitude": "-117.2164992"
+                    "Latitude": "32.8035140",
+                    "Longitude": "-117.2165000"
                 }
             },
             "Published": "2018-11-04T16:42:41Z",
@@ -10424,7 +18438,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6552152, 41.9297058],
+            "coordinates": [-87.6551892, 41.9297784],
             "type": "Point"
         },
         "properties": {
@@ -10434,8 +18448,8 @@ var SAVED_PLACES = {
                 "Business Name": "Juno Sushi Chicago",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9297058",
-                    "Longitude": "-87.6552152"
+                    "Latitude": "41.9297784",
+                    "Longitude": "-87.6551892"
                 }
             },
             "Published": "2018-11-04T16:38:28Z",
@@ -10535,8 +18549,8 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=11951790608213523497",
             "Location": {
-                "Address": "Via Antonio Pesenti, 23, 56124 Pisa PI, Italy",
-                "Business Name": "Dolmenweb",
+                "Address": "Piazza dei Cavalieri, 56126 Pisa PI, Italy",
+                "Business Name": "Piazza dei Cavalieri",
                 "Country Code": "IT",
                 "Geo Coordinates": {
                     "Latitude": "43.7194164",
@@ -10557,7 +18571,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=16647353439672564215",
             "Location": {
                 "Address": "376 Graham Avenue, Brooklyn, NY 11211, United States",
-                "Business Name": "OKOZUSHI",
+                "Business Name": "OKOZUSHI by Megumi",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "40.7156469",
@@ -10571,7 +18585,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9493350, 40.7131700],
+            "coordinates": [-73.9494222, 40.7131889],
             "type": "Point"
         },
         "properties": {
@@ -10581,8 +18595,8 @@ var SAVED_PLACES = {
                 "Business Name": "Suzume",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7131700",
-                    "Longitude": "-73.9493350"
+                    "Latitude": "40.7131889",
+                    "Longitude": "-73.9494222"
                 }
             },
             "Published": "2018-10-30T06:27:29Z",
@@ -10613,7 +18627,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9851844, 40.7618111],
+            "coordinates": [-73.9851809, 40.7616634],
             "type": "Point"
         },
         "properties": {
@@ -10623,8 +18637,8 @@ var SAVED_PLACES = {
                 "Business Name": "Natsumi",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7618111",
-                    "Longitude": "-73.9851844"
+                    "Latitude": "40.7616634",
+                    "Longitude": "-73.9851809"
                 }
             },
             "Published": "2018-10-30T06:26:32Z",
@@ -10634,7 +18648,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9728158, 40.7516504],
+            "coordinates": [-73.9727916, 40.7516557],
             "type": "Point"
         },
         "properties": {
@@ -10644,8 +18658,8 @@ var SAVED_PLACES = {
                 "Business Name": "Tsushima",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7516504",
-                    "Longitude": "-73.9728158"
+                    "Latitude": "40.7516557",
+                    "Longitude": "-73.9727916"
                 }
             },
             "Published": "2018-10-30T06:26:16Z",
@@ -10718,7 +18732,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9965061, 40.7426186],
+            "coordinates": [-73.9964645, 40.7426356],
             "type": "Point"
         },
         "properties": {
@@ -10728,8 +18742,8 @@ var SAVED_PLACES = {
                 "Business Name": "Momoya",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7426186",
-                    "Longitude": "-73.9965061"
+                    "Latitude": "40.7426356",
+                    "Longitude": "-73.9964645"
                 }
             },
             "Published": "2018-10-30T06:24:38Z",
@@ -10760,7 +18774,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9844300, 40.7253580],
+            "coordinates": [-73.9843105, 40.7253156],
             "type": "Point"
         },
         "properties": {
@@ -10770,8 +18784,8 @@ var SAVED_PLACES = {
                 "Business Name": "Takahachi",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7253580",
-                    "Longitude": "-73.9844300"
+                    "Latitude": "40.7253156",
+                    "Longitude": "-73.9843105"
                 }
             },
             "Published": "2018-10-30T06:24:01Z",
@@ -10802,7 +18816,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [174.7830889, -41.2913948],
+            "coordinates": [174.7833718, -41.2918876],
             "type": "Point"
         },
         "properties": {
@@ -10812,8 +18826,8 @@ var SAVED_PLACES = {
                 "Business Name": "Harbourside Market",
                 "Country Code": "NZ",
                 "Geo Coordinates": {
-                    "Latitude": "-41.2913948",
-                    "Longitude": "174.7830889"
+                    "Latitude": "-41.2918876",
+                    "Longitude": "174.7833718"
                 }
             },
             "Published": "2018-10-28T16:31:21Z",
@@ -10865,7 +18879,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-1.6246492, 6.6999001],
+            "coordinates": [-1.6241510, 6.6994739],
             "type": "Point"
         },
         "properties": {
@@ -10875,8 +18889,8 @@ var SAVED_PLACES = {
                 "Business Name": "Kejetia Market (New)",
                 "Country Code": "GH",
                 "Geo Coordinates": {
-                    "Latitude": "6.6999001",
-                    "Longitude": "-1.6246492"
+                    "Latitude": "6.6994739",
+                    "Longitude": "-1.6241510"
                 }
             },
             "Published": "2018-10-28T16:29:53Z",
@@ -10907,7 +18921,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3115970, 47.5982363],
+            "coordinates": [-122.3119758, 47.5977762],
             "type": "Point"
         },
         "properties": {
@@ -10917,8 +18931,8 @@ var SAVED_PLACES = {
                 "Business Name": "Hosekibako: Japanese Resale Shop",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.5982363",
-                    "Longitude": "-122.3115970"
+                    "Latitude": "47.5977762",
+                    "Longitude": "-122.3119758"
                 }
             },
             "Published": "2018-10-25T12:19:43Z",
@@ -10949,7 +18963,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3351907, 47.6038301],
+            "coordinates": [-122.3351889, 47.6038889],
             "type": "Point"
         },
         "properties": {
@@ -10959,8 +18973,8 @@ var SAVED_PLACES = {
                 "Business Name": "Café Hitchcock",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6038301",
-                    "Longitude": "-122.3351907"
+                    "Latitude": "47.6038889",
+                    "Longitude": "-122.3351889"
                 }
             },
             "Published": "2018-10-24T01:42:16Z",
@@ -11012,7 +19026,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.8936294, 47.0456234],
+            "coordinates": [-122.8936499, 47.0456219],
             "type": "Point"
         },
         "properties": {
@@ -11022,8 +19036,8 @@ var SAVED_PLACES = {
                 "Business Name": "Arepa Latin Street Food",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.0456234",
-                    "Longitude": "-122.8936294"
+                    "Latitude": "47.0456219",
+                    "Longitude": "-122.8936499"
                 }
             },
             "Published": "2018-10-21T18:56:58Z",
@@ -11033,7 +19047,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.8930690, 47.0456764],
+            "coordinates": [-122.8935253, 47.0456198],
             "type": "Point"
         },
         "properties": {
@@ -11043,8 +19057,8 @@ var SAVED_PLACES = {
                 "Business Name": "Nineveh",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.0456764",
-                    "Longitude": "-122.8930690"
+                    "Latitude": "47.0456198",
+                    "Longitude": "-122.8935253"
                 }
             },
             "Published": "2018-10-21T18:56:43Z",
@@ -11075,7 +19089,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-90.1848654, 38.6328544],
+            "coordinates": [-90.1848297, 38.6337394],
             "type": "Point"
         },
         "properties": {
@@ -11085,8 +19099,8 @@ var SAVED_PLACES = {
                 "Business Name": "Cinder House",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "38.6328544",
-                    "Longitude": "-90.1848654"
+                    "Latitude": "38.6337394",
+                    "Longitude": "-90.1848297"
                 }
             },
             "Published": "2018-10-21T18:55:38Z",
@@ -11096,7 +19110,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-90.2520789, 38.6357528],
+            "coordinates": [-90.2520887, 38.6357275],
             "type": "Point"
         },
         "properties": {
@@ -11106,8 +19120,8 @@ var SAVED_PLACES = {
                 "Business Name": "Vicia",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "38.6357528",
-                    "Longitude": "-90.2520789"
+                    "Latitude": "38.6357275",
+                    "Longitude": "-90.2520887"
                 }
             },
             "Published": "2018-10-21T18:55:16Z",
@@ -11117,7 +19131,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-117.3618902, 33.1745350],
+            "coordinates": [-117.3618840, 33.1745330],
             "type": "Point"
         },
         "properties": {
@@ -11127,8 +19141,8 @@ var SAVED_PLACES = {
                 "Business Name": "Wrench and Rodent Seabasstropub",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "33.1745350",
-                    "Longitude": "-117.3618902"
+                    "Latitude": "33.1745330",
+                    "Longitude": "-117.3618840"
                 }
             },
             "Published": "2018-10-21T18:54:45Z",
@@ -11144,7 +19158,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=1081127115369066144",
             "Location": {
-                "Address": "Wellington, New Zealand",
+                "Address": "Mount Cook, Wellington 6021, New Zealand",
                 "Business Name": "Basin Reserve",
                 "Country Code": "NZ",
                 "Geo Coordinates": {
@@ -11165,7 +19179,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=12397414432940289167",
             "Location": {
-                "Address": "2 Rugby Street, Mount Cook, Wellington 6021, New Zealand",
+                "Address": "2 Rugby Street, Wellington 6021, New Zealand",
                 "Business Name": "New Zealand Cricket Museum",
                 "Country Code": "NZ",
                 "Geo Coordinates": {
@@ -11286,7 +19300,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=13104886046812170658",
             "Location": {
-                "Address": "25 Tinakori Road, Thorndon, Wellington 6011, New Zealand",
+                "Address": "25 Tinakori Road, Wellington 6011, New Zealand",
                 "Business Name": "Katherine Mansfield House & Garden",
                 "Country Code": "NZ",
                 "Geo Coordinates": {
@@ -11343,7 +19357,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [0.1198708, 52.2000533],
+            "coordinates": [0.1198753, 52.2000563],
             "type": "Point"
         },
         "properties": {
@@ -11353,8 +19367,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Fitzwilliam Museum",
                 "Country Code": "GB",
                 "Geo Coordinates": {
-                    "Latitude": "52.2000533",
-                    "Longitude": "0.1198708"
+                    "Latitude": "52.2000563",
+                    "Longitude": "0.1198753"
                 }
             },
             "Published": "2018-10-21T18:22:10Z",
@@ -11364,18 +19378,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [0.1384550, 52.2000580],
+            "coordinates": [0.1385026, 52.2000899],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=5186704220585855989",
             "Location": {
-                "Address": "5/6, Dales Brewery, Gwydir Street, Cambridge CB1 2LJ, United Kingdom",
+                "Address": "Dales Brewery, 5/6 Gwydir Street, Cambridge CB1 2LJ, United Kingdom",
                 "Business Name": "Hot Numbers Coffee Gwydir Street (Dale's Brewery)",
                 "Country Code": "GB",
                 "Geo Coordinates": {
-                    "Latitude": "52.2000580",
-                    "Longitude": "0.1384550"
+                    "Latitude": "52.2000899",
+                    "Longitude": "0.1385026"
                 }
             },
             "Published": "2018-10-21T18:21:45Z",
@@ -11422,7 +19436,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-2.5932700, 51.4551340],
+            "coordinates": [-2.5932022, 51.4551115],
             "type": "Point"
         },
         "properties": {
@@ -11432,8 +19446,8 @@ var SAVED_PLACES = {
                 "Business Name": "Full Court Press",
                 "Country Code": "GB",
                 "Geo Coordinates": {
-                    "Latitude": "51.4551340",
-                    "Longitude": "-2.5932700"
+                    "Latitude": "51.4551115",
+                    "Longitude": "-2.5932022"
                 }
             },
             "Published": "2018-10-21T18:20:39Z",
@@ -11443,39 +19457,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [100.5685637, 13.7667568],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=3184249495330552093",
-            "Location": {
-                "Address": "Ratchadaphisek Road, Din Daeng, Bangkok 10400, Thailand",
-                "Business Name": "Ratchada Rot Fai Train Night Market",
-                "Country Code": "TH",
-                "Geo Coordinates": {
-                    "Latitude": "13.7667568",
-                    "Longitude": "100.5685637"
-                }
-            },
-            "Published": "2018-10-21T18:15:49Z",
-            "Title": "Ratchada Rot Fai Night Market",
-            "Updated": "2018-10-21T18:15:49Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
-            "coordinates": [100.5821829, 13.7349890],
+            "coordinates": [100.5822435, 13.7349496],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=11481881544029934989",
             "Location": {
-                "Address": "335 ถนน สุขุมวิท Thong Lo 17 Alley, Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",
-                "Business Name": "the COMMONS",
+                "Address": "335 Sukhumvit Road, Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",
+                "Business Name": "THE COMMONS",
                 "Country Code": "TH",
                 "Geo Coordinates": {
-                    "Latitude": "13.7349890",
-                    "Longitude": "100.5821829"
+                    "Latitude": "13.7349496",
+                    "Longitude": "100.5822435"
                 }
             },
             "Published": "2018-10-21T18:15:19Z",
@@ -11485,18 +19478,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [100.5822695, 13.7350821],
+            "coordinates": [100.5822094, 13.7351458],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=2476825380999189822",
             "Location": {
-                "Address": "335 อาคาร เดอะคอมมอนส์ Thong Lo 17 Alley, Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",
-                "Business Name": "Roots at theCOMMONS",
+                "Address": "theCOMMONS Market Floor Thonglor Road, Klongtan Nue Watthana, Bangkok 10110, Thailand",
+                "Business Name": "Roots at Thong lor",
                 "Country Code": "TH",
                 "Geo Coordinates": {
-                    "Latitude": "13.7350821",
-                    "Longitude": "100.5822695"
+                    "Latitude": "13.7351458",
+                    "Longitude": "100.5822094"
                 }
             },
             "Published": "2018-10-21T18:14:50Z",
@@ -11527,17 +19520,17 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [100.5414396, 13.7314058],
+            "coordinates": [100.5414396, 13.7314029],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=12394383396962920758",
             "Location": {
-                "Address": "Rama IV Road, Lumphini, Pathum Wan District, Bangkok 10330, Thailand",
+                "Address": "ถนนพระรามที่ ๔ Lumphini, Pathum Wan District, Bangkok 10330, Thailand",
                 "Business Name": "Lumphini Park",
                 "Country Code": "TH",
                 "Geo Coordinates": {
-                    "Latitude": "13.7314058",
+                    "Latitude": "13.7314029",
                     "Longitude": "100.5414396"
                 }
             },
@@ -11590,18 +19583,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-82.3566322, 23.1416404],
+            "coordinates": [-82.3566255, 23.1416350],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=14796264894240672837",
             "Location": {
-                "Address": "Avenida Bélgica, La Habana, Cuba",
-                "Business Name": "Museum of the Revolution",
+                "Address": "Refugio Street 1, between Monserrate and Zulueta, Avenida Bélgica, La Habana 10600, Cuba",
+                "Business Name": "Revolution Museum",
                 "Country Code": "CU",
                 "Geo Coordinates": {
-                    "Latitude": "23.1416404",
-                    "Longitude": "-82.3566322"
+                    "Latitude": "23.1416350",
+                    "Longitude": "-82.3566255"
                 }
             },
             "Published": "2018-10-21T18:10:35Z",
@@ -11674,7 +19667,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-82.3554850, 23.1357419],
+            "coordinates": [-82.3554870, 23.1356867],
             "type": "Point"
         },
         "properties": {
@@ -11684,8 +19677,8 @@ var SAVED_PLACES = {
                 "Business Name": "El Dandy",
                 "Country Code": "CU",
                 "Geo Coordinates": {
-                    "Latitude": "23.1357419",
-                    "Longitude": "-82.3554850"
+                    "Latitude": "23.1356867",
+                    "Longitude": "-82.3554870"
                 }
             },
             "Published": "2018-10-21T18:09:12Z",
@@ -12045,7 +20038,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=17682145069658110667",
             "Location": {
-                "Address": "6 Erekle II Street, Tbilisi, Georgia",
+                "Address": "6 Ekerle II st, 6 Erekle II Street, Tbilisi, Georgia",
                 "Business Name": "g.Vino Wine Bar",
                 "Country Code": "GE",
                 "Geo Coordinates": {
@@ -12181,7 +20174,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-105.2724730, 40.0193093],
+            "coordinates": [-105.2724585, 40.0193236],
             "type": "Point"
         },
         "properties": {
@@ -12191,8 +20184,8 @@ var SAVED_PLACES = {
                 "Business Name": "Frasca Food and Wine",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.0193093",
-                    "Longitude": "-105.2724730"
+                    "Latitude": "40.0193236",
+                    "Longitude": "-105.2724585"
                 }
             },
             "Published": "2018-10-09T22:13:11Z",
@@ -12309,7 +20302,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=10587405287909051566",
             "Location": {
                 "Address": "Bố Trạch District, Quang Binh Province, Vietnam",
-                "Business Name": "Sơn Đoòng",
+                "Business Name": "Hang Sơn Đoòng",
                 "Country Code": "VN",
                 "Geo Coordinates": {
                     "Latitude": "17.5469315",
@@ -12381,7 +20374,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3067148, 47.6018258],
+            "coordinates": [-122.3065528, 47.6018306],
             "type": "Point"
         },
         "properties": {
@@ -12391,8 +20384,8 @@ var SAVED_PLACES = {
                 "Business Name": "Broadcast Coffee Roasters",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6018258",
-                    "Longitude": "-122.3067148"
+                    "Latitude": "47.6018306",
+                    "Longitude": "-122.3065528"
                 }
             },
             "Published": "2018-10-07T19:18:06Z",
@@ -12465,7 +20458,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3318160, 47.5979904],
+            "coordinates": [-122.3317966, 47.5980155],
             "type": "Point"
         },
         "properties": {
@@ -12475,8 +20468,8 @@ var SAVED_PLACES = {
                 "Business Name": "Girin Korean Ssam Bar",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.5979904",
-                    "Longitude": "-122.3318160"
+                    "Latitude": "47.5980155",
+                    "Longitude": "-122.3317966"
                 }
             },
             "Published": "2018-10-06T18:07:54Z",
@@ -12549,7 +20542,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3165507, 47.6142778],
+            "coordinates": [-122.3166761, 47.6142800],
             "type": "Point"
         },
         "properties": {
@@ -12559,8 +20552,8 @@ var SAVED_PLACES = {
                 "Business Name": "Bishops Haircuts - Hair Color",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6142778",
-                    "Longitude": "-122.3165507"
+                    "Latitude": "47.6142800",
+                    "Longitude": "-122.3166761"
                 }
             },
             "Published": "2018-10-05T20:04:12Z",
@@ -12592,7 +20585,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=4895980547090937649",
             "Location": {
-                "Address": "100 W 14th Ave Pkwy, Denver, CO 80204, United States",
+                "Address": "100 West 14th Avenue Parkway, Denver, CO 80204, United States",
                 "Business Name": "Denver Art Museum",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -12756,7 +20749,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=18410657917469031335",
             "Location": {
-                "Address": "Gwynedd LL48 6LF, United Kingdom",
+                "Address": "LL48 6LF, United Kingdom",
                 "Business Name": "Snowdonia National Park",
                 "Country Code": "GB",
                 "Geo Coordinates": {
@@ -12834,18 +20827,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [139.7754660, 35.7073880],
+            "coordinates": [139.7755856, 35.7073256],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=12572405698500000768",
             "Location": {
                 "Address": "Japan, 〒110-0005 Tokyo, Taito City, Ueno, 5 Chome−25−８ グランディールビル御徒町１Ｆ",
-                "Business Name": "Sushi Dokoro Shun Okachimachimise",
+                "Business Name": "Sushi Dokoro Shun -Okachimachi Branch",
                 "Country Code": "JP",
                 "Geo Coordinates": {
-                    "Latitude": "35.7073880",
-                    "Longitude": "139.7754660"
+                    "Latitude": "35.7073256",
+                    "Longitude": "139.7755856"
                 }
             },
             "Published": "2018-09-30T16:23:13Z",
@@ -12855,7 +20848,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6256629, 41.8830034],
+            "coordinates": [-87.6257222, 41.8829639],
             "type": "Point"
         },
         "properties": {
@@ -12865,8 +20858,8 @@ var SAVED_PLACES = {
                 "Business Name": "Pittsfield Cafe",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8830034",
-                    "Longitude": "-87.6256629"
+                    "Latitude": "41.8829639",
+                    "Longitude": "-87.6257222"
                 }
             },
             "Published": "2018-09-29T16:59:59Z",
@@ -12882,7 +20875,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=5707369445921102495",
             "Location": {
-                "Address": "Ponce City Market, 1829, 675 Ponce De Leon Avenue Northeast, Atlanta, GA 30308, United States",
+                "Address": "Ponce City Market, 1829 675 Ponce De Leon Avenue Northeast, Atlanta, GA 30308, United States",
                 "Business Name": "9 Mile Station",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -12897,18 +20890,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-84.3674023, 33.7715080],
+            "coordinates": [-84.3673833, 33.7714194],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=10264672900120959426",
             "Location": {
-                "Address": "Ponce City Market, 650 North Avenue Northeast, Atlanta, GA 30308, United States",
-                "Business Name": "Dancing Goats Coffee Bar",
+                "Address": "650 North Avenue Northeast, Atlanta, GA 30308, United States",
+                "Business Name": "Dancing Goats",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "33.7715080",
-                    "Longitude": "-84.3674023"
+                    "Latitude": "33.7714194",
+                    "Longitude": "-84.3673833"
                 }
             },
             "Published": "2018-09-29T15:34:40Z",
@@ -12946,7 +20939,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=10414529338893298034",
             "Location": {
                 "Address": "180 Auburn Avenue Northeast, Atlanta, GA 30303, United States",
-                "Business Name": "Mangos",
+                "Business Name": "Mangos Caribbean Restaurant",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "33.7557160",
@@ -13002,7 +20995,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [139.7896924, 35.7038621],
+            "coordinates": [139.7896246, 35.7036599],
             "type": "Point"
         },
         "properties": {
@@ -13012,8 +21005,8 @@ var SAVED_PLACES = {
                 "Business Name": "Dandelion Chocolate, Factory & Cafe Kuramae",
                 "Country Code": "JP",
                 "Geo Coordinates": {
-                    "Latitude": "35.7038621",
-                    "Longitude": "139.7896924"
+                    "Latitude": "35.7036599",
+                    "Longitude": "139.7896246"
                 }
             },
             "Published": "2018-09-24T18:45:21Z",
@@ -13044,7 +21037,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9846884, 40.7295061],
+            "coordinates": [-73.9846671, 40.7295200],
             "type": "Point"
         },
         "properties": {
@@ -13054,8 +21047,8 @@ var SAVED_PLACES = {
                 "Business Name": "Tu-Lu's Gluten Free Bakery",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7295061",
-                    "Longitude": "-73.9846884"
+                    "Latitude": "40.7295200",
+                    "Longitude": "-73.9846671"
                 }
             },
             "Published": "2018-09-22T20:23:20Z",
@@ -13176,7 +21169,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-0.0783330, 51.5147524],
+            "coordinates": [-0.0780602, 51.5148332],
             "type": "Point"
         },
         "properties": {
@@ -13186,8 +21179,8 @@ var SAVED_PLACES = {
                 "Business Name": "Moonshine Saloon",
                 "Country Code": "GB",
                 "Geo Coordinates": {
-                    "Latitude": "51.5147524",
-                    "Longitude": "-0.0783330"
+                    "Latitude": "51.5148332",
+                    "Longitude": "-0.0780602"
                 }
             },
             "Published": "2018-09-20T14:58:47Z",
@@ -13302,7 +21295,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3323631, 47.6026127],
+            "coordinates": [-122.3324173, 47.6024894],
             "type": "Point"
         },
         "properties": {
@@ -13312,8 +21305,8 @@ var SAVED_PLACES = {
                 "Business Name": "Slate Coffee Roasters",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6026127",
-                    "Longitude": "-122.3323631"
+                    "Latitude": "47.6024894",
+                    "Longitude": "-122.3324173"
                 }
             },
             "Published": "2018-09-17T00:36:58Z",
@@ -13323,18 +21316,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3732580, 47.6559544],
+            "coordinates": [-122.3731612, 47.6559269],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=9015321561172587168",
             "Location": {
                 "Address": "1220 West Nickerson Street, Seattle, WA 98119, United States",
-                "Business Name": "Ladro Roasting - Caffe Ladro",
+                "Business Name": "Ladro Roasting - Seattle Coffee Roaster",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6559544",
-                    "Longitude": "-122.3732580"
+                    "Latitude": "47.6559269",
+                    "Longitude": "-122.3731612"
                 }
             },
             "Published": "2018-09-17T00:36:36Z",
@@ -13542,7 +21535,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=11362094488329912497",
             "Location": {
                 "Address": "Taktsang trail BT, Taktsang Trail, Bhutan",
-                "Business Name": "Tiger’s Nest",
+                "Business Name": "Paro Taktsang",
                 "Country Code": "BT",
                 "Geo Coordinates": {
                     "Latitude": "27.4919585",
@@ -13593,18 +21586,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [99.7632230, 19.8242139],
+            "coordinates": [99.7632227, 19.8242236],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=3097584897929033635",
             "Location": {
-                "Address": "Pa O Don Chai, อำเภอเ มือง, Chiang Rai 57000, Thailand",
-                "Business Name": "White Temple",
+                "Address": "60 หมู่ที่ 1 Phahonyothin Road, Pa O Don Chai, Mueang Chiang Rai District, Chiang Rai 57000, Thailand",
+                "Business Name": "Wat Rong Khun - White Temple",
                 "Country Code": "TH",
                 "Geo Coordinates": {
-                    "Latitude": "19.8242139",
-                    "Longitude": "99.7632230"
+                    "Latitude": "19.8242236",
+                    "Longitude": "99.7632227"
                 }
             },
             "Published": "2018-09-15T22:10:34Z",
@@ -13662,7 +21655,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3058848, 47.6176080],
+            "coordinates": [-122.3059649, 47.6175670],
             "type": "Point"
         },
         "properties": {
@@ -13672,8 +21665,8 @@ var SAVED_PLACES = {
                 "Business Name": "El Gallito",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6176080",
-                    "Longitude": "-122.3058848"
+                    "Latitude": "47.6175670",
+                    "Longitude": "-122.3059649"
                 }
             },
             "Published": "2018-09-15T21:52:02Z",
@@ -13960,7 +21953,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=18369564176154316475",
             "Location": {
                 "Address": "600 5th Avenue South, Seattle, WA 98104, United States",
-                "Business Name": "Uwajimaya",
+                "Business Name": "Uwajimaya Seattle",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "47.5968430",
@@ -14016,14 +22009,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.295548, 47.612347],
+            "coordinates": [-122.295789, 47.612396],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=11911150177522202981",
             "Location": {
-                "Latitude": "47.612347",
-                "Longitude": "-122.295548"
+                "Latitude": "47.612396",
+                "Longitude": "-122.295789"
             },
             "Published": "2018-09-03T16:43:23Z",
             "Title": "Madrona Grocery Outlet",
@@ -14032,7 +22025,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3024637, 47.6131315],
+            "coordinates": [-122.3024643, 47.6131273],
             "type": "Point"
         },
         "properties": {
@@ -14042,8 +22035,8 @@ var SAVED_PLACES = {
                 "Business Name": "Uncle Ike's Glass and Goods",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6131315",
-                    "Longitude": "-122.3024637"
+                    "Latitude": "47.6131273",
+                    "Longitude": "-122.3024643"
                 }
             },
             "Published": "2018-09-03T15:35:10Z",
@@ -14171,7 +22164,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=12088862288209966078",
             "Location": {
                 "Address": "2001 East Union Street, Seattle, WA 98122, United States",
-                "Business Name": "Chuck's Hop Shop & Kegs to go",
+                "Business Name": "Chuck's Hop Shop & kegs",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "47.6127180",
@@ -14185,18 +22178,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [28.8442833, 40.9937397],
+            "coordinates": [28.8442772, 40.9937191],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=9226860942273785254",
             "Location": {
-                "Address": "Şirinevler, Nil Sokak no: 12/B, 34196 Bahçelievler, Turkey",
+                "Address": "Şirinevler Mahallesi, Nil Sokak no: 12/B, 34196 Bahçelievler, Turkey",
                 "Business Name": "Çiğköftem Organik (Tadıtam Çiğköfte)",
                 "Country Code": "TR",
                 "Geo Coordinates": {
-                    "Latitude": "40.9937397",
-                    "Longitude": "28.8442833"
+                    "Latitude": "40.9937191",
+                    "Longitude": "28.8442772"
                 }
             },
             "Published": "2018-09-01T17:52:59Z",
@@ -14206,7 +22199,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.2844744, 47.5573184],
+            "coordinates": [-122.2844636, 47.5572746],
             "type": "Point"
         },
         "properties": {
@@ -14216,8 +22209,8 @@ var SAVED_PLACES = {
                 "Business Name": "Columbia City Theater",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.5573184",
-                    "Longitude": "-122.2844744"
+                    "Latitude": "47.5572746",
+                    "Longitude": "-122.2844636"
                 }
             },
             "Published": "2018-09-01T01:05:53Z",
@@ -14227,7 +22220,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-81.6898300, 41.4990706],
+            "coordinates": [-81.6730169, 41.6414662],
             "type": "Point"
         },
         "properties": {
@@ -14237,8 +22230,8 @@ var SAVED_PLACES = {
                 "Business Name": "Erie Island Coffee Co.",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.4990706",
-                    "Longitude": "-81.6898300"
+                    "Latitude": "41.6414662",
+                    "Longitude": "-81.6730169"
                 }
             },
             "Published": "2018-08-31T04:48:13Z",
@@ -14255,7 +22248,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=13141776018312304460",
             "Location": {
                 "Address": "1 Chome-9-3 Nagamachi, Kanazawa, Ishikawa 920-0865, Japan",
-                "Business Name": "Kanazawashi Ashigaru Museum",
+                "Business Name": "Ashigaru Museum",
                 "Country Code": "JP",
                 "Geo Coordinates": {
                     "Latitude": "36.5658970",
@@ -14275,7 +22268,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=6090435321889413530",
             "Location": {
-                "Address": "1 Chome-3-32, Kanazawa, Ishikawa 920-0865, Japan",
+                "Address": "1 Chome-3-32 Nagamachi, Kanazawa, Ishikawa 920-0865, Japan",
                 "Business Name": "Nomura Clan Samurai Home",
                 "Country Code": "JP",
                 "Geo Coordinates": {
@@ -14332,18 +22325,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [137.9689551, 36.2386520],
+            "coordinates": [137.9705876, 36.2375330],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=10388975450222032468",
             "Location": {
-                "Address": "4-1 Marunouchi, Matsumoto, Nagano 390-0873, Japan",
+                "Address": "4-番１号 Marunouchi, Matsumoto, Nagano 390-0873, Japan",
                 "Business Name": "Matsumoto Castle",
                 "Country Code": "JP",
                 "Geo Coordinates": {
-                    "Latitude": "36.2386520",
-                    "Longitude": "137.9689551"
+                    "Latitude": "36.2375330",
+                    "Longitude": "137.9705876"
                 }
             },
             "Published": "2018-08-30T17:14:16Z",
@@ -14353,7 +22346,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [135.8114592, 34.8920752],
+            "coordinates": [135.8114597, 34.8920964],
             "type": "Point"
         },
         "properties": {
@@ -14363,8 +22356,8 @@ var SAVED_PLACES = {
                 "Business Name": "Ujigami Shrine",
                 "Country Code": "JP",
                 "Geo Coordinates": {
-                    "Latitude": "34.8920752",
-                    "Longitude": "135.8114592"
+                    "Latitude": "34.8920964",
+                    "Longitude": "135.8114597"
                 }
             },
             "Published": "2018-08-30T17:13:11Z",
@@ -14590,22 +22583,6 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [103.843785, 22.336361],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?q=tt.+Sa+Pa,+Sa+Pa,+Lao+Cai,+Vietnam&ftid=0x36cd416833ee9ad5:0xe1f42da2bbc76727",
-            "Location": {
-                "Latitude": "22.336361",
-                "Longitude": "103.843785"
-            },
-            "Published": "2018-08-25T14:44:33Z",
-            "Title": "tt. Sa Pa, Sa Pa, Lao Cai, Vietnam",
-            "Updated": "2018-08-25T14:44:33Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
             "coordinates": [115.2792569, -8.4340403],
             "type": "Point"
         },
@@ -14669,7 +22646,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.6440482, 45.5592551],
+            "coordinates": [-122.6440307, 45.5592088],
             "type": "Point"
         },
         "properties": {
@@ -14679,8 +22656,8 @@ var SAVED_PLACES = {
                 "Business Name": "Bollywood Theater",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "45.5592551",
-                    "Longitude": "-122.6440482"
+                    "Latitude": "45.5592088",
+                    "Longitude": "-122.6440307"
                 }
             },
             "Published": "2018-08-24T20:13:42Z",
@@ -14690,7 +22667,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.6343808, 45.5046235],
+            "coordinates": [-122.6343861, 45.5046167],
             "type": "Point"
         },
         "properties": {
@@ -14700,8 +22677,8 @@ var SAVED_PLACES = {
                 "Business Name": "Bollywood Theater",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "45.5046235",
-                    "Longitude": "-122.6343808"
+                    "Latitude": "45.5046167",
+                    "Longitude": "-122.6343861"
                 }
             },
             "Published": "2018-08-24T20:13:34Z",
@@ -14732,18 +22709,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [108.4306393, 11.9347752],
+            "coordinates": [108.4308782, 11.9347434],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=4572962021375949958",
             "Location": {
-                "Address": "Số 3 Đường Huỳnh Thúc Kháng, Phường 4, Thành phố Đà Lạt, Lâm Đồng, Vietnam",
+                "Address": "Crazy House, 03 Đường Huỳnh Thúc Kháng, St, Thành phố Đà Lạt, Lâm Đồng 670000, Vietnam",
                 "Business Name": "Crazy House",
                 "Country Code": "VN",
                 "Geo Coordinates": {
-                    "Latitude": "11.9347752",
-                    "Longitude": "108.4306393"
+                    "Latitude": "11.9347434",
+                    "Longitude": "108.4308782"
                 }
             },
             "Published": "2018-08-24T19:50:16Z",
@@ -14753,7 +22730,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [14.1698070, 48.3308260],
+            "coordinates": [14.1704004, 48.3308836],
             "type": "Point"
         },
         "properties": {
@@ -14763,8 +22740,8 @@ var SAVED_PLACES = {
                 "Business Name": "dasparkhotel",
                 "Country Code": "AT",
                 "Geo Coordinates": {
-                    "Latitude": "48.3308260",
-                    "Longitude": "14.1698070"
+                    "Latitude": "48.3308836",
+                    "Longitude": "14.1704004"
                 }
             },
             "Published": "2018-08-24T19:48:18Z",
@@ -14890,7 +22867,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [2.3825299, 48.8372395],
+            "coordinates": [2.3825000, 48.8372222],
             "type": "Point"
         },
         "properties": {
@@ -14900,8 +22877,8 @@ var SAVED_PLACES = {
                 "Business Name": "Cinémathèque Française",
                 "Country Code": "FR",
                 "Geo Coordinates": {
-                    "Latitude": "48.8372395",
-                    "Longitude": "2.3825299"
+                    "Latitude": "48.8372222",
+                    "Longitude": "2.3825000"
                 }
             },
             "Published": "2018-08-24T17:55:10Z",
@@ -14911,14 +22888,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [2.252656, 48.844910],
+            "coordinates": [2.252641, 48.844991],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=11646897270812712",
             "Location": {
-                "Latitude": "48.844910",
-                "Longitude": "2.252656"
+                "Latitude": "48.844991",
+                "Longitude": "2.252641"
             },
             "Published": "2018-08-24T17:52:55Z",
             "Title": "Molitor",
@@ -14927,7 +22904,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [2.2634224, 48.8766138],
+            "coordinates": [2.2634053, 48.8764725],
             "type": "Point"
         },
         "properties": {
@@ -14937,8 +22914,8 @@ var SAVED_PLACES = {
                 "Business Name": "Louis Vuitton Foundation",
                 "Country Code": "FR",
                 "Geo Coordinates": {
-                    "Latitude": "48.8766138",
-                    "Longitude": "2.2634224"
+                    "Latitude": "48.8764725",
+                    "Longitude": "2.2634053"
                 }
             },
             "Published": "2018-08-24T17:52:30Z",
@@ -14975,7 +22952,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=13973578932864404544",
             "Location": {
-                "Address": "José León Suárez 200, C1408FND CABA, Argentina",
+                "Address": "José León Suárez 200, C1408 FND, Buenos Aires, Argentina",
                 "Business Name": "Mercado Andino de Liniers",
                 "Country Code": "AR",
                 "Geo Coordinates": {
@@ -14990,18 +22967,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6978577, 41.9181220],
+            "coordinates": [-87.6978734, 41.9180745],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=5099701477267791047",
             "Location": {
-                "Address": "2020 North California Avenue Ste 7, Chicago, IL 60647, United States",
+                "Address": "2020 North California Avenue #7, Chicago, IL 60647, United States",
                 "Business Name": "The UPS Store",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9181220",
-                    "Longitude": "-87.6978577"
+                    "Latitude": "41.9180745",
+                    "Longitude": "-87.6978734"
                 }
             },
             "Published": "2018-08-24T02:20:27Z",
@@ -15011,14 +22988,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-58.372544, -34.619336],
+            "coordinates": [-58.372821, -34.619500],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=2399007982874997711",
             "Location": {
-                "Latitude": "-34.619336",
-                "Longitude": "-58.372544"
+                "Latitude": "-34.619500",
+                "Longitude": "-58.372821"
             },
             "Published": "2018-08-23T17:59:01Z",
             "Title": "San Telmo Market",
@@ -15027,7 +23004,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3165096, 47.6147917],
+            "coordinates": [-122.3164889, 47.6147972],
             "type": "Point"
         },
         "properties": {
@@ -15037,8 +23014,8 @@ var SAVED_PLACES = {
                 "Business Name": "Momiji",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6147917",
-                    "Longitude": "-122.3165096"
+                    "Latitude": "47.6147972",
+                    "Longitude": "-122.3164889"
                 }
             },
             "Published": "2018-08-22T23:04:58Z",
@@ -15132,7 +23109,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9989521, 40.7153067],
+            "coordinates": [-73.9988889, 40.7152778],
             "type": "Point"
         },
         "properties": {
@@ -15142,8 +23119,8 @@ var SAVED_PLACES = {
                 "Business Name": "Cha Chan Tang",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7153067",
-                    "Longitude": "-73.9989521"
+                    "Latitude": "40.7152778",
+                    "Longitude": "-73.9988889"
                 }
             },
             "Published": "2018-08-19T15:49:11Z",
@@ -15195,7 +23172,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-75.1672552, 38.7481617],
+            "coordinates": [-75.1672538, 38.7481660],
             "type": "Point"
         },
         "properties": {
@@ -15205,8 +23182,8 @@ var SAVED_PLACES = {
                 "Business Name": "Lewes Fishhouse Seafood Market",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "38.7481617",
-                    "Longitude": "-75.1672552"
+                    "Latitude": "38.7481660",
+                    "Longitude": "-75.1672538"
                 }
             },
             "Published": "2018-08-17T17:03:11Z",
@@ -15269,7 +23246,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.6027993, 45.4785123],
+            "coordinates": [-73.6027978, 45.4785112],
             "type": "Point"
         },
         "properties": {
@@ -15279,8 +23256,8 @@ var SAVED_PLACES = {
                 "Business Name": "Park",
                 "Country Code": "CA",
                 "Geo Coordinates": {
-                    "Latitude": "45.4785123",
-                    "Longitude": "-73.6027993"
+                    "Latitude": "45.4785112",
+                    "Longitude": "-73.6027978"
                 }
             },
             "Published": "2018-08-14T22:56:51Z",
@@ -15317,7 +23294,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=17471081540951593805",
             "Location": {
-                "Address": "720 SE Sandy Bvld, Portland, OR 97214, United States",
+                "Address": "720 Southeast Sandy Boulevard, Portland, OR 97214, United States",
                 "Business Name": "Rum Club",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -15353,7 +23330,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3165002, 47.6112773],
+            "coordinates": [-122.3165393, 47.6112885],
             "type": "Point"
         },
         "properties": {
@@ -15363,8 +23340,8 @@ var SAVED_PLACES = {
                 "Business Name": "Canon",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6112773",
-                    "Longitude": "-122.3165002"
+                    "Latitude": "47.6112885",
+                    "Longitude": "-122.3165393"
                 }
             },
             "Published": "2018-08-14T22:11:24Z",
@@ -15501,7 +23478,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.6449855, 45.5119386],
+            "coordinates": [-122.6449416, 45.5119111],
             "type": "Point"
         },
         "properties": {
@@ -15511,8 +23488,8 @@ var SAVED_PLACES = {
                 "Business Name": "Nimblefish",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "45.5119386",
-                    "Longitude": "-122.6449855"
+                    "Latitude": "45.5119111",
+                    "Longitude": "-122.6449416"
                 }
             },
             "Published": "2018-08-14T13:23:24Z",
@@ -15587,7 +23564,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=5740414165280463813",
             "Location": {
                 "Address": "316 North 36th Street, Seattle, WA 98103, United States",
-                "Business Name": "Satori Marijuana Dispensary - Fremont Weed Shop",
+                "Business Name": "Satori Recreational Cannabis - Seattle Dispensary",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "47.6525530",
@@ -15617,7 +23594,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6809542, 41.9396378],
+            "coordinates": [-87.6809409, 41.9396515],
             "type": "Point"
         },
         "properties": {
@@ -15627,8 +23604,8 @@ var SAVED_PLACES = {
                 "Business Name": "Beat Kitchen",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9396378",
-                    "Longitude": "-87.6809542"
+                    "Latitude": "41.9396515",
+                    "Longitude": "-87.6809409"
                 }
             },
             "Published": "2018-08-09T22:07:09Z",
@@ -15691,7 +23668,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.7123101, 41.9419207],
+            "coordinates": [-87.7116667, 41.9416667],
             "type": "Point"
         },
         "properties": {
@@ -15701,8 +23678,8 @@ var SAVED_PLACES = {
                 "Business Name": "Joong Boo Market",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9419207",
-                    "Longitude": "-87.7123101"
+                    "Latitude": "41.9416667",
+                    "Longitude": "-87.7116667"
                 }
             },
             "Published": "2018-08-07T17:38:08Z",
@@ -15733,7 +23710,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9215382, 40.8106443],
+            "coordinates": [-73.9214101, 40.8105551],
             "type": "Point"
         },
         "properties": {
@@ -15743,8 +23720,8 @@ var SAVED_PLACES = {
                 "Business Name": "La Morada",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.8106443",
-                    "Longitude": "-73.9215382"
+                    "Latitude": "40.8105551",
+                    "Longitude": "-73.9214101"
                 }
             },
             "Published": "2018-08-06T12:54:04Z",
@@ -15754,7 +23731,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6628746, 41.8554153],
+            "coordinates": [-87.6630418, 41.8553889],
             "type": "Point"
         },
         "properties": {
@@ -15764,8 +23741,8 @@ var SAVED_PLACES = {
                 "Business Name": "Taqueria El Milagro",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8554153",
-                    "Longitude": "-87.6628746"
+                    "Latitude": "41.8553889",
+                    "Longitude": "-87.6630418"
                 }
             },
             "Published": "2018-08-06T12:53:22Z",
@@ -15796,7 +23773,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-1.9854988, 43.3234025],
+            "coordinates": [-1.9854917, 43.3234111],
             "type": "Point"
         },
         "properties": {
@@ -15806,8 +23783,8 @@ var SAVED_PLACES = {
                 "Business Name": "Ganbara",
                 "Country Code": "ES",
                 "Geo Coordinates": {
-                    "Latitude": "43.3234025",
-                    "Longitude": "-1.9854988"
+                    "Latitude": "43.3234111",
+                    "Longitude": "-1.9854917"
                 }
             },
             "Published": "2018-08-05T22:53:55Z",
@@ -15817,7 +23794,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-1.9825602, 43.3232189],
+            "coordinates": [-1.9825417, 43.3231459],
             "type": "Point"
         },
         "properties": {
@@ -15827,8 +23804,8 @@ var SAVED_PLACES = {
                 "Business Name": "Mercado de la Bretxa",
                 "Country Code": "ES",
                 "Geo Coordinates": {
-                    "Latitude": "43.3232189",
-                    "Longitude": "-1.9825602"
+                    "Latitude": "43.3231459",
+                    "Longitude": "-1.9825417"
                 }
             },
             "Published": "2018-08-05T22:53:36Z",
@@ -15859,7 +23836,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-58.4361337, -34.5914384],
+            "coordinates": [-58.4361167, -34.5914194],
             "type": "Point"
         },
         "properties": {
@@ -15869,8 +23846,8 @@ var SAVED_PLACES = {
                 "Business Name": "Sarkis",
                 "Country Code": "AR",
                 "Geo Coordinates": {
-                    "Latitude": "-34.5914384",
-                    "Longitude": "-58.4361337"
+                    "Latitude": "-34.5914194",
+                    "Longitude": "-58.4361167"
                 }
             },
             "Published": "2018-08-05T22:52:45Z",
@@ -16061,7 +24038,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=9925618795438305315",
             "Location": {
                 "Address": "8620 16th Avenue South, Seattle, WA 98108, United States",
-                "Business Name": "Caffe Umbria Supply Warehouse Inc",
+                "Business Name": "Caffe Umbria",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "47.5259740",
@@ -16075,14 +24052,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [103.858290, 1.298999],
+            "coordinates": [103.858149, 1.299052],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=10810016076422512766",
             "Location": {
-                "Latitude": "1.298999",
-                "Longitude": "103.858290"
+                "Latitude": "1.299052",
+                "Longitude": "103.858149"
             },
             "Published": "2018-07-31T16:32:23Z",
             "Title": "Man Man Unagi Japanese Restaurant @ DUO",
@@ -16091,7 +24068,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6425910, 41.9286502],
+            "coordinates": [-87.6425500, 41.9286629],
             "type": "Point"
         },
         "properties": {
@@ -16101,8 +24078,8 @@ var SAVED_PLACES = {
                 "Business Name": "Colectivo Coffee - Lincoln Park",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9286502",
-                    "Longitude": "-87.6425910"
+                    "Latitude": "41.9286629",
+                    "Longitude": "-87.6425500"
                 }
             },
             "Published": "2018-07-29T21:21:20Z",
@@ -16154,7 +24131,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6735300, 41.9617630],
+            "coordinates": [-87.6732641, 41.9616800],
             "type": "Point"
         },
         "properties": {
@@ -16164,8 +24141,8 @@ var SAVED_PLACES = {
                 "Business Name": "LILLSTREET Art Center",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9617630",
-                    "Longitude": "-87.6735300"
+                    "Latitude": "41.9616800",
+                    "Longitude": "-87.6732641"
                 }
             },
             "Published": "2018-07-24T18:24:12Z",
@@ -16196,18 +24173,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [8.5262292, 47.3779496],
+            "coordinates": [8.5261245, 47.3779154],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=10974545547232595244",
             "Location": {
                 "Address": "Kernstrasse 60, 8004 Zürich, Switzerland",
-                "Business Name": "Baroclub",
+                "Business Name": "Bronx Club",
                 "Country Code": "CH",
                 "Geo Coordinates": {
-                    "Latitude": "47.3779496",
-                    "Longitude": "8.5262292"
+                    "Latitude": "47.3779154",
+                    "Longitude": "8.5261245"
                 }
             },
             "Published": "2018-07-24T14:07:34Z",
@@ -16217,7 +24194,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [8.5269288, 47.3781296],
+            "coordinates": [8.5269112, 47.3781502],
             "type": "Point"
         },
         "properties": {
@@ -16227,8 +24204,8 @@ var SAVED_PLACES = {
                 "Business Name": "Longstreet Bar",
                 "Country Code": "CH",
                 "Geo Coordinates": {
-                    "Latitude": "47.3781296",
-                    "Longitude": "8.5269288"
+                    "Latitude": "47.3781502",
+                    "Longitude": "8.5269112"
                 }
             },
             "Published": "2018-07-24T14:07:23Z",
@@ -16301,7 +24278,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [23.7389600, 37.9849170],
+            "coordinates": [23.7389352, 37.9849049],
             "type": "Point"
         },
         "properties": {
@@ -16311,8 +24288,8 @@ var SAVED_PLACES = {
                 "Business Name": "Athens Quinta - Hostel",
                 "Country Code": "GR",
                 "Geo Coordinates": {
-                    "Latitude": "37.9849170",
-                    "Longitude": "23.7389600"
+                    "Latitude": "37.9849049",
+                    "Longitude": "23.7389352"
                 }
             },
             "Published": "2018-07-24T14:03:43Z",
@@ -16359,7 +24336,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-2.5876504, 51.4663318],
+            "coordinates": [-2.5876114, 51.4663151],
             "type": "Point"
         },
         "properties": {
@@ -16369,8 +24346,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Thali Restaurant Montpelier",
                 "Country Code": "GB",
                 "Geo Coordinates": {
-                    "Latitude": "51.4663318",
-                    "Longitude": "-2.5876504"
+                    "Latitude": "51.4663151",
+                    "Longitude": "-2.5876114"
                 }
             },
             "Published": "2018-07-24T14:00:48Z",
@@ -16402,7 +24379,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=3920048602996848502",
             "Location": {
-                "Address": "73 Daxue Road, Siming, Xiamen, Fujian, China",
+                "Address": "73 Daxue Road, Siming District, Xiamen, Fujian, China",
                 "Business Name": "Pangpang Beer Ma",
                 "Country Code": "CN",
                 "Geo Coordinates": {
@@ -16471,7 +24448,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=8554738688800689431",
             "Location": {
-                "Address": "211 Daxue Road, Siming, Xiamen, Fujian, China",
+                "Address": "211 Daxue Road, Siming District, Xiamen, Fujian, China",
                 "Business Name": "Thank You Cafe",
                 "Country Code": "CN",
                 "Geo Coordinates": {
@@ -16644,7 +24621,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3317274, 47.6019888],
+            "coordinates": [-122.3317620, 47.6019070],
             "type": "Point"
         },
         "properties": {
@@ -16654,8 +24631,8 @@ var SAVED_PLACES = {
                 "Business Name": "Smith Tower Observatory Bar",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6019888",
-                    "Longitude": "-122.3317274"
+                    "Latitude": "47.6019070",
+                    "Longitude": "-122.3317620"
                 }
             },
             "Published": "2018-07-19T15:35:40Z",
@@ -16707,18 +24684,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-0.0803630, 51.5140580],
+            "coordinates": [-0.0803683, 51.5140515],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=9009864352386903480",
             "Location": {
                 "Address": "8 Brown's Buildings, London EC3A 8AL, United Kingdom",
-                "Business Name": "Swingers City",
+                "Business Name": "Swingers Crazy Golf - City",
                 "Country Code": "GB",
                 "Geo Coordinates": {
-                    "Latitude": "51.5140580",
-                    "Longitude": "-0.0803630"
+                    "Latitude": "51.5140515",
+                    "Longitude": "-0.0803683"
                 }
             },
             "Published": "2018-07-13T18:28:34Z",
@@ -16728,44 +24705,23 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [115.2439434, -8.5016996],
+            "coordinates": [115.2439005, -8.5016996],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=9202544246217537775",
             "Location": {
-                "Address": "Jalan Raya Sayan, Sayan, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia",
+                "Address": "Jalan Raya Sayan No.29, Sayan, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia",
                 "Business Name": "Four Seasons Resort Bali At Sayan",
                 "Country Code": "ID",
                 "Geo Coordinates": {
                     "Latitude": "-8.5016996",
-                    "Longitude": "115.2439434"
+                    "Longitude": "115.2439005"
                 }
             },
             "Published": "2018-07-13T14:36:24Z",
             "Title": "Four Seasons Resort Bali At Sayan",
             "Updated": "2018-07-13T14:36:24Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
-            "coordinates": [129.8729523, 32.7435032],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=16905418462686280885",
-            "Location": {
-                "Address": "6-1 Dejimamachi, Nagasaki, 850-0862, Japan",
-                "Business Name": "Dejima",
-                "Country Code": "JP",
-                "Geo Coordinates": {
-                    "Latitude": "32.7435032",
-                    "Longitude": "129.8729523"
-                }
-            },
-            "Published": "2018-07-13T03:32:56Z",
-            "Title": "Dejima",
-            "Updated": "2018-07-13T03:32:56Z"
         },
         "type": "Feature"
     }, {
@@ -16786,7 +24742,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-117.9291566, 33.6079611],
+            "coordinates": [-117.9291667, 33.6078333],
             "type": "Point"
         },
         "properties": {
@@ -16796,8 +24752,8 @@ var SAVED_PLACES = {
                 "Business Name": "Dory Fishing Fleet and Market",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "33.6079611",
-                    "Longitude": "-117.9291566"
+                    "Latitude": "33.6078333",
+                    "Longitude": "-117.9291667"
                 }
             },
             "Published": "2018-07-11T17:55:07Z",
@@ -16891,7 +24847,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3336902, 47.5762862],
+            "coordinates": [-122.3339693, 47.5763583],
             "type": "Point"
         },
         "properties": {
@@ -16901,8 +24857,8 @@ var SAVED_PLACES = {
                 "Business Name": "Ghostfish Brewing Company",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.5762862",
-                    "Longitude": "-122.3336902"
+                    "Latitude": "47.5763583",
+                    "Longitude": "-122.3339693"
                 }
             },
             "Published": "2018-07-08T18:43:15Z",
@@ -16912,14 +24868,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.808720, 32.814070],
+            "coordinates": [-96.808640, 32.814089],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=14025707963279585650",
             "Location": {
-                "Latitude": "32.814070",
-                "Longitude": "-96.808720"
+                "Latitude": "32.814089",
+                "Longitude": "-96.808640"
             },
             "Published": "2018-07-06T23:38:36Z",
             "Title": "Start Real Food Fast",
@@ -17034,18 +24990,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.7067987, 41.9276581],
+            "coordinates": [-87.7067917, 41.9276583],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=15700686508302885506",
             "Location": {
-                "Address": "2537 North Kedzie Avenue, Chicago, IL 60647, United States",
+                "Address": "2537 North Kedzie Boulevard, Chicago, IL 60647, United States",
                 "Business Name": "Lula Cafe",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9276581",
-                    "Longitude": "-87.7067987"
+                    "Latitude": "41.9276583",
+                    "Longitude": "-87.7067917"
                 }
             },
             "Published": "2018-06-22T15:23:17Z",
@@ -17097,7 +25053,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-115.1108625, 36.1304547],
+            "coordinates": [-115.1109205, 36.1304716],
             "type": "Point"
         },
         "properties": {
@@ -17107,8 +25063,8 @@ var SAVED_PLACES = {
                 "Business Name": "Jardín Premium Cannabis Dispensary",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "36.1304547",
-                    "Longitude": "-115.1108625"
+                    "Latitude": "36.1304716",
+                    "Longitude": "-115.1109205"
                 }
             },
             "Published": "2018-06-19T16:23:25Z",
@@ -17161,7 +25117,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=4664061012390483349",
             "Location": {
-                "Address": "Yirmeyahu Street 7, תל-אביב, Israel",
+                "Address": "Yirmeyahu Street 7, Tel Aviv-Yafo, Israel",
                 "Business Name": "Rubi",
                 "Country Code": "IL",
                 "Geo Coordinates": {
@@ -17234,7 +25190,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [100.5734156, 13.7285712],
+            "coordinates": [100.5734670, 13.7282844],
             "type": "Point"
         },
         "properties": {
@@ -17244,8 +25200,8 @@ var SAVED_PLACES = {
                 "Business Name": "Sing Sing Theater",
                 "Country Code": "TH",
                 "Geo Coordinates": {
-                    "Latitude": "13.7285712",
-                    "Longitude": "100.5734156"
+                    "Latitude": "13.7282844",
+                    "Longitude": "100.5734670"
                 }
             },
             "Published": "2018-06-13T01:06:36Z",
@@ -17255,7 +25211,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [139.7046129, 35.6937775],
+            "coordinates": [139.7046496, 35.6939169],
             "type": "Point"
         },
         "properties": {
@@ -17265,8 +25221,8 @@ var SAVED_PLACES = {
                 "Business Name": "Shinjuku Golden Gai",
                 "Country Code": "JP",
                 "Geo Coordinates": {
-                    "Latitude": "35.6937775",
-                    "Longitude": "139.7046129"
+                    "Latitude": "35.6939169",
+                    "Longitude": "139.7046496"
                 }
             },
             "Published": "2018-06-12T23:33:07Z",
@@ -17303,7 +25259,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=5019819215757832684",
             "Location": {
-                "Address": "Avenida Francisco I. Madero 30, Centro, 06000 Cuauhtémoc, CDMX, Mexico",
+                "Address": "Avenida Francisco I. Madero 30, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",
                 "Business Name": "ETN",
                 "Country Code": "MX",
                 "Geo Coordinates": {
@@ -17318,7 +25274,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [174.7686252, -36.8442069],
+            "coordinates": [174.7686623, -36.8442820],
             "type": "Point"
         },
         "properties": {
@@ -17328,8 +25284,8 @@ var SAVED_PLACES = {
                 "Business Name": "Milse",
                 "Country Code": "NZ",
                 "Geo Coordinates": {
-                    "Latitude": "-36.8442069",
-                    "Longitude": "174.7686252"
+                    "Latitude": "-36.8442820",
+                    "Longitude": "174.7686623"
                 }
             },
             "Published": "2018-06-06T17:30:14Z",
@@ -17488,18 +25444,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8716703, 32.9531113],
+            "coordinates": [-96.8716861, 32.9530611],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=17682356421791342065",
             "Location": {
-                "Address": "2512 Belt Line Road, Carrollton, TX 75006, United States",
+                "Address": "2512 East Belt Line Road, Carrollton, TX 75006, United States",
                 "Business Name": "Coconut Thai Grill",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.9531113",
-                    "Longitude": "-96.8716703"
+                    "Latitude": "32.9530611",
+                    "Longitude": "-96.8716861"
                 }
             },
             "Published": "2018-06-02T02:20:46Z",
@@ -17509,7 +25465,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-97.0993512, 31.8032356],
+            "coordinates": [-97.0994389, 31.8033056],
             "type": "Point"
         },
         "properties": {
@@ -17519,8 +25475,8 @@ var SAVED_PLACES = {
                 "Business Name": "Czech Stop",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "31.8032356",
-                    "Longitude": "-97.0993512"
+                    "Latitude": "31.8033056",
+                    "Longitude": "-97.0994389"
                 }
             },
             "Published": "2018-05-26T21:59:57Z",
@@ -17574,7 +25530,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=13122217933396730754",
             "Location": {
                 "Address": "3706 Main Street, Union Gap, WA 98903, United States",
-                "Business Name": "Los Hernandez Tamales",
+                "Business Name": "Los Hernández Tamales",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "46.5505070",
@@ -17651,7 +25607,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9877320, 40.7443550],
+            "coordinates": [-73.9877361, 40.7443583],
             "type": "Point"
         },
         "properties": {
@@ -17661,8 +25617,8 @@ var SAVED_PLACES = {
                 "Business Name": "ILILI",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7443550",
-                    "Longitude": "-73.9877320"
+                    "Latitude": "40.7443583",
+                    "Longitude": "-73.9877361"
                 }
             },
             "Published": "2018-05-08T15:04:33Z",
@@ -17772,18 +25728,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-99.1728282, 19.4094602],
+            "coordinates": [-99.1728167, 19.4094444],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=6612934038617157125",
             "Location": {
-                "Address": "Avenida Nuevo León 137, Hipódromo Condesa, 06140 Ciudad de México, CDMX, Mexico",
+                "Address": "Avenida Nuevo León 137, Colonia Condesa, Cuauhtémoc, 06140 Ciudad de México, CDMX, Mexico",
                 "Business Name": "La Capital",
                 "Country Code": "MX",
                 "Geo Coordinates": {
-                    "Latitude": "19.4094602",
-                    "Longitude": "-99.1728282"
+                    "Latitude": "19.4094444",
+                    "Longitude": "-99.1728167"
                 }
             },
             "Published": "2018-04-17T00:34:40Z",
@@ -17830,7 +25786,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9859051, 40.7293120],
+            "coordinates": [-73.9859772, 40.7293002],
             "type": "Point"
         },
         "properties": {
@@ -17840,8 +25796,8 @@ var SAVED_PLACES = {
                 "Business Name": "Hi-Collar",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7293120",
-                    "Longitude": "-73.9859051"
+                    "Latitude": "40.7293002",
+                    "Longitude": "-73.9859772"
                 }
             },
             "Published": "2018-04-08T22:57:56Z",
@@ -17893,18 +25849,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [137.3344312, 35.3181605],
+            "coordinates": [137.3344633, 35.3178574],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=9269281111909903540",
             "Location": {
-                "Address": "573-27 猿爪 陶町 Mizunami, Gifu 509-6361, Japan",
+                "Address": "Japan, 〒509-6361 Gifu, Mizunami, Suecho, Mashizume, ５７３ ２７",
                 "Business Name": "Yanagiya",
                 "Country Code": "JP",
                 "Geo Coordinates": {
-                    "Latitude": "35.3181605",
-                    "Longitude": "137.3344312"
+                    "Latitude": "35.3178574",
+                    "Longitude": "137.3344633"
                 }
             },
             "Published": "2018-04-05T18:56:38Z",
@@ -17914,18 +25870,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7601869, 32.8838495],
+            "coordinates": [-96.7602333, 32.8838512],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=7947930759820088232",
             "Location": {
-                "Address": "7515 Greenville Avenue, Dallas, TX 75231, United States",
+                "Address": "7515 Greenville Avenue #600, Dallas, TX 75231, United States",
                 "Business Name": "Dr. Mark A. Johnston, MD",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.8838495",
-                    "Longitude": "-96.7601869"
+                    "Latitude": "32.8838512",
+                    "Longitude": "-96.7602333"
                 }
             },
             "Published": "2018-04-05T02:45:15Z",
@@ -17956,18 +25912,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [12.5586160, 55.6689392],
+            "coordinates": [12.5584150, 55.6686470],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=14124893243045956388",
             "Location": {
-                "Address": "Slagterboderne 8, 1716 København, Denmark",
-                "Business Name": "Hija de Sanchez",
+                "Address": "Slagterboderne 8, 1716 København V, Denmark",
+                "Business Name": "Hija de Sanchez, Kødbyen",
                 "Country Code": "DK",
                 "Geo Coordinates": {
-                    "Latitude": "55.6689392",
-                    "Longitude": "12.5586160"
+                    "Latitude": "55.6686470",
+                    "Longitude": "12.5584150"
                 }
             },
             "Published": "2018-04-04T13:05:41Z",
@@ -17983,7 +25939,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=11078749617828869389",
             "Location": {
-                "Address": "Istedgade 60, 1650 København, Denmark",
+                "Address": "Istedgade 60, 1650 København V, Denmark",
                 "Business Name": "Sanchez",
                 "Country Code": "DK",
                 "Geo Coordinates": {
@@ -17998,39 +25954,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [100.5502288, 13.7989305],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=10516346959717498187",
-            "Location": {
-                "Address": "สวนจตุจักร Kamphaeng Phet 2 Road, Chatuchak, Bangkok 10900, Thailand",
-                "Business Name": "Chatuchak Weekend Market",
-                "Country Code": "TH",
-                "Geo Coordinates": {
-                    "Latitude": "13.7989305",
-                    "Longitude": "100.5502288"
-                }
-            },
-            "Published": "2018-03-31T19:14:39Z",
-            "Title": "Chatuchak Market",
-            "Updated": "2018-03-31T19:14:39Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
-            "coordinates": [100.5471670, 13.7438770],
+            "coordinates": [100.5465830, 13.7438153],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=1329137144034658479",
             "Location": {
-                "Address": "Level 5, Central Embassy, 1031 Ploenchit Road, Pathumwan, Bangkok 10330, Thailand",
+                "Address": "1031 Phloen Chit Road, Lumphini, Pathum Wan District, Bangkok 10330, Thailand",
                 "Business Name": "SIWILAI CITY CLUB",
                 "Country Code": "TH",
                 "Geo Coordinates": {
-                    "Latitude": "13.7438770",
-                    "Longitude": "100.5471670"
+                    "Latitude": "13.7438153",
+                    "Longitude": "100.5465830"
                 }
             },
             "Published": "2018-03-31T19:13:02Z",
@@ -18119,7 +26054,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3041949, 47.6759596],
+            "coordinates": [-122.3041810, 47.6759660],
             "type": "Point"
         },
         "properties": {
@@ -18129,8 +26064,8 @@ var SAVED_PLACES = {
                 "Business Name": "JuneBaby",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6759596",
-                    "Longitude": "-122.3041949"
+                    "Latitude": "47.6759660",
+                    "Longitude": "-122.3041810"
                 }
             },
             "Published": "2018-03-26T14:55:52Z",
@@ -18172,7 +26107,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-97.7247608, 30.2617422],
+            "coordinates": [-97.7248130, 30.2617620],
             "type": "Point"
         },
         "properties": {
@@ -18182,8 +26117,8 @@ var SAVED_PLACES = {
                 "Business Name": "Yellow Jacket Social Club",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "30.2617422",
-                    "Longitude": "-97.7247608"
+                    "Latitude": "30.2617620",
+                    "Longitude": "-97.7248130"
                 }
             },
             "Published": "2018-03-17T16:31:23Z",
@@ -18537,7 +26472,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-117.7694833, 33.6894180],
+            "coordinates": [-117.7694870, 33.6894332],
             "type": "Point"
         },
         "properties": {
@@ -18547,8 +26482,8 @@ var SAVED_PLACES = {
                 "Business Name": "Kaju Soft Tofu Restaurant",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "33.6894180",
-                    "Longitude": "-117.7694833"
+                    "Latitude": "33.6894332",
+                    "Longitude": "-117.7694870"
                 }
             },
             "Published": "2018-02-27T03:54:45Z",
@@ -18564,7 +26499,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=5517853627769268757",
             "Location": {
-                "Address": "5849, 1902 East Belt Line Road, Carrollton, TX 75006, United States",
+                "Address": "1902 East Belt Line Road #5849, Carrollton, TX 75006, United States",
                 "Business Name": "Hon Sushi",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -18600,7 +26535,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7667144, 32.9001147],
+            "coordinates": [-96.7667089, 32.9001254],
             "type": "Point"
         },
         "properties": {
@@ -18610,8 +26545,8 @@ var SAVED_PLACES = {
                 "Business Name": "Studio Movie Grill",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.9001147",
-                    "Longitude": "-96.7667144"
+                    "Latitude": "32.9001254",
+                    "Longitude": "-96.7667089"
                 }
             },
             "Published": "2018-02-20T19:20:10Z",
@@ -18642,7 +26577,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-97.7560511, 30.2726058],
+            "coordinates": [-97.7560383, 30.2726082],
             "type": "Point"
         },
         "properties": {
@@ -18652,8 +26587,8 @@ var SAVED_PLACES = {
                 "Business Name": "Z'Tejas",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "30.2726058",
-                    "Longitude": "-97.7560511"
+                    "Latitude": "30.2726082",
+                    "Longitude": "-97.7560383"
                 }
             },
             "Published": "2018-02-18T00:03:28Z",
@@ -18663,7 +26598,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-97.7516060, 30.2368380],
+            "coordinates": [-97.7515484, 30.2371901],
             "type": "Point"
         },
         "properties": {
@@ -18673,8 +26608,8 @@ var SAVED_PLACES = {
                 "Business Name": "The District at SoCo",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "30.2368380",
-                    "Longitude": "-97.7516060"
+                    "Latitude": "30.2371901",
+                    "Longitude": "-97.7515484"
                 }
             },
             "Published": "2018-02-17T21:57:13Z",
@@ -18684,7 +26619,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-97.7245620, 30.2620475],
+            "coordinates": [-97.7245464, 30.2621351],
             "type": "Point"
         },
         "properties": {
@@ -18694,8 +26629,8 @@ var SAVED_PLACES = {
                 "Business Name": "Zilker Brewing Company and Taproom",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "30.2620475",
-                    "Longitude": "-97.7245620"
+                    "Latitude": "30.2621351",
+                    "Longitude": "-97.7245464"
                 }
             },
             "Published": "2018-02-17T21:24:47Z",
@@ -18747,7 +26682,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.9915281, 32.8483200],
+            "coordinates": [-96.9915240, 32.8483150],
             "type": "Point"
         },
         "properties": {
@@ -18757,8 +26692,8 @@ var SAVED_PLACES = {
                 "Business Name": "Mr Max Cafe Nippon",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.8483200",
-                    "Longitude": "-96.9915281"
+                    "Latitude": "32.8483150",
+                    "Longitude": "-96.9915240"
                 }
             },
             "Published": "2018-02-16T00:56:11Z",
@@ -18768,7 +26703,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8067276, 32.7910131],
+            "coordinates": [-96.8066806, 32.7911083],
             "type": "Point"
         },
         "properties": {
@@ -18778,8 +26713,8 @@ var SAVED_PLACES = {
                 "Business Name": "Happiest Hour",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7910131",
-                    "Longitude": "-96.8067276"
+                    "Latitude": "32.7911083",
+                    "Longitude": "-96.8066806"
                 }
             },
             "Published": "2018-02-14T01:22:01Z",
@@ -19022,7 +26957,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-117.7833155, 33.7067145],
+            "coordinates": [-117.7834016, 33.7067712],
             "type": "Point"
         },
         "properties": {
@@ -19032,8 +26967,8 @@ var SAVED_PLACES = {
                 "Business Name": "Mitsuwa Marketplace - Irvine",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "33.7067145",
-                    "Longitude": "-117.7833155"
+                    "Latitude": "33.7067712",
+                    "Longitude": "-117.7834016"
                 }
             },
             "Published": "2018-02-06T03:31:09Z",
@@ -19127,7 +27062,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8231810, 32.7569357],
+            "coordinates": [-96.8231929, 32.7569269],
             "type": "Point"
         },
         "properties": {
@@ -19137,8 +27072,8 @@ var SAVED_PLACES = {
                 "Business Name": "Jonathon's Oak Cliff",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7569357",
-                    "Longitude": "-96.8231810"
+                    "Latitude": "32.7569269",
+                    "Longitude": "-96.8231929"
                 }
             },
             "Published": "2018-02-02T16:16:53Z",
@@ -19169,7 +27104,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8239103, 32.7971947],
+            "coordinates": [-96.8239149, 32.7972052],
             "type": "Point"
         },
         "properties": {
@@ -19179,8 +27114,8 @@ var SAVED_PLACES = {
                 "Business Name": "Rodeo Goat",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7971947",
-                    "Longitude": "-96.8239103"
+                    "Latitude": "32.7972052",
+                    "Longitude": "-96.8239149"
                 }
             },
             "Published": "2018-01-28T19:03:13Z",
@@ -19217,7 +27152,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=7426993157654046516",
             "Location": {
-                "Address": "789 Park Road 16, Tyler, TX 75706, United States",
+                "Address": "Tyler State Park Area 1 Bath House, 789 Park Road 16, Tyler, TX 75706, United States",
                 "Business Name": "Tyler State Park",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -19280,7 +27215,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=4592644752045430609",
             "Location": {
-                "Address": "16277 Laguna Canyon Road Suite A, Irvine, CA 92618, United States",
+                "Address": "16277 Laguna Canyon Road ste a, Irvine, CA 92618, United States",
                 "Business Name": "Inkas",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -19311,7 +27246,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7849383, 32.7842843],
+            "coordinates": [-96.7849257, 32.7842388],
             "type": "Point"
         },
         "properties": {
@@ -19321,8 +27256,8 @@ var SAVED_PLACES = {
                 "Business Name": "Twilite Lounge",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7842843",
-                    "Longitude": "-96.7849383"
+                    "Latitude": "32.7842388",
+                    "Longitude": "-96.7849257"
                 }
             },
             "Published": "2018-01-16T15:35:58Z",
@@ -19332,7 +27267,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8001720, 32.7882130],
+            "coordinates": [-96.8001765, 32.7883225],
             "type": "Point"
         },
         "properties": {
@@ -19342,8 +27277,8 @@ var SAVED_PLACES = {
                 "Business Name": "Nasher Sculpture Center",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7882130",
-                    "Longitude": "-96.8001720"
+                    "Latitude": "32.7883225",
+                    "Longitude": "-96.8001765"
                 }
             },
             "Published": "2018-01-16T15:35:45Z",
@@ -19374,7 +27309,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-155.0780190, 19.7101950],
+            "coordinates": [-155.0780018, 19.7102012],
             "type": "Point"
         },
         "properties": {
@@ -19384,8 +27319,8 @@ var SAVED_PLACES = {
                 "Business Name": "Sweet Cane Cafe",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "19.7101950",
-                    "Longitude": "-155.0780190"
+                    "Latitude": "19.7102012",
+                    "Longitude": "-155.0780018"
                 }
             },
             "Published": "2018-01-15T20:16:45Z",
@@ -19469,7 +27404,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-155.0865648, 19.7228031],
+            "coordinates": [-155.0865833, 19.7228722],
             "type": "Point"
         },
         "properties": {
@@ -19479,8 +27414,8 @@ var SAVED_PLACES = {
                 "Business Name": "Naung Mai Thai Kitchen",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "19.7228031",
-                    "Longitude": "-155.0865648"
+                    "Latitude": "19.7228722",
+                    "Longitude": "-155.0865833"
                 }
             },
             "Published": "2018-01-14T04:26:51Z",
@@ -19534,7 +27469,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=2535660705236888149",
             "Location": {
                 "Address": "Waianapanapa, Hana, HI 96713, United States",
-                "Business Name": "Waianapanapa State Park",
+                "Business Name": "Waiʻānapanapa State Park",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "20.7865103",
@@ -19569,7 +27504,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-156.4441183, 20.7088429],
+            "coordinates": [-156.4428978, 20.7088173],
             "type": "Point"
         },
         "properties": {
@@ -19579,8 +27514,8 @@ var SAVED_PLACES = {
                 "Business Name": "Maui Kamaole - Maui Condo & Home",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "20.7088429",
-                    "Longitude": "-156.4441183"
+                    "Latitude": "20.7088173",
+                    "Longitude": "-156.4428978"
                 }
             },
             "Published": "2018-01-12T23:28:14Z",
@@ -19606,7 +27541,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-156.4517672, 20.7314141],
+            "coordinates": [-156.4517898, 20.7312953],
             "type": "Point"
         },
         "properties": {
@@ -19616,8 +27551,8 @@ var SAVED_PLACES = {
                 "Business Name": "Kihei Caffe",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "20.7314141",
-                    "Longitude": "-156.4517672"
+                    "Latitude": "20.7312953",
+                    "Longitude": "-156.4517898"
                 }
             },
             "Published": "2018-01-12T23:27:15Z",
@@ -19633,7 +27568,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=6398299025395280864",
             "Location": {
-                "Address": "1150 South King Street STE 103, Honolulu, HI 96814, United States",
+                "Address": "1150 South King Street #103, Honolulu, HI 96814, United States",
                 "Business Name": "Morio's Sushi Bistro",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -19711,7 +27646,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-157.8408620, 21.2962950],
+            "coordinates": [-157.8409196, 21.2962453],
             "type": "Point"
         },
         "properties": {
@@ -19721,8 +27656,8 @@ var SAVED_PLACES = {
                 "Business Name": "Sorabol Korean Restaurant",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "21.2962950",
-                    "Longitude": "-157.8408620"
+                    "Latitude": "21.2962453",
+                    "Longitude": "-157.8409196"
                 }
             },
             "Published": "2018-01-08T22:07:14Z",
@@ -19790,7 +27725,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-157.8614263, 21.2976838],
+            "coordinates": [-157.8615893, 21.2979033],
             "type": "Point"
         },
         "properties": {
@@ -19800,8 +27735,8 @@ var SAVED_PLACES = {
                 "Business Name": "Highway Inn Kaka'ako",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "21.2976838",
-                    "Longitude": "-157.8614263"
+                    "Latitude": "21.2979033",
+                    "Longitude": "-157.8615893"
                 }
             },
             "Published": "2018-01-08T03:23:28Z",
@@ -19811,18 +27746,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-157.8316876, 21.2951707],
+            "coordinates": [-157.8316790, 21.2951690],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=6301488838283363495",
             "Location": {
                 "Address": "1857 South King Street, Honolulu, HI 96826, United States",
-                "Business Name": "Alan Wong's",
+                "Business Name": "Alan Wong's Honolulu",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "21.2951707",
-                    "Longitude": "-157.8316876"
+                    "Latitude": "21.2951690",
+                    "Longitude": "-157.8316790"
                 }
             },
             "Published": "2018-01-08T03:23:10Z",
@@ -19881,7 +27816,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=6673202686749468541",
             "Location": {
                 "Address": "8 West 18th Street, New York, NY 10011, United States",
-                "Business Name": "Ootoya Chelsea",
+                "Business Name": "Ootoya - Chelsea",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "40.7387461",
@@ -20021,7 +27956,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9923102, 40.7238246],
+            "coordinates": [-73.9912751, 40.7235435],
             "type": "Point"
         },
         "properties": {
@@ -20031,8 +27966,8 @@ var SAVED_PLACES = {
                 "Business Name": "Allegro Coffee Roasters",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7238246",
-                    "Longitude": "-73.9923102"
+                    "Latitude": "40.7235435",
+                    "Longitude": "-73.9912751"
                 }
             },
             "Published": "2017-12-22T15:44:55Z",
@@ -20084,7 +28019,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9777969, 40.7250248],
+            "coordinates": [-73.9777778, 40.7250000],
             "type": "Point"
         },
         "properties": {
@@ -20094,8 +28029,8 @@ var SAVED_PLACES = {
                 "Business Name": "Ninth Street Espresso",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7250248",
-                    "Longitude": "-73.9777969"
+                    "Latitude": "40.7250000",
+                    "Longitude": "-73.9777778"
                 }
             },
             "Published": "2017-12-21T17:33:05Z",
@@ -20147,7 +28082,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-75.1653318, 39.9516539],
+            "coordinates": [-75.1652778, 39.9516667],
             "type": "Point"
         },
         "properties": {
@@ -20157,8 +28092,8 @@ var SAVED_PLACES = {
                 "Business Name": "La Colombe Coffee Roasters",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "39.9516539",
-                    "Longitude": "-75.1653318"
+                    "Latitude": "39.9516667",
+                    "Longitude": "-75.1652778"
                 }
             },
             "Published": "2017-12-19T14:20:44Z",
@@ -20174,7 +28109,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=15908471562216868239",
             "Location": {
-                "Address": "135 South 17th Street Suite A, Philadelphia, PA 19103, United States",
+                "Address": "135 South 17th Street suite a, Philadelphia, PA 19103, United States",
                 "Business Name": "Capital One Café",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -20210,7 +28145,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-75.1659785, 39.9491255],
+            "coordinates": [-75.1659468, 39.9491310],
             "type": "Point"
         },
         "properties": {
@@ -20220,8 +28155,8 @@ var SAVED_PLACES = {
                 "Business Name": "WeWork",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "39.9491255",
-                    "Longitude": "-75.1659785"
+                    "Latitude": "39.9491310",
+                    "Longitude": "-75.1659468"
                 }
             },
             "Published": "2017-12-18T14:13:44Z",
@@ -20273,7 +28208,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7666094, 32.7818475],
+            "coordinates": [-96.7666833, 32.7818556],
             "type": "Point"
         },
         "properties": {
@@ -20283,8 +28218,8 @@ var SAVED_PLACES = {
                 "Business Name": "Las Almas Rotas",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7818475",
-                    "Longitude": "-96.7666094"
+                    "Latitude": "32.7818556",
+                    "Longitude": "-96.7666833"
                 }
             },
             "Published": "2017-11-30T21:09:44Z",
@@ -20315,7 +28250,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7771705, 32.7995064],
+            "coordinates": [-96.7771674, 32.7994952],
             "type": "Point"
         },
         "properties": {
@@ -20325,8 +28260,8 @@ var SAVED_PLACES = {
                 "Business Name": "Tacos La Banqueta Puro DF",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7995064",
-                    "Longitude": "-96.7771705"
+                    "Latitude": "32.7994952",
+                    "Longitude": "-96.7771674"
                 }
             },
             "Published": "2017-11-30T21:07:33Z",
@@ -20336,7 +28271,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7809462, 32.7850704],
+            "coordinates": [-96.7808750, 32.7850417],
             "type": "Point"
         },
         "properties": {
@@ -20346,8 +28281,8 @@ var SAVED_PLACES = {
                 "Business Name": "Mozzarella Co",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7850704",
-                    "Longitude": "-96.7809462"
+                    "Latitude": "32.7850417",
+                    "Longitude": "-96.7808750"
                 }
             },
             "Published": "2017-11-28T18:29:20Z",
@@ -20357,7 +28292,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9910787, 40.7376305],
+            "coordinates": [-73.9911216, 40.7376883],
             "type": "Point"
         },
         "properties": {
@@ -20367,8 +28302,8 @@ var SAVED_PLACES = {
                 "Business Name": "Lillie's Victorian Establishment",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7376305",
-                    "Longitude": "-73.9910787"
+                    "Latitude": "40.7376883",
+                    "Longitude": "-73.9911216"
                 }
             },
             "Published": "2017-11-21T22:30:38Z",
@@ -20483,7 +28418,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4427625, 34.0396628],
+            "coordinates": [-118.4427676, 34.0396726],
             "type": "Point"
         },
         "properties": {
@@ -20493,8 +28428,8 @@ var SAVED_PLACES = {
                 "Business Name": "SushiStop Sawtelle North",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0396628",
-                    "Longitude": "-118.4427625"
+                    "Latitude": "34.0396726",
+                    "Longitude": "-118.4427676"
                 }
             },
             "Published": "2017-11-15T16:12:31Z",
@@ -20520,7 +28455,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-75.1492562, 39.9419625],
+            "coordinates": [-75.1492720, 39.9419500],
             "type": "Point"
         },
         "properties": {
@@ -20530,8 +28465,8 @@ var SAVED_PLACES = {
                 "Business Name": "Puyero Venezuelan Flavor",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "39.9419625",
-                    "Longitude": "-75.1492562"
+                    "Latitude": "39.9419500",
+                    "Longitude": "-75.1492720"
                 }
             },
             "Published": "2017-11-09T04:43:16Z",
@@ -20604,7 +28539,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-123.1265217, 49.2861794],
+            "coordinates": [-123.1264787, 49.2861847],
             "type": "Point"
         },
         "properties": {
@@ -20614,8 +28549,8 @@ var SAVED_PLACES = {
                 "Business Name": "Damso Modern",
                 "Country Code": "CA",
                 "Geo Coordinates": {
-                    "Latitude": "49.2861794",
-                    "Longitude": "-123.1265217"
+                    "Latitude": "49.2861847",
+                    "Longitude": "-123.1264787"
                 }
             },
             "Published": "2017-11-06T00:47:07Z",
@@ -20646,7 +28581,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-123.1006157, 49.2796534],
+            "coordinates": [-123.1005738, 49.2796143],
             "type": "Point"
         },
         "properties": {
@@ -20656,8 +28591,8 @@ var SAVED_PLACES = {
                 "Business Name": "Bao Bei",
                 "Country Code": "CA",
                 "Geo Coordinates": {
-                    "Latitude": "49.2796534",
-                    "Longitude": "-123.1006157"
+                    "Latitude": "49.2796143",
+                    "Longitude": "-123.1005738"
                 }
             },
             "Published": "2017-11-06T00:42:37Z",
@@ -20730,7 +28665,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8074748, 32.7803360],
+            "coordinates": [-96.8077432, 32.7799516],
             "type": "Point"
         },
         "properties": {
@@ -20740,8 +28675,8 @@ var SAVED_PLACES = {
                 "Business Name": "Dallas Holocaust Museum",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7803360",
-                    "Longitude": "-96.8074748"
+                    "Latitude": "32.7799516",
+                    "Longitude": "-96.8077432"
                 }
             },
             "Published": "2017-11-03T21:38:51Z",
@@ -20757,7 +28692,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=3643185585710592747",
             "Location": {
-                "Address": "Japan, 〒169-0075 Tokyo, Shinjuku City, Takadanobaba, 2 Chome−14−２ 新陽ビル B1F",
+                "Address": "2 Chome-14-2 Takadanobaba, Shinjuku City, Tokyo 169-0075, Japan",
                 "Business Name": "R.O.Star Takadanobaba",
                 "Country Code": "JP",
                 "Geo Coordinates": {
@@ -20835,7 +28770,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7778427, 32.7849212],
+            "coordinates": [-96.7778722, 32.7848028],
             "type": "Point"
         },
         "properties": {
@@ -20845,8 +28780,8 @@ var SAVED_PLACES = {
                 "Business Name": "Murray Street Coffee Shop",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7849212",
-                    "Longitude": "-96.7778427"
+                    "Latitude": "32.7848028",
+                    "Longitude": "-96.7778722"
                 }
             },
             "Published": "2017-11-02T17:31:34Z",
@@ -20877,7 +28812,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7952726, 32.7824424],
+            "coordinates": [-96.7952778, 32.7825000],
             "type": "Point"
         },
         "properties": {
@@ -20887,8 +28822,8 @@ var SAVED_PLACES = {
                 "Business Name": "Stupid Good Coffee",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7824424",
-                    "Longitude": "-96.7952726"
+                    "Latitude": "32.7825000",
+                    "Longitude": "-96.7952778"
                 }
             },
             "Published": "2017-10-31T15:01:42Z",
@@ -20898,7 +28833,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8033080, 32.7939118],
+            "coordinates": [-96.8033092, 32.7939443],
             "type": "Point"
         },
         "properties": {
@@ -20908,8 +28843,8 @@ var SAVED_PLACES = {
                 "Business Name": "Moxie's Grill & Bar",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7939118",
-                    "Longitude": "-96.8033080"
+                    "Latitude": "32.7939443",
+                    "Longitude": "-96.8033092"
                 }
             },
             "Published": "2017-10-26T22:33:04Z",
@@ -20940,7 +28875,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.8310576, 47.0392813],
+            "coordinates": [-122.8310947, 47.0392474],
             "type": "Point"
         },
         "properties": {
@@ -20950,8 +28885,8 @@ var SAVED_PLACES = {
                 "Business Name": "Koibito",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.0392813",
-                    "Longitude": "-122.8310576"
+                    "Latitude": "47.0392474",
+                    "Longitude": "-122.8310947"
                 }
             },
             "Published": "2017-10-26T18:57:39Z",
@@ -20982,7 +28917,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7675794, 32.7822566],
+            "coordinates": [-96.7675544, 32.7822618],
             "type": "Point"
         },
         "properties": {
@@ -20992,8 +28927,8 @@ var SAVED_PLACES = {
                 "Business Name": "SANDAGA 813",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7822566",
-                    "Longitude": "-96.7675794"
+                    "Latitude": "32.7822618",
+                    "Longitude": "-96.7675544"
                 }
             },
             "Published": "2017-10-25T03:41:29Z",
@@ -21024,7 +28959,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.9036089, 47.0427984],
+            "coordinates": [-122.9036111, 47.0427778],
             "type": "Point"
         },
         "properties": {
@@ -21034,8 +28969,8 @@ var SAVED_PLACES = {
                 "Business Name": "Waterstreet Cafe",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.0427984",
-                    "Longitude": "-122.9036089"
+                    "Latitude": "47.0427778",
+                    "Longitude": "-122.9036111"
                 }
             },
             "Published": "2017-10-24T02:07:26Z",
@@ -21066,7 +29001,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.8304173, 47.0431912],
+            "coordinates": [-122.8304055, 47.0431167],
             "type": "Point"
         },
         "properties": {
@@ -21076,8 +29011,8 @@ var SAVED_PLACES = {
                 "Business Name": "Dancing Goats Coffee Bar",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.0431912",
-                    "Longitude": "-122.8304173"
+                    "Latitude": "47.0431167",
+                    "Longitude": "-122.8304055"
                 }
             },
             "Published": "2017-10-23T17:59:58Z",
@@ -21150,7 +29085,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [19.0513010, 47.4944390],
+            "coordinates": [19.0513389, 47.4945667],
             "type": "Point"
         },
         "properties": {
@@ -21160,8 +29095,8 @@ var SAVED_PLACES = {
                 "Business Name": "Comme Chez Soi",
                 "Country Code": "HU",
                 "Geo Coordinates": {
-                    "Latitude": "47.4944390",
-                    "Longitude": "19.0513010"
+                    "Latitude": "47.4945667",
+                    "Longitude": "19.0513389"
                 }
             },
             "Published": "2017-10-16T16:16:36Z",
@@ -21192,18 +29127,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-123.1163662, 49.2879160],
+            "coordinates": [-123.1163583, 49.2879694],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=6407236259407370099",
             "Location": {
-                "Address": "1001 West Cordova Street, Vancouver, BC V6C 0B7, Canada",
+                "Address": "1001 West Cordova Street, Vancouver, BC, Canada",
                 "Business Name": "Bella Gelateria",
                 "Country Code": "CA",
                 "Geo Coordinates": {
-                    "Latitude": "49.2879160",
-                    "Longitude": "-123.1163662"
+                    "Latitude": "49.2879694",
+                    "Longitude": "-123.1163583"
                 }
             },
             "Published": "2017-10-16T16:14:43Z",
@@ -21213,18 +29148,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-123.1185830, 49.2736743],
+            "coordinates": [-123.1186111, 49.2736111],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=12257183954079853865",
             "Location": {
                 "Address": "1089 Marinaside Crescent, Vancouver, BC V6Z 2Z4, Canada",
-                "Business Name": "Baggio Gelateria & pizzeria",
+                "Business Name": "Bella Napoli",
                 "Country Code": "CA",
                 "Geo Coordinates": {
-                    "Latitude": "49.2736743",
-                    "Longitude": "-123.1185830"
+                    "Latitude": "49.2736111",
+                    "Longitude": "-123.1186111"
                 }
             },
             "Published": "2017-10-16T16:14:37Z",
@@ -21456,7 +29391,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=7166072196914473211",
             "Location": {
-                "Address": "4334, 5818 Live Oak Street, Dallas, TX 75214, United States",
+                "Address": "5818 Live Oak Street #4334, Dallas, TX 75214, United States",
                 "Business Name": "Lakewood Landing",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -21471,7 +29406,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8103836, 32.8107235],
+            "coordinates": [-96.8103468, 32.8106934],
             "type": "Point"
         },
         "properties": {
@@ -21481,8 +29416,8 @@ var SAVED_PLACES = {
                 "Business Name": "Round-Up Saloon",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.8107235",
-                    "Longitude": "-96.8103836"
+                    "Latitude": "32.8106934",
+                    "Longitude": "-96.8103468"
                 }
             },
             "Published": "2017-09-16T22:36:45Z",
@@ -21492,7 +29427,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8109783, 32.8105967],
+            "coordinates": [-96.8108333, 32.8105556],
             "type": "Point"
         },
         "properties": {
@@ -21502,8 +29437,8 @@ var SAVED_PLACES = {
                 "Business Name": "Station 4",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.8105967",
-                    "Longitude": "-96.8109783"
+                    "Latitude": "32.8105556",
+                    "Longitude": "-96.8108333"
                 }
             },
             "Published": "2017-09-16T22:36:30Z",
@@ -21618,7 +29553,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3197978, 47.6146242],
+            "coordinates": [-122.3196324, 47.6147055],
             "type": "Point"
         },
         "properties": {
@@ -21628,8 +29563,8 @@ var SAVED_PLACES = {
                 "Business Name": "Little Oddfellows",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6146242",
-                    "Longitude": "-122.3197978"
+                    "Latitude": "47.6147055",
+                    "Longitude": "-122.3196324"
                 }
             },
             "Published": "2017-09-14T17:07:31Z",
@@ -21739,18 +29674,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.4066686, 47.5804959],
+            "coordinates": [-122.4066891, 47.5804580],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=2036356197648367917",
             "Location": {
-                "Address": "2530 Alki Avenue Southwest, Seattle, WA 98116, United States",
+                "Address": "2536 Alki Avenue Southwest, Seattle, WA 98116, United States",
                 "Business Name": "Ampersand Cafe on Alki",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.5804959",
-                    "Longitude": "-122.4066686"
+                    "Latitude": "47.5804580",
+                    "Longitude": "-122.4066891"
                 }
             },
             "Published": "2017-09-09T15:48:06Z",
@@ -21767,7 +29702,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=5731442445437101367",
             "Location": {
                 "Address": "4212 Oak Lawn Avenue, Dallas, TX 75219, United States",
-                "Business Name": "TJ's Seafood Market & Grill",
+                "Business Name": "TJ's Seafood Market & Grill HP/Oak Lawn",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "32.8199322",
@@ -21781,7 +29716,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7525800, 32.7683720],
+            "coordinates": [-96.7526383, 32.7683549],
             "type": "Point"
         },
         "properties": {
@@ -21791,8 +29726,8 @@ var SAVED_PLACES = {
                 "Business Name": "Bob Davis Fish Market",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7683720",
-                    "Longitude": "-96.7525800"
+                    "Latitude": "32.7683549",
+                    "Longitude": "-96.7526383"
                 }
             },
             "Published": "2017-09-07T19:32:00Z",
@@ -21886,19 +29821,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8367096, 32.7496896],
+            "coordinates": [-96.836581, 32.749692],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=5325789135418299241",
             "Location": {
-                "Address": "819 West Davis Street, Dallas, TX 75208, United States",
-                "Business Name": "Oak Cliff Coffee Roasters",
-                "Country Code": "US",
-                "Geo Coordinates": {
-                    "Latitude": "32.7496896",
-                    "Longitude": "-96.8367096"
-                }
+                "Latitude": "32.749692",
+                "Longitude": "-96.836581"
             },
             "Published": "2017-08-28T19:25:48Z",
             "Title": "Oak Cliff Coffee Roasters",
@@ -21934,7 +29864,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=3416421354347940031",
             "Location": {
-                "Address": "731 Saint Antoine Street, Detroit, MI 48226, United States",
+                "Address": "731 Saint Antoine, Detroit, MI 48226, United States",
                 "Business Name": "Flood's Bar and Grille",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -21949,7 +29879,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8016142, 32.7894180],
+            "coordinates": [-96.8016106, 32.7894130],
             "type": "Point"
         },
         "properties": {
@@ -21959,8 +29889,8 @@ var SAVED_PLACES = {
                 "Business Name": "Klyde Warren Park",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7894180",
-                    "Longitude": "-96.8016142"
+                    "Latitude": "32.7894130",
+                    "Longitude": "-96.8016106"
                 }
             },
             "Published": "2017-08-26T00:04:41Z",
@@ -22070,7 +30000,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8978594, 32.8669994],
+            "coordinates": [-96.8978568, 32.8669999],
             "type": "Point"
         },
         "properties": {
@@ -22080,8 +30010,8 @@ var SAVED_PLACES = {
                 "Business Name": "Pappas Bros. Steakhouse",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.8669994",
-                    "Longitude": "-96.8978594"
+                    "Latitude": "32.8669999",
+                    "Longitude": "-96.8978568"
                 }
             },
             "Published": "2017-08-02T23:44:02Z",
@@ -22154,7 +30084,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7892634, 32.7774951],
+            "coordinates": [-96.7893248, 32.7773398],
             "type": "Point"
         },
         "properties": {
@@ -22164,8 +30094,8 @@ var SAVED_PLACES = {
                 "Business Name": "Dallas Farmers Market",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7774951",
-                    "Longitude": "-96.7892634"
+                    "Latitude": "32.7773398",
+                    "Longitude": "-96.7893248"
                 }
             },
             "Published": "2017-07-30T15:57:16Z",
@@ -22175,7 +30105,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7731999, 32.7834329],
+            "coordinates": [-96.7732330, 32.7835040],
             "type": "Point"
         },
         "properties": {
@@ -22185,8 +30115,8 @@ var SAVED_PLACES = {
                 "Business Name": "Trunk Club - Dallas",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7834329",
-                    "Longitude": "-96.7731999"
+                    "Latitude": "32.7835040",
+                    "Longitude": "-96.7732330"
                 }
             },
             "Published": "2017-07-29T21:36:16Z",
@@ -22259,27 +30189,6 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7707833, 32.8086525],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=148964445117975562",
-            "Location": {
-                "Address": "5334 Ross Avenue, Dallas, TX 75206, United States",
-                "Business Name": "Fiesta Mart",
-                "Country Code": "US",
-                "Geo Coordinates": {
-                    "Latitude": "32.8086525",
-                    "Longitude": "-96.7707833"
-                }
-            },
-            "Published": "2017-07-23T15:20:19Z",
-            "Title": "Fiesta Mart",
-            "Updated": "2017-07-23T15:20:19Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
             "coordinates": [-96.7769800, 32.7952480],
             "type": "Point"
         },
@@ -22328,7 +30237,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=15053595682908337422",
             "Location": {
-                "Address": "3426 Greenville Avenue #150, Dallas, TX 75206, United States",
+                "Address": "3426 Greenville Avenue Suite 150, Dallas, TX 75206, United States",
                 "Business Name": "Unrefined Bakery",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -22422,7 +30331,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.9832383, 32.9156187],
+            "coordinates": [-96.9832472, 32.9156637],
             "type": "Point"
         },
         "properties": {
@@ -22432,8 +30341,8 @@ var SAVED_PLACES = {
                 "Business Name": "Cuppa Espresso Bar",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.9156187",
-                    "Longitude": "-96.9832383"
+                    "Latitude": "32.9156637",
+                    "Longitude": "-96.9832472"
                 }
             },
             "Published": "2017-07-21T17:13:20Z",
@@ -22443,18 +30352,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8061654, 32.7943049],
+            "coordinates": [-96.8062143, 32.7942618],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=11648288627562948124",
             "Location": {
-                "Address": "2101 Cedar Springs Road Suite R125, Dallas, TX 75201, United States",
+                "Address": "2101 Cedar Springs Road r125, Dallas, TX 75201, United States",
                 "Business Name": "The Tipsy Alchemist",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7943049",
-                    "Longitude": "-96.8061654"
+                    "Latitude": "32.7942618",
+                    "Longitude": "-96.8062143"
                 }
             },
             "Published": "2017-07-21T01:05:52Z",
@@ -22506,7 +30415,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7885762, 32.7955315],
+            "coordinates": [-96.7886328, 32.7955567],
             "type": "Point"
         },
         "properties": {
@@ -22516,8 +30425,8 @@ var SAVED_PLACES = {
                 "Business Name": "Burgundy's Local",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7955315",
-                    "Longitude": "-96.7885762"
+                    "Latitude": "32.7955567",
+                    "Longitude": "-96.7886328"
                 }
             },
             "Published": "2017-07-16T20:20:04Z",
@@ -22590,7 +30499,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7855857, 32.7841842],
+            "coordinates": [-96.7855528, 32.7840972],
             "type": "Point"
         },
         "properties": {
@@ -22600,8 +30509,8 @@ var SAVED_PLACES = {
                 "Business Name": "Deep Sushi",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7841842",
-                    "Longitude": "-96.7855857"
+                    "Latitude": "32.7840972",
+                    "Longitude": "-96.7855528"
                 }
             },
             "Published": "2017-07-11T01:47:43Z",
@@ -22611,7 +30520,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7994872, 32.7698708],
+            "coordinates": [-96.7993917, 32.7700889],
             "type": "Point"
         },
         "properties": {
@@ -22621,8 +30530,8 @@ var SAVED_PLACES = {
                 "Business Name": "Alamo Drafthouse Cinema Cedars",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7698708",
-                    "Longitude": "-96.7994872"
+                    "Latitude": "32.7700889",
+                    "Longitude": "-96.7993917"
                 }
             },
             "Published": "2017-07-11T01:46:32Z",
@@ -22632,7 +30541,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8036836, 32.8648189],
+            "coordinates": [-96.8038167, 32.8648083],
             "type": "Point"
         },
         "properties": {
@@ -22642,8 +30551,8 @@ var SAVED_PLACES = {
                 "Business Name": "Bag'n Baggage",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.8648189",
-                    "Longitude": "-96.8036836"
+                    "Latitude": "32.8648083",
+                    "Longitude": "-96.8038167"
                 }
             },
             "Published": "2017-07-09T16:56:48Z",
@@ -22674,7 +30583,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7844901, 32.7843913],
+            "coordinates": [-96.7844689, 32.7843127],
             "type": "Point"
         },
         "properties": {
@@ -22684,8 +30593,8 @@ var SAVED_PLACES = {
                 "Business Name": "Three Links Deep Ellum",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7843913",
-                    "Longitude": "-96.7844901"
+                    "Latitude": "32.7843127",
+                    "Longitude": "-96.7844689"
                 }
             },
             "Published": "2017-07-08T05:06:57Z",
@@ -22702,7 +30611,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=12842897519313540434",
             "Location": {
                 "Address": "4525 Cole Avenue #190, Dallas, TX 75205, United States",
-                "Business Name": "Sur La Table",
+                "Business Name": "Sur La Table - Knox District",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "32.8227141",
@@ -22716,7 +30625,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8205578, 33.0942698],
+            "coordinates": [-96.8205075, 33.0936870],
             "type": "Point"
         },
         "properties": {
@@ -22726,8 +30635,8 @@ var SAVED_PLACES = {
                 "Business Name": "IKEA",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "33.0942698",
-                    "Longitude": "-96.8205578"
+                    "Latitude": "33.0936870",
+                    "Longitude": "-96.8205075"
                 }
             },
             "Published": "2017-07-08T04:40:59Z",
@@ -22779,7 +30688,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8232858, 32.9617518],
+            "coordinates": [-96.8232850, 32.9618397],
             "type": "Point"
         },
         "properties": {
@@ -22789,8 +30698,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Mucky Duck Bar",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.9617518",
-                    "Longitude": "-96.8232858"
+                    "Latitude": "32.9618397",
+                    "Longitude": "-96.8232850"
                 }
             },
             "Published": "2017-07-05T14:56:41Z",
@@ -22891,7 +30800,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=11609506015899899219",
             "Location": {
                 "Address": "Bograshov Street 7, Tel Aviv-Yafo, Israel",
-                "Business Name": "Mexicana",
+                "Business Name": "Mexicana Bugrashov",
                 "Country Code": "IL",
                 "Geo Coordinates": {
                     "Latitude": "32.0778372",
@@ -22984,7 +30893,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [34.7861330, 32.0771847],
+            "coordinates": [34.7860861, 32.0771722],
             "type": "Point"
         },
         "properties": {
@@ -22994,8 +30903,8 @@ var SAVED_PLACES = {
                 "Business Name": "Tel Aviv Museum of Art",
                 "Country Code": "IL",
                 "Geo Coordinates": {
-                    "Latitude": "32.0771847",
-                    "Longitude": "34.7861330"
+                    "Latitude": "32.0771722",
+                    "Longitude": "34.7860861"
                 }
             },
             "Published": "2017-06-29T19:23:50Z",
@@ -23179,27 +31088,6 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [34.7512187, 30.8283972],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=8688062041585063970",
-            "Location": {
-                "Address": "Israel",
-                "Business Name": "Chan HaShayarot",
-                "Country Code": "IL",
-                "Geo Coordinates": {
-                    "Latitude": "30.8283972",
-                    "Longitude": "34.7512187"
-                }
-            },
-            "Published": "2017-06-27T16:04:53Z",
-            "Title": "Chan HaShayarot",
-            "Updated": "2017-06-27T16:04:53Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
             "coordinates": [34.780901, 30.848616],
             "type": "Point"
         },
@@ -23222,7 +31110,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=8803013630726576247",
             "Location": {
-                "Address": "Ha-Yehudim street, Jerusalem",
+                "Address": "Ha-Yehudim street, ירושלים",
                 "Business Name": "בית כנסת החורבה - Hurva Synagogue",
                 "Country Code": "IL",
                 "Geo Coordinates": {
@@ -23237,7 +31125,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-97.7271767, 30.2577149],
+            "coordinates": [-97.7271707, 30.2577342],
             "type": "Point"
         },
         "properties": {
@@ -23247,8 +31135,8 @@ var SAVED_PLACES = {
                 "Business Name": "Flat Track Coffee",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "30.2577149",
-                    "Longitude": "-97.7271767"
+                    "Latitude": "30.2577342",
+                    "Longitude": "-97.7271707"
                 }
             },
             "Published": "2017-06-26T12:05:41Z",
@@ -23279,7 +31167,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [35.2119437, 31.7848804],
+            "coordinates": [35.2120051, 31.7850616],
             "type": "Point"
         },
         "properties": {
@@ -23289,8 +31177,8 @@ var SAVED_PLACES = {
                 "Business Name": "Azura",
                 "Country Code": "IL",
                 "Geo Coordinates": {
-                    "Latitude": "31.7848804",
-                    "Longitude": "35.2119437"
+                    "Latitude": "31.7850616",
+                    "Longitude": "35.2120051"
                 }
             },
             "Published": "2017-06-26T09:58:23Z",
@@ -23300,14 +31188,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [35.212081, 31.784182],
+            "coordinates": [35.212635, 31.784835],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=1385063564385052236",
             "Location": {
-                "Latitude": "31.784182",
-                "Longitude": "35.212081"
+                "Latitude": "31.784835",
+                "Longitude": "35.212635"
             },
             "Published": "2017-06-26T09:57:53Z",
             "Title": "Machane Yehudah Market",
@@ -23400,7 +31288,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [35.1868517, 31.7747197],
+            "coordinates": [35.1869444, 31.7747222],
             "type": "Point"
         },
         "properties": {
@@ -23410,8 +31298,8 @@ var SAVED_PLACES = {
                 "Business Name": "Shnitzel & Falafel 4 Flavors",
                 "Country Code": "IL",
                 "Geo Coordinates": {
-                    "Latitude": "31.7747197",
-                    "Longitude": "35.1868517"
+                    "Latitude": "31.7747222",
+                    "Longitude": "35.1869444"
                 }
             },
             "Published": "2017-06-25T07:56:46Z",
@@ -23421,7 +31309,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [35.2198411, 31.7810575],
+            "coordinates": [35.2198049, 31.7810402],
             "type": "Point"
         },
         "properties": {
@@ -23431,8 +31319,8 @@ var SAVED_PLACES = {
                 "Business Name": "זוני ZUNI",
                 "Country Code": "IL",
                 "Geo Coordinates": {
-                    "Latitude": "31.7810575",
-                    "Longitude": "35.2198411"
+                    "Latitude": "31.7810402",
+                    "Longitude": "35.2198049"
                 }
             },
             "Published": "2017-06-24T18:23:30Z",
@@ -23500,18 +31388,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [0E-7, 0E-7],
+            "coordinates": [34.7972460, 32.0878901],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=17270683442390143296",
             "Location": {
                 "Address": "Tel Aviv-Yafo, Israel",
-                "Business Name": "Shalvata",
+                "Business Name": "Shalvata TLV",
                 "Country Code": "IL",
                 "Geo Coordinates": {
-                    "Latitude": "0.0000000",
-                    "Longitude": "0.0000000"
+                    "Latitude": "32.0878901",
+                    "Longitude": "34.7972460"
                 }
             },
             "Published": "2017-06-23T18:18:19Z",
@@ -23563,7 +31451,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [35.5502247, 32.9690732],
+            "coordinates": [35.5502461, 32.9690855],
             "type": "Point"
         },
         "properties": {
@@ -23573,8 +31461,8 @@ var SAVED_PLACES = {
                 "Business Name": "Center Galilee Rosh Pina",
                 "Country Code": "IL",
                 "Geo Coordinates": {
-                    "Latitude": "32.9690732",
-                    "Longitude": "35.5502247"
+                    "Latitude": "32.9690855",
+                    "Longitude": "35.5502461"
                 }
             },
             "Published": "2017-06-22T14:59:40Z",
@@ -23753,7 +31641,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6683478, 41.9731796],
+            "coordinates": [-87.6683556, 41.9731917],
             "type": "Point"
         },
         "properties": {
@@ -23763,8 +31651,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Bongo Room",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9731796",
-                    "Longitude": "-87.6683478"
+                    "Latitude": "41.9731917",
+                    "Longitude": "-87.6683556"
                 }
             },
             "Published": "2017-06-09T04:27:21Z",
@@ -23774,7 +31662,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6690811, 41.9856417],
+            "coordinates": [-87.6690725, 41.9856422],
             "type": "Point"
         },
         "properties": {
@@ -23784,8 +31672,8 @@ var SAVED_PLACES = {
                 "Business Name": "m.henry",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9856417",
-                    "Longitude": "-87.6690811"
+                    "Latitude": "41.9856422",
+                    "Longitude": "-87.6690725"
                 }
             },
             "Published": "2017-06-09T04:26:40Z",
@@ -23858,7 +31746,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7984256, 32.7978449],
+            "coordinates": [-96.7984813, 32.7978476],
             "type": "Point"
         },
         "properties": {
@@ -23868,8 +31756,8 @@ var SAVED_PLACES = {
                 "Business Name": "Parliament",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7978449",
-                    "Longitude": "-96.7984256"
+                    "Latitude": "32.7978476",
+                    "Longitude": "-96.7984813"
                 }
             },
             "Published": "2017-05-29T22:23:33Z",
@@ -23949,7 +31837,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=4498838277538961361",
             "Location": {
                 "Address": "1185 Sheridan Road, Glencoe, IL 60022, United States",
-                "Business Name": "North Shore Congregation",
+                "Business Name": "North Shore Congregation Isrl",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "42.1503040",
@@ -24021,18 +31909,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6420916, 41.8846158],
+            "coordinates": [-87.6422056, 41.8846389],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=12793809445534620538",
             "Location": {
-                "Address": "564 West Randolph Street Ste 1E, Chicago, IL 60661, United States",
+                "Address": "564 West Randolph Street, Chicago, IL 60661, United States",
                 "Business Name": "CH Distillery and Cocktail Bar",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8846158",
-                    "Longitude": "-87.6420916"
+                    "Latitude": "41.8846389",
+                    "Longitude": "-87.6422056"
                 }
             },
             "Published": "2017-05-06T05:13:08Z",
@@ -24090,8 +31978,8 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=3273933473275723028",
             "Location": {
-                "Address": "Rabbi Hannina St. 3, תל אביב יפו, Israel",
-                "Business Name": "Onza",
+                "Address": "Rabbi Hannina St 3, Tel Aviv-Yafo, Israel",
+                "Business Name": "Onza | אונזה",
                 "Country Code": "IL",
                 "Geo Coordinates": {
                     "Latitude": "32.0530813",
@@ -24105,14 +31993,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.686716, 41.900418],
+            "coordinates": [-87.686738, 41.900414],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=4842998071409057325",
             "Location": {
-                "Latitude": "41.900418",
-                "Longitude": "-87.686716"
+                "Latitude": "41.900414",
+                "Longitude": "-87.686738"
             },
             "Published": "2017-05-01T00:44:16Z",
             "Title": "Empty Bottle",
@@ -24169,7 +32057,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6643820, 41.9149480],
+            "coordinates": [-87.6644250, 41.9147222],
             "type": "Point"
         },
         "properties": {
@@ -24179,8 +32067,8 @@ var SAVED_PLACES = {
                 "Business Name": "Werewolf Coffee",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9149480",
-                    "Longitude": "-87.6643820"
+                    "Latitude": "41.9147222",
+                    "Longitude": "-87.6644250"
                 }
             },
             "Published": "2017-04-28T15:39:51Z",
@@ -24190,14 +32078,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-97.747176, 30.265299],
+            "coordinates": [-97.747335, 30.265568],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=1943135816454292212",
             "Location": {
-                "Latitude": "30.265299",
-                "Longitude": "-97.747176"
+                "Latitude": "30.265568",
+                "Longitude": "-97.747335"
             },
             "Published": "2017-04-27T19:54:25Z",
             "Title": "ACL Live at The Moody Theater",
@@ -24206,7 +32094,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7844940, 32.7847295],
+            "coordinates": [-96.7844774, 32.7847245],
             "type": "Point"
         },
         "properties": {
@@ -24216,8 +32104,8 @@ var SAVED_PLACES = {
                 "Business Name": "Trees",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7847295",
-                    "Longitude": "-96.7844940"
+                    "Latitude": "32.7847245",
+                    "Longitude": "-96.7844774"
                 }
             },
             "Published": "2017-04-27T19:53:27Z",
@@ -24290,18 +32178,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8255049, 32.8142340],
+            "coordinates": [-96.8255118, 32.8142315],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=176571041199745287",
             "Location": {
                 "Address": "4714 Maple Avenue, Dallas, TX 75219, United States",
-                "Business Name": "Avila's",
+                "Business Name": "Avila's Mexican Restaurant",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.8142340",
-                    "Longitude": "-96.8255049"
+                    "Latitude": "32.8142315",
+                    "Longitude": "-96.8255118"
                 }
             },
             "Published": "2017-04-24T04:54:15Z",
@@ -24374,7 +32262,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-89.3971319, 43.0756688],
+            "coordinates": [-89.3970644, 43.0756224],
             "type": "Point"
         },
         "properties": {
@@ -24384,8 +32272,8 @@ var SAVED_PLACES = {
                 "Business Name": "Kollege Klub Inc",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "43.0756688",
-                    "Longitude": "-89.3971319"
+                    "Latitude": "43.0756224",
+                    "Longitude": "-89.3970644"
                 }
             },
             "Published": "2017-04-23T03:33:14Z",
@@ -24401,7 +32289,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=4792179506158514747",
             "Location": {
-                "Address": "2500 Farrington Street Suite 180, Dallas, TX 75207, United States",
+                "Address": "2500 Farrington Street #180, Dallas, TX 75207, United States",
                 "Business Name": "Ascension Coffee Roasters",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -24416,7 +32304,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8008928, 32.7875598],
+            "coordinates": [-96.8017296, 32.7882453],
             "type": "Point"
         },
         "properties": {
@@ -24426,8 +32314,8 @@ var SAVED_PLACES = {
                 "Business Name": "Dallas Museum Of Art",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7875598",
-                    "Longitude": "-96.8008928"
+                    "Latitude": "32.7882453",
+                    "Longitude": "-96.8017296"
                 }
             },
             "Published": "2017-04-21T21:20:52Z",
@@ -24437,7 +32325,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.8228947, 32.7905073],
+            "coordinates": [-96.8223028, 32.7903595],
             "type": "Point"
         },
         "properties": {
@@ -24447,8 +32335,8 @@ var SAVED_PLACES = {
                 "Business Name": "Dallas Contemporary",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.7905073",
-                    "Longitude": "-96.8228947"
+                    "Latitude": "32.7903595",
+                    "Longitude": "-96.8223028"
                 }
             },
             "Published": "2017-04-21T21:20:46Z",
@@ -24479,7 +32367,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6287376, 41.8934047],
+            "coordinates": [-87.6287368, 41.8933938],
             "type": "Point"
         },
         "properties": {
@@ -24489,8 +32377,8 @@ var SAVED_PLACES = {
                 "Business Name": "Redhead Piano Bar",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8934047",
-                    "Longitude": "-87.6287376"
+                    "Latitude": "41.8933938",
+                    "Longitude": "-87.6287368"
                 }
             },
             "Published": "2017-04-21T02:15:36Z",
@@ -24521,7 +32409,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6771055, 41.9091720],
+            "coordinates": [-87.6772728, 41.9093725],
             "type": "Point"
         },
         "properties": {
@@ -24531,8 +32419,8 @@ var SAVED_PLACES = {
                 "Business Name": "Big Star",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9091720",
-                    "Longitude": "-87.6771055"
+                    "Latitude": "41.9093725",
+                    "Longitude": "-87.6772728"
                 }
             },
             "Published": "2017-04-18T17:31:38Z",
@@ -24584,7 +32472,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7711876, 32.8143203],
+            "coordinates": [-96.7711868, 32.8143196],
             "type": "Point"
         },
         "properties": {
@@ -24594,8 +32482,8 @@ var SAVED_PLACES = {
                 "Business Name": "Truck Yard",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.8143203",
-                    "Longitude": "-96.7711876"
+                    "Latitude": "32.8143196",
+                    "Longitude": "-96.7711868"
                 }
             },
             "Published": "2017-04-14T01:28:49Z",
@@ -24605,7 +32493,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-89.3930966, 43.0726733],
+            "coordinates": [-89.3931212, 43.0726942],
             "type": "Point"
         },
         "properties": {
@@ -24615,8 +32503,8 @@ var SAVED_PLACES = {
                 "Business Name": "Hampton Inn & Suites Madison / Downtown",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "43.0726733",
-                    "Longitude": "-89.3930966"
+                    "Latitude": "43.0726942",
+                    "Longitude": "-89.3931212"
                 }
             },
             "Published": "2017-04-13T22:43:17Z",
@@ -24647,7 +32535,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6645667, 41.8576183],
+            "coordinates": [-87.6646222, 41.8577139],
             "type": "Point"
         },
         "properties": {
@@ -24657,8 +32545,8 @@ var SAVED_PLACES = {
                 "Business Name": "Pl-zen",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8576183",
-                    "Longitude": "-87.6645667"
+                    "Latitude": "41.8577139",
+                    "Longitude": "-87.6646222"
                 }
             },
             "Published": "2017-04-13T20:29:22Z",
@@ -24773,7 +32661,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-74.0070779, 40.7397522],
+            "coordinates": [-74.0071116, 40.7397751],
             "type": "Point"
         },
         "properties": {
@@ -24783,8 +32671,8 @@ var SAVED_PLACES = {
                 "Business Name": "Cielo",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7397522",
-                    "Longitude": "-74.0070779"
+                    "Latitude": "40.7397751",
+                    "Longitude": "-74.0071116"
                 }
             },
             "Published": "2017-04-08T06:16:54Z",
@@ -24794,7 +32682,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-74.0058022, 40.7399286],
+            "coordinates": [-74.0058051, 40.7399412],
             "type": "Point"
         },
         "properties": {
@@ -24804,8 +32692,8 @@ var SAVED_PLACES = {
                 "Business Name": "Plunge Rooftop Bar + Lounge",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7399286",
-                    "Longitude": "-74.0058022"
+                    "Latitude": "40.7399412",
+                    "Longitude": "-74.0058051"
                 }
             },
             "Published": "2017-04-08T02:23:02Z",
@@ -24815,7 +32703,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-74.0029621, 40.7251610],
+            "coordinates": [-74.0028734, 40.7252509],
             "type": "Point"
         },
         "properties": {
@@ -24825,8 +32713,8 @@ var SAVED_PLACES = {
                 "Business Name": "Dominique Ansel Bakery",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7251610",
-                    "Longitude": "-74.0029621"
+                    "Latitude": "40.7252509",
+                    "Longitude": "-74.0028734"
                 }
             },
             "Published": "2017-04-07T23:29:44Z",
@@ -24894,18 +32782,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9406515, 40.7935191],
+            "coordinates": [-73.9406611, 40.7935083],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=1843560179123067609",
             "Location": {
                 "Address": "2145 2nd Avenue, New York, NY 10029, United States",
-                "Business Name": "Ricardo Steak House",
+                "Business Name": "Ricardo",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7935191",
-                    "Longitude": "-73.9406515"
+                    "Latitude": "40.7935083",
+                    "Longitude": "-73.9406611"
                 }
             },
             "Published": "2017-04-07T00:04:49Z",
@@ -24921,7 +32809,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=11400590899485533936",
             "Location": {
-                "Address": "2179 Third Avenue #1, New York, NY 10035, United States",
+                "Address": "2179 3rd Avenue #1, New York, NY 10035, United States",
                 "Business Name": "Polash",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -24936,18 +32824,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9425705, 40.7947471],
+            "coordinates": [-73.9425727, 40.7947480],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=3105857352292406875",
             "Location": {
-                "Address": "2018 Third Avenue, New York, NY 10029, United States",
+                "Address": "2018 3rd Avenue, New York, NY 10029, United States",
                 "Business Name": "Amor Cubano",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7947471",
-                    "Longitude": "-73.9425705"
+                    "Latitude": "40.7947480",
+                    "Longitude": "-73.9425727"
                 }
             },
             "Published": "2017-04-07T00:04:40Z",
@@ -24978,7 +32866,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6511047, 41.9408566],
+            "coordinates": [-87.6511111, 41.9408333],
             "type": "Point"
         },
         "properties": {
@@ -24988,8 +32876,8 @@ var SAVED_PLACES = {
                 "Business Name": "Kanela Breakfast Club",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9408566",
-                    "Longitude": "-87.6511047"
+                    "Latitude": "41.9408333",
+                    "Longitude": "-87.6511111"
                 }
             },
             "Published": "2017-04-04T17:00:43Z",
@@ -25020,7 +32908,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6288290, 41.9017718],
+            "coordinates": [-87.6288312, 41.9017801],
             "type": "Point"
         },
         "properties": {
@@ -25030,8 +32918,8 @@ var SAVED_PLACES = {
                 "Business Name": "Blue Agave Tequila Bar & Restaurant",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9017718",
-                    "Longitude": "-87.6288290"
+                    "Latitude": "41.9017801",
+                    "Longitude": "-87.6288312"
                 }
             },
             "Published": "2017-03-30T23:11:51Z",
@@ -25136,7 +33024,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-74.0013434, 40.7279153],
+            "coordinates": [-74.0013930, 40.7279460],
             "type": "Point"
         },
         "properties": {
@@ -25146,8 +33034,8 @@ var SAVED_PLACES = {
                 "Business Name": "Miss Lily's",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7279153",
-                    "Longitude": "-74.0013434"
+                    "Latitude": "40.7279460",
+                    "Longitude": "-74.0013930"
                 }
             },
             "Published": "2017-03-19T06:18:40Z",
@@ -25178,7 +33066,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-74.0161622, 40.6749246],
+            "coordinates": [-74.0161583, 40.6749167],
             "type": "Point"
         },
         "properties": {
@@ -25188,8 +33076,8 @@ var SAVED_PLACES = {
                 "Business Name": "Hometown Bar-B-Que",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.6749246",
-                    "Longitude": "-74.0161622"
+                    "Latitude": "40.6749167",
+                    "Longitude": "-74.0161583"
                 }
             },
             "Published": "2017-03-13T19:21:43Z",
@@ -25199,7 +33087,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6451426, 41.8858295],
+            "coordinates": [-87.6451549, 41.8858298],
             "type": "Point"
         },
         "properties": {
@@ -25209,8 +33097,8 @@ var SAVED_PLACES = {
                 "Business Name": "Moneygun",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8858295",
-                    "Longitude": "-87.6451426"
+                    "Latitude": "41.8858298",
+                    "Longitude": "-87.6451549"
                 }
             },
             "Published": "2017-03-12T20:53:54Z",
@@ -25236,7 +33124,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6520437, 41.8869015],
+            "coordinates": [-87.6520611, 41.8869250],
             "type": "Point"
         },
         "properties": {
@@ -25246,8 +33134,8 @@ var SAVED_PLACES = {
                 "Business Name": "La Sirena Clandestina",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8869015",
-                    "Longitude": "-87.6520437"
+                    "Latitude": "41.8869250",
+                    "Longitude": "-87.6520611"
                 }
             },
             "Published": "2017-03-08T20:28:49Z",
@@ -25257,7 +33145,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.7053137, 41.9279402],
+            "coordinates": [-87.7053278, 41.9279361],
             "type": "Point"
         },
         "properties": {
@@ -25267,8 +33155,8 @@ var SAVED_PLACES = {
                 "Business Name": "New Wave Coffee",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9279402",
-                    "Longitude": "-87.7053137"
+                    "Latitude": "41.9279361",
+                    "Longitude": "-87.7053278"
                 }
             },
             "Published": "2017-03-08T20:27:24Z",
@@ -25389,7 +33277,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=17149229585991803331",
             "Location": {
-                "Address": "18, 259 East Erie Street, Chicago, IL 60611, United States",
+                "Address": "259 East Erie Street #18th, Chicago, IL 60611, United States",
                 "Business Name": "GreenRiver",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -25425,7 +33313,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6490663, 41.9295108],
+            "coordinates": [-87.6490279, 41.9294990],
             "type": "Point"
         },
         "properties": {
@@ -25435,8 +33323,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Wild Hare & Singing Armadillo Frog Sanctuary",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9295108",
-                    "Longitude": "-87.6490663"
+                    "Latitude": "41.9294990",
+                    "Longitude": "-87.6490279"
                 }
             },
             "Published": "2017-02-26T00:44:38Z",
@@ -25467,7 +33355,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9516280, 40.7237217],
+            "coordinates": [-73.9516302, 40.7237034],
             "type": "Point"
         },
         "properties": {
@@ -25477,8 +33365,8 @@ var SAVED_PLACES = {
                 "Business Name": "Five Leaves",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7237217",
-                    "Longitude": "-73.9516280"
+                    "Latitude": "40.7237034",
+                    "Longitude": "-73.9516302"
                 }
             },
             "Published": "2017-02-23T19:58:45Z",
@@ -25509,7 +33397,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6282405, 41.8886467],
+            "coordinates": [-87.6283111, 41.8886781],
             "type": "Point"
         },
         "properties": {
@@ -25519,8 +33407,8 @@ var SAVED_PLACES = {
                 "Business Name": "SPIN Chicago",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8886467",
-                    "Longitude": "-87.6282405"
+                    "Latitude": "41.8886781",
+                    "Longitude": "-87.6283111"
                 }
             },
             "Published": "2017-02-18T20:52:57Z",
@@ -25530,7 +33418,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-89.8020637, 35.1160075],
+            "coordinates": [-89.8020028, 35.1159917],
             "type": "Point"
         },
         "properties": {
@@ -25540,8 +33428,8 @@ var SAVED_PLACES = {
                 "Business Name": "Las Tortugas",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "35.1160075",
-                    "Longitude": "-89.8020637"
+                    "Latitude": "35.1159917",
+                    "Longitude": "-89.8020028"
                 }
             },
             "Published": "2017-02-16T20:26:39Z",
@@ -25656,7 +33544,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3144780, 47.6150800],
+            "coordinates": [-122.3144345, 47.6150876],
             "type": "Point"
         },
         "properties": {
@@ -25666,8 +33554,8 @@ var SAVED_PLACES = {
                 "Business Name": "Spinasse",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6150800",
-                    "Longitude": "-122.3144780"
+                    "Latitude": "47.6150876",
+                    "Longitude": "-122.3144345"
                 }
             },
             "Published": "2017-02-11T04:37:27Z",
@@ -25698,19 +33586,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3164021, 47.6132270],
+            "coordinates": [-122.316523, 47.613254],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=11188120848366015927",
             "Location": {
-                "Address": "1406 12th Avenue, Seattle, WA 98122, United States",
-                "Business Name": "Needle & Thread",
-                "Country Code": "US",
-                "Geo Coordinates": {
-                    "Latitude": "47.6132270",
-                    "Longitude": "-122.3164021"
-                }
+                "Latitude": "47.613254",
+                "Longitude": "-122.316523"
             },
             "Published": "2017-02-11T04:36:55Z",
             "Title": "Needle & Thread",
@@ -25803,7 +33686,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.1194069, 47.6731044],
+            "coordinates": [-122.1195144, 47.6731872],
             "type": "Point"
         },
         "properties": {
@@ -25813,8 +33696,8 @@ var SAVED_PLACES = {
                 "Business Name": "Flying Apron - Redmond, WA",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6731044",
-                    "Longitude": "-122.1194069"
+                    "Latitude": "47.6731872",
+                    "Longitude": "-122.1195144"
                 }
             },
             "Published": "2017-02-10T15:21:19Z",
@@ -25824,7 +33707,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3827148, 47.6661520],
+            "coordinates": [-122.3825917, 47.6661837],
             "type": "Point"
         },
         "properties": {
@@ -25834,8 +33717,8 @@ var SAVED_PLACES = {
                 "Business Name": "Stoneburner",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6661520",
-                    "Longitude": "-122.3827148"
+                    "Latitude": "47.6661837",
+                    "Longitude": "-122.3825917"
                 }
             },
             "Published": "2017-02-10T04:48:02Z",
@@ -25845,7 +33728,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.2019634, 47.6163695],
+            "coordinates": [-122.2019444, 47.6163889],
             "type": "Point"
         },
         "properties": {
@@ -25855,8 +33738,8 @@ var SAVED_PLACES = {
                 "Business Name": "Blue C Sushi",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6163695",
-                    "Longitude": "-122.2019634"
+                    "Latitude": "47.6163889",
+                    "Longitude": "-122.2019444"
                 }
             },
             "Published": "2017-02-10T01:22:45Z",
@@ -25887,7 +33770,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6484853, 41.8865802],
+            "coordinates": [-87.6485380, 41.8866040],
             "type": "Point"
         },
         "properties": {
@@ -25897,8 +33780,8 @@ var SAVED_PLACES = {
                 "Business Name": "Publican Quality Meats",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8865802",
-                    "Longitude": "-87.6484853"
+                    "Latitude": "41.8866040",
+                    "Longitude": "-87.6485380"
                 }
             },
             "Published": "2017-01-30T05:50:56Z",
@@ -25908,7 +33791,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.7069437, 41.9289869],
+            "coordinates": [-87.7069443, 41.9289721],
             "type": "Point"
         },
         "properties": {
@@ -25918,8 +33801,8 @@ var SAVED_PLACES = {
                 "Business Name": "Websters Wine Bar Chicago",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9289869",
-                    "Longitude": "-87.7069437"
+                    "Latitude": "41.9289721",
+                    "Longitude": "-87.7069443"
                 }
             },
             "Published": "2017-01-29T03:36:41Z",
@@ -25950,7 +33833,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.2007074, 47.6158791],
+            "coordinates": [-122.2006724, 47.6157898],
             "type": "Point"
         },
         "properties": {
@@ -25960,8 +33843,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Westin Bellevue",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6158791",
-                    "Longitude": "-122.2007074"
+                    "Latitude": "47.6157898",
+                    "Longitude": "-122.2006724"
                 }
             },
             "Published": "2017-01-26T20:36:59Z",
@@ -26097,7 +33980,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-79.4404700, 43.6400249],
+            "coordinates": [-79.4404570, 43.6400296],
             "type": "Point"
         },
         "properties": {
@@ -26107,8 +33990,8 @@ var SAVED_PLACES = {
                 "Business Name": "Parts & Labour",
                 "Country Code": "CA",
                 "Geo Coordinates": {
-                    "Latitude": "43.6400249",
-                    "Longitude": "-79.4404700"
+                    "Latitude": "43.6400296",
+                    "Longitude": "-79.4404570"
                 }
             },
             "Published": "2017-01-19T05:02:11Z",
@@ -26118,7 +34001,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-79.3863339, 43.6494704],
+            "coordinates": [-79.3863695, 43.6494474],
             "type": "Point"
         },
         "properties": {
@@ -26128,8 +34011,8 @@ var SAVED_PLACES = {
                 "Business Name": "Momofuku Noodle Bar",
                 "Country Code": "CA",
                 "Geo Coordinates": {
-                    "Latitude": "43.6494704",
-                    "Longitude": "-79.3863339"
+                    "Latitude": "43.6494474",
+                    "Longitude": "-79.3863695"
                 }
             },
             "Published": "2017-01-19T05:01:52Z",
@@ -26139,18 +34022,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6354241, 41.8941132],
+            "coordinates": [-87.6343138, 41.8943819],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=12547258582646368594",
             "Location": {
-                "Address": "4897, 230 West Erie Street, Chicago, IL 60654, United States",
+                "Address": "230 West Erie Street #4897, Chicago, IL 60654, United States",
                 "Business Name": "Union Sushi + Barbeque Bar",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8941132",
-                    "Longitude": "-87.6354241"
+                    "Latitude": "41.8943819",
+                    "Longitude": "-87.6343138"
                 }
             },
             "Published": "2017-01-19T04:49:20Z",
@@ -26160,7 +34043,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6520364, 41.9089227],
+            "coordinates": [-87.6520606, 41.9088976],
             "type": "Point"
         },
         "properties": {
@@ -26170,8 +34053,8 @@ var SAVED_PLACES = {
                 "Business Name": "Kingsbury Street Cafe",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9089227",
-                    "Longitude": "-87.6520364"
+                    "Latitude": "41.9088976",
+                    "Longitude": "-87.6520606"
                 }
             },
             "Published": "2017-01-17T01:42:14Z",
@@ -26181,7 +34064,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6350483, 41.8972639],
+            "coordinates": [-87.6348500, 41.8973111],
             "type": "Point"
         },
         "properties": {
@@ -26191,8 +34074,8 @@ var SAVED_PLACES = {
                 "Business Name": "Headquarters Beercade",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8972639",
-                    "Longitude": "-87.6350483"
+                    "Latitude": "41.8973111",
+                    "Longitude": "-87.6348500"
                 }
             },
             "Published": "2017-01-14T21:31:04Z",
@@ -26202,7 +34085,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6511042, 41.8380761],
+            "coordinates": [-87.6510994, 41.8380817],
             "type": "Point"
         },
         "properties": {
@@ -26212,8 +34095,8 @@ var SAVED_PLACES = {
                 "Business Name": "Maria's Packaged Goods and Community Bar",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8380761",
-                    "Longitude": "-87.6511042"
+                    "Latitude": "41.8380817",
+                    "Longitude": "-87.6510994"
                 }
             },
             "Published": "2017-01-14T21:30:41Z",
@@ -26223,7 +34106,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.8525998, 42.0546106],
+            "coordinates": [-87.8525528, 42.0545917],
             "type": "Point"
         },
         "properties": {
@@ -26233,8 +34116,8 @@ var SAVED_PLACES = {
                 "Business Name": "Omega Restaurant & Bakery",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "42.0546106",
-                    "Longitude": "-87.8525998"
+                    "Latitude": "42.0545917",
+                    "Longitude": "-87.8525528"
                 }
             },
             "Published": "2017-01-03T01:01:44Z",
@@ -26265,18 +34148,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-86.7470540, 21.1329684],
+            "coordinates": [-86.7471309, 21.1325983],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=7837158836929083327",
             "Location": {
-                "Address": "Blvd. Kukulcan Km 9.5 #30, Zona Hotelera, 77500 Cancún, Q.R., Mexico",
+                "Address": "#30, Boulevard Kukulcan Km 9.5, Zona Hotelera, 77500 Cancún, Q.R., Mexico",
                 "Business Name": "Coco Bongo",
                 "Country Code": "MX",
                 "Geo Coordinates": {
-                    "Latitude": "21.1329684",
-                    "Longitude": "-86.7470540"
+                    "Latitude": "21.1325983",
+                    "Longitude": "-86.7471309"
                 }
             },
             "Published": "2016-12-29T00:25:13Z",
@@ -26286,7 +34169,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9820340, 40.7673950],
+            "coordinates": [-73.9819472, 40.7673750],
             "type": "Point"
         },
         "properties": {
@@ -26296,8 +34179,8 @@ var SAVED_PLACES = {
                 "Business Name": "Museum of Arts and Design",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7673950",
-                    "Longitude": "-73.9820340"
+                    "Latitude": "40.7673750",
+                    "Longitude": "-73.9819472"
                 }
             },
             "Published": "2016-12-24T18:13:55Z",
@@ -26349,7 +34232,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-74.0097903, 40.7351783],
+            "coordinates": [-74.0098056, 40.7351556],
             "type": "Point"
         },
         "properties": {
@@ -26359,8 +34242,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Rusty Knot",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7351783",
-                    "Longitude": "-74.0097903"
+                    "Latitude": "40.7351556",
+                    "Longitude": "-74.0098056"
                 }
             },
             "Published": "2016-12-21T02:36:54Z",
@@ -26370,7 +34253,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-74.0060814, 40.7334327],
+            "coordinates": [-74.0061109, 40.7334346],
             "type": "Point"
         },
         "properties": {
@@ -26380,8 +34263,8 @@ var SAVED_PLACES = {
                 "Business Name": "Employees Only",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7334327",
-                    "Longitude": "-74.0060814"
+                    "Latitude": "40.7334346",
+                    "Longitude": "-74.0061109"
                 }
             },
             "Published": "2016-12-21T00:13:21Z",
@@ -26391,7 +34274,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-74.0034673, 40.7317092],
+            "coordinates": [-74.0034677, 40.7316959],
             "type": "Point"
         },
         "properties": {
@@ -26401,8 +34284,8 @@ var SAVED_PLACES = {
                 "Business Name": "Fish",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7317092",
-                    "Longitude": "-74.0034673"
+                    "Latitude": "40.7316959",
+                    "Longitude": "-74.0034677"
                 }
             },
             "Published": "2016-12-21T00:12:49Z",
@@ -26477,7 +34360,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=3363804269849435893",
             "Location": {
                 "Address": "3800 North Clark Street, Chicago, IL 60613, United States",
-                "Business Name": "Uncommon Ground",
+                "Business Name": "Uncommon Ground (lakeview)",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "41.9511910",
@@ -26512,18 +34395,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.8067608, 41.9617102],
+            "coordinates": [-87.8067716, 41.9617498],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=18019677364986240914",
             "Location": {
-                "Address": "4431 Harlem Avenue, Norridge, IL 60706, United States",
-                "Business Name": "Rex Italian Foods, Inc",
+                "Address": "4431 North Harlem Avenue, Norridge, IL 60706, United States",
+                "Business Name": "Rex Italian Foods",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9617102",
-                    "Longitude": "-87.8067608"
+                    "Latitude": "41.9617498",
+                    "Longitude": "-87.8067716"
                 }
             },
             "Published": "2016-12-19T02:15:16Z",
@@ -26533,7 +34416,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-157.8098250, 21.4442550],
+            "coordinates": [-157.8098260, 21.4442790],
             "type": "Point"
         },
         "properties": {
@@ -26543,8 +34426,8 @@ var SAVED_PLACES = {
                 "Business Name": "He'eia Kea Pier General Store",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "21.4442550",
-                    "Longitude": "-157.8098250"
+                    "Latitude": "21.4442790",
+                    "Longitude": "-157.8098260"
                 }
             },
             "Published": "2016-12-19T02:13:52Z",
@@ -26617,7 +34500,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-106.8014348, 40.4556783],
+            "coordinates": [-106.8015683, 40.4554028],
             "type": "Point"
         },
         "properties": {
@@ -26627,8 +34510,8 @@ var SAVED_PLACES = {
                 "Business Name": "La Casa Condominiums",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.4556783",
-                    "Longitude": "-106.8014348"
+                    "Latitude": "40.4554028",
+                    "Longitude": "-106.8015683"
                 }
             },
             "Published": "2016-12-13T02:50:31Z",
@@ -26696,14 +34579,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.331064, 47.598185],
+            "coordinates": [-122.331164, 47.598158],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=18026826677108462035",
             "Location": {
-                "Latitude": "47.598185",
-                "Longitude": "-122.331064"
+                "Latitude": "47.598158",
+                "Longitude": "-122.331164"
             },
             "Published": "2016-12-03T08:14:14Z",
             "Title": "13 Coins Seattle",
@@ -26838,7 +34721,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.3435071, 47.6197219],
+            "coordinates": [-122.3431976, 47.6203138],
             "type": "Point"
         },
         "properties": {
@@ -26848,8 +34731,8 @@ var SAVED_PLACES = {
                 "Business Name": "Holiday Inn Express & Suites Seattle-City Center",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "47.6197219",
-                    "Longitude": "-122.3435071"
+                    "Latitude": "47.6203138",
+                    "Longitude": "-122.3431976"
                 }
             },
             "Published": "2016-12-01T03:28:32Z",
@@ -26917,7 +34800,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.7012825, 42.0642218],
+            "coordinates": [-87.7013070, 42.0642610],
             "type": "Point"
         },
         "properties": {
@@ -26927,8 +34810,8 @@ var SAVED_PLACES = {
                 "Business Name": "Backlot Coffee",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "42.0642218",
-                    "Longitude": "-87.7012825"
+                    "Latitude": "42.0642610",
+                    "Longitude": "-87.7013070"
                 }
             },
             "Published": "2016-11-20T18:28:31Z",
@@ -26980,7 +34863,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.7551724, 42.0410940],
+            "coordinates": [-87.7551733, 42.0410541],
             "type": "Point"
         },
         "properties": {
@@ -26990,8 +34873,8 @@ var SAVED_PLACES = {
                 "Business Name": "Binny's Beverage Depot",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "42.0410940",
-                    "Longitude": "-87.7551724"
+                    "Latitude": "42.0410541",
+                    "Longitude": "-87.7551733"
                 }
             },
             "Published": "2016-11-18T00:04:29Z",
@@ -27096,7 +34979,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-123.1350654, 49.2723568],
+            "coordinates": [-123.1347822, 49.2722249],
             "type": "Point"
         },
         "properties": {
@@ -27106,8 +34989,8 @@ var SAVED_PLACES = {
                 "Business Name": "Granville Island Public Market",
                 "Country Code": "CA",
                 "Geo Coordinates": {
-                    "Latitude": "49.2723568",
-                    "Longitude": "-123.1350654"
+                    "Latitude": "49.2722249",
+                    "Longitude": "-123.1347822"
                 }
             },
             "Published": "2016-10-26T05:32:05Z",
@@ -27138,7 +35021,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-123.1168489, 49.2631136],
+            "coordinates": [-123.1168818, 49.2631090],
             "type": "Point"
         },
         "properties": {
@@ -27148,8 +35031,8 @@ var SAVED_PLACES = {
                 "Business Name": "Hokkaido Ramen Santouka",
                 "Country Code": "CA",
                 "Geo Coordinates": {
-                    "Latitude": "49.2631136",
-                    "Longitude": "-123.1168489"
+                    "Latitude": "49.2631090",
+                    "Longitude": "-123.1168818"
                 }
             },
             "Published": "2016-10-26T05:31:49Z",
@@ -27180,7 +35063,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-123.1037604, 49.2666442],
+            "coordinates": [-123.1037944, 49.2666361],
             "type": "Point"
         },
         "properties": {
@@ -27190,8 +35073,8 @@ var SAVED_PLACES = {
                 "Business Name": "Peaceful Restaurant",
                 "Country Code": "CA",
                 "Geo Coordinates": {
-                    "Latitude": "49.2666442",
-                    "Longitude": "-123.1037604"
+                    "Latitude": "49.2666361",
+                    "Longitude": "-123.1037944"
                 }
             },
             "Published": "2016-10-26T05:31:44Z",
@@ -27201,7 +35084,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-123.1489132, 49.2679586],
+            "coordinates": [-123.1489139, 49.2679500],
             "type": "Point"
         },
         "properties": {
@@ -27211,8 +35094,8 @@ var SAVED_PLACES = {
                 "Business Name": "Maenam",
                 "Country Code": "CA",
                 "Geo Coordinates": {
-                    "Latitude": "49.2679586",
-                    "Longitude": "-123.1489132"
+                    "Latitude": "49.2679500",
+                    "Longitude": "-123.1489139"
                 }
             },
             "Published": "2016-10-26T05:30:56Z",
@@ -27222,7 +35105,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-123.1012260, 49.2495804],
+            "coordinates": [-123.1013350, 49.2496313],
             "type": "Point"
         },
         "properties": {
@@ -27232,8 +35115,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Acorn Restaurant",
                 "Country Code": "CA",
                 "Geo Coordinates": {
-                    "Latitude": "49.2495804",
-                    "Longitude": "-123.1012260"
+                    "Latitude": "49.2496313",
+                    "Longitude": "-123.1013350"
                 }
             },
             "Published": "2016-10-26T05:30:27Z",
@@ -27243,7 +35126,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-96.7780113, 32.8361807],
+            "coordinates": [-96.7780556, 32.8361111],
             "type": "Point"
         },
         "properties": {
@@ -27253,8 +35136,8 @@ var SAVED_PLACES = {
                 "Business Name": "Knife Dallas",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.8361807",
-                    "Longitude": "-96.7780113"
+                    "Latitude": "32.8361111",
+                    "Longitude": "-96.7780556"
                 }
             },
             "Published": "2016-10-25T16:57:02Z",
@@ -27401,7 +35284,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-106.8045327, 40.4571748],
+            "coordinates": [-106.8045169, 40.4571991],
             "type": "Point"
         },
         "properties": {
@@ -27411,8 +35294,8 @@ var SAVED_PLACES = {
                 "Business Name": "Steamboat Ski Resort",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.4571748",
-                    "Longitude": "-106.8045327"
+                    "Latitude": "40.4571991",
+                    "Longitude": "-106.8045169"
                 }
             },
             "Published": "2016-10-17T00:36:34Z",
@@ -27485,7 +35368,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-80.1933217, 25.8069065],
+            "coordinates": [-80.1933333, 25.8069444],
             "type": "Point"
         },
         "properties": {
@@ -27495,8 +35378,8 @@ var SAVED_PLACES = {
                 "Business Name": "SUGARCANE raw bar grill",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "25.8069065",
-                    "Longitude": "-80.1933217"
+                    "Latitude": "25.8069444",
+                    "Longitude": "-80.1933333"
                 }
             },
             "Published": "2016-10-14T16:36:51Z",
@@ -27506,19 +35389,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6298490, 41.8898920],
+            "coordinates": [-87.629849, 41.889892],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=2246854699013349964",
             "Location": {
-                "Address": "51 West Hubbard Street, Chicago, IL 60654, United States",
-                "Business Name": "Hub 51",
-                "Country Code": "US",
-                "Geo Coordinates": {
-                    "Latitude": "41.8898920",
-                    "Longitude": "-87.6298490"
-                }
+                "Latitude": "41.889892",
+                "Longitude": "-87.629849"
             },
             "Published": "2016-10-06T21:38:57Z",
             "Title": "Hub 51",
@@ -27585,18 +35463,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4629677, 34.0313881],
+            "coordinates": [-118.4629810, 34.0313640],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=16399805791345044516",
             "Location": {
                 "Address": "1814 Berkeley Street, Santa Monica, CA 90404, United States",
-                "Business Name": "Bondi Harvest",
+                "Business Name": "Blueys Kitchen",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0313881",
-                    "Longitude": "-118.4629677"
+                    "Latitude": "34.0313640",
+                    "Longitude": "-118.4629810"
                 }
             },
             "Published": "2016-09-13T19:36:01Z",
@@ -27606,7 +35484,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3043123, 34.0836918],
+            "coordinates": [-118.3043521, 34.0836859],
             "type": "Point"
         },
         "properties": {
@@ -27616,8 +35494,8 @@ var SAVED_PLACES = {
                 "Business Name": "Bangkok Market",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0836918",
-                    "Longitude": "-118.3043123"
+                    "Latitude": "34.0836859",
+                    "Longitude": "-118.3043521"
                 }
             },
             "Published": "2016-09-13T18:32:38Z",
@@ -27648,28 +35526,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9996990, 40.7427844],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=14276635454248977294",
-            "Location": {
-                "Address": "263 West 19th Street, New York, NY 10011, United States",
-                "Business Name": "Wisefish Poke",
-                "Country Code": "US",
-                "Geo Coordinates": {
-                    "Latitude": "40.7427844",
-                    "Longitude": "-73.9996990"
-                }
-            },
-            "Published": "2016-09-10T23:39:31Z",
-            "Title": "Wisefish Poke",
-            "Updated": "2016-09-10T23:39:31Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
-            "coordinates": [-73.9946334, 40.7288738],
+            "coordinates": [-73.9946946, 40.7287795],
             "type": "Point"
         },
         "properties": {
@@ -27679,8 +35536,8 @@ var SAVED_PLACES = {
                 "Business Name": "Hebrew Union College - Jewish Institute of Religion",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7288738",
-                    "Longitude": "-73.9946334"
+                    "Latitude": "40.7287795",
+                    "Longitude": "-73.9946946"
                 }
             },
             "Published": "2016-09-08T03:29:21Z",
@@ -27711,18 +35568,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.2653348, 34.0442252],
+            "coordinates": [-118.2653697, 34.0441511],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=5569670897835701943",
             "Location": {
                 "Address": "1011 South Figueroa Street b101, Los Angeles, CA 90015, United States",
-                "Business Name": "Tom's Urban",
+                "Business Name": "Tom's Watch Bar",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0442252",
-                    "Longitude": "-118.2653348"
+                    "Latitude": "34.0441511",
+                    "Longitude": "-118.2653697"
                 }
             },
             "Published": "2016-09-01T03:41:07Z",
@@ -27732,7 +35589,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.2487951, 34.0506550],
+            "coordinates": [-118.2487972, 34.0506500],
             "type": "Point"
         },
         "properties": {
@@ -27742,8 +35599,8 @@ var SAVED_PLACES = {
                 "Business Name": "Grand Central Market",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0506550",
-                    "Longitude": "-118.2487951"
+                    "Latitude": "34.0506500",
+                    "Longitude": "-118.2487972"
                 }
             },
             "Published": "2016-08-31T19:37:36Z",
@@ -27753,7 +35610,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3948711, 34.0244299],
+            "coordinates": [-118.3948460, 34.0244336],
             "type": "Point"
         },
         "properties": {
@@ -27763,8 +35620,8 @@ var SAVED_PLACES = {
                 "Business Name": "Seventy7 Lounge",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0244299",
-                    "Longitude": "-118.3948711"
+                    "Latitude": "34.0244336",
+                    "Longitude": "-118.3948460"
                 }
             },
             "Published": "2016-08-30T09:06:50Z",
@@ -27816,18 +35673,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4944479, 34.0129558],
+            "coordinates": [-118.4944470, 34.0129650],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=17975547294955800883",
             "Location": {
-                "Address": "Santa Monica Place |, 395 Santa Monica Place Suite 172, Santa Monica, CA 90401, United States",
+                "Address": "395 Santa Monica Place Ste 172, Santa Monica, CA 90401, United States",
                 "Business Name": "True Food Kitchen",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0129558",
-                    "Longitude": "-118.4944479"
+                    "Latitude": "34.0129650",
+                    "Longitude": "-118.4944470"
                 }
             },
             "Published": "2016-08-18T03:17:08Z",
@@ -27858,18 +35715,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.2370350, 34.0597680],
+            "coordinates": [-118.2371407, 34.0596704],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=722222560848336805",
             "Location": {
-                "Address": "1001 North Alameda, Los Angeles, CA 90012, United States",
+                "Address": "1001 North Alameda Street, Los Angeles, CA 90012, United States",
                 "Business Name": "Philippe The Original",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0597680",
-                    "Longitude": "-118.2370350"
+                    "Latitude": "34.0596704",
+                    "Longitude": "-118.2371407"
                 }
             },
             "Published": "2016-08-14T05:46:28Z",
@@ -27879,7 +35736,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.2946431, 34.0637546],
+            "coordinates": [-118.2946083, 34.0637389],
             "type": "Point"
         },
         "properties": {
@@ -27889,8 +35746,8 @@ var SAVED_PLACES = {
                 "Business Name": "Dan Sung Sa",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0637546",
-                    "Longitude": "-118.2946431"
+                    "Latitude": "34.0637389",
+                    "Longitude": "-118.2946083"
                 }
             },
             "Published": "2016-08-14T05:42:09Z",
@@ -27921,7 +35778,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.2899670, 34.1004237],
+            "coordinates": [-118.2899694, 34.1004139],
             "type": "Point"
         },
         "properties": {
@@ -27931,8 +35788,8 @@ var SAVED_PLACES = {
                 "Business Name": "La Luz De Jesus Gallery",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.1004237",
-                    "Longitude": "-118.2899670"
+                    "Latitude": "34.1004139",
+                    "Longitude": "-118.2899694"
                 }
             },
             "Published": "2016-08-14T05:33:33Z",
@@ -27942,7 +35799,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.2162227, 34.1327076],
+            "coordinates": [-118.2162392, 34.1327248],
             "type": "Point"
         },
         "properties": {
@@ -27952,8 +35809,8 @@ var SAVED_PLACES = {
                 "Business Name": "Señor Fish",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.1327076",
-                    "Longitude": "-118.2162227"
+                    "Latitude": "34.1327248",
+                    "Longitude": "-118.2162392"
                 }
             },
             "Published": "2016-08-14T05:31:35Z",
@@ -27963,7 +35820,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.2925432, 34.0530653],
+            "coordinates": [-118.2925329, 34.0530587],
             "type": "Point"
         },
         "properties": {
@@ -27973,8 +35830,8 @@ var SAVED_PLACES = {
                 "Business Name": "Beverly Soon Tofu Restaurant",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0530653",
-                    "Longitude": "-118.2925432"
+                    "Latitude": "34.0530587",
+                    "Longitude": "-118.2925329"
                 }
             },
             "Published": "2016-08-12T04:41:23Z",
@@ -27984,7 +35841,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4322605, 33.9970425],
+            "coordinates": [-118.4322318, 33.9970444],
             "type": "Point"
         },
         "properties": {
@@ -27994,8 +35851,8 @@ var SAVED_PLACES = {
                 "Business Name": "A-Frame",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "33.9970425",
-                    "Longitude": "-118.4322605"
+                    "Latitude": "33.9970444",
+                    "Longitude": "-118.4322318"
                 }
             },
             "Published": "2016-08-12T03:48:22Z",
@@ -28026,7 +35883,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4920475, 34.0238858],
+            "coordinates": [-118.4920639, 34.0238694],
             "type": "Point"
         },
         "properties": {
@@ -28036,8 +35893,8 @@ var SAVED_PLACES = {
                 "Business Name": "Huckleberry Cafe",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0238858",
-                    "Longitude": "-118.4920475"
+                    "Latitude": "34.0238694",
+                    "Longitude": "-118.4920639"
                 }
             },
             "Published": "2016-08-10T16:04:18Z",
@@ -28226,18 +36083,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.2501384, 34.0471245],
+            "coordinates": [-118.2500000, 34.0472222],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=8284490640999710580",
             "Location": {
-                "Address": "2303, 507 South Spring Street, Los Angeles, CA 90013, United States",
+                "Address": "507 South Spring Street #2303, Los Angeles, CA 90013, United States",
                 "Business Name": "Okipoki",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0471245",
-                    "Longitude": "-118.2501384"
+                    "Latitude": "34.0472222",
+                    "Longitude": "-118.2500000"
                 }
             },
             "Published": "2016-08-01T18:35:36Z",
@@ -28342,18 +36199,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3721030, 33.9450300],
+            "coordinates": [-118.3713250, 33.9451263],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=14128338959430307709",
             "Location": {
-                "Address": "5250 West Century Boulevard #100, Los Angeles, CA 90045, United States",
+                "Address": "5250 West Century Boulevard Lobby, Los Angeles, CA 90045, United States",
                 "Business Name": "Sakura Rent A Car (LAX)",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "33.9450300",
-                    "Longitude": "-118.3721030"
+                    "Latitude": "33.9451263",
+                    "Longitude": "-118.3713250"
                 }
             },
             "Published": "2016-07-28T00:18:02Z",
@@ -28400,7 +36257,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4068861, 34.0158847],
+            "coordinates": [-118.4069256, 34.0158905],
             "type": "Point"
         },
         "properties": {
@@ -28410,8 +36267,8 @@ var SAVED_PLACES = {
                 "Business Name": "Blind Barber",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0158847",
-                    "Longitude": "-118.4068861"
+                    "Latitude": "34.0158905",
+                    "Longitude": "-118.4069256"
                 }
             },
             "Published": "2016-07-24T01:44:23Z",
@@ -28463,7 +36320,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.2474094, 34.0527440],
+            "coordinates": [-118.2474087, 34.0527311],
             "type": "Point"
         },
         "properties": {
@@ -28473,8 +36330,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Redwood Bar & Grill",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0527440",
-                    "Longitude": "-118.2474094"
+                    "Latitude": "34.0527311",
+                    "Longitude": "-118.2474087"
                 }
             },
             "Published": "2016-07-21T21:33:39Z",
@@ -28505,7 +36362,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4424516, 34.0330947],
+            "coordinates": [-118.4424591, 34.0330811],
             "type": "Point"
         },
         "properties": {
@@ -28515,8 +36372,8 @@ var SAVED_PLACES = {
                 "Business Name": "Freddy Smalls Bar and Kitchen",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0330947",
-                    "Longitude": "-118.4424516"
+                    "Latitude": "34.0330811",
+                    "Longitude": "-118.4424591"
                 }
             },
             "Published": "2016-07-21T21:31:16Z",
@@ -28526,7 +36383,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3617722, 34.0792295],
+            "coordinates": [-118.3617787, 34.0792438],
             "type": "Point"
         },
         "properties": {
@@ -28536,8 +36393,8 @@ var SAVED_PLACES = {
                 "Business Name": "Animal",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0792295",
-                    "Longitude": "-118.3617722"
+                    "Latitude": "34.0792438",
+                    "Longitude": "-118.3617787"
                 }
             },
             "Published": "2016-07-21T20:27:19Z",
@@ -28547,7 +36404,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3596204, 34.0498648],
+            "coordinates": [-118.3596234, 34.0498722],
             "type": "Point"
         },
         "properties": {
@@ -28557,8 +36414,8 @@ var SAVED_PLACES = {
                 "Business Name": "My 2 Cents LA",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0498648",
-                    "Longitude": "-118.3596204"
+                    "Latitude": "34.0498722",
+                    "Longitude": "-118.3596234"
                 }
             },
             "Published": "2016-07-21T20:26:01Z",
@@ -28647,7 +36504,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4923713, 34.0237244],
+            "coordinates": [-118.4923706, 34.0237160],
             "type": "Point"
         },
         "properties": {
@@ -28657,8 +36514,8 @@ var SAVED_PLACES = {
                 "Business Name": "Santa Monica Seafood Market & Café",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0237244",
-                    "Longitude": "-118.4923713"
+                    "Latitude": "34.0237160",
+                    "Longitude": "-118.4923706"
                 }
             },
             "Published": "2016-07-18T02:33:18Z",
@@ -28726,14 +36583,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.501491, 34.017460],
+            "coordinates": [-118.501493, 34.017457],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=5515385255276843849",
             "Location": {
-                "Latitude": "34.017460",
-                "Longitude": "-118.501491"
+                "Latitude": "34.017457",
+                "Longitude": "-118.501493"
             },
             "Published": "2016-07-16T18:45:04Z",
             "Title": "The Bungalow",
@@ -28784,7 +36641,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4866851, 34.0283624],
+            "coordinates": [-118.4866422, 34.0283774],
             "type": "Point"
         },
         "properties": {
@@ -28794,8 +36651,8 @@ var SAVED_PLACES = {
                 "Business Name": "Staples",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0283624",
-                    "Longitude": "-118.4866851"
+                    "Latitude": "34.0283774",
+                    "Longitude": "-118.4866422"
                 }
             },
             "Published": "2016-07-14T21:00:23Z",
@@ -28952,7 +36809,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.4111367, 37.7593320],
+            "coordinates": [-122.4112117, 37.7593246],
             "type": "Point"
         },
         "properties": {
@@ -28962,8 +36819,8 @@ var SAVED_PLACES = {
                 "Business Name": "Trick Dog",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "37.7593320",
-                    "Longitude": "-122.4111367"
+                    "Latitude": "37.7593246",
+                    "Longitude": "-122.4112117"
                 }
             },
             "Published": "2016-07-11T01:38:29Z",
@@ -28973,7 +36830,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.4451675, 37.7700607],
+            "coordinates": [-122.4450909, 37.7700597],
             "type": "Point"
         },
         "properties": {
@@ -28983,8 +36840,8 @@ var SAVED_PLACES = {
                 "Business Name": "Coffee To The People",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "37.7700607",
-                    "Longitude": "-122.4451675"
+                    "Latitude": "37.7700597",
+                    "Longitude": "-122.4450909"
                 }
             },
             "Published": "2016-07-10T23:08:21Z",
@@ -29031,7 +36888,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.4230404, 37.7550735],
+            "coordinates": [-122.4230378, 37.7550795],
             "type": "Point"
         },
         "properties": {
@@ -29041,8 +36898,8 @@ var SAVED_PLACES = {
                 "Business Name": "Aster",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "37.7550735",
-                    "Longitude": "-122.4230404"
+                    "Latitude": "37.7550795",
+                    "Longitude": "-122.4230378"
                 }
             },
             "Published": "2016-07-10T00:32:13Z",
@@ -29068,7 +36925,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-122.4342825, 37.7340155],
+            "coordinates": [-122.4342139, 37.7339917],
             "type": "Point"
         },
         "properties": {
@@ -29078,8 +36935,8 @@ var SAVED_PLACES = {
                 "Business Name": "Gialina",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "37.7340155",
-                    "Longitude": "-122.4342825"
+                    "Latitude": "37.7339917",
+                    "Longitude": "-122.4342139"
                 }
             },
             "Published": "2016-07-10T00:31:24Z",
@@ -29110,7 +36967,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4894704, 34.0187690],
+            "coordinates": [-118.4894758, 34.0187662],
             "type": "Point"
         },
         "properties": {
@@ -29120,8 +36977,8 @@ var SAVED_PLACES = {
                 "Business Name": "Sweetfin",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0187690",
-                    "Longitude": "-118.4894704"
+                    "Latitude": "34.0187662",
+                    "Longitude": "-118.4894758"
                 }
             },
             "Published": "2016-07-08T09:37:24Z",
@@ -29173,7 +37030,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4614478, 34.0418859],
+            "coordinates": [-118.4614000, 34.0419000],
             "type": "Point"
         },
         "properties": {
@@ -29183,8 +37040,8 @@ var SAVED_PLACES = {
                 "Business Name": "Monte Alban Restaurante",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0418859",
-                    "Longitude": "-118.4614478"
+                    "Latitude": "34.0419000",
+                    "Longitude": "-118.4614000"
                 }
             },
             "Published": "2016-07-07T00:43:10Z",
@@ -29194,7 +37051,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3196471, 34.0402022],
+            "coordinates": [-118.3199804, 34.0401210],
             "type": "Point"
         },
         "properties": {
@@ -29204,8 +37061,8 @@ var SAVED_PLACES = {
                 "Business Name": "Surfas Culinary District",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0402022",
-                    "Longitude": "-118.3196471"
+                    "Latitude": "34.0401210",
+                    "Longitude": "-118.3199804"
                 }
             },
             "Published": "2016-07-06T23:12:46Z",
@@ -29341,7 +37198,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3965565, 34.0217372],
+            "coordinates": [-118.3965722, 34.0217361],
             "type": "Point"
         },
         "properties": {
@@ -29351,8 +37208,8 @@ var SAVED_PLACES = {
                 "Business Name": "Cafe Vida",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0217372",
-                    "Longitude": "-118.3965565"
+                    "Latitude": "34.0217361",
+                    "Longitude": "-118.3965722"
                 }
             },
             "Published": "2016-07-06T00:13:08Z",
@@ -29362,7 +37219,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3730004, 34.0908491],
+            "coordinates": [-118.3730248, 34.0908238],
             "type": "Point"
         },
         "properties": {
@@ -29372,8 +37229,8 @@ var SAVED_PLACES = {
                 "Business Name": "Hugo's Restaurant",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0908491",
-                    "Longitude": "-118.3730004"
+                    "Latitude": "34.0908238",
+                    "Longitude": "-118.3730248"
                 }
             },
             "Published": "2016-07-06T00:12:22Z",
@@ -29404,7 +37261,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3239032, 34.0733266],
+            "coordinates": [-118.3238889, 34.0733333],
             "type": "Point"
         },
         "properties": {
@@ -29414,8 +37271,8 @@ var SAVED_PLACES = {
                 "Business Name": "Larchmont Bungalow",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0733266",
-                    "Longitude": "-118.3239032"
+                    "Latitude": "34.0733333",
+                    "Longitude": "-118.3238889"
                 }
             },
             "Published": "2016-07-06T00:11:35Z",
@@ -29446,7 +37303,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4611680, 33.9894201],
+            "coordinates": [-118.4611530, 33.9894515],
             "type": "Point"
         },
         "properties": {
@@ -29456,8 +37313,8 @@ var SAVED_PLACES = {
                 "Business Name": "Tlapazola Grill",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "33.9894201",
-                    "Longitude": "-118.4611680"
+                    "Latitude": "33.9894515",
+                    "Longitude": "-118.4611530"
                 }
             },
             "Published": "2016-07-05T23:48:44Z",
@@ -29494,7 +37351,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=962698957970311327",
             "Location": {
-                "Address": "11301 Olympic Boulevard #124, Los Angeles, CA 90064, United States",
+                "Address": "11301 West Olympic Boulevard Biology Majors Laboratory, Los Angeles, CA 90064, United States",
                 "Business Name": "Balconi Coffee Company",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -29530,7 +37387,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4692039, 33.9916523],
+            "coordinates": [-118.4692083, 33.9916583],
             "type": "Point"
         },
         "properties": {
@@ -29540,8 +37397,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Butcher's Daughter",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "33.9916523",
-                    "Longitude": "-118.4692039"
+                    "Latitude": "33.9916583",
+                    "Longitude": "-118.4692083"
                 }
             },
             "Published": "2016-07-03T18:51:59Z",
@@ -29656,18 +37513,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4472089, 34.0608175],
+            "coordinates": [-118.4473377, 34.0612091],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=14975327777436435311",
             "Location": {
-                "Address": "1061 Gayley Avenue #3401, Los Angeles, CA 90024, United States",
+                "Address": "1061 Gayley Avenue, Los Angeles, CA 90024, United States",
                 "Business Name": "Oakley's Barber Shop",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0608175",
-                    "Longitude": "-118.4472089"
+                    "Latitude": "34.0612091",
+                    "Longitude": "-118.4473377"
                 }
             },
             "Published": "2016-06-30T23:22:57Z",
@@ -29698,7 +37555,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3409176, 34.0837666],
+            "coordinates": [-118.3410180, 34.0837011],
             "type": "Point"
         },
         "properties": {
@@ -29708,8 +37565,8 @@ var SAVED_PLACES = {
                 "Business Name": "Domaine LA",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0837666",
-                    "Longitude": "-118.3409176"
+                    "Latitude": "34.0837011",
+                    "Longitude": "-118.3410180"
                 }
             },
             "Published": "2016-06-30T05:56:37Z",
@@ -29719,7 +37576,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4424179, 34.0388915],
+            "coordinates": [-118.4423879, 34.0388722],
             "type": "Point"
         },
         "properties": {
@@ -29729,8 +37586,8 @@ var SAVED_PLACES = {
                 "Business Name": "Tatsu Ramen",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0388915",
-                    "Longitude": "-118.4424179"
+                    "Latitude": "34.0388722",
+                    "Longitude": "-118.4423879"
                 }
             },
             "Published": "2016-06-29T07:20:46Z",
@@ -29740,14 +37597,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.464406, 34.039804],
+            "coordinates": [-118.464426, 34.039750],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=12473106188364604140",
             "Location": {
-                "Latitude": "34.039804",
-                "Longitude": "-118.464406"
+                "Latitude": "34.039750",
+                "Longitude": "-118.464426"
             },
             "Published": "2016-06-29T05:07:42Z",
             "Title": "Smart & Final",
@@ -29756,7 +37613,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4607850, 34.0488966],
+            "coordinates": [-118.4608333, 34.0488889],
             "type": "Point"
         },
         "properties": {
@@ -29766,8 +37623,8 @@ var SAVED_PLACES = {
                 "Business Name": "Bandera",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0488966",
-                    "Longitude": "-118.4607850"
+                    "Latitude": "34.0488889",
+                    "Longitude": "-118.4608333"
                 }
             },
             "Published": "2016-06-29T04:26:12Z",
@@ -29777,7 +37634,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3642131, 34.0567382],
+            "coordinates": [-118.3641306, 34.0567417],
             "type": "Point"
         },
         "properties": {
@@ -29787,8 +37644,8 @@ var SAVED_PLACES = {
                 "Business Name": "Little Ethiopia restaurant",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0567382",
-                    "Longitude": "-118.3642131"
+                    "Latitude": "34.0567417",
+                    "Longitude": "-118.3641306"
                 }
             },
             "Published": "2016-06-27T01:42:20Z",
@@ -29798,14 +37655,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.489203, 34.017968],
+            "coordinates": [-118.489202, 34.017985],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=10928769211523863408",
             "Location": {
-                "Latitude": "34.017968",
-                "Longitude": "-118.489203"
+                "Latitude": "34.017985",
+                "Longitude": "-118.489202"
             },
             "Published": "2016-06-26T22:09:24Z",
             "Title": "Bay Cities Italian Deli & Bakery",
@@ -29835,7 +37692,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3955206, 34.0230091],
+            "coordinates": [-118.3955417, 34.0229833],
             "type": "Point"
         },
         "properties": {
@@ -29845,8 +37702,8 @@ var SAVED_PLACES = {
                 "Business Name": "Akasha",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0230091",
-                    "Longitude": "-118.3955206"
+                    "Latitude": "34.0229833",
+                    "Longitude": "-118.3955417"
                 }
             },
             "Published": "2016-06-25T23:34:37Z",
@@ -29856,7 +37713,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3688956, 34.0978899],
+            "coordinates": [-118.3688490, 34.0978500],
             "type": "Point"
         },
         "properties": {
@@ -29866,8 +37723,8 @@ var SAVED_PLACES = {
                 "Business Name": "Pink Taco Sunset",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0978899",
-                    "Longitude": "-118.3688956"
+                    "Latitude": "34.0978500",
+                    "Longitude": "-118.3688490"
                 }
             },
             "Published": "2016-06-25T22:57:05Z",
@@ -29914,7 +37771,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4350854, 34.0474417],
+            "coordinates": [-118.4351313, 34.0473716],
             "type": "Point"
         },
         "properties": {
@@ -29924,8 +37781,8 @@ var SAVED_PLACES = {
                 "Business Name": "Tacos Tu Madre",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0474417",
-                    "Longitude": "-118.4350854"
+                    "Latitude": "34.0473716",
+                    "Longitude": "-118.4351313"
                 }
             },
             "Published": "2016-06-22T08:50:51Z",
@@ -29956,7 +37813,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3612248, 34.0786517],
+            "coordinates": [-118.3612953, 34.0786489],
             "type": "Point"
         },
         "properties": {
@@ -29966,8 +37823,8 @@ var SAVED_PLACES = {
                 "Business Name": "Jon & Vinny's Fairfax",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0786517",
-                    "Longitude": "-118.3612248"
+                    "Latitude": "34.0786489",
+                    "Longitude": "-118.3612953"
                 }
             },
             "Published": "2016-06-19T21:09:29Z",
@@ -29998,7 +37855,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4550344, 34.0444506],
+            "coordinates": [-118.4550278, 34.0444417],
             "type": "Point"
         },
         "properties": {
@@ -30008,8 +37865,8 @@ var SAVED_PLACES = {
                 "Business Name": "Qusqo Bistro and Gallery",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0444506",
-                    "Longitude": "-118.4550344"
+                    "Latitude": "34.0444417",
+                    "Longitude": "-118.4550278"
                 }
             },
             "Published": "2016-06-18T08:37:44Z",
@@ -30019,7 +37876,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4690789, 34.0371123],
+            "coordinates": [-118.4690778, 34.0371000],
             "type": "Point"
         },
         "properties": {
@@ -30029,8 +37886,8 @@ var SAVED_PLACES = {
                 "Business Name": "Busby's West",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0371123",
-                    "Longitude": "-118.4690789"
+                    "Latitude": "34.0371000",
+                    "Longitude": "-118.4690778"
                 }
             },
             "Published": "2016-06-18T08:33:09Z",
@@ -30061,7 +37918,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6292857, 41.8836170],
+            "coordinates": [-87.6282109, 41.8834734],
             "type": "Point"
         },
         "properties": {
@@ -30071,8 +37928,8 @@ var SAVED_PLACES = {
                 "Business Name": "Latinicity",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8836170",
-                    "Longitude": "-87.6292857"
+                    "Latitude": "41.8834734",
+                    "Longitude": "-87.6282109"
                 }
             },
             "Published": "2016-06-16T17:05:44Z",
@@ -30082,7 +37939,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.2505881, 34.0545098],
+            "coordinates": [-118.2505056, 34.0541472],
             "type": "Point"
         },
         "properties": {
@@ -30092,8 +37949,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Broad",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0545098",
-                    "Longitude": "-118.2505881"
+                    "Latitude": "34.0541472",
+                    "Longitude": "-118.2505056"
                 }
             },
             "Published": "2016-06-16T05:07:59Z",
@@ -30103,7 +37960,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4459537, 34.0439004],
+            "coordinates": [-118.4459538, 34.0439004],
             "type": "Point"
         },
         "properties": {
@@ -30114,7 +37971,7 @@ var SAVED_PLACES = {
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "34.0439004",
-                    "Longitude": "-118.4459537"
+                    "Longitude": "-118.4459538"
                 }
             },
             "Published": "2016-06-16T01:58:32Z",
@@ -30161,18 +38018,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3869578, 34.0810584],
+            "coordinates": [-118.3869915, 34.0808550],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=16040271027876042526",
             "Location": {
                 "Address": "8905 Melrose Avenue, West Hollywood, CA 90069, United States",
-                "Business Name": "Gracias Madre",
+                "Business Name": "Gracias Madre West Hollywood",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0810584",
-                    "Longitude": "-118.3869578"
+                    "Latitude": "34.0808550",
+                    "Longitude": "-118.3869915"
                 }
             },
             "Published": "2016-06-14T18:46:25Z",
@@ -30182,7 +38039,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3241265, 34.0828330],
+            "coordinates": [-118.3238668, 34.0828512],
             "type": "Point"
         },
         "properties": {
@@ -30192,8 +38049,8 @@ var SAVED_PLACES = {
                 "Business Name": "Cafe Gratitude",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0828330",
-                    "Longitude": "-118.3241265"
+                    "Latitude": "34.0828512",
+                    "Longitude": "-118.3238668"
                 }
             },
             "Published": "2016-06-14T18:10:24Z",
@@ -30203,7 +38060,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4107588, 33.8852500],
+            "coordinates": [-118.4107417, 33.8852472],
             "type": "Point"
         },
         "properties": {
@@ -30213,8 +38070,8 @@ var SAVED_PLACES = {
                 "Business Name": "Manhattan Beach Post",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "33.8852500",
-                    "Longitude": "-118.4107588"
+                    "Latitude": "33.8852472",
+                    "Longitude": "-118.4107417"
                 }
             },
             "Published": "2016-06-14T18:07:58Z",
@@ -30224,7 +38081,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4959260, 34.0125724],
+            "coordinates": [-118.4959327, 34.0125642],
             "type": "Point"
         },
         "properties": {
@@ -30234,8 +38091,8 @@ var SAVED_PLACES = {
                 "Business Name": "Blue Plate Taco",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0125724",
-                    "Longitude": "-118.4959260"
+                    "Latitude": "34.0125642",
+                    "Longitude": "-118.4959327"
                 }
             },
             "Published": "2016-06-14T18:07:39Z",
@@ -30245,7 +38102,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3503308, 34.0759873],
+            "coordinates": [-118.3503298, 34.0758817],
             "type": "Point"
         },
         "properties": {
@@ -30255,8 +38112,8 @@ var SAVED_PLACES = {
                 "Business Name": "Petty Cash Taqueria & Bar",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0759873",
-                    "Longitude": "-118.3503308"
+                    "Latitude": "34.0758817",
+                    "Longitude": "-118.3503298"
                 }
             },
             "Published": "2016-06-14T18:07:25Z",
@@ -30266,18 +38123,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.4452261, 34.0715969],
+            "coordinates": [-118.4453400, 34.0715640],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=13782702098794677253",
             "Location": {
-                "Address": "John Wooden Center, 221 Westwood Plaza, Los Angeles, CA 90095, United States",
+                "Address": "John R. Wooden Recreation and Sports Center, 221 Westwood Plaza, Los Angeles, CA 90095, United States",
                 "Business Name": "UCLA REC",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0715969",
-                    "Longitude": "-118.4452261"
+                    "Latitude": "34.0715640",
+                    "Longitude": "-118.4453400"
                 }
             },
             "Published": "2016-06-14T04:03:06Z",
@@ -30377,7 +38234,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-84.1338362, 33.9542239],
+            "coordinates": [-84.1339417, 33.9540812],
             "type": "Point"
         },
         "properties": {
@@ -30387,8 +38244,8 @@ var SAVED_PLACES = {
                 "Business Name": "Iron Age Korean Steak House",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "33.9542239",
-                    "Longitude": "-84.1338362"
+                    "Latitude": "33.9540812",
+                    "Longitude": "-84.1339417"
                 }
             },
             "Published": "2016-06-09T04:22:12Z",
@@ -30477,7 +38334,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.2860066, 34.0760882],
+            "coordinates": [-118.2860040, 34.0760715],
             "type": "Point"
         },
         "properties": {
@@ -30487,8 +38344,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Dog Cafe",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0760882",
-                    "Longitude": "-118.2860066"
+                    "Latitude": "34.0760715",
+                    "Longitude": "-118.2860040"
                 }
             },
             "Published": "2016-06-06T16:31:12Z",
@@ -30540,7 +38397,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6964961, 41.9902110],
+            "coordinates": [-87.6965139, 41.9902194],
             "type": "Point"
         },
         "properties": {
@@ -30550,8 +38407,8 @@ var SAVED_PLACES = {
                 "Business Name": "Katsu Japanese Restaurant",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9902110",
-                    "Longitude": "-87.6964961"
+                    "Latitude": "41.9902194",
+                    "Longitude": "-87.6965139"
                 }
             },
             "Published": "2016-06-04T01:29:22Z",
@@ -30561,14 +38418,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.980315, 42.044916],
+            "coordinates": [-87.980831, 42.044747],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=4357308778116323406",
             "Location": {
-                "Latitude": "42.044916",
-                "Longitude": "-87.980315"
+                "Latitude": "42.044747",
+                "Longitude": "-87.980831"
             },
             "Published": "2016-06-04T01:28:50Z",
             "Title": "Mitsuwa Marketplace",
@@ -30598,7 +38455,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6242220, 41.8637650],
+            "coordinates": [-87.6243056, 41.8637139],
             "type": "Point"
         },
         "properties": {
@@ -30608,8 +38465,8 @@ var SAVED_PLACES = {
                 "Business Name": "Chicago Waffles",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8637650",
-                    "Longitude": "-87.6242220"
+                    "Latitude": "41.8637139",
+                    "Longitude": "-87.6243056"
                 }
             },
             "Published": "2016-05-30T18:43:05Z",
@@ -30619,7 +38476,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6241301, 41.8639715],
+            "coordinates": [-87.6242432, 41.8639704],
             "type": "Point"
         },
         "properties": {
@@ -30629,8 +38486,8 @@ var SAVED_PLACES = {
                 "Business Name": "Square One",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8639715",
-                    "Longitude": "-87.6241301"
+                    "Latitude": "41.8639704",
+                    "Longitude": "-87.6242432"
                 }
             },
             "Published": "2016-05-30T18:42:14Z",
@@ -30661,7 +38518,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6219582, 41.8577570],
+            "coordinates": [-87.6219444, 41.8577778],
             "type": "Point"
         },
         "properties": {
@@ -30671,8 +38528,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Spoke & Bird (South Loop)",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8577570",
-                    "Longitude": "-87.6219582"
+                    "Latitude": "41.8577778",
+                    "Longitude": "-87.6219444"
                 }
             },
             "Published": "2016-05-30T18:41:22Z",
@@ -30745,7 +38602,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6638617, 41.9498624],
+            "coordinates": [-87.6638528, 41.9498500],
             "type": "Point"
         },
         "properties": {
@@ -30755,8 +38612,8 @@ var SAVED_PLACES = {
                 "Business Name": "Music Box Theatre",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9498624",
-                    "Longitude": "-87.6638617"
+                    "Latitude": "41.9498500",
+                    "Longitude": "-87.6638528"
                 }
             },
             "Published": "2016-05-26T18:22:11Z",
@@ -30903,19 +38760,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.7067063, 41.9683472],
+            "coordinates": [-87.706734, 41.968309],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=13172158460581350028",
             "Location": {
-                "Address": "3117 West Lawrence Avenue, Chicago, IL 60625, United States",
-                "Business Name": "Asian Youth Services",
-                "Country Code": "US",
-                "Geo Coordinates": {
-                    "Latitude": "41.9683472",
-                    "Longitude": "-87.7067063"
-                }
+                "Latitude": "41.968309",
+                "Longitude": "-87.706734"
             },
             "Published": "2016-05-07T18:48:04Z",
             "Title": "Asian Youth Services",
@@ -30945,28 +38797,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6479548, 41.8841731],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=10460675286346267218",
-            "Location": {
-                "Address": "809 West Randolph Street, Chicago, IL 60607, United States",
-                "Business Name": "Girl & The Goat",
-                "Country Code": "US",
-                "Geo Coordinates": {
-                    "Latitude": "41.8841731",
-                    "Longitude": "-87.6479548"
-                }
-            },
-            "Published": "2016-05-06T22:35:30Z",
-            "Title": "Girl & the Goat",
-            "Updated": "2016-05-06T22:35:30Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
-            "coordinates": [-87.6320185, 41.8918390],
+            "coordinates": [-87.6320231, 41.8918510],
             "type": "Point"
         },
         "properties": {
@@ -30976,8 +38807,8 @@ var SAVED_PLACES = {
                 "Business Name": "Tanta Chicago",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8918390",
-                    "Longitude": "-87.6320185"
+                    "Latitude": "41.8918510",
+                    "Longitude": "-87.6320231"
                 }
             },
             "Published": "2016-05-06T22:34:49Z",
@@ -31015,7 +38846,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=15732568420889191576",
             "Location": {
                 "Address": "110 West Illinois Street, Chicago, IL 60654, United States",
-                "Business Name": "Sunda",
+                "Business Name": "Sunda Chicago",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "41.8909516",
@@ -31050,7 +38881,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6263094, 41.8888012],
+            "coordinates": [-87.6266286, 41.8890980],
             "type": "Point"
         },
         "properties": {
@@ -31060,8 +38891,8 @@ var SAVED_PLACES = {
                 "Business Name": "Sixteen",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8888012",
-                    "Longitude": "-87.6263094"
+                    "Latitude": "41.8890980",
+                    "Longitude": "-87.6266286"
                 }
             },
             "Published": "2016-05-06T22:33:09Z",
@@ -31071,7 +38902,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6238264, 41.8920613],
+            "coordinates": [-87.6238205, 41.8920357],
             "type": "Point"
         },
         "properties": {
@@ -31081,8 +38912,8 @@ var SAVED_PLACES = {
                 "Business Name": "Bandera",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8920613",
-                    "Longitude": "-87.6238264"
+                    "Latitude": "41.8920357",
+                    "Longitude": "-87.6238205"
                 }
             },
             "Published": "2016-05-06T22:31:04Z",
@@ -31192,7 +39023,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.2575595, 34.1204859],
+            "coordinates": [-118.2577399, 34.1205972],
             "type": "Point"
         },
         "properties": {
@@ -31202,8 +39033,8 @@ var SAVED_PLACES = {
                 "Business Name": "Thank You for Coming",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.1204859",
-                    "Longitude": "-118.2575595"
+                    "Latitude": "34.1205972",
+                    "Longitude": "-118.2577399"
                 }
             },
             "Published": "2016-03-30T02:06:04Z",
@@ -31313,7 +39144,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-110.9141682, 32.2219870],
+            "coordinates": [-110.9141606, 32.2219684],
             "type": "Point"
         },
         "properties": {
@@ -31323,8 +39154,8 @@ var SAVED_PLACES = {
                 "Business Name": "In-N-Out Burger",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "32.2219870",
-                    "Longitude": "-110.9141682"
+                    "Latitude": "32.2219684",
+                    "Longitude": "-110.9141606"
                 }
             },
             "Published": "2016-03-19T00:36:42Z",
@@ -31376,7 +39207,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.2353155, 34.0456670],
+            "coordinates": [-118.2353164, 34.0457008],
             "type": "Point"
         },
         "properties": {
@@ -31386,8 +39217,8 @@ var SAVED_PLACES = {
                 "Business Name": "Blacktop Coffee",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0456670",
-                    "Longitude": "-118.2353155"
+                    "Latitude": "34.0457008",
+                    "Longitude": "-118.2353164"
                 }
             },
             "Published": "2016-03-15T03:01:28Z",
@@ -31397,7 +39228,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.5439847, 41.7226369],
+            "coordinates": [-87.5439503, 41.7226385],
             "type": "Point"
         },
         "properties": {
@@ -31407,8 +39238,8 @@ var SAVED_PLACES = {
                 "Business Name": "Calumet Fisheries",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.7226369",
-                    "Longitude": "-87.5439847"
+                    "Latitude": "41.7226385",
+                    "Longitude": "-87.5439503"
                 }
             },
             "Published": "2016-03-15T01:41:23Z",
@@ -31439,7 +39270,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-118.3987651, 34.0661150],
+            "coordinates": [-118.3988889, 34.0661111],
             "type": "Point"
         },
         "properties": {
@@ -31449,8 +39280,8 @@ var SAVED_PLACES = {
                 "Business Name": "South Beverly Grill",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "34.0661150",
-                    "Longitude": "-118.3987651"
+                    "Latitude": "34.0661111",
+                    "Longitude": "-118.3988889"
                 }
             },
             "Published": "2016-03-09T08:35:21Z",
@@ -31571,8 +39402,8 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=1264876386576372306",
             "Location": {
-                "Address": "1515 Sheridan Road Bridge #33, Wilmette, IL 60091, United States",
-                "Business Name": "Burhop's Fisheries",
+                "Address": "1515 Sheridan Road suite 33, Wilmette, IL 60091, United States",
+                "Business Name": "Burhop's seafood.wilmette.il",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "42.0867051",
@@ -31602,7 +39433,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6572673, 41.9943631],
+            "coordinates": [-87.6572444, 41.9943972],
             "type": "Point"
         },
         "properties": {
@@ -31612,8 +39443,8 @@ var SAVED_PLACES = {
                 "Business Name": "Metropolis Coffee Company",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9943631",
-                    "Longitude": "-87.6572673"
+                    "Latitude": "41.9943972",
+                    "Longitude": "-87.6572444"
                 }
             },
             "Published": "2016-02-04T20:29:29Z",
@@ -31660,7 +39491,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [19.0380586, 47.5371524],
+            "coordinates": [19.0380424, 47.5371286],
             "type": "Point"
         },
         "properties": {
@@ -31670,8 +39501,8 @@ var SAVED_PLACES = {
                 "Business Name": "Zöld Kapu Vendéglő",
                 "Country Code": "HU",
                 "Geo Coordinates": {
-                    "Latitude": "47.5371524",
-                    "Longitude": "19.0380586"
+                    "Latitude": "47.5371286",
+                    "Longitude": "19.0380424"
                 }
             },
             "Published": "2015-12-08T15:59:10Z",
@@ -31681,7 +39512,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [19.0404654, 47.4951214],
+            "coordinates": [19.0405873, 47.4954903],
             "type": "Point"
         },
         "properties": {
@@ -31691,8 +39522,8 @@ var SAVED_PLACES = {
                 "Business Name": "Budapesti Történeti Múzeum",
                 "Country Code": "HU",
                 "Geo Coordinates": {
-                    "Latitude": "47.4951214",
-                    "Longitude": "19.0404654"
+                    "Latitude": "47.4954903",
+                    "Longitude": "19.0405873"
                 }
             },
             "Published": "2015-12-08T15:58:51Z",
@@ -31834,7 +39665,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-3.7016596, 40.4129295],
+            "coordinates": [-3.7016671, 40.4128956],
             "type": "Point"
         },
         "properties": {
@@ -31844,8 +39675,8 @@ var SAVED_PLACES = {
                 "Business Name": "Cats Hostel Madrid Sol",
                 "Country Code": "ES",
                 "Geo Coordinates": {
-                    "Latitude": "40.4129295",
-                    "Longitude": "-3.7016596"
+                    "Latitude": "40.4128956",
+                    "Longitude": "-3.7016671"
                 }
             },
             "Published": "2015-11-25T21:04:26Z",
@@ -31892,7 +39723,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [19.0448374, 47.5039698],
+            "coordinates": [19.0447790, 47.5038792],
             "type": "Point"
         },
         "properties": {
@@ -31902,8 +39733,8 @@ var SAVED_PLACES = {
                 "Business Name": "Shoes on the Danube Bank",
                 "Country Code": "HU",
                 "Geo Coordinates": {
-                    "Latitude": "47.5039698",
-                    "Longitude": "19.0448374"
+                    "Latitude": "47.5038792",
+                    "Longitude": "19.0447790"
                 }
             },
             "Published": "2015-10-31T09:43:49Z",
@@ -31950,7 +39781,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [19.0560048, 47.4906081],
+            "coordinates": [19.0558333, 47.4905556],
             "type": "Point"
         },
         "properties": {
@@ -31960,8 +39791,8 @@ var SAVED_PLACES = {
                 "Business Name": "Fat Mo's Music Pub Restaurant",
                 "Country Code": "HU",
                 "Geo Coordinates": {
-                    "Latitude": "47.4906081",
-                    "Longitude": "19.0560048"
+                    "Latitude": "47.4905556",
+                    "Longitude": "19.0558333"
                 }
             },
             "Published": "2015-10-12T22:46:41Z",
@@ -31971,7 +39802,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [19.0645510, 47.5081460],
+            "coordinates": [19.0645124, 47.5081444],
             "type": "Point"
         },
         "properties": {
@@ -31981,8 +39812,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Studios",
                 "Country Code": "HU",
                 "Geo Coordinates": {
-                    "Latitude": "47.5081460",
-                    "Longitude": "19.0645510"
+                    "Latitude": "47.5081444",
+                    "Longitude": "19.0645124"
                 }
             },
             "Published": "2015-10-12T10:26:47Z",
@@ -32013,7 +39844,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [19.0521920, 47.5167530],
+            "coordinates": [19.0521278, 47.5168641],
             "type": "Point"
         },
         "properties": {
@@ -32023,8 +39854,8 @@ var SAVED_PLACES = {
                 "Business Name": "Oriental Soup House",
                 "Country Code": "HU",
                 "Geo Coordinates": {
-                    "Latitude": "47.5167530",
-                    "Longitude": "19.0521920"
+                    "Latitude": "47.5168641",
+                    "Longitude": "19.0521278"
                 }
             },
             "Published": "2015-09-25T12:36:37Z",
@@ -32087,7 +39918,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [19.0532988, 47.5033390],
+            "coordinates": [19.0531348, 47.5033251],
             "type": "Point"
         },
         "properties": {
@@ -32097,8 +39928,8 @@ var SAVED_PLACES = {
                 "Business Name": "Bank3 Palacsinta Bár",
                 "Country Code": "HU",
                 "Geo Coordinates": {
-                    "Latitude": "47.5033390",
-                    "Longitude": "19.0532988"
+                    "Latitude": "47.5033251",
+                    "Longitude": "19.0531348"
                 }
             },
             "Published": "2015-09-11T09:22:35Z",
@@ -32231,7 +40062,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=3453725294771734285",
             "Location": {
-                "Address": "Budapest, 1077, Rottenbiller utca 32, 1077 Hungary",
+                "Address": "Budapest, Rottenbiller utca 32, 1077 Hungary",
                 "Business Name": "Kalicka Bisztró",
                 "Country Code": "HU",
                 "Geo Coordinates": {
@@ -32252,7 +40083,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=11919949816945872322",
             "Location": {
-                "Address": "Budapest, Reáltanoda utca 13-15., 1053 Hungary",
+                "Address": "Budapest, Reáltanoda utca 13-15, 1053 Hungary",
                 "Business Name": "Alfréd Rényi Institute of Mathematics",
                 "Country Code": "HU",
                 "Geo Coordinates": {
@@ -32367,7 +40198,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [19.0612420, 47.5040454],
+            "coordinates": [19.0612402, 47.5040467],
             "type": "Point"
         },
         "properties": {
@@ -32377,8 +40208,8 @@ var SAVED_PLACES = {
                 "Business Name": "Ring Café Étterem és Burger Bar",
                 "Country Code": "HU",
                 "Geo Coordinates": {
-                    "Latitude": "47.5040454",
-                    "Longitude": "19.0612420"
+                    "Latitude": "47.5040467",
+                    "Longitude": "19.0612402"
                 }
             },
             "Published": "2015-09-02T13:19:09Z",
@@ -32530,7 +40361,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [19.0553333, 47.5010761],
+            "coordinates": [19.0553356, 47.5010868],
             "type": "Point"
         },
         "properties": {
@@ -32540,8 +40371,8 @@ var SAVED_PLACES = {
                 "Business Name": "Basil Ica Salad and Pancake Bar",
                 "Country Code": "HU",
                 "Geo Coordinates": {
-                    "Latitude": "47.5010761",
-                    "Longitude": "19.0553333"
+                    "Latitude": "47.5010868",
+                    "Longitude": "19.0553356"
                 }
             },
             "Published": "2015-08-27T08:30:28Z",
@@ -32593,7 +40424,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.7820760, 43.0825651],
+            "coordinates": [-73.7820329, 43.0825684],
             "type": "Point"
         },
         "properties": {
@@ -32603,8 +40434,8 @@ var SAVED_PLACES = {
                 "Business Name": "Scallions",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "43.0825651",
-                    "Longitude": "-73.7820760"
+                    "Latitude": "43.0825684",
+                    "Longitude": "-73.7820329"
                 }
             },
             "Published": "2015-08-08T18:21:58Z",
@@ -32635,7 +40466,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-76.7731009, 39.4148063],
+            "coordinates": [-76.7730980, 39.4148098],
             "type": "Point"
         },
         "properties": {
@@ -32645,8 +40476,8 @@ var SAVED_PLACES = {
                 "Business Name": "CJ's Crabhouse and Grill",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "39.4148063",
-                    "Longitude": "-76.7731009"
+                    "Latitude": "39.4148098",
+                    "Longitude": "-76.7730980"
                 }
             },
             "Published": "2015-07-29T19:02:47Z",
@@ -32663,7 +40494,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=7520386261635470032",
             "Location": {
                 "Address": "875 North Michigan Avenue, Chicago, IL 60611, United States",
-                "Business Name": "John Hancock Center",
+                "Business Name": "875 North Michigan Avenue",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "41.8987699",
@@ -32698,7 +40529,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6686635, 41.9617617],
+            "coordinates": [-87.6686634, 41.9617747],
             "type": "Point"
         },
         "properties": {
@@ -32708,8 +40539,8 @@ var SAVED_PLACES = {
                 "Business Name": "El Maya",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9617617",
-                    "Longitude": "-87.6686635"
+                    "Latitude": "41.9617747",
+                    "Longitude": "-87.6686634"
                 }
             },
             "Published": "2015-07-13T03:38:05Z",
@@ -32777,7 +40608,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6999538, 41.9952722],
+            "coordinates": [-87.7000128, 41.9952731],
             "type": "Point"
         },
         "properties": {
@@ -32787,8 +40618,8 @@ var SAVED_PLACES = {
                 "Business Name": "Yeowoosai",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9952722",
-                    "Longitude": "-87.6999538"
+                    "Latitude": "41.9952731",
+                    "Longitude": "-87.7000128"
                 }
             },
             "Published": "2015-06-04T03:55:49Z",
@@ -32814,7 +40645,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6216969, 41.8940298],
+            "coordinates": [-87.6217222, 41.8940306],
             "type": "Point"
         },
         "properties": {
@@ -32824,8 +40655,8 @@ var SAVED_PLACES = {
                 "Business Name": "Do-Rite Donuts & Chicken",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8940298",
-                    "Longitude": "-87.6216969"
+                    "Latitude": "41.8940306",
+                    "Longitude": "-87.6217222"
                 }
             },
             "Published": "2015-06-01T23:29:00Z",
@@ -32851,7 +40682,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-89.3969450, 43.0733633],
+            "coordinates": [-89.3969294, 43.0733694],
             "type": "Point"
         },
         "properties": {
@@ -32861,8 +40692,8 @@ var SAVED_PLACES = {
                 "Business Name": "Liquid",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "43.0733633",
-                    "Longitude": "-89.3969450"
+                    "Latitude": "43.0733694",
+                    "Longitude": "-89.3969294"
                 }
             },
             "Published": "2015-04-26T03:26:38Z",
@@ -32984,7 +40815,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=6001464293891853234",
             "Location": {
                 "Address": "1650 North Halsted Street, Chicago, IL 60614, United States",
-                "Business Name": "Steppenwolf Theatre",
+                "Business Name": "Steppenwolf theater",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "41.9125805",
@@ -33035,7 +40866,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.7137593, 41.9699770],
+            "coordinates": [-87.7138889, 41.9700000],
             "type": "Point"
         },
         "properties": {
@@ -33045,8 +40876,8 @@ var SAVED_PLACES = {
                 "Business Name": "Albany Park Community Center, Inc.",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9699770",
-                    "Longitude": "-87.7137593"
+                    "Latitude": "41.9700000",
+                    "Longitude": "-87.7138889"
                 }
             },
             "Published": "2015-02-04T22:26:54Z",
@@ -33072,7 +40903,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6270590, 41.8971122],
+            "coordinates": [-87.6270130, 41.8968574],
             "type": "Point"
         },
         "properties": {
@@ -33082,8 +40913,8 @@ var SAVED_PLACES = {
                 "Business Name": "Chick-fil-A",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8971122",
-                    "Longitude": "-87.6270590"
+                    "Latitude": "41.8968574",
+                    "Longitude": "-87.6270130"
                 }
             },
             "Published": "2015-01-20T17:06:02Z",
@@ -33114,14 +40945,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.956446, 40.778705],
+            "coordinates": [-73.956404, 40.778721],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=4827269553158497815",
             "Location": {
-                "Latitude": "40.778705",
-                "Longitude": "-73.956446"
+                "Latitude": "40.778721",
+                "Longitude": "-73.956404"
             },
             "Published": "2014-12-30T17:50:17Z",
             "Title": "Subway",
@@ -33130,7 +40961,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9550170, 40.7789560],
+            "coordinates": [-73.9550067, 40.7789293],
             "type": "Point"
         },
         "properties": {
@@ -33140,8 +40971,8 @@ var SAVED_PLACES = {
                 "Business Name": "Shake Shack",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7789560",
-                    "Longitude": "-73.9550170"
+                    "Latitude": "40.7789293",
+                    "Longitude": "-73.9550067"
                 }
             },
             "Published": "2014-12-30T17:50:11Z",
@@ -33209,18 +41040,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9739428, 40.7518037],
+            "coordinates": [-73.9739580, 40.7517860],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=7863487447302481818",
             "Location": {
-                "Address": "690 Third Avenue, New York, NY 10017, United States",
+                "Address": "690 3rd Avenue, New York, NY 10017, United States",
                 "Business Name": "Five Guys",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7518037",
-                    "Longitude": "-73.9739428"
+                    "Latitude": "40.7517860",
+                    "Longitude": "-73.9739580"
                 }
             },
             "Published": "2014-12-30T17:48:55Z",
@@ -33236,7 +41067,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=10984121137543854057",
             "Location": {
-                "Address": "1497 Third Avenue FRNT 1, New York, NY 10028, United States",
+                "Address": "1497 3rd Avenue Frnt 1, New York, NY 10028, United States",
                 "Business Name": "Chipotle Mexican Grill",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -33288,7 +41119,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9765106, 40.7643589],
+            "coordinates": [-73.9768271, 40.7645133],
             "type": "Point"
         },
         "properties": {
@@ -33298,8 +41129,8 @@ var SAVED_PLACES = {
                 "Business Name": "Quality Italian",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7643589",
-                    "Longitude": "-73.9765106"
+                    "Latitude": "40.7645133",
+                    "Longitude": "-73.9768271"
                 }
             },
             "Published": "2014-12-14T22:45:06Z",
@@ -33309,19 +41140,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6775969, 41.9102808],
+            "coordinates": [-87.677597, 41.910281],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=14827875386057383712",
             "Location": {
-                "Address": "1570 North Damen Avenue, Chicago, IL 60622, United States",
-                "Business Name": "Flash Taco",
-                "Country Code": "US",
-                "Geo Coordinates": {
-                    "Latitude": "41.9102808",
-                    "Longitude": "-87.6775969"
-                }
+                "Latitude": "41.910281",
+                "Longitude": "-87.677597"
             },
             "Published": "2014-11-15T08:02:39Z",
             "Title": "Flash Taco",
@@ -33351,7 +41177,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6680593, 41.9034558],
+            "coordinates": [-87.6680601, 41.9034746],
             "type": "Point"
         },
         "properties": {
@@ -33361,8 +41187,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Bedford",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.9034558",
-                    "Longitude": "-87.6680593"
+                    "Latitude": "41.9034746",
+                    "Longitude": "-87.6680601"
                 }
             },
             "Published": "2014-11-12T05:48:18Z",
@@ -33388,7 +41214,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.7273200, 42.0657104],
+            "coordinates": [-87.7273012, 42.0657230],
             "type": "Point"
         },
         "properties": {
@@ -33398,8 +41224,8 @@ var SAVED_PLACES = {
                 "Business Name": "Sarkis Cafe",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "42.0657104",
-                    "Longitude": "-87.7273200"
+                    "Latitude": "42.0657230",
+                    "Longitude": "-87.7273012"
                 }
             },
             "Published": "2014-10-26T19:52:00Z",
@@ -33504,7 +41330,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.5131933, 40.7585782],
+            "coordinates": [-73.5131511, 40.7586089],
             "type": "Point"
         },
         "properties": {
@@ -33514,8 +41340,8 @@ var SAVED_PLACES = {
                 "Business Name": "House of Dosas",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7585782",
-                    "Longitude": "-73.5131933"
+                    "Latitude": "40.7586089",
+                    "Longitude": "-73.5131511"
                 }
             },
             "Published": "2014-06-13T22:17:09Z",
@@ -33567,7 +41393,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.7214160, 42.0405712],
+            "coordinates": [-87.7213889, 42.0405556],
             "type": "Point"
         },
         "properties": {
@@ -33577,8 +41403,8 @@ var SAVED_PLACES = {
                 "Business Name": "Hub's Restaurant",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "42.0405712",
-                    "Longitude": "-87.7214160"
+                    "Latitude": "42.0405556",
+                    "Longitude": "-87.7213889"
                 }
             },
             "Published": "2014-05-25T18:52:34Z",
@@ -33668,7 +41494,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=16113475961782727831",
             "Location": {
-                "Address": "1010 Church Street #3623, Evanston, IL 60201, United States",
+                "Address": "1010 Church Street, Evanston, IL 60201, United States",
                 "Business Name": "That Little Mexican Cafe",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -33683,7 +41509,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6860300, 42.0468142],
+            "coordinates": [-87.6859639, 42.0469306],
             "type": "Point"
         },
         "properties": {
@@ -33693,8 +41519,8 @@ var SAVED_PLACES = {
                 "Business Name": "Cozy Noodles & Rice",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "42.0468142",
-                    "Longitude": "-87.6860300"
+                    "Latitude": "42.0469306",
+                    "Longitude": "-87.6859639"
                 }
             },
             "Published": "2014-02-08T02:22:13Z",
@@ -33815,7 +41641,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.7564824, 42.0803400],
+            "coordinates": [-87.7565209, 42.0803532],
             "type": "Point"
         },
         "properties": {
@@ -33825,8 +41651,8 @@ var SAVED_PLACES = {
                 "Business Name": "Bed Bath & Beyond",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "42.0803400",
-                    "Longitude": "-87.7564824"
+                    "Latitude": "42.0803532",
+                    "Longitude": "-87.7565209"
                 }
             },
             "Published": "2013-10-20T16:16:37Z",
@@ -33910,7 +41736,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6793069, 42.0458791],
+            "coordinates": [-87.6791667, 42.0458333],
             "type": "Point"
         },
         "properties": {
@@ -33920,8 +41746,8 @@ var SAVED_PLACES = {
                 "Business Name": "Todoroki",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "42.0458791",
-                    "Longitude": "-87.6793069"
+                    "Latitude": "42.0458333",
+                    "Longitude": "-87.6791667"
                 }
             },
             "Published": "2013-10-16T22:16:55Z",
@@ -34279,14 +42105,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-74.005943, 40.707679],
+            "coordinates": [-74.005938, 40.707727],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=10475795095296679892",
             "Location": {
-                "Latitude": "40.707679",
-                "Longitude": "-74.005943"
+                "Latitude": "40.707727",
+                "Longitude": "-74.005938"
             },
             "Published": "2013-05-29T11:50:13Z",
             "Title": "SUBWAY® Restaurants",
@@ -34327,18 +42153,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9277460, 40.7556550],
+            "coordinates": [-73.9276735, 40.7557623],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=13203958775412991058",
             "Location": {
-                "Address": "33-09 36th Avenue, New York, NY 11106, United States",
+                "Address": "33-09 36th Avenue, New York 11106, United States",
                 "Business Name": "On the Nile Cafe",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7556550",
-                    "Longitude": "-73.9277460"
+                    "Latitude": "40.7557623",
+                    "Longitude": "-73.9276735"
                 }
             },
             "Published": "2013-05-22T01:48:49Z",
@@ -34364,7 +42190,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.5028424, 40.7281931],
+            "coordinates": [-73.5028668, 40.7282010],
             "type": "Point"
         },
         "properties": {
@@ -34374,8 +42200,8 @@ var SAVED_PLACES = {
                 "Business Name": "AMC DINE-IN Levittown 10",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7281931",
-                    "Longitude": "-73.5028424"
+                    "Latitude": "40.7282010",
+                    "Longitude": "-73.5028668"
                 }
             },
             "Published": "2013-05-17T02:51:09Z",
@@ -34385,7 +42211,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9840819, 40.7264335],
+            "coordinates": [-73.9840806, 40.7264468],
             "type": "Point"
         },
         "properties": {
@@ -34395,8 +42221,8 @@ var SAVED_PLACES = {
                 "Business Name": "Big Gay Ice Cream Shop",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7264335",
-                    "Longitude": "-73.9840819"
+                    "Latitude": "40.7264468",
+                    "Longitude": "-73.9840806"
                 }
             },
             "Published": "2013-05-16T06:08:55Z",
@@ -34470,7 +42296,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9873565, 40.7432170],
+            "coordinates": [-73.9873553, 40.7432171],
             "type": "Point"
         },
         "properties": {
@@ -34480,8 +42306,8 @@ var SAVED_PLACES = {
                 "Business Name": "National Museum of Mathematics",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7432170",
-                    "Longitude": "-73.9873565"
+                    "Latitude": "40.7432171",
+                    "Longitude": "-73.9873553"
                 }
             },
             "Published": "2013-04-29T22:56:36Z",
@@ -34498,7 +42324,7 @@ var SAVED_PLACES = {
             "Google Maps URL": "http://maps.google.com/?cid=16695944399908093858",
             "Location": {
                 "Address": "469 Fort Salonga Road, Northport, NY 11768, United States",
-                "Business Name": "NorthSport Athletic Facility",
+                "Business Name": "North Sport",
                 "Country Code": "US",
                 "Geo Coordinates": {
                     "Latitude": "40.8934908",
@@ -34528,7 +42354,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.4840941, 40.8294745],
+            "coordinates": [-73.4840492, 40.8294840],
             "type": "Point"
         },
         "properties": {
@@ -34538,8 +42364,8 @@ var SAVED_PLACES = {
                 "Business Name": "Syosset High School",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.8294745",
-                    "Longitude": "-73.4840941"
+                    "Latitude": "40.8294840",
+                    "Longitude": "-73.4840492"
                 }
             },
             "Published": "2013-04-08T15:58:05Z",
@@ -34549,7 +42375,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9869055, 40.7554585],
+            "coordinates": [-73.9869051, 40.7554605],
             "type": "Point"
         },
         "properties": {
@@ -34559,8 +42385,8 @@ var SAVED_PLACES = {
                 "Business Name": "The Counter",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7554585",
-                    "Longitude": "-73.9869055"
+                    "Latitude": "40.7554605",
+                    "Longitude": "-73.9869051"
                 }
             },
             "Published": "2013-04-04T18:23:53Z",
@@ -34570,18 +42396,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.9992786, 40.7415229],
+            "coordinates": [-73.9993333, 40.7415389],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=9444766772071029887",
             "Location": {
-                "Address": "228 West 18th Street # 1, New York, NY 10011, United States",
-                "Business Name": "el cocotero",
+                "Address": "228 West 18th Street, New York, NY 10011, United States",
+                "Business Name": "El Cocotero",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "40.7415229",
-                    "Longitude": "-73.9992786"
+                    "Latitude": "40.7415389",
+                    "Longitude": "-73.9993333"
                 }
             },
             "Published": "2013-04-04T18:21:32Z",
@@ -34612,14 +42438,14 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.986536, 40.758252],
+            "coordinates": [-73.986562, 40.758208],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=7806066639197612097",
             "Location": {
-                "Latitude": "40.758252",
-                "Longitude": "-73.986536"
+                "Latitude": "40.758208",
+                "Longitude": "-73.986562"
             },
             "Published": "2013-04-04T18:16:42Z",
             "Title": "Junior's",
@@ -34733,7 +42559,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6795313, 42.0475377],
+            "coordinates": [-87.6795324, 42.0475431],
             "type": "Point"
         },
         "properties": {
@@ -34743,8 +42569,8 @@ var SAVED_PLACES = {
                 "Business Name": "Whole Foods Market",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "42.0475377",
-                    "Longitude": "-87.6795313"
+                    "Latitude": "42.0475431",
+                    "Longitude": "-87.6795324"
                 }
             },
             "Published": "2013-03-31T19:24:12Z",
@@ -34944,7 +42770,7 @@ var SAVED_PLACES = {
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=11787327224288826547",
             "Location": {
-                "Address": "685 Third Avenue, New York, NY 10017, United States",
+                "Address": "685 3rd Avenue, New York, NY 10017, United States",
                 "Business Name": "Hale and Hearty Soups",
                 "Country Code": "US",
                 "Geo Coordinates": {
@@ -34996,27 +42822,6 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-87.6735707, 42.0571651],
-            "type": "Point"
-        },
-        "properties": {
-            "Google Maps URL": "http://maps.google.com/?cid=5141889968976285204",
-            "Location": {
-                "Address": "2200 Campus Drive, Evanston, IL 60208, United States",
-                "Business Name": "Northwestern University - Pancoe-NSUHS Life Sciences Pavilion",
-                "Country Code": "US",
-                "Geo Coordinates": {
-                    "Latitude": "42.0571651",
-                    "Longitude": "-87.6735707"
-                }
-            },
-            "Published": "2012-02-12T00:28:46Z",
-            "Title": "Northwestern University",
-            "Updated": "2012-02-12T00:28:46Z"
-        },
-        "type": "Feature"
-    }, {
-        "geometry": {
             "coordinates": [-78.937310, 36.002338],
             "type": "Point"
         },
@@ -35033,18 +42838,18 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-71.4080067, 41.8213994],
+            "coordinates": [-71.4081986, 41.8204372],
             "type": "Point"
         },
         "properties": {
             "Google Maps URL": "http://maps.google.com/?cid=8717693952040778447",
             "Location": {
-                "Address": "200 Dyer Street, Providence, RI 02912, United States",
+                "Address": "225 Dyer Street, Providence, RI 02912, United States",
                 "Business Name": "Brown University School of Professional Studies",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "41.8213994",
-                    "Longitude": "-71.4080067"
+                    "Latitude": "41.8204372",
+                    "Longitude": "-71.4081986"
                 }
             },
             "Published": "2012-02-12T00:27:38Z",
@@ -35054,7 +42859,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.1772602, 44.0082847],
+            "coordinates": [-73.1760413, 44.0081076],
             "type": "Point"
         },
         "properties": {
@@ -35064,8 +42869,8 @@ var SAVED_PLACES = {
                 "Business Name": "Middlebury College",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "44.0082847",
-                    "Longitude": "-73.1772602"
+                    "Latitude": "44.0081076",
+                    "Longitude": "-73.1760413"
                 }
             },
             "Published": "2012-02-12T00:27:27Z",
@@ -35096,7 +42901,7 @@ var SAVED_PLACES = {
         "type": "Feature"
     }, {
         "geometry": {
-            "coordinates": [-73.2036396, 42.7129581],
+            "coordinates": [-73.2031395, 42.7128843],
             "type": "Point"
         },
         "properties": {
@@ -35106,8 +42911,8 @@ var SAVED_PLACES = {
                 "Business Name": "Williams College",
                 "Country Code": "US",
                 "Geo Coordinates": {
-                    "Latitude": "42.7129581",
-                    "Longitude": "-73.2036396"
+                    "Latitude": "42.7128843",
+                    "Longitude": "-73.2031395"
                 }
             },
             "Published": "2012-02-12T00:26:57Z",
