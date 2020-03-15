@@ -1,7 +1,7 @@
 var earth;
 var homeCoords = [40.888193, -73.436393];
-var currentCoords = [37.5665, 126.9780];
-var currentLocation = 'Seoul, South Korea';
+var currentCoords = [1.4748, 124.8421];
+var currentLocation = 'Manado, Indonesia';
 var markerColor = 'FCCA46';
 
 
